@@ -11,7 +11,7 @@
  "cateId": "/@href",
  "cateIdR": "/type/(\\w+).html",
  "cateManual": {},
- "homeVodNode": "//div[@class="container"]/section[2]//div[contains(@class,'col-6 col-sm-4 col-lg-3')]",
+ "homeVodNode": "//div[@class='container']/section[2]//div[contains(@class,'col-6 col-sm-4 col-lg-3')]",
  "homeVodName": "//div[@class='detail']/h6/a/text()",
  "homeVodId": "//div[@class='detail']/h6/a/@href",
  "homeVodIdR": "/detail/(\\w+).html",
