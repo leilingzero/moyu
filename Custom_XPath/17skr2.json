@@ -1,10 +1,6 @@
 {
  "ua": "",
  "homeUrl": "http://www.17skr.com",
- "cateNode": "//li[@class='nav-item d-none d-md-block']/a[contains(@href,'type')]",
- "cateName": "/text()",
- "cateId": "/@href",
- "cateIdR": "/type/(\\w+).html",
  "cateManual": {
     "动漫": "dongman",
     "日本动漫": "ribendongman",
