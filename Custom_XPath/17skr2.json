@@ -1,0 +1,321 @@
+{
+ "ua": "",
+ "homeUrl": "http://www.17skr.com",
+ "cateNode": "//li[@class='nav-item d-none d-md-block']/a[contains(@href,'type')]",
+ "cateName": "/text()",
+ "cateId": "/@href",
+ "cateIdR": "/type/(\\w+).html",
+ "cateManual": {
+    "动漫": "1",
+    "日本动漫": "6",
+    "国产动漫": "7",
+    "欧美动漫": "8",
+    "电影": "2",
+    "日本动画电影": "3",
+    "国产动画电影": "4",
+    "欧美动画电影": "5"
+},
+ "homeVodNode": "//div[@class='container']/section[2]//div[contains(@class,'col-6 col-sm-4 col-lg-3')]",
+ "homeVodName": "//div[@class='detail']/h6/a/text()",
+ "homeVodId": "//div[@class='detail']/h6/a/@href",
+ "homeVodIdR": "/detail/(\\w+).html",
+ "homeVodImg": "//div[@class='img-box cover-md']/a/img/@data-src",
+ "homeVodImgR": "\\S+(http\\S+)",
+ "homeVodMark": "//div[@class='img-box cover-md']/a/div/span/text()",
+ "cateUrl": "http://www.17skr.com/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+ "cateVodNode": "//div[@class='col-6 col-sm-4 col-lg-3']",
+ "cateVodName": "//div[@class='detail']/h6/a/text()",
+ "cateVodId": "//div[@class='detail']/h6/a/@href",
+ "cateVodIdR": "/detail/(\\w+).html",
+ "cateVodImg": "//div[@class='img-box cover-md']/a/img/@data-src",
+ "cateVodImgR": "\\S+(http\\S+)",
+ "cateVodMark": "//div[@class='img-box cover-md']/a/div/span/text()",
+ "dtUrl": "http://www.17skr.com/detail/{vid}.html",
+ "dtNode": "//section[@class='pb-3 pb-e-lg-30']",
+ "dtName": "//div[@class='video-info']/div[@class='video-info-header']/h1/text()",
+ "dtNameR": "",
+ "dtImg": "//div[@class='module-item-pic']/a/img/@src",
+ "dtImgR": "",
+ "dtCate": "//div[@class='video-info-aux']/a/text()",
+ "dtCateR": "",
+ "dtYear": "//div[@class='video-info-aux']//a[contains(@href,'year')]/span/text()",
+ "dtYearR": "",
+ "dtArea": "//div[@class='video-info-aux']//a[contains(@href,'area')]/span/text()",
+ "dtAreaR": "",
+ "dtMark": "",
+ "dtMarkR": "",
+ "dtActor": "//div[@class='video-info-main']//a[contains(@href,'director')]/span/text()",
+ "dtActorR": "",
+ "dtDirector": "//div[@class='video-info-main']//a[contains(@href,'actor')]/span/text()",
+ "dtDirectorR": "",
+ "dtDesc": "//div[@class='video-info-main']//span[contains(@class,'content-text none')]/text()",
+ "dtDescR": "",
+ "dtFromNode": "//section[@class='video-info pb-3']",
+ "dtFromName": "//div[contains(@class,'module-tab-item tab-item')]/span/text()",
+ "dtFromNameR": "",
+ "dtUrlNode": "//div[contains(@class,'module-list')]",
+ "dtUrlSubNode": "/div/div/a",
+ "dtUrlId": "@href",
+ "dtUrlIdR": "/play/(\\S+).html",
+ "dtUrlName": "/span/text()",
+ "dtUrlNameR": "",
+ "playUrl": "http://www.17skr.com/play/{playUrl}.html",
+ "playUa": "",
+ "searchUrl": "http://www.17skr.com/ajax/suggest?mid=1&wd={wd}",
+ "scVodNode": "json:list",
+ "scVodName": "name",
+ "scVodId": "id",
+ "scVodIdR": "",
+ "scVodImg": "pic",
+ "scVodImgR": "",
+ "scVodMark": "",
+  "filter": {
+    "1": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "2": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "3": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "4": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "5": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "6": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "7": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ],
+    "8": [
+      {
+        "key": "by",
+        "name": "排序",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "最近更新","v": "time"},
+          {"n": "最高人气","v": "hits"},
+          {"n": "最高评分","v": "score"},
+          {"n": "最多点赞","v": "up"}
+        ]
+      },
+      {
+        "key": "year",
+        "name": "年份",
+        "value": [
+          {"n": "全部","v": ""},
+          {"n": "2022","v": "2022"},
+          {"n": "2021","v": "2021"},
+          {"n": "2020","v": "2020"},
+          {"n": "2019","v": "2019"},
+          {"n": "2018","v": "2018"},
+          {"n": "2017","v": "2017"},
+          {"n": "2016","v": "2016"},
+          {"n": "2015","v": "2015"},
+          {"n": "2014","v": "2014"},
+          {"n": "2013","v": "2013"},
+          {"n": "更早","v": "2012-1980"}
+        ]
+      }
+    ]
+}
