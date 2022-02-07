@@ -42,7 +42,7 @@
  "dtMarkR": "",
  "dtActor": "/div[@class='content_detail content_min fl']/ul/li[4]/a/text()",
  "dtActorR": "",
- "dtDirector": "/div[@class='content_detail content_min fl']/ul/li[3]/a/text()",
+ "dtDirector": "",
  "dtDirectorR": "",
  "dtDesc": "/div[@class='content_detail content_min fl']/ul/li[5]/text()",
  "dtDescR": "",
