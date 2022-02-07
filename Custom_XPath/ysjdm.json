@@ -38,7 +38,7 @@
  "dtYearR": "",
  "dtArea": "//div[@class='content_detail content_min fl']/ul/li/a[2]/text()",
  "dtAreaR": "",
- "dtMark": "//div[@class='content_detail content_min fl']/ul/li[2]/span[2]/text()",
+ "dtMark": "",
  "dtMarkR": "",
  "dtActor": "",
  "dtActorR": "",
