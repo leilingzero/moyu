@@ -9,7 +9,7 @@
  "cateManual": {
     "全部": "",
     "日本": "/area/日本",
-    "中国": "/area/中国",
+    "中国": "/area/中国"
 },
  "homeVodNode": "//ul[@class='vodlist vodlist_wi list_v12 clearfix']/li",
  "homeVodName": "/div/p/a/text()",
