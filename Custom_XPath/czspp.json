@@ -24,7 +24,7 @@
 "dtUrl":"https://www.czspp.com/movie/{vid}.html",
 "dtNode":"//div[@class='mi_ne_kd dypre']",
 "dtName":"/div[@class='dytext fl']/div/h1/text()",
-"dtNameR":"/movie/(\\w+).html",
+"dtNameR":"",
 "dtImg":"/div[@class='dyimg fl']/img/@src",
 "dtImgR":"\\S+(http\\S+)",
 "dtCate":"/div[@class='dytext fl']/ul/li[contains(text(),'类型')]/a/text()",
