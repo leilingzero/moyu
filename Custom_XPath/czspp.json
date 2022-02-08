@@ -1,6 +1,9 @@
 {
 "ua":"",
 "homeUrl":"https://www.czspp.com",
+"dcVipFlag": "true",
+"dcShow2Vip": {},
+"dcPlayUrl": "true",
 "cateNode":"//ul[@class='navlist hidden-md-and-down']/li[contains(@id,'menu-item') and not (contains(@id,'33'))]/a",
 "cateName":"/text()",
 "cateId":"/@href",
