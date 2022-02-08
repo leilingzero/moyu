@@ -1,6 +1,11 @@
 {
   "ua": "",
   "homeUrl": "https://yueyuds.com/",
+  "dcVipFlag": "true",
+  "pCfgJs": "https://yueyuds.com/static/js/playerconfig.js",
+  "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
+  "dcShow2Vip": {},
+  "dcPlayUrl": "true",
   "cateNode": "//ul[@class='navbar-nav clearfix']/li/a[contains(@href,'list') or contains(@href,'ong')]",
   "cateName": "/text()",
   "cateId": "/@href",
