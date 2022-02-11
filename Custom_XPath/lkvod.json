@@ -48,7 +48,7 @@
  "dtDesc": "//div[@class='video-info-main']//div[5]/div/p[2]/text()",
  "dtDescR": "",
  "dtFromNode": "//div[@class='module'][1]/div",
- "dtFromName": "h2/text()",
+ "dtFromName": "/h2/text()",
  "dtFromNameR": "",
  "dtUrlNode": "//div[contains(@class,'module-player-list')]",
  "dtUrlSubNode": "/div/div/a",
