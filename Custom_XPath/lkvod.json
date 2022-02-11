@@ -31,7 +31,7 @@
  "dtNode": "//div[@class='box view-heading']",
  "dtName": "/div[@class='video-info']/div[@class='video-info-header']/h1/text()",
  "dtNameR": "",
- "dtImg": "/div[@class='video-cover']//div[@class='module-item-pic']/img/@src",
+ "dtImg": "/div[@class='video-cover']//div[@class='module-item-pic']/img/@data-src",
  "dtImgR": "",
  "dtCate": "//div[@class='video-info-aux']/div[@class='tag-link']/a/text()",
  "dtCateR": "",
