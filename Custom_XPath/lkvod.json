@@ -28,7 +28,7 @@
  "cateVodImgR": "\\S+(http\\S+)",
  "cateVodMark": "//div[@class='module-item-caption right']/span/text()",
  "dtUrl": "https://www.lkvod.com/detail/{vid}.html",
- "dtNode": "//div[@class='content']/div[@class='box view-heading']",
+ "dtNode": "//div[@class='box view-heading']",
  "dtName": "/div[@class='video-info']/div[@class='video-info-header']/h1/text()",
  "dtNameR": "",
  "dtImg": "/div[@class='video-cover']//div[@class='module-item-pic']/img/@src",
