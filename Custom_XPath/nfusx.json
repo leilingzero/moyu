@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.nfuxs.com",
+  "homeUrl": "https://www.nfuxs.com/",
   "cateManual": {"电影": "1","连续剧": "2","动漫": "4","综艺": "3"},
   "homeVodNode": "//div[@class='module-item-pic']",
   "homeVodName": "/a/@title",
