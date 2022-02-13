@@ -6,6 +6,10 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
+  "cateNode": "//div[@class='all_menu_box']/ul[@class='nav_list clearfix']/li/a[contains(@href, '/v')]",
+  "cateName": "/@title",
+  "cateId": "/@href",
+  "cateIdR": "/v/(\\w+).html", 
   "cateManual": {
     "电影": "dianying",
     "连续剧": "lianxuju",
