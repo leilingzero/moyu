@@ -8,7 +8,7 @@
   "homeVodIdR": "/voddetail/(\\w+)",
   "homeVodImg": "/img/@data-src",
   "homeVodImgR": "\\S+(http\\S+)",
-  "cateUrl": "https://www.nfuxs.com/vodshow/{cateId}--------{catePg}---.html",
+  "cateUrl": "https://www.nfuxs.com/vodshow/{cateId}--------{catePg}---",
   "cateVodNode": "//div[@class='module-item-pic']",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
