@@ -11,7 +11,12 @@
   "cateId": "/@href",
   "cateIdR": "/v/(\\w+).html", 
   "cateManual": {
-
+    "电影": "dianying",
+    "连续剧": "lianxuju",
+    "综艺": "zongyi",
+    "韩国电影": "hanguodianying",
+    "樱花动漫": "dongman",
+    "纪录片": "jilu"
   },
   "homeVodNode": "//div[@class='vod_row tit_up'][2]//ul[contains(@class,'vodlist_wi list_v6')]/li[contains(@class,'vodlist_item')]",
   "homeVodName": "/a/@title",
