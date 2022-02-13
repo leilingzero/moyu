@@ -7,7 +7,7 @@
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
   "cateNode": "//div[@class='all_menu_box']/ul[@class='nav_list clearfix']/li/a[contains(@href, '/v')]",
-  "cateName": "/text()",
+  "cateName": "/@title",
   "cateId": "/@href",
   "cateIdR": "/v/(\\w+).html",
   "cateManual": {},
