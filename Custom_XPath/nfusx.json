@@ -15,7 +15,7 @@
   "cateVodIdR": "/voddetail/(\\w+)",
   "cateVodImg": "/img/@data-src",
   "cateVodImgR": "\\S+(http\\S+)",
-  "dtUrl": "https://www.nfuxs.com/voddetail/{vid}",
+  "dtUrl": "https://www.nfuxs.com{vid}",
   "dtNode": "//body",
   "dtName": "//div[@class='video-info-header']/h1/text()",
   "dtNameR": "",
