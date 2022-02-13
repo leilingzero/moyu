@@ -1,6 +1,6 @@
 {
   "ua": "",
-  "homeUrl": "https://www.nfuxs.com/",
+  "homeUrl": "https://www.nfuxs.com",
   "cateManual": {"电影": "1","连续剧": "2","动漫": "4","综艺": "3"},
   "homeVodNode": "//div[@class='module-item-pic']",
   "homeVodName": "/a/@title",
@@ -15,7 +15,7 @@
   "cateVodIdR": "/voddetail/(\\w+).html",
   "cateVodImg": "/img/@data-src",
   "cateVodImgR": "\\S+(http\\S+)",
-  "dtUrl": "https://www.nfuxs.com/voddetail/{vid}.html",
+  "dtUrl": "https://www.nfuxs.com{vid}.html",
   "dtNode": "//body",
   "dtName": "//div[@class='video-info-header']/h1/text()",
   "dtNameR": "",
