@@ -29,7 +29,7 @@
   "cateVodNode": "//ul[contains(@class,'vodlist_wi')]/li",
   "cateVodName": "/a/@title",
   "cateVodId": "/a/@href",
-  "cateVodIdR": "/a/movie/(\\w+).html",
+  "cateVodIdR": "/movie/(\\w+).html",
   "cateVodImg": "/a/@data-original",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/a/span[contains(@class,'pic_text')]/text()",
