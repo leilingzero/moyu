@@ -5,7 +5,7 @@
   "pCfgJs": "https://www.nfuxs.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list", "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {"电影": "1","连续剧": "2","动漫": "4","综艺": "3"},
+  "cateManual": {"电影": "1","连续剧": "2","综艺": "3","动漫": "4"},
   "homeVodNode": "//div[@class='module-item-pic']",
   "homeVodName": "/a/@title",
   "homeVodId": "/a/@href",
