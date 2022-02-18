@@ -19,7 +19,7 @@
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/span[contains(@class,'pic-text')]/text()",
   "cateUrl":"http://www.tvyb01.com/vod/type/id/{cateId}/page/{catePg}.html",
-  "cateVodNode":"//ul[@class='stui-vodlist clearfix')]/li[contains(@class,'col-md-7 col-sm-4')]/div/a",
+  "cateVodNode":"//ul[@class='stui-vodlist clearfix']/li[contains(@class,'col-md-7 col-sm-4')]/div/a",
   "cateVodName":"/@title",
   "cateVodId":"/@href",
   "cateVodIdR":"/vod/detail/id/(\\w+).html",
