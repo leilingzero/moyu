@@ -11,10 +11,11 @@
   "cateId": "/@href",
   "cateIdR": "/vodtype/(\\d+)",
   "cateManual": {
-    "电影": "movies",
-    "电视剧": "tvseries",
-    "综艺": "tv_show",
-    "动漫": "anime"
+    "电影": "20",
+    "电视剧": "21",
+    "综艺": "22",
+    "动漫": "23",
+    "纪录片": "32"
   },
   "homeVodNode": "//ul[@class='myui-vodlist clearfix']/li/div/a",
   "homeVodName": "/@title",
