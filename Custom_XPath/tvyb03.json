@@ -49,7 +49,7 @@
   "dtFromNode":"//div[@class='stui-pannel__head bottom-line active clearfix']/h3[@class='title']",
   "dtFromName":"/text()",
   "dtFromNameR":"",
-  "dtUrlNode":"//div[@class='stui-pannel_bd clearfix']/ul[contains(@class,'stui-content__playlist')]",
+  "dtUrlNode":"//div[contains(@class,'stui-pannel_bd')]/ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode":"//li/a",
   "dtUrlId":"@href",
   "dtUrlIdR":"/vod/play/id/(\\S+).html",
