@@ -48,7 +48,7 @@
   "dtActorR": "",
   "dtDirector": "//p[@class='data']/span[contains(text(), '导演')]/following-sibling::*/text()",
   "dtDirectorR": "",
-  "dtDesc": "//div[contains(@class,'col-pd')]/p/text()",
+  "dtDesc": "//div[contains(@class,'col-pd')]/span/text()",
   "dtDescR": "",
   "dtFromNode": "//ul[@class='nav nav-btn clearfix']/li/a",
   "dtFromName": "/text()",
