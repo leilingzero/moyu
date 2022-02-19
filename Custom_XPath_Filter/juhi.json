@@ -42,7 +42,7 @@
   "dtYearR": "",
   "dtArea": "//p[@class='data']/span[contains(text(), '地区')]/following-sibling::a[1]/text()",
   "dtAreaR": "",
-  "dtMark": "//p[@class='data hidden-xs']/span[contains(text(), '更新')]/following-sibling::*/text()",
+  "dtMark": "",
   "dtMarkR": "",
   "dtActor": "//p[@class='data']/span[contains(text(), '主演')]/following-sibling::*/text()",
   "dtActorR": "",
