@@ -59,7 +59,7 @@
   "dtUrlIdR": "/vodplay/(\\S+)",
   "dtUrlName": "/text()",
   "dtUrlNameR": "",
-  "playUrl": "https://juhi.cc/{playUrl}",
+  "playUrl": "https://juhi.cc/vodplay/{playUrl}",
   "playUa": "",
   "searchUrl": "https://juhi.cc/index.php/ajax/suggest?mid=1&wd={wd}",
   "scVodNode": "json:list",
