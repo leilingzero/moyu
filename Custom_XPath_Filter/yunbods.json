@@ -24,7 +24,7 @@
   "cateVodImg":"/@data-original",
   "cateVodImgR":"\\S+(http\\S+)",
   "cateVodMark":"/span[contains(@class,'pic-text')]/text()",
-  "dtUrl":"https://www.yunbods.com/{vid}.html",
+  "dtUrl":"https://www.yunbods.com{vid}",
   "dtNode":"//div[@class='myui-panel active col-pd clearfix']",
   "dtName":"/div[@class='myui-content__detail']/h1[@class='title text-fff']/text()",
   "dtNameR":"",
