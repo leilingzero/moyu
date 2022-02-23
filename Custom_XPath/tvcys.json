@@ -11,7 +11,7 @@
   "homeVodNode":"//div[@class='fl mt10 pd1']/div[@class='oh pl10']/ul/li/div",
   "homeVodName":"/a[1]/@title",
   "homeVodId":"/a[1]/@href",
-  "homeVodIdR":"/(\\w+).html",
+  "homeVodIdR":"",
   "homeVodImg":"/a[1]/img/@src",
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/a[2]/text()",
