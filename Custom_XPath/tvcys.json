@@ -1,5 +1,5 @@
 {
-  "ua":"Windows / Firefox 29: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0",
+  "ua":"",
   "homeUrl":"https://www.tvcys.com",
   "cateManual":{
     "TVB电视": "tvb",
@@ -43,10 +43,10 @@
   "dtDirectorR":"",
   "dtDesc":"/div[@class='intro']/p/text()",
   "dtDescR":"",
-  "dtFromNode":"//dl[@class='list-data']/dt/a",
+  "dtFromNode":"//dl[@class='list-data']/dt/a[1]",
   "dtFromName":"/text()",
   "dtFromNameR":"",
-  "dtUrlNode":"//dl[@class='list-data']/dd[contains(@id,'con_actor')]/div/ul",
+  "dtUrlNode":"//dl[@class='list-data']/dd[@id='con_actor_1']/div/ul",
   "dtUrlSubNode":"/li/a",
   "dtUrlId":"@href",
   "dtUrlIdR":"/(\\S+).html",
