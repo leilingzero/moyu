@@ -23,7 +23,7 @@
   "cateVodImg":"/a[1]/img/@src",
   "cateVodImgR":"\\S+(http\\S+)",
   "cateVodMark":"/a[2]/text()",
-  "dtUrl":"https://www.tvcys.com{vid}.html",
+  "dtUrl":"https://www.tvcys.com{vid}",
   "dtNode":"//div[contains(@class,'info item')]",
   "dtName":"/div[@class='title']/h1/text()",
   "dtNameR":"",
