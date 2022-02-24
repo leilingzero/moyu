@@ -10,7 +10,7 @@
 	"cateNode": "//ul[contains(@class, 'myui-header__menu')]/li/a[contains(@href, 'vodtype')]",
 	"cateName": "/text()",
 	"cateId": "/@href",
-	"cateIdR": "/vodtype(\\S+).html",
+	"cateIdR": "/vodtype/(\\w+).html",
 	"cateManual": {
 		"电影": "1",
 		"连续剧": "2",
