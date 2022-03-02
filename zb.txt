@@ -1,0 +1,8 @@
+🐉央视,#genre#
+CCTV-1综合,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
+CCTV-2财经,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+CCTV-3综艺,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
+CCTV-4中文国际,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
+CCTV-5体育,http://112.74.200.9:88/tv000000/m3u8.php?/migu/641886683
+CCTV-5体育,http://iptv.tvfix.org/hls/cctv5hd.m3u8
+CCTV-6电影,http://iptv.tvfix.org/hls/cctv6hd.m3u8
