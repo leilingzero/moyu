@@ -22,7 +22,7 @@
   "homeVodId": "/@href",
   "homeVodIdR": "/detail.php?(\\w+)",
   "homeVodImg": "/img/@src",
-  "homeVodImgR": "\\S+(http\\S+)",
+  "homeVodImgR": "",
   "homeVodMark": "/div[@class='rb_list_gx')]/p/text()",
   "cateUrl": "http://www.wltmv2.com/{cateId}?page={catePg}&year={year}",
   "cateVodNode": "//div[@class='nr_list']/ul/li/a",
