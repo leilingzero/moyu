@@ -21,7 +21,7 @@
   "homeVodName": "/img/@title",
   "homeVodId": "/@href",
   "homeVodIdR": "/detail.php?(\\w+)",
-  "homeVodImg": "/img/@src",
+  "homeVodImg": "/img/@src/text()",
   "homeVodImgR": "\\S+(http\\S+)",
   "homeVodMark": "/div[@class='rb_list_gx')]/p/text()",
   "cateUrl": "http://www.wltmv2.com/{cateId}?page={catePg}&year={year}",
