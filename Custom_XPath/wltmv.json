@@ -32,7 +32,7 @@
   "cateVodImg": "/img/@src",
   "cateVodImgR": "\\S+(http\\S+)",
   "cateVodMark": "/div[@class='nr_list_gx')]/p/text()",
-  "dtUrl": "http://www.wltmv2.com/detail.php?{vid}",
+  "dtUrl": "http://www.wltmv2.com/{vid}",
   "dtNode": "//div[@class='detail-ms']",
   "dtName": "/div[@class='detail-ms-right']/p[@id='detail-ms-right-name']/text()",
   "dtNameR": "",
