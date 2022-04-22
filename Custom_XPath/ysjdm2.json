@@ -12,7 +12,7 @@
     "中国": "/area/中國"
 },
  "homeVodNode": "//div[@class='blockcontent'][2]/ul[@class='ul_li_a5']/li/a[1]",
- "homeVodName": "/img/@alt/text()",
+ "homeVodName": "/img/@alt",
  "homeVodId": "/@href",
  "homeVodIdR": "/index.php/vod/detail/id/(\\w+).html",
  "homeVodImg": "/img/@src",
@@ -20,7 +20,7 @@
  "homeVodMark": "/span[@class='anime_icon1_name1']/text()",
  "cateUrl": "https://www.ysjdm.net/index.php/vod/show{cateId}/by/{by}/class/{class}/id/20/lang/{lang}/page/{catePg}/year/{year}.html",
  "cateVodNode": "//div[@class='cell blockdiff']/a",
- "cateVodName": "/img/@alt/text()",
+ "cateVodName": "/img/@alt",
  "cateVodId": "/@href",
  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
  "cateVodImg": "/img/@src",
