@@ -1,6 +1,6 @@
 {
     "ua":"",
-    "homeUrl":"https://www.huya.com/g",
+    "homeUrl":"https://www.huya.com/l",
     "cateNode":"//ul[@class='game-list clearfix']/li/a",
     "cateName":"/p/text()",
     "cateId":"/@href",
