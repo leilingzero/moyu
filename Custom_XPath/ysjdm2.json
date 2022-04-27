@@ -18,8 +18,8 @@
  "homeVodImg": "/img/@src",
  "homeVodImgR": "\\S+(http\\S+)",
  "homeVodMark": "/span[@class='anime_icon1_name1']/text()",
- "cateUrl": "https://www.ysjdm.net/index.php/vod/show{cateId}/by/{by}/class/{class}/id/20/lang/{lang}/page/{catePg}/year/{year}.html",
- "cateVodNode": "//div[@class='cell blockdiff']/a",
+ "cateUrl": "https://www.ysjdm.net/index.php/vod/show{cateId}/by/{by}/class/{class}/id/20/page/{catePg}/year/{year}.html",
+ "cateVodNode": "//div[contains(@class,'cell blockdiff')]/a",
  "cateVodName": "/img/@alt",
  "cateVodId": "/@href",
  "cateVodIdR": "/index.php/vod/detail/id/(\\w+).html",
@@ -115,6 +115,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
@@ -145,22 +146,13 @@
         ]
       },
       {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {"n": "全部","v": ""},
-          {"n": "日语","v": "日语"},
-          {"n": "国语","v": "國語"}
-        ]
-      },
-      {
         "key": "by",
         "name": "排序",
         "value": [
           {"n": "全部","v": ""},
           {"n": "按最新","v": "time"},
           {"n": "按最热","v": "hits"},
-          {"n": "按评分","v": "score"}
+          {"n": "按名称","v": "name"}
         ]
       }
     ],
@@ -213,6 +205,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
@@ -243,22 +236,13 @@
         ]
       },
       {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {"n": "全部","v": ""},
-          {"n": "日语","v": "日语"},
-          {"n": "国语","v": "國語"}
-        ]
-      },
-      {
         "key": "by",
         "name": "排序",
         "value": [
           {"n": "全部","v": ""},
           {"n": "按最新","v": "time"},
           {"n": "按最热","v": "hits"},
-          {"n": "按评分","v": "score"}
+          {"n": "按名称","v": "name"}
         ]
       }
     ],
@@ -311,6 +295,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
@@ -341,22 +326,13 @@
         ]
       },
       {
-        "key": "lang",
-        "name": "语言",
-        "value": [
-          {"n": "全部","v": ""},
-          {"n": "日语","v": "日语"},
-          {"n": "国语","v": "國語"}
-        ]
-      },
-      {
         "key": "by",
         "name": "排序",
         "value": [
           {"n": "全部","v": ""},
           {"n": "按最新","v": "time"},
           {"n": "按最热","v": "hits"},
-          {"n": "按评分","v": "score"}
+          {"n": "按名称","v": "name"}
         ]
       }
     ]
