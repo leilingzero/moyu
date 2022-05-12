@@ -43,7 +43,7 @@
   "dtDirectorR":"",
   "dtDesc":"//li[@class='story'][1]/text()",
   "dtDescR":"",
-  "dtFromNode":"concat('播放源',count(parent::*/preceding::*//div[@class='list_play']/h2) + 1)",
+  "dtFromNode":"concat('播放源',count(preceding::*//div[@class='list_play']/h2) + 1)",
   "dtFromName":"/text()",
   "dtFromNameR":"",
   "dtUrlNode":"//div[@class='list_play']//div[contains(@id,'uid')]/ul",
