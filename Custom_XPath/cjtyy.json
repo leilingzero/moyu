@@ -10,7 +10,7 @@
   "cateName": "/span/text()",
   "cateId": "/@href",
   "cateIdR": "/vod/type/(\\w+).html",
-  "cateManual": {},
+  "cateManual": {"电影": "SCCCCS","连续剧": "qCCCCS","综艺": "xCCCCS","动漫": "ICCCCS"},
   "homeVodNode": "//div[@class='module module-wrapper']//div[@class='module-items']/div[@class='module-item']",
   "homeVodName": "//a/@title",
   "homeVodId": "//a/@href",
