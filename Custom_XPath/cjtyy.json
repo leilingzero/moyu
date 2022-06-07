@@ -24,7 +24,7 @@
   "cateVodIdR": "/vod/detail/(\\w+).html",
   "cateVodImg": "//img/@data-src",
   "cateVodMark": "//div[@class='module-item-text']/text()",
-  "dtUrl": "https://cjtyy.top/index.php/vod/detail/id/{vid}.html",
+  "dtUrl": "https://cjtyy.top{vid}.html",
   "dtNode": "//div[@class='module-tab module-player-tab']//div[@class='module-tab-content']/div",
   "dtName": "//div[contains(@class,'dt-info-box')]/h2/text()",
   "dtImg": "//div[contains(@class,'info-img')]/div/@data-original",
