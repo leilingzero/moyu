@@ -47,7 +47,7 @@
   "dtDesc":"//div[@class='stui-content__detail']/p/span[@class='detail-sketch']/text()",
   "dtDescR":"",
   "dtFromNode":"//div[@class='stui-pannel__head bottom-line active clearfix']/h3[@class='title']",
-  "dtFromName":"/text()",
+  "dtFromName":"concat('播放源',count(parent::*/preceding::*//div[@class='stui-pannel__head bottom-line active clearfix']/h3[@class='title']) + 1)",
   "dtFromNameR":"",
   "dtUrlNode":"//div[contains(@class,'stui-pannel_bd')]/ul[contains(@class,'stui-content__playlist')]",
   "dtUrlSubNode":"//li/a",
