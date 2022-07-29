@@ -13,7 +13,7 @@
   "homeVodNode":"//div[@class='row mt20 clearfix']//ul[@class='v_picTxt v_pic_120_160 v_limit_width v_limit_height_400 clearfix']/li/div[@class='v_pic']",
   "homeVodName":"/a/@title",
   "homeVodId":"/a/@href",
-  "homeVodIdR":"\\W+.html",
+  "homeVodIdR":"/(\\W+).html",
   "homeVodImg":"/img/@data-src",
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/span[@class='v_bottom_tips']/em/text()",
