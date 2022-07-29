@@ -25,7 +25,7 @@
   "cateVodImg":"/img/@data-src",
   "cateVodImgR":"\\S+(http\\S+)",
   "cateVodMark":"/span[@class='v_bottom_tips']/em/text()",
-  "dtUrl":"http://www.tv9box.com{vid}",
+  "dtUrl":"http://www.tv9box.com/{vid}",
   "dtNode":"//div[@class='row clearfix']",
   "dtName":"//div[@class='tit']/h1/text()",
   "dtNameR":"",
