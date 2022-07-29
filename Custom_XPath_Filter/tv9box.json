@@ -13,7 +13,7 @@
   "homeVodNode":"//div[@class='row mt20 clearfix']//ul[@class='v_picTxt v_pic_120_160 v_limit_width v_limit_height_400 clearfix']/li/div[@class='v_pic']",
   "homeVodName":"/a/@title",
   "homeVodId":"/a/@href",
-  "homeVodIdR":"/vod-read-id-(\\d+).html",
+  "homeVodIdR":"\\W+.html",
   "homeVodImg":"/img/@data-src",
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/span[@class='v_bottom_tips']/em/text()",
@@ -224,7 +224,6 @@
      "key": "by",
      "name": "排序",
      "value": [
-      {"n": "全部","v": ""},
       {"n": "最新上映","v": "addtime"},
       {"n": "最近热播","v": "hits"},
       {"n": "评分最高","v": "gold"}
