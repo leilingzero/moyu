@@ -11,7 +11,7 @@
   "homeVodImgR": "",
   "homeVodMark": "/p[contains(text(),'最新')]/a/text()",
   "homeVodMarkR": "",
-  "cateUrl": "http://www.yinghuacd.com/{cateId}/{catePg}",
+  "cateUrl": "http://www.yinghuacd.com/{cateId}/",
   "cateVodNode": "//div[@class='lpic']/ul/li",
   "cateVodName": "/a/img/@alt",
   "cateVodId": "/a/@href",
