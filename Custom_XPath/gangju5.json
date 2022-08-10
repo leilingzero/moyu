@@ -16,7 +16,7 @@
   "homeVodImg":"/img/@src",
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/label[@class='text']/text()",
-  "cateUrl":"http://www.gangju5.cc{cateId}/index{catePg}.html",
+  "cateUrl":"http://www.gangju5.cc/{cateId}/index{catePg}.html",
   "cateVodNode":"//div[@id='left']/dl[contains(@class,'list')]",
   "cateVodName":"/dt/a/img/@alt",
   "cateVodId":"/dt/a/@href",
