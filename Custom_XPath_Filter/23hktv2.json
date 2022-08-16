@@ -51,7 +51,7 @@
   "dtUrlNode":"//div[@class='url tab_[downlist:i]_1 clearfix']/ul/div[@id='stab_[downlist:i]_71']/ul",
   "dtUrlSubNode":"/li/a",
   "dtUrlId":"@href",
-  "dtUrlIdR":"/vod/(\\S+).html",
+  "dtUrlIdR":"",
   "dtUrlName":"/text()",
   "dtUrlNameR":"",
   "playUrl":"http://www.23hktv.com{playUrl}",
