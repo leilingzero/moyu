@@ -6,7 +6,12 @@
   "cateId": "/@href", 
   "cateIdR": "", 
   "cateManual": {
-
+    "电影": "1", 
+    "剧集": "2", 
+    "综艺": "4", 
+    "动漫": "3",
+    "纪录片": "5",
+    "B站": "39"
   }, 
   "homeVodNode": "//div[contains(@class, 'module-items')]/div[contains(@class, 'module-item')]", 
   "homeVodName": "/div[contains(@class, 'module-item-titlebox')]/a/@title", 
