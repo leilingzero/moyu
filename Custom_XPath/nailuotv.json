@@ -26,7 +26,7 @@
   "cateVodIdR": "/index.php/vod/detail/id/(\\w+)", 
   "cateVodImg": "/img/@data-src", 
   "cateVodMark": "", 
-  "dtUrl": "https://www.nailuotv.com/voddetail/{vid}.html", 
+  "dtUrl": "https://www.nailuotv.com{vid}.html", 
   "dtNode": "//div[contains(@class, 'box view-heading')]", 
   "dtName": "/div[@class='video-info']/div[@class='video-info-header']/h1/text()", 
   "dtNameR": "", 
