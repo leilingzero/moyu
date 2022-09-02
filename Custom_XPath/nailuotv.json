@@ -4,7 +4,7 @@
   "cateNode": "//ul[contains(@class,'nav-menu-items')]/li[contains(@class, 'nav-menu-item')]/a[contains(@href,'/vodtype')]", 
   "cateName": "/text()", 
   "cateId": "/@href", 
-  "cateIdR": "/vodtype/(\\d+).html", 
+  "cateIdR": "", 
   "cateManual": {
 
   }, 
