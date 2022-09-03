@@ -64,6 +64,7 @@
   "dtUrlNameR": "",
   "playUrl": "https://www.libvio.me/play/{playUrl}.html",
   "playUa": "",
+/*
   "searchUrl": "https://www.libvio.me/index.php/ajax/suggest?mid=1&wd={wd}",
   "scVodNode": "json:list",
   "scVodName": "name",
@@ -71,6 +72,15 @@
   "scVodIdR": "",
   "scVodImg": "pic",
   "scVodMark": "",
+*/
+  "searchUrl": "https://www.libvio.com/search/-------------.html?wd={wd}&submit=",
+  "scVodNode": "//div[@class='stui-vodlist__box']",
+  "scVodName": "/a/@title",
+  "scVodId": "/a/@href",
+  "scVodIdR": "/detail/(\\w+).html",
+  "scVodImg": "/a/@data-original",
+  "scVodMark": "/a/span[@class='pic-text text-right']/text()",
+
   "filter": {
     "1": [
       {
