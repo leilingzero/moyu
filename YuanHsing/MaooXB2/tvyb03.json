@@ -1,9 +1,9 @@
 {
-  "name": "TVB云播",
-  "url": "https://www.hktv03.com",
+  "name": "TVB云播03",
+  "url": "http://www.tvyb03.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/vod/show/id/1/page/#国产剧$/vod/show/id/13/page/#港台剧$/vod/show/id/14/page/#日韩剧$/vod/show/id/15/page/#欧美剧$/vod/show/id/16/page/#综艺$/vod/show/id/3/page/#国产动漫$/vod/show/area/国产/id/4/page/#日本动漫$/vod/show/area/日本/id/4/page/#欧美动漫$/vod/show/area/欧美/id/4/page/",
+  "fenlei": "电影$/vod/show/id/1/page/#电视剧$/vod/show/id/2/page/#综艺$/vod/show/id/3/page/#动漫$/vod/show/id/4/page/#国产剧$/vod/show/id/13/page/#港台剧$/vod/show/id/14/page/#日韩剧$/vod/show/id/15/page/#欧美剧$/vod/show/id/16/page/#国产动漫$/vod/show/area/国产/id/4/page/#日本动漫$/vod/show/area/日本/id/4/page/#欧美动漫$/vod/show/area/欧美/id/4/page/",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
@@ -18,11 +18,11 @@
   "lianjiehou": "\"",
 
   //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
-  "fubiaotiqian": "",
-  "fubiaotihou": "",
+  "fubiaotiqian": "#ff9900;\">",
+  "fubiaotihou": "</span>",
 
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": "&limit=500",
+  "sousuohou": "&limit=10",
   "sousuohouzhui": "/voddetail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
