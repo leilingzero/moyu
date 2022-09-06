@@ -10,7 +10,7 @@
   "cateName":"/text()",
   "cateId":"/@href",
   "cateIdR":"/vod/type/id/(\\d+).html",
-  "cateManual":{"电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
+ // "cateManual":{"电影": "1","电视剧": "2","综艺": "3","动漫": "4"},
   "homeVodNode":"//div[contains(@class, 'col-lg-wide-75')]//ul[contains(@class,'myui-vodlist')]/li//a[contains(@class,'myui-vodlist__thumb')]",
   "homeVodName":"/@title",
   "homeVodId":"/@href",
