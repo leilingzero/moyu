@@ -41,7 +41,7 @@
   "dtArea": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '发行地区')]/following-sibling::a/text()",
   "dtMark": "",
   "dtDirector": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '导演')]/following-sibling::a/text()",
-  "dtActor": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '主演')]/following-sibling::a/text()",
+  "dtActor": "//ul[@class='detail-actor clearfix']/li/label[contains(text(), '主演')]/following-sibling::a/text()",
   "dtDesc": "//ul[@class='detail-actor clearfix']/li/p[@class='detail-intro text-justify']/text()",
   "dtFromNode": "//div[@class='detail-source']/ul/li/a",
   "dtFromName": "/text()",
