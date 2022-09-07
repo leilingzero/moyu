@@ -14,7 +14,8 @@
     "欧美电视": "oumeidianshiju",
     "动漫":"dongman",
     "综艺":"zongyi",
-    "港台电影":"xianggangdianying"},
+    "港台电影":"xianggangdianying"
+  },
   "homeVodNode": "//div[@class='panel-main']/ul[@class='thumbnail-group clearfix']/li",
   "homeVodName": "/div/h5/a/text()",
   "homeVodId": "/div/h5/a/@href",
