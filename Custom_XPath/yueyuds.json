@@ -6,7 +6,7 @@
   "cateNode": "//ul[@class='navbar-nav clearfix']/li/a[contains(@href,'list') or contains(@href,'ong')]",
   "cateName": "/text()",
   "cateId": "/@href",
-  "cateIdR": "/list-ename-id-(\\w+).html",
+  "cateIdR": "",
   "cateManual": {    
     "国产电视": "daludianshiju",
     "港台电视": "xianggangdianshiju",
