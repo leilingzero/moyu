@@ -15,7 +15,7 @@
   "tupianhou": "\"",
   "biaotiqian": "alt=\"",
   "biaotihou": "\"",
-  "lianjieqian": "a href=\"",
+  "lianjieqian": "\"video-info\"><h5><a href=\"",
   "lianjiehou": "\"",
 
   //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
@@ -38,7 +38,7 @@
   "sstupianhou": "\"",
   "ssbiaotiqian": "alt=\"",
   "ssbiaotihou": "\"",
-  "sslianjieqian": "a href=\"",
+  "sslianjieqian": "\"video-info\"><h5><a href=\"",
   "sslianjiehou": "\"",
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
