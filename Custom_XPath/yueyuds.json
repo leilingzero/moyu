@@ -37,7 +37,7 @@
   "dtImg": "/div[@class='detail-poster']/a/img/@src",
   "dtImgR": "",
   "dtCate": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '类型')]/following-sibling::a/text()",
-  "dtYear": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '上映时间')]/following-sibling::a/text()",
+  "dtYear": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '上映时间')]/following-sibling::span/text()",
   "dtArea": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '发行地区')]/following-sibling::a/text()",
   "dtMark": "",
   "dtDirector": "//ul[@class='detail-actor clearfix']/li/p/label[contains(text(), '导演')]/following-sibling::a/text()",
