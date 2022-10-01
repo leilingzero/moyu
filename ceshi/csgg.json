@@ -1222,6 +1222,46 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/巨人.json"
     },
     {
+      "key": "csp_xBPQ_黑洞",
+      "name": "黑洞(xBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/黑洞.json"
+    },
+    {
+      "key": "csp_xBPQ_热播库",
+      "name": "热播库(xBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/热播库.json"
+    },
+    {
+      "key": "csp_xBPQ_RP影视",
+      "name": "RP影视(xBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/RENPE.json"
+    },
+    {
+      "key": "csp_xBPQ_ikan6",
+      "name": "ikan6(xBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/ikan6.json"
+    },
+    {
       "key": "csp_xBPQ_听书",
       "name": "听书(xBPQ)",
       "type": 3,
