@@ -1262,6 +1262,26 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/ikan6.json"
     },
     {
+      "key": "csp_xbpq_子子影视",
+      "name": "子子影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/子子影视.json"
+    },
+    {
+      "key": "csp_xbpq_胖虎影视",
+      "name": "胖虎影视(XBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视.json"
+    },
+    {
       "key": "csp_xBPQ_听书",
       "name": "听书(xBPQ)",
       "type": 3,
