@@ -231,13 +231,14 @@
       "filterable": 1
     },
     {
-    "key": "csp_Nmys", 
-    "name": "农民影视(SP)", 
-    "type": 3, 
-    "api": "csp_Nmys", 
-    "searchable": 1, 
-    "quickSearch": 1, 
-    "filterable": 1
+      "key": "csp_Nmys", 
+      "name": "农民影视(SP)", 
+      "type": 3, 
+      "api": "csp_Nmys", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1,
+      "ext":"https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys.json"
     },
     {
       "key": "csp_spider_Tkys",
