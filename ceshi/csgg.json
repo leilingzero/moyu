@@ -1939,66 +1939,66 @@
       "name": "小纸条(云盘高清)",
       "type": 3,
       "api": "csp_Gitcafe",
-//      "playerType":1,
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key": "Yisou",
       "name": "易搜(仅搜索)",
       "type": 3,
       "api": "csp_Yiso",
- //     "playerType":1,
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key": "AliPS",
       "name": "盘搜(仅搜索)",
       "type": 3,
       "api": "csp_AliPS",
- //     "playerType":1,
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key": "FindZY",
       "name": "找资源(仅搜索)",
       "type": 3,
       "api": "csp_FindZY",
-//      "playerType":1,
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key": "csp_Zhaozy",
       "name": "找资源2(仅搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
- //     "playerType":1,
+      "playerType":1,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key": "csp_Upyunso",
       "name": "Up云搜（仅搜索）",
       "type": 3,
       "api": "csp_Upyunso",
-//      "playerType":1,
+      "playerType":1,
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     },
     {
       "key":"榜单荐片",
@@ -2038,7 +2038,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "f6fcd2d1c0e54601805413721d89e0ca"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.txt"
     }
   ],
   "lives": [
