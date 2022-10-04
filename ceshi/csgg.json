@@ -231,6 +231,24 @@
       "filterable": 1
     },
     {
+    "key": "csp_Nmys", 
+    "name": "农民影视(SP)", 
+    "type": 3, 
+    "api": "csp_Nmys", 
+    "searchable": 1, 
+    "quickSearch": 1, 
+    "filterable": 1
+    },
+    {
+      "key": "csp_spider_Tkys",
+      "name": "天空影视(SP)",
+      "type": 3,
+      "api": "csp_Tkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_spider_Anime1",
       "name": "Anime动漫(SP)",
       "type": 3,
@@ -1612,15 +1630,6 @@
       "name": "爱看影视(SP)",
       "type": 3,
       "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_spider_Tkys",
-      "name": "天空影视(SP)",
-      "type": 3,
-      "api": "csp_Tkys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -3207,5 +3216,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://刚刚.live/图",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_gg0926.jar;md5;fc546c735827e5b3c2dfe91bfbe64350"
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_KFC1004.jar;md5;1d4824a953122bef37c8f9d89b3762a8"
 }
