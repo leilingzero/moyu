@@ -1943,7 +1943,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "Yisou",
@@ -1954,7 +1954,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "AliPS",
@@ -1965,7 +1965,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "FindZY",
@@ -1976,7 +1976,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "csp_Zhaozy",
@@ -1987,7 +1987,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key": "csp_Upyunso",
@@ -1998,7 +1998,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     },
     {
       "key":"榜单荐片",
@@ -2038,7 +2038,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+      "ext": "http://刚刚.live/json/alitoken.json"
     }
   ],
   "lives": [
