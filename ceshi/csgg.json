@@ -2094,6 +2094,22 @@
       "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
     },
     {
+      "name": "刘兵解析",
+      "type": 1,
+      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
+      "ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
+    },
+    {
+      "name": "江湖",
+      "type": 1,
+      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+    },
+    {
+      "name": "💡4K2",
+      "type": 1,
+      "url": "https://csapp.5lp.net/json.SVG?url="
+    },
+    {
       "name": "Fosi嗅探",
       "type": 0,
       "url": "https://play.fositv.com/?url="
@@ -2117,17 +2133,6 @@
       "name": "爱酷嗅探",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "刘兵解析",
-      "type": 1,
-      "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
-    },
-    {
-      "name": "江湖",
-      "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     },
     {
       "name": "QIM解03",
@@ -2364,157 +2369,87 @@
     },
     {
       "name": "💡解析la",
-      "type": 1,
+      "type": 0,
       "url": "https://api.jiexi.la/?url="
     },
     {
       "name": "💡MUTV",
-      "type": 1,
+      "type": 0,
       "url": "https://jiexi.janan.net/jiexi/?url="
     },
     {
       "name": "💡MAO",
-      "type": 1,
-      "url": "https://www.mtosz.com/m3u8.php?url="
+      "type": 0,
+      "url": "https://www.mtosz.com/erzi.php?url="  
     },
     {
       "name": "💡老板",
-      "type": 1,
+      "type": 0,
       "url": "https://vip.laobandq.com/jiexi.php?url="
     },
     {
       "name": "💡盘古",
-      "type": 1,
+      "type": 0,
       "url": "https://www.pangujiexi.cc/jiexi.php?url="
     },
     {
       "name": "💡盖世",
-      "type": 1,
+      "type": 0,
       "url": "https://www.gai4.com/?url="
     },
     {
-      "name": "💡小蒋",
-      "type": 1,
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "💡YiTV",
-      "type": 1,
-      "url": "https://jiexi.us/?url="
-    },
-    {
-      "name": "💡星空",
-      "type": 1,
-      "url": "http://60jx.com/?url="
-    },
-    {
       "name": "💡0523",
-      "type": 1,
+      "type": 0,
       "url": "https://go.yh0523.cn/y.cy?url="
     },
     {
       "name": "💡17云",
-      "type": 1,
+      "type": 0,
       "url": "https://www.1717yun.com/jx/ty.php?url="
     },
     {
       "name": "💡4K",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.4kdv.com/?url="
     },
     {
       "name": "💡云析",
-      "type": 1,
-      "url": "https://jx.yparse.com/index.php?url="
+      "type": 0,
+      "url": "https://yparse.jn1.cc/index.php?url="
     },
     {
       "name": "💡8090",
-      "type": 1,
+      "type": 0,
       "url": "https://www.8090g.cn/?url="
     },
     {
-      "name": "💡江湖",
-      "type": 1,
-      "url": "https://api.jhdyw.vip/?url="
-    },
-    {
       "name": "💡诺讯",
-      "type": 1,
+      "type": 0,
       "url": "https://www.nxflv.com/?url="
     },
     {
       "name": "💡PM",
-      "type": 1,
+      "type": 0,
       "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
     {
-      "name": "💡奇米",
-      "type": 1,
-      "url": "https://qimihe.com/?url="
-    },
-    {
-      "name": "💡思云",
-      "type": 1,
-      "url": "https://jx.ap2p.cn/?url="
-    },
-    {
       "name": "💡听乐",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.dj6u.com/?url="
     },
     {
-      "name": "💡aijx",
-      "type": 1,
-      "url": "https://jiexi.t7g.cn/?url="
-    },
-    {
-      "name": "💡52",
-      "type": 1,
-      "url": "https://vip.52jiexi.top/?url="
-    },
-    {
-      "name": "💡黑米",
-      "type": 1,
-      "url": "https://www.myxin.top/jx/api/?url="
-    },
-    {
-      "name": "💡豪华啦",
-      "type": 1,
-      "url": "https://api.lhh.la/vip/?url="
-    },
-    {
-      "name": "💡凉城",
-      "type": 1,
-      "url": "https://jx.mw0.cc/?url="
-    },
-    {
-      "name": "💡33t",
-      "type": 1,
-      "url": "https://www.33tn.cn/?url="
-    },
-    {
       "name": "💡180",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.000180.top/jx/?url="
     },
     {
       "name": "💡无名",
-      "type": 1,
+      "type": 0,
       "url": "https://www.administratorw.com/video.php?url="
     },
     {
-      "name": "💡黑云",
-      "type": 1,
-      "url": "https://jiexi.380k.com/?url="
-    },
-    {
-      "name": "💡九八",
-      "type": 1,
-      "url": "https://jx.youyitv.com/?url="
-    },
-    {
       "name": "💡听乐(B站)",
-      "type": 1,
+      "type": 0,
       "url": "https://jx.dj6u.com/?url="
     }
   ],
