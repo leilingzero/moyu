@@ -2083,7 +2083,7 @@
       "type": 2,
       "url": "Sequence"
     },
-        {
+    {
       "name": "GGTV自用",
       "type": 1,
       "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
@@ -2105,200 +2105,27 @@
       "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
     },
     {
-      "name": "Fosi嗅探",
-      "type": 0,
-      "url": "https://play.fositv.com/?url="
-    },
-    {
-      "name": "m3u8tv高清",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
       "name": "parwix稳定",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
     },
     {
+      "name": "parwix解析1",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+    {
+      "name": "parwix解析2",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+    },
+    {
+      "name": "醉仙",
+      "type": 0,
+      "url": "https://jx.zui.cm/?url="
+    },
+    {
       "name": "OKjx综合",
-      "type": 0,
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "爱酷嗅探",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "QIM解03",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "QIM解09",
-      "type": 0,
-      "url": "https://jx.zui.cm/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "QIM解10",
-      "type": 0,
-      "url": "https://www.8090.la/8090/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-
-    {
-      "name": "QIM解12",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "QIM解13",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "QIM解14",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/analysis.php?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "Q解02",
-      "type": 0,
-      "url": "https://chaxun.truechat365.com/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺"
-        ]
-      }
-    },
-    {
-      "name": "多多",
-      "type": 0,
-      "url": "https://player.movie09.com/dplayer/?url="
-    },
-    {
-      "name": "普通",
-      "type": 0,
-      "url": "https://jhpc.021huaying.com/api.php?url="
-    },
-    {
-      "name": "💡高速接口",
-      "type": 0,
-      "url": "https://jsap.attakids.com/?url="
-    },
-    {
-      "name": "💡综合/B站",
-      "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url="
-    },
-    {
-      "name": "💡OK解析",
       "type": 0,
       "url": "https://okjx.cc/?url="
     },
@@ -2308,24 +2135,9 @@
       "url": "https://www.yemu.xyz/?url="
     },
     {
-      "name": "💡爱豆",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
       "name": "💡虾米",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "💡M3U8.TV",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "💡CK",
-      "type": 0,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
     },
     {
       "name": "💡LE",
@@ -2348,16 +2160,6 @@
       "url": "https://ckmov.ccyjjd.com/ckmov/?url="
     },
     {
-      "name": "💡爱豆",
-      "type": 0,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "💡诺诺",
-      "type": 0,
-      "url": "https://www.ckmov.com/?url="
-    },
-    {
       "name": "💡H8",
       "type": 0,
       "url": "https://www.h8jx.com/jiexi.php?url="
@@ -2368,29 +2170,9 @@
       "url": "https://api.jiexi.la/?url="
     },
     {
-      "name": "💡MUTV",
-      "type": 0,
-      "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
       "name": "💡MAO",
       "type": 0,
       "url": "https://www.mtosz.com/erzi.php?url="  
-    },
-    {
-      "name": "💡老板",
-      "type": 0,
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "💡盘古",
-      "type": 0,
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "💡盖世",
-      "type": 0,
-      "url": "https://www.gai4.com/?url="
     },
     {
       "name": "💡0523",
@@ -2428,11 +2210,6 @@
       "url": "https://www.playm3u8.cn/jiexi.php?url="
     },
     {
-      "name": "💡听乐",
-      "type": 0,
-      "url": "https://jx.dj6u.com/?url="
-    },
-    {
       "name": "💡180",
       "type": 0,
       "url": "https://jx.000180.top/jx/?url="
@@ -2446,6 +2223,81 @@
       "name": "💡听乐(B站)",
       "type": 0,
       "url": "https://jx.dj6u.com/?url="
+    },
+    {
+      "name": "8090la",
+      "type": 0,
+      "url": "https://www.8090.la/8090/?url="
+    },
+    {
+      "name": "chaxun",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url="
+    },
+    {
+      "name": "ckplayer",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "ckmov",
+      "type": 0,
+      "url": "https://www.ckmov.com/?url="
+    },
+    {
+      "name": "💡盖世",
+      "type": 0,
+      "url": "https://www.gai4.com/?url="
+    },
+    {
+      "name": "💡MUTV",
+      "type": 0,
+      "url": "https://jiexi.janan.net/jiexi/?url="
+    },
+    {
+      "name": "💡高速接口",
+      "type": 0,
+      "url": "https://jsap.attakids.com/?url="
+    },
+    {
+      "name": "💡爱豆",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url="
+    },
+    {
+      "name": "m3u8tv高清",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "爱酷嗅探",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "普通",
+      "type": 0,
+      "url": "https://jhpc.021huaying.com/api.php?url="
+    },
+    {
+      "name": "💡老板",
+      "type": 0,
+      "url": "https://vip.laobandq.com/jiexi.php?url="
+    },
+    {
+      "name": "💡盘古",
+      "type": 0,
+      "url": "https://www.pangujiexi.cc/jiexi.php?url="
+    },
+    {
+      "name": "Fosi嗅探",
+      "type": 0,
+      "url": "https://play.fositv.com/?url="
+    },
+    {
+      "name": "多多",
+      "type": 0,
+      "url": "https://player.movie09.com/dplayer/?url="
     }
   ],
   "flags": [
