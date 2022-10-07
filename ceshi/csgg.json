@@ -2104,6 +2104,16 @@
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
     },
+        {
+      "name": "云you解析",
+      "type": 1,
+      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+    },
+        {
+      "name": "小猫咪",
+      "type": 1,
+      "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url="
+    },
     {
       "name": "MAO",
       "type": 0,
@@ -2133,6 +2143,11 @@
       "name": "OKjx综合",
       "type": 0,
       "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "hxysPlayer",
+      "type": 0,
+      "url": "https://hxys.tv/bfq/?url="
     },
     {
       "name": "parwix稳定",
@@ -2204,28 +2219,6 @@
       "type": 0,
       "url": "https://jx.dj6u.com/?url="
     },
-    
-    {
-      "name": "云you解析",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
-    },
-        {
-      "name": "小猫咪",
-      "type": 1,
-      "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url="
-    },
-    {
-      "name": "爱酷解析",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "hxysPlayer",
-      "type": 0,
-      "url": "https://hxys.tv/bfq/?url="
-    },
-
     {
       "name": "H8",
       "type": 0,
