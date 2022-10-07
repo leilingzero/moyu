@@ -2114,6 +2114,11 @@
       "ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
     },
     {
+      "name": "融兴", 
+      "type": 1, 
+      "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="
+    },
+    {
       "name": "云you解析",
       "type": 1,
       "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
@@ -2134,29 +2139,9 @@
       "url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="
     },
     {
-      "name": "融兴", 
-      "type": 1, 
-      "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="
-    },
-    {
-      "name": "爱酷", 
-      "type": 1, 
-      "url": "https://k.json.icu/home/api?type=ys&uid=155872&key=dfhknruxyABJLMPY19&url="
-    },
-    {
-      "name": "觅知", 
-      "type": 1, 
-      "url": "https://jx.255tv.cn/api/?key=4nk3dhZkAWbHTNpP3n&url="
-    },
-    {
       "name": "ckflv", 
       "type": 1, 
       "url": "http://api.ckflv.cn/?url="
-    },
-    {
-      "name": "灵谷", 
-      "type": 1, 
-      "url": "http://s.lingutv.cn/?url="
     },
     {
       "name": "MAO",
@@ -2189,26 +2174,6 @@
       "url": "https://okjx.cc/?url="
     },
     {
-      "name": "hxysPlayer",
-      "type": 0,
-      "url": "https://hxys.tv/bfq/?url="
-    },
-    {
-      "name": "H5", 
-      "type": 0, 
-      "url": "https://h5.freejson.xyz/player/?url="
-    },
-    {
-      "name": "RX88", 
-      "type": 0, 
-      "url": "https://freejx.rx88.top:1234/?url="
-    },
-    {
-      "name": "tljiaqing", 
-      "type": 0, 
-      "url": " https://tljiaqing.nde.tw/m3u8/?url="
-    },
-    {
       "name": "parwix稳定",
       "type": 0,
       "url": "https://jx.bozrc.com:4433/player/?url="
@@ -2232,6 +2197,11 @@
       "name": "盖世",
       "type": 0,
       "url": "https://www.gai4.com/?url="
+    },
+    {
+      "name": "H5", 
+      "type": 0, 
+      "url": "https://h5.freejson.xyz/player/?url="
     },
     {
       "name": "ccyjjd",
