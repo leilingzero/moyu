@@ -1300,6 +1300,16 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视.json"
     },
     {
+      "key": "csp_xBPQ_抓饭体育",
+      "name": "抓饭体育(xBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/抓饭体育.json"
+    },
+    {
       "key": "csp_xBPQ_听书",
       "name": "听书(xBPQ)",
       "type": 3,
@@ -2103,15 +2113,50 @@
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
       "ext":{"header":{"User-Agent":"okhttp/4.1.0"}}
     },
-        {
+    {
       "name": "云you解析",
       "type": 1,
       "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
     },
-        {
+    {
       "name": "小猫咪",
       "type": 1,
       "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url="
+    },
+    {
+      "name": "乐喵", 
+      "type": 1, 
+      "url": "http://jf.lemiaoyun.cn/home/api?type=ys&uid=149204&key=aceqstuvzABDJPTYZ0&url="
+    },
+    {
+      "name": "左岸", 
+      "type": 1, 
+      "url": "http://110.42.2.115:880/analysis/json/?uid=2284&my=efghjmxzADEFIS0268&url="
+    },
+    {
+      "name": "融兴", 
+      "type": 1, 
+      "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="
+    },
+    {
+      "name": "爱酷", 
+      "type": 1, 
+      "url": "https://k.json.icu/home/api?type=ys&uid=155872&key=dfhknruxyABJLMPY19&url="
+    },
+    {
+      "name": "觅知", 
+      "type": 1, 
+      "url": "https://jx.255tv.cn/api/?key=4nk3dhZkAWbHTNpP3n&url="
+    },
+    {
+      "name": "ckflv", 
+      "type": 1, 
+      "url": "http://api.ckflv.cn/?url="
+    },
+    {
+      "name": "灵谷", 
+      "type": 1, 
+      "url": "http://s.lingutv.cn/?url="
     },
     {
       "name": "MAO",
@@ -2147,6 +2192,21 @@
       "name": "hxysPlayer",
       "type": 0,
       "url": "https://hxys.tv/bfq/?url="
+    },
+    {
+      "name": "H5", 
+      "type": 0, 
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+    {
+      "name": "RX88", 
+      "type": 0, 
+      "url": "https://freejx.rx88.top:1234/?url="
+    },
+    {
+      "name": "tljiaqing", 
+      "type": 0, 
+      "url": " https://tljiaqing.nde.tw/m3u8/?url="
     },
     {
       "name": "parwix稳定",
