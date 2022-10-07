@@ -2206,37 +2206,22 @@
     },
     
     {
-      "name": "风起长林2",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-    },
-    {
-      "name": "风起吴郡",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
-    },
-    {
-      "name": "风起长安",
+      "name": "云you解析",
       "type": 1,
       "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
     },
         {
-      "name": "风起许都",
+      "name": "小猫咪",
       "type": 1,
       "url": "http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url="
     },
     {
-      "name": "风起苍岚",
-      "type": 0,
-      "url": "https://play.fositv.com/?url="
-    },
-    {
-      "name": "风起天阑",
+      "name": "爱酷解析",
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
     },
     {
-      "name": "风起陇西1",
+      "name": "hxysPlayer",
       "type": 0,
       "url": "https://hxys.tv/bfq/?url="
     },
