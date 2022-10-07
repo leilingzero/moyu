@@ -2232,7 +2232,12 @@
       "name": "playerjy/B站",
       "type": 0,
       "url": "https://jx.playerjy.com/?url="
-    },    
+    },
+    {
+      "name": "hxysPlayer",
+      "type": 0,
+      "url": "https://hxys.tv/bfq/?url="
+    },
     {
       "name": "ckmov",
       "type": 0,
