@@ -1310,16 +1310,6 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/抓饭体育.json"
     },
     {
-      "key": "csp_xBPQ_听书",
-      "name": "听书(xBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/tingbook.json"
-    },
-    {
       "key": "dr_兔小贝", 
       "name": "兔小贝┃儿童教育(dr)", 
       "type": 1, 
