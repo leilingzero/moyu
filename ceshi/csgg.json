@@ -2085,7 +2085,7 @@
     {
       "name": "GGTV自用",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/jx/API.php?appkey=iixiaobai&url="
+      "url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="
     },
     {
       "name": "GGTV搜集",
@@ -2107,11 +2107,6 @@
       "name": "融兴", 
       "type": 1, 
       "url": "https://svip.rongxingvr.top/api/?key=4gb6ui9qfap4kLrvb2&url="
-    },
-    {
-      "name": "云you解析",
-      "type": 1,
-      "url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
     },
     {
       "name": "小猫咪",
