@@ -1,4 +1,5 @@
 gxfrg007测试,#genre#
+翡翠台we ,http://iptv.weai.love/live?type=gdjy&ipdz=113.64.147,i&tvid=tvbfc
 翡翠台p2p,p2p://ns1.hellotvvod.com:9906/d90b51f967934f94a321babdd5b1bfd0
 翡翠台,http://pull-f5-spe.ixigua.com:80/live/epanfhwwipthiyitiqzxcxbfhiqfivhjtijvbtvisixzfsiicvbctvbfc.flv
 明珠台,mitv://ns1.hellotvvod.com:9906/9d78b84c273e4922948f4e5926615afa
