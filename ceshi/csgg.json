@@ -960,6 +960,16 @@
       "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod"
     },
     {
+      "key":"csp_appysv2_ysp",
+      "name":"氢视频(部分翻墙)",
+      "type":3,
+      "api":"csp_AppYsV2",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"http://h1080p.com/xgapp.php/v2/"
+    },
+    {
       "key": "csp_app_小鸟动漫",
       "name": "小鸟动漫",
       "type": 3,
@@ -1038,6 +1048,16 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/tingbook.json"
+    },
+    {
+      "key": "csp_XYQHiker_有声小说吧",
+      "name": "有声小说吧（无画面）",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/有声小说吧.json"
     },
     {
       "key":"mtv_pc_yinfans",
