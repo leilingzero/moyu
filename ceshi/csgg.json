@@ -411,7 +411,7 @@
       "key": "HG影视",
       "name": "HG影视",
       "type": 1,
-      "api": "http://cs.hgyx.vip/api.php/provide/vod/?ac=list",
+      "api": "https://hong.hgyx.vip/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
