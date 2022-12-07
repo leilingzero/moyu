@@ -259,6 +259,60 @@
       "filterable": 1
     },
     {
+      "key": "csp_Lgyy", 
+      "name": "蓝光影院(SP)", 
+      "type": 3, 
+      "api": "csp_Lgyy", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },
+    {
+      "key": "csp_fant", 
+      "name": "饭团影院(SP)", 
+      "api": "csp_Fantuan", 
+      "type": 3, 
+      "filterable": 1, 
+      "quickSearch": 1, 
+      "searchable": 1
+    },
+    {
+      "key": "csp_Zjdr", 
+      "name": "追剧达人(SP)", 
+      "type": 3, 
+      "api": "csp_Zjdr", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },
+    {
+      "key": "csp_Dy1010", 
+      "name": "双十电影(SP)", 
+      "type": 3, 
+      "api": "csp_Dy1010", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },
+    {
+      "key": "csp_Nkdy", 
+      "name": "南柯电影(SP)", 
+      "type": 3, 
+      "api": "csp_Nkdy", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },
+    {
+      "key": "csp_Anfuns", 
+      "name": "Anfuns(SP)", 
+      "type": 3, 
+      "api": "csp_Anfuns", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
+    },
+    {
       "key": "csp_spider_Yj1211",
       "name": "直播合集(SP)",
       "type": 3,
@@ -534,6 +588,33 @@
       "quickSearch": 1, 
       "filterable": 0, 
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/瓜皮TV.json"
+    },
+    {
+      "key": "2022世界杯", 
+      "name": "2022世界杯", 
+      "type": 4, 
+      "api": "http://120.53.102.254/t4/sjb", 
+      "searchable": 1, 
+      "quickSearch": 0, 
+      "filterable": 1
+    },
+    {
+      "key": "抖音小姐姐", 
+      "name": "抖音小姐姐", 
+      "type": 4, 
+      "api": "http://120.53.102.254/xjj", 
+      "searchable": 1, 
+      "quickSearch": 0, 
+      "filterable": 1
+    },
+    {
+      "key": "T4直播转点播", 
+      "name": "T4直播转点播", 
+      "type": 4, 
+      "api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
     },
     {
       "key": "诺讯资源",
