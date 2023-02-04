@@ -442,14 +442,14 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/gqdm_xb.json"
     },
     {
-      "key": "csp_xpath_92cj",
+      "key": "csp_xpath_96ba",
       "name": "路漫漫(XPF)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/92cj.json"
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/96ba.json"
     },
     {
       "key": "csp_xpath_libvio",
