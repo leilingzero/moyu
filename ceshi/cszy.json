@@ -393,7 +393,7 @@
       "key": "csp_biubiu_tvyb01_xb",
       "name": "TVB云播01(XB)",
       "type": 3,
-      "api": "csp_XBPQ",
+      "api": "csp_xBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
