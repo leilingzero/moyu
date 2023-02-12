@@ -16,7 +16,16 @@
         }
     ],
     "sites": [
-        {"key": "csp_biubiu_voflix","name": "🌀┃Vof ┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://w.g9.pub:66/381203888/XP/voflix.json"}, 
+        {
+            "key": "csp_biubiu_voflix",
+            "name": "🌀┃Vof ┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://w.g9.pub:66/381203888/XP/voflix.json"
+        }, 
         {
             "key": "csp_spider_Kuaikan",
             "name": "快看(SP)",
