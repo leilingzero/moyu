@@ -403,6 +403,15 @@
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/tvyb01_xb.json"
     },
     {
+      "key": "TVB云播(xml)",
+      "name": "TVB云播(xml)",
+      "type": 1,
+      "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_xpath_gangju5",
       "name": "港剧屋(XP)",
       "type": 3,
