@@ -57,7 +57,10 @@
   "dtUrlNameR":"",
   "playUrl":"http://www.tvyb01.com/vod/play/id/{playUrl}.html",
   "playUa":"",
+  /*
   "searchUrl":"http://www.tvyb01.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
+  */
+  "searchUrl":"http://www.tvyb01.com/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode":"json:list",
   "scVodName":"name",
   "scVodId":"id",
