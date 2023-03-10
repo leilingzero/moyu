@@ -383,7 +383,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType":1,
+ //           "playerType":1,
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
@@ -1116,7 +1116,7 @@
         },
         {
             "key": "csp_XYQHiker皮皮鸭",
-            "name": "️🌸皮皮鸭┃XH",
+            "name": "️皮皮鸭┃XH",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
