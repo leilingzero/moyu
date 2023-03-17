@@ -445,7 +445,7 @@
         },
         {
             "key": "直播",
-            "name": "📡电视┃直播",
+            "name": "电视┃直播",
             "type": 3,
             "playerType": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
@@ -1312,7 +1312,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://cdn.饭太硬.ga/x/json/alist.json"
+//            "ext": "http://cdn.饭太硬.ga/tv/alist.json"
+            "ext": "http://我不是.肥猫.love:63/json/alist3.json"
         },
         {
             "key": "csp_Alist2",
@@ -1322,7 +1323,8 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "http://101.34.67.237/txt/json/alist.json"
+//            "ext": "http://101.34.67.237/txt/json/alist.json"
+            "ext": "http://我不是.肥猫.love:63/alist.json"
         },
         {
             "key": "csp_Paper",
@@ -1831,10 +1833,18 @@
     ],
     "lives": [
         {
+            "name": "live",
+            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },    
+        {
             "group": "redirect",
             "channels": [
                 {
-                    "name": "live",
+                    "name": "redirect",
                     "urls": [
   //                      "proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"
                         "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
