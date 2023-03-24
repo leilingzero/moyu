@@ -461,6 +461,13 @@
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
             "ext": "Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"
         },
+        {
+            "key": "直播转点播",
+            "name": "电视直播仓",
+            "type": 3,
+            "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+            "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
+        },
     {
       "key": "csp_xpath_tvyb01",
       "name": "TVB云播01(XPF)",
