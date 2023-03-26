@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230320.jar;md5;af94cc4d3c30f6cee8b8b20e7b70a0bc",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230325.jar;md5;61bca6e5fd49bef5a2834109f23303a9",
     //"spider":"http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -37,14 +37,14 @@
             "ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
-            "key": "csp_MeiJu69",
-            "name": "69美剧(SP)",
+            "key": "csp_FanYY",
+            "name": "阿里电影院",
             "type": 3,
-            "api": "csp_MeiJu69",
+            "api": "csp_FanYY",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.69mj.com/"
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_spider_BuLei",
@@ -76,16 +76,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://tv.libvio.cc/"
-        },
-        {
-            "key": "csp_Yht",
-            "name": "野荷塘(SP)",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc"
         },
         {
             "key": "csp_fantuan",
@@ -147,6 +137,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_MeiJu69",
+            "name": "69美剧(SP)",
+            "type": 3,
+            "api": "csp_MeiJu69",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/"
         },
         {
             "key": "csp_spider_Ddrk",
@@ -302,7 +303,6 @@
             "name": "360影视(SP)",
             "type": 3,
             "api": "csp_SP33",
-//            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -384,6 +384,17 @@
             "filterable": 1
         },
         {
+            "key": "csp_Yht",
+            "name": "野荷塘(SP)",
+            "type": 3,
+            "api": "csp_Yht",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://yehetang.cc",
+            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
+        },
+        {
             "key": "csp_spider_Lezhu",
             "name": "乐猪影视(SP)",
             "type": 3,
@@ -455,7 +466,7 @@
         },
         {
             "key": "直播",
-            "name": "电视┃直播",
+            "name": "电视直播js",
             "type": 3,
             "playerType": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
@@ -1027,7 +1038,7 @@
             "key": "88js",
             "name": "88看球",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "api": "http://id.ganggang.live:63/js/drpy.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -1085,8 +1096,18 @@
             "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/酷狗MV.json"
         },
         {
+            "key": "csp_XBPQ_酷奇",
+            "name": "酷狗MV(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/酷奇MV.json"
+        },
+        {
             "key": "csp_XYQBiu_酷奇",
-            "name": "酷奇MV",
+            "name": "酷奇MV(XYQBiu)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
@@ -1155,6 +1176,16 @@
             "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/皮皮鸭.json"
         },
         {
+            "key": "csp_XYQHiker素白白",
+            "name": "️素白白┃XH",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/素白白.json"
+        },
+        {
             "key": "csp_XYQH野马",
             "name": "️野马┃XH",
             "type": 3,
@@ -1215,8 +1246,8 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙",
             "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+            "api": "http://id.ganggang.live:63/js/drpy.min.js",
+            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -1315,11 +1346,11 @@
             "key": "js豆瓣",
             "name": "js豆瓣",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
-            "ext": "http://agit.ai/fantaiying/fty/raw/branch/master/JS/js/drpy.js",
+            "api": "http://id.ganggang.live:63/js/drpy.min.js",
+            "ext": "http://id.ganggang.live:63/js/js_drpy.js",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "csp_Alist1",
@@ -1538,7 +1569,7 @@
         {
             "name": "去",
             "type": 1,
-            "url": "http://svip.key521.cn/analysis/json/?uid=22&my=acdgimotxCHLNOTX16&url="
+            "url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="
         },
         {
             "name": "找来",
