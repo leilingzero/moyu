@@ -402,7 +402,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
- //           "playerType":1,
             "jar":"https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
@@ -1136,8 +1135,8 @@
             "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/斗鱼直播.json"
         },
         {
-            "key": "csp_XBPQ_聚短视频",
-            "name": "聚短视频",
+            "key": "csp_XBPQ_聚合短视频",
+            "name": "聚合短视频",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
@@ -1440,6 +1439,28 @@
             "ext": "http://ali.饭太硬.ml/alitoken"
         }
     ],
+    "lives": [
+        {
+            "name": "live",
+            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+            "type": 0,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+        },    
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "redirect",
+                    "urls": [
+  //                      "proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"
+                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
+                    ]
+                }
+            ]
+        }
+    ],
     "parses": [
         {
             "name": "解析聚合",
@@ -1464,10 +1485,7 @@
         {
             "name": "星辰云解析",
             "type": 1,
-            "url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
+            "url": "http://json.key521.cn/api/?key=7ff2e8b5e37bd849ec1045581d1aaa7b&url="
         },
         {
             "name": "bozrc",
@@ -1876,28 +1894,6 @@
             "host": "*",
             "rule": [
                 "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
-            ]
-        }
-    ],
-    "lives": [
-        {
-            "name": "live",
-            "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-            "type": 0,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-        },    
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "redirect",
-                    "urls": [
-  //                      "proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
-                    ]
-                }
             ]
         }
     ],
