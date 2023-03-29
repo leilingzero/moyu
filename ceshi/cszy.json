@@ -4,7 +4,7 @@
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
         {
-            "key": "csp_spider_Kuaikan",
+            "key": "csp_Kuaikan",
             "name": "快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
@@ -14,7 +14,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_YQKAPP",
+            "key": "csp_YQKAPP",
             "name": "一起看(SP)",
             "type": 3,
             "api": "csp_YQKAPP",
@@ -26,7 +26,7 @@
             "ext": "https://api-tx.11ty.top"
         },
         {
-            "key": "csp_spider_AppTT",
+            "key": "csp_AppTT",
             "name": "图图影视(SP)",
             "type": 3,
             "api": "csp_AppTT",
@@ -47,7 +47,7 @@
             "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
-            "key": "csp_spider_BuLei",
+            "key": "csp_BuLei",
             "name": "布雷影视(SP)",
             "type": 3,
             "api": "csp_BuLei",
@@ -58,7 +58,7 @@
             "ext": "https://v.bulei.cc/"
         },
         {
-            "key": "csp_spider_apple",
+            "key": "csp_LiteApple",
             "name": "小苹果(SP)",
             "type": 3,
             "api": "csp_LiteApple",
@@ -68,7 +68,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_LibVio",
+            "key": "csp_LibVio",
             "name": "LibVio(SP)",
             "type": 3,
             "api": "csp_Libvio",
@@ -89,7 +89,7 @@
             "ext": "https://www.fantuanhd.com"
         },
         {
-            "key": "csp_spider_Vofl",
+            "key": "csp_Voflix",
             "name": "Voflix影视(SP)",
             "type": 3,
             "api": "csp_Voflix",
@@ -98,7 +98,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Xinsj",
+            "key": "csp_Xinsj",
             "name": "新视觉影视(SP)",
             "type": 3,
             "api": "csp_Xinsj",
@@ -109,7 +109,7 @@
             "ext": "https://www.6080dy3.com"
         },
         {
-            "key": "csp_spider_Kunyu77",
+            "key": "csp_Kunyu77",
             "name": "酷云七七(SP)",
             "type": 3,
             "api": "csp_Kunyu77",
@@ -128,7 +128,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Czsapp",
+            "key": "csp_Czsapp",
             "name": "厂长影视(SP)",
             "type": 3,
             "api": "csp_Czsapp",
@@ -150,7 +150,7 @@
             "ext": "https://www.69mj.com/"
         },
         {
-            "key": "csp_spider_Ddrk",
+            "key": "csp_Ddrk",
             "name": "低端影视(SP)",
             "type": 3,
             "api": "csp_Ddrk",
@@ -159,7 +159,7 @@
             "filterable": 0
         },
         {
-            "key": "csp_spider_Cokemv",
+            "key": "csp_Cokemv",
             "name": "Cokemv影院(SP)",
             "type": 3,
             "api": "csp_Cokemv",
@@ -169,7 +169,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Auete",
+            "key": "csp_Auete",
             "name": "Auete影院(SP)",
             "type": 3,
             "api": "csp_Auete",
@@ -178,7 +178,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Bttwo",
+            "key": "csp_Bttwo",
             "name": "Bttwo(SP)",
             "type": 3,
             "api": "csp_Bttwoo",
@@ -187,7 +187,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_zxzj",
+            "key": "csp_Zxzj",
             "name": "在线之家(SP)",
             "type": 3,
             "api": "csp_Zxzj",
@@ -197,7 +197,7 @@
             "ext": "https://www.zxzj.org"
         },
         {
-            "key": "csp_zxzjH3",
+            "key": "csp_ZxzjH3",
             "name": "在线之家H3(SP)",
             "type": 3,
             "api": "csp_ZxzjH3",
@@ -207,7 +207,7 @@
             "ext": "https://www.zxzjhd.com"
         },
         {
-            "key": "csp_spider_Lgyy",
+            "key": "csp_Lgyy",
             "name": "蓝光影院(SP)",
             "type": 3,
             "api": "csp_Lgyy",
@@ -217,7 +217,7 @@
             "ext": "https://www.lgyy.vip"
         },
         {
-            "key": "csp_spider_Smdyy",
+            "key": "csp_Smdyy",
             "name": "神马影院(SP)",
             "type": 3,
             "api": "csp_Smdyy",
@@ -226,7 +226,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Bdys01",
+            "key": "csp_Bdys01",
             "name": "哔嘀影视(SP)",
             "type": 3,
             "api": "csp_Bdys01",
@@ -236,7 +236,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Nmys",
+            "key": "csp_Nmys",
             "name": "农民影视(SP)",
             "type": 3,
             "api": "csp_Nmys",
@@ -246,7 +246,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys.json"
         },
         {
-            "key": "csp_spider_Ysgc",
+            "key": "csp_Ysgc",
             "name": "影视工场(SP)",
             "type": 3,
             "api": "csp_Ysgc",
@@ -257,7 +257,7 @@
             "ext": "https://www.ysgc.vip"
         },
         {
-            "key": "csp_spider_panghu",
+            "key": "csp_Panghu",
             "name": "胖虎影视(SP)",
             "type": 3,
             "api": "csp_Panghu",
@@ -267,7 +267,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Dy555",
+            "key": "csp_Ys555",
             "name": "555影视(SP)",
             "type": 3,
             "api": "csp_Ys555",
@@ -278,7 +278,7 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_spider_Nkdy",
+            "key": "csp_Nkdy",
             "name": "耐看电影(SP)",
             "type": 3,
             "api": "csp_Nkdy",
@@ -292,14 +292,14 @@
             "name": "黑料影视(SP)",
             "type": 3,
             "api": "csp_Hlsp",
-            "m3u8ads": "hd.youyhn.com",
+            //"m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json"
         },
         {
-            "key": "csp_spider_SP33",
+            "key": "csp_SP33",
             "name": "360影视(SP)",
             "type": 3,
             "api": "csp_SP33",
@@ -309,7 +309,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_spider_Qtv",
+            "key": "csp_Qtv",
             "name": "腾讯(SP)",
             "type": 3,
             "api": "csp_Qtv",
@@ -319,7 +319,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_spider_Itv",
+            "key": "csp_Itv",
             "name": "爱奇艺(SP)",
             "type": 3,
             "api": "csp_Itv",
@@ -329,7 +329,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_spider_MTV",
+            "key": "csp_MTV",
             "name": "芒果TV(SP)",
             "type": 3,
             "api": "csp_Mtv",
@@ -339,7 +339,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_spider_Dm84",
+            "key": "csp_Dm84",
             "name": "动漫巴士(SP)",
             "type": 3,
             "api": "csp_Dm84",
@@ -348,7 +348,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Ying",
+            "key": "csp_Ying",
             "name": "樱花动漫(SP)",
             "type": 3,
             "api": "csp_Ying",
@@ -357,7 +357,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Ysj",
+            "key": "csp_Ysj",
             "name": "异世界动漫(SP)",
             "type": 3,
             "api": "csp_Ysj",
@@ -366,7 +366,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Anime1",
+            "key": "csp_Anime1",
             "name": "Anime动漫(SP)",
             "type": 3,
             "api": "csp_Anime1",
@@ -375,7 +375,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_spider_Yj1211",
+            "key": "csp_Yj1211",
             "name": "直播合集(SP)",
             "type": 3,
             "api": "csp_Yj1211",
@@ -395,7 +395,7 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
-            "key": "csp_spider_Lezhu",
+            "key": "csp_Lezhu",
             "name": "乐猪影视(SP)",
             "type": 3,
             "api": "csp_Lezhu",
@@ -427,7 +427,7 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key": "csp_spider_Dy1010",
+            "key": "csp_Dy1010",
             "name": "双十影院(SP)",
             "type": 3,
             "api": "csp_Dy1010",
@@ -437,7 +437,7 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
-            "key": "csp_spider_SP2345",
+            "key": "csp_SP2345",
             "name": "2345影视(SP)",
             "type": 3,
             "api": "csp_SP2345",
@@ -578,7 +578,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/yueyuds.json"
         },
         {
-            "key": "Lezhu_XBPQ",
+            "key": "csp_XBPQ_Lezhu",
             "name": "乐猪影视(XBPQ)",
             "api": "csp_XBPQ",
             "type": 3,
@@ -638,7 +638,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/agemys.json"
         },
         {
-            "key": "mtv_xp_动漫岛源",
+            "key": "csp_xpath_动漫岛",
             "name": "动漫岛(XPMF)",
             "type": 3,
             "api": "csp_XPathMacFilter",
@@ -787,7 +787,7 @@
             ]
         },
         {
-            "key": "mtv_xp_789ba",
+            "key": "csp_xpath_789影吧",
             "name": "789影吧",
             "type": 3,
             "api": "csp_XPathMacFilter",
@@ -904,7 +904,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/buka.json"
         },
         {
-            "key": "csp_XBPQ_cs",
+            "key": "csp_XBPQ_FreeOK",
             "name": "️FreeOK(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
@@ -944,7 +944,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/ikan6.json"
         },
         {
-            "key": "csp_Xbpq_子子影视",
+            "key": "csp_XBPQ_子子影视",
             "name": "子子影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
@@ -954,7 +954,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/子子影视.json"
         },
         {
-            "key": "csp_Xbpq_胖虎影视",
+            "key": "csp_XBPQ_胖虎影视",
             "name": "胖虎影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
@@ -1044,7 +1044,7 @@
             "filterable": 0
         },
         {
-            "key": "csp_xp_qiumi",
+            "key": "csp_xpath_qiumi",
             "name": "Jrs球迷",
             "type": 3,
             "api": "csp_XPath",
@@ -1252,7 +1252,7 @@
             "filterable": 0
         },
         {
-            "key": "csp_spider_Bili",
+            "key": "csp_Bili",
             "name": "哔哩套餐(SP)",
             "type": 3,
             "api": "csp_Bili",
