@@ -14,7 +14,7 @@
   "homeVodNode":"//ul[@class='boxlist clearfix']/li/a[contains(@class,'list-link')]",
   "homeVodName":"/@title",
   "homeVodId":"/@href",
-  "homeVodIdR":"/gjw/xiangqing/(\\w+).html",
+  "homeVodIdR":"",
   "homeVodImg":"/div/img/@data-original",
   "homeVodImgR":"\\S+(http\\S+)",
   "homeVodMark":"/div/div[@class='duration']/text()",
