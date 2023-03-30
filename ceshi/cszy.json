@@ -551,7 +551,7 @@
             "key": "csp_xpath_3kgj",
             "name": "港剧网(XPF)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPathMacFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
