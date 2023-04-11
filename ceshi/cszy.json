@@ -570,7 +570,7 @@
             "name": "HK港剧网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
-            "m3u8ads": "hd.youyhn.com",
+  //          "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
