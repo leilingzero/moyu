@@ -1543,9 +1543,14 @@
             "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
         },
         {
-            "name": "全部",
+            "name": "bozrc",
+            "type": 0,
+            "url": "https://jx.bozrc.com:4433/player/?url="
+        },
+        {
+            "name": "keyu",
             "type": 1,
-            "url": "http://jx.pandown.pro/home/api?type=ys&uid=2691632&key=bchmpqsDJMSTWX0568&url=",
+            "url": "http://newjiexi.gotka.top/keyu3.php?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1555,46 +1560,36 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
                     "mgtv",
                     "芒果",
-                    "rx",
-                    "ltnb",
+                    "letv",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
                     "bilibili",
-                    "1905",
-                    "xigua"
-                ]
+                    "哔哩哔哩",
+                    "哔哩"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
             }
         },
         {
-            "name": "来自",
+            "name": "全部",
             "type": 1,
-            "url": "http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
+            "url": "http://www.pandown.pro/app/tkys/tkysjx.php?url="
+        },
+        {
+            "name": "来",
+            "type": 1,
+            "url": "http://124.221.180.169:999/api/?key=d35d10afa9183bb0c777b94a1a7f71c2&url="
+        },
+        {
+            "name": "自",
+            "type": 1,
+            "url": "https://jx.ccabc.cc/byg/?url="
         },
         {
             "name": "网络",
@@ -1612,29 +1607,22 @@
             "url": "https://jx.777jiexi.com/player/?url="
         },
         {
-            "name": "拿",
+            "name": "弄",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
+            "header": {
+                "User-Agent": "okhttp/4.1.0"
             }
         },
         {
-            "name": "不用",
+            "name": "不要",
             "type": 1,
             "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="
         },
         {
             "name": "客气",
             "type": 0,
-            "url": "https://jx.bozrc.com:4433/player/?url=",
-            "ext": {
-                "header": {
-                    "User-Agent": "okhttp/4.1.0"
-                }
-            }
+            "url": "https://jx.bozrc.com:4433/player/?url="
         },
         {
             "name": "坏了",
@@ -1642,57 +1630,24 @@
             "url": "http://www.miaoys.cc/vip/?url="
         },
         {
-            "name": "我",
+            "name": "我再",
+            "type": 1,
+            "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="
+        },
+        {
+            "name": "去",
             "type": 1,
             "url": "https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="
         },
         {
-            "name": "再",
+            "name": "找来",
             "type": 1,
             "url": "http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="
         },
         {
-            "name": "找来",
+            "name": "野",
             "type": 1,
-            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=,
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
+            "url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
         },
         {
             "name": "So",
@@ -1712,7 +1667,7 @@
         {
             "name": "喵喵喵",
             "type": 1,
-            "url": "https://vip.blbo.cc:2222/api/?key=948d83dd606496051c016302259e5519&url="
+            "url": "https://vip.blbo.cc:2222/api/?key=9f230d947680de53b544be747efa8e54&url="
         },
         {
             "name": "255",
