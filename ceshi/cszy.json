@@ -1,18 +1,8 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230328.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
-        {
-            "key": "csp_Kuaikan",
-            "name": "快看(SP)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "csp_YQKAPP",
             "name": "一起看(SP)",
@@ -24,6 +14,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-tx.11ty.top"
+        },
+        {
+            "key": "csp_Kuaikan",
+            "name": "快看(SP)",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_AppTT",
@@ -54,8 +54,7 @@
             "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.bulei.cc/"
+            "filterable": 1
         },
         {
             "key": "csp_LiteApple",
@@ -109,6 +108,15 @@
             "ext": "https://www.6080dy3.com"
         },
         {
+            "key": "csp_Dy1010",
+            "name": "双十影院(SP)",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Kunyu77",
             "name": "酷云七七(SP)",
             "type": 3,
@@ -118,11 +126,10 @@
             "filterable": 1
         },
         {
-            "key": "csp_AppMr",
-            "name": "明明影视(SP)",
+            "key": "csp_Bdys01",
+            "name": "哔嘀影视(SP)",
             "type": 3,
-            "api": "csp_AppMr",
-            "m3u8ads": "hd.youyhn.com",
+            "api": "csp_Bdys01",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -137,17 +144,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_MeiJu69",
-            "name": "69美剧(SP)",
-            "type": 3,
-            "api": "csp_MeiJu69",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/"
         },
         {
             "key": "csp_Ddrk",
@@ -187,6 +183,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_AppMr",
+            "name": "明明影视(SP)",
+            "type": 3,
+            "api": "csp_AppMr",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_Zxzj",
             "name": "在线之家(SP)",
             "type": 3,
@@ -221,16 +227,6 @@
             "name": "神马影院(SP)",
             "type": 3,
             "api": "csp_Smdyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bdys01",
-            "name": "哔嘀影视(SP)",
-            "type": 3,
-            "api": "csp_Bdys01",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -278,25 +274,26 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_Nkdy",
-            "name": "耐看电影(SP)",
+            "key": "csp_MeiJu69",
+            "name": "69美剧(SP)",
             "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_MeiJu69",
             "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "ext": "https://www.69mj.com/"
         },
         {
-            "key": "csp_Hlsp",
-            "name": "黑料影视(SP)",
+            "key": "csp_MeiJu692",
+            "name": "🗽69美剧┃直连",
+            "api": "csp_AppYsV2",
             "type": 3,
-            "api": "csp_Hlsp",
-            //"m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
+            "m3u8ads": "hd.youyhn.com",
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json"
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "csp_SP33",
@@ -384,6 +381,27 @@
             "filterable": 1
         },
         {
+            "key": "csp_Nkdy",
+            "name": "耐看电影(SP)",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Hlsp",
+            "name": "黑料影视(SP)",
+            "type": 3,
+            "api": "csp_Hlsp",
+            //"m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json"
+        },
+        {
             "key": "csp_Yht",
             "name": "野荷塘(SP)",
             "type": 3,
@@ -427,16 +445,6 @@
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
-            "key": "csp_Dy1010",
-            "name": "双十影院(SP)",
-            "type": 3,
-            "api": "csp_Dy1010",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
-        },
-        {
             "key": "csp_SP2345",
             "name": "2345影视(SP)",
             "type": 3,
@@ -469,7 +477,7 @@
             "type": 3,
             "playerType": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js",
-            "ext": "Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://ghproxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/index.php"
+            "ext": "Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"
         },
         {
             "key": "直播转点播",
@@ -562,6 +570,7 @@
             "name": "HK港剧网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
+            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1175,6 +1184,13 @@
             "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/有声小说吧2.json"
         },
         {
+            "key": "drpy_js_有声小说吧",
+            "name": "有声小说巴js",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
+        },
+        {
             "key": "csp_XYQH外剧",
             "name": "️外剧┃XH",
             "type": 3,
@@ -1236,7 +1252,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "泥视频┃墙外",
+            "name": "泥巴┃墙外",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -1265,7 +1281,7 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙",
             "type": 3,
-            "api": "http://id.ganggang.live:63/js/drpy.min.js",
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
             "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -1379,8 +1395,9 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
+            "ext": "http://饭太硬.ga/x/json/alist.json"
             //"ext": "http://cdn.饭太硬.ga/tv/alist.json"
-            "ext": "http://我不是.肥猫.love:63/json/alist3.json"
+            //"ext": "http://我不是.肥猫.love:63/json/alist3.json"
         },
         {
             "key": "csp_Alist2",
@@ -1392,6 +1409,16 @@
             "filterable": 0,
             //"ext": "http://101.34.67.237/txt/json/alist.json"
             "ext": "http://我不是.肥猫.love:63/alist.json"
+        },
+        {
+            "key": "csp_WoGG",
+            "name": "WoGG",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ali.饭太硬.ml/alitoken"
         },
         {
             "key": "csp_Paper",
