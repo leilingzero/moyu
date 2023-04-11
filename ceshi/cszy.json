@@ -1615,8 +1615,10 @@
             "name": "拿",
             "type": 1,
             "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-            "header": {
-                "User-Agent": "okhttp/4.1.0"
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
             }
         },
         {
@@ -1628,8 +1630,10 @@
             "name": "客气",
             "type": 0,
             "url": "https://jx.bozrc.com:4433/player/?url=",
-            "header": {
-                "User-Agent": "okhttp/4.1.0"
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
             }
         },
         {
