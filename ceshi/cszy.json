@@ -376,7 +376,8 @@
             "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7"
         },
         {
             "key": "csp_Hlsp",
@@ -386,7 +387,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230328.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
         },
         {
             "key": "csp_Yht",
