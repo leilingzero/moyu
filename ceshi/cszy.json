@@ -1088,7 +1088,7 @@
             "name": "233动漫(XBiu)",
             "type": 3,
             "api": "csp_XBiu",
-            "ext": "233dm.net/show/{cateId}--------{catePg}---.html"
+            "ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"
         },
         {
             "key": "csp_XBiu_COKEMV",
