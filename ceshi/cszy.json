@@ -932,6 +932,46 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/映迷影院.json"
         },
         {
+            "key": "csp_XBPQ_爱看影院",
+            "name": "爱看影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/爱看影院.json"
+        },
+        {
+            "key": "csp_XBPQ_无名小站",
+            "name": "无名小站(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/无名小站.json"
+        },
+        {
+            "key": "csp_XBPQ_野荷塘影院",
+            "name": "野荷塘影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/野荷塘影院.json"
+        },
+        {
+            "key": "csp_XBPQ_耐看点播",
+            "name": "耐看点播(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/耐看点播.json"
+        },
+        {
             "key": "csp_XBPQ_buka",
             "name": "️不卡影院(XBPQ)",
             "type": 3,
