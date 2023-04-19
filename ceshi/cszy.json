@@ -942,14 +942,14 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/爱看影院.json"
         },
         {
-            "key": "csp_XYQH_无名小站",
-            "name": "无名小站(XYQH)",
+            "key": "csp_XBPQ_无名小站",
+            "name": "无名小站(XBPQ)",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/无名小站.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/无名小站.json"
         },
         {
             "key": "csp_XBPQ_野荷塘影院",
@@ -992,7 +992,7 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/freeok.json"
         },
         {
-            "key": "csp_XBPQ_番茄",
+            "key": "csp_XBPQ_番茄影视",
             "name": "番茄影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
