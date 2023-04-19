@@ -939,7 +939,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/爱看影院.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/爱看影院.json"
         },
         {
             "key": "csp_XYQH_无名小站",
@@ -949,7 +949,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/无名小站.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/无名小站.json"
         },
         {
             "key": "csp_XBPQ_野荷塘影院",
@@ -1002,8 +1002,8 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/fanqie.json"
         },
         {
-            "key": "csp_XBPQ_干饭",
-            "name": "干饭(XBPQ)",
+            "key": "csp_XBPQ_干饭影视",
+            "name": "干饭影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 0,
