@@ -992,6 +992,66 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/大米星球2.json"
         },
         {
+            "key": "csp_XBPQ_NikeTV",
+            "name": "NikeTV(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/NikeTV.json"
+        },
+        {
+            "key": "csp_XBPQ_voflix",
+            "name": "voflix(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/voflix.json"
+        },
+        {
+            "key": "csp_XBPQ_vidhub",
+            "name": "vidhub(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/vidhub.json"
+        },
+        {
+            "key": "csp_XBPQ_看一看影视",
+            "name": "莫扎兔(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/莫扎兔.json"
+        },
+        {
+            "key": "csp_XBPQ_看一看影视",
+            "name": "看一看影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/看一看影视.json"
+        },
+        {
+            "key": "csp_XBPQ_冷曦影视",
+            "name": "冷曦影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/冷曦影视.json"
+        },
+        {
             "key": "csp_XBPQ_二次萌影视",
             "name": "二次萌影视(XBPQ)",
             "type": 3,
