@@ -1203,6 +1203,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/FosiPQ2.json"
         },
         {
+           "key": "csp_XBiu_南瓜影视",
+           "name": "南瓜影视",
+           "type": 3,
+           "api": "csp_XBiu",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 0,
+           "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
+        },
+        {
             "key": "csp_XBiu_口袋影院",
             "name": "口袋影院(XBiu)",
             "type": 3,
@@ -1696,6 +1706,12 @@
             "url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+           "name": "TV3",
+           "type": 0,
+           "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
             "group": "redirect",
