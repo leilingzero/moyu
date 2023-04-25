@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230425.jar;md5;5f336f6de028983fef9f3c8ea638dfb0",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230425.jar;md5;5f336f6de028983fef9f3c8ea638dfb0",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -223,7 +223,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys.json"
         },
         {
             "key": "csp_Ysgc",
@@ -368,7 +368,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7"
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7"
         },
         {
             "key": "csp_Hlsp",
@@ -378,8 +378,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230328.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json",
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230328.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
         },
         {
             "key": "csp_Yht",
@@ -390,7 +390,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yehetang.cc",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
             "key": "csp_Lezhu",
@@ -400,7 +400,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
             "key": "Tian",
@@ -410,7 +410,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
             "ext": "bdc1c75081e5e477189a463baa47e392"
         },
         {
@@ -421,7 +421,7 @@
             "searchable": "1",
             "quickSearch": "1",
             "filterable": "1",
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
             "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
@@ -432,7 +432,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
             "key": "csp_XYQ_lu1",
@@ -442,7 +442,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/电视直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/电视直播.json"
         },
         {
             "key": "电视直播T4",
@@ -474,7 +474,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/tvyb01.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/tvyb01.json"
         },
         {
             "key": "csp_xpath_tvyb03",
@@ -484,7 +484,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/tvyb03.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/tvyb03.json"
         },
         {
             "key": "csp_xpath_hktvmi",
@@ -494,7 +494,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/hktvmi3.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hktvmi3.json"
         },
         {
             "key": "csp_biubiu_tvyb01_xb",
@@ -504,7 +504,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/tvyb01_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/tvyb01_xb.json"
         },
         {
             "key": "TVB云播(xml)",
@@ -523,7 +523,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/gangju5.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/gangju5.json"
         },
         {
             "key": "csp_xpath_23hktv",
@@ -533,7 +533,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/23hktv.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/23hktv.json"
         },
         {
             "key": "csp_xpath_3kgj",
@@ -543,7 +543,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/3kgj.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/3kgj.json"
         },
         {
             "key": "csp_xpath_gjwhk",
@@ -554,7 +554,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/gjwhk.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/gjwhk.json"
         },
         {
             "key": "csp_biubiu_tvcys_xb",
@@ -564,7 +564,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MeowXB/tvcys_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MeowXB/tvcys_xb.json"
         },
         {
             "key": "csp_biubiu_yueyuds_xb",
@@ -574,7 +574,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/yueyuds_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/yueyuds_xb.json"
         },
         {
             "key": "csp_xpath_yueyuds",
@@ -584,7 +584,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/yueyuds.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/yueyuds.json"
         },
         {
             "key": "csp_XBPQ_Lezhu",
@@ -594,7 +594,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/乐猪影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/乐猪影视.json"
         },
         {
             "key": "csp_xpath_ysjdm",
@@ -604,7 +604,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/ysjdm.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/ysjdm.json"
         },
         {
             "key": "csp_biubiu_ysjdm_xb",
@@ -614,7 +614,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/ysjdm_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/ysjdm_xb.json"
         },
         {
             "key": "csp_biubiu_gqdm_xb",
@@ -624,7 +624,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/gqdm_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/gqdm_xb.json"
         },
         {
             "key": "csp_xpath_96ba",
@@ -634,7 +634,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/96ba.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/96ba.json"
         },
         {
             "key": "csp_xpath_agemys",
@@ -644,7 +644,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath/agemys.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/agemys.json"
         },
         {
             "key": "csp_xpath_动漫岛",
@@ -654,7 +654,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/dongmandao2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/dongmandao2.json"
         },
         {
             "key": "csp_biubiu_风车动漫",
@@ -664,7 +664,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/fengchedm.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/fengchedm.json"
         },
         {
             "key": "csp_xpath_动漫巴士",
@@ -674,7 +674,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/dm84.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/dm84.json"
         },
         {
             "key": "csp_xpath_libvio",
@@ -684,7 +684,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/Custom_XPath_Filter/libvio3.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/libvio3.json"
         },
         {
             "key": "HG影视",
@@ -712,7 +712,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/6d.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/6d.json"
         },
         {
             "key": "csp_biubiu_骚火电影",
@@ -722,7 +722,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/shdy.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/shdy.json"
         },
         {
             "key": "2022世界杯",
@@ -803,7 +803,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/789yb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/789yb.json"
         },
         {
             "key": "csp_xpath_meiju56",
@@ -813,7 +813,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/meiju562.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/meiju562.json"
         },
         {
             "key": "csp_XYQBiu_wanneng",
@@ -823,7 +823,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/wnvod.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/wnvod.json"
         },
         {
             "key": "csp_XYQBiu_大米星球",
@@ -833,7 +833,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/大米星球.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/大米星球.json"
         },
         {
             "key": "csp_xpath_qiyou",
@@ -843,7 +843,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/qiyouxp.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/qiyouxp.json"
         },
         {
             "key": "csp_biubiu_奇优影院",
@@ -853,7 +853,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/qiyou.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/qiyou.json"
         },
         {
             "key": "csp_biubiu_voflix",
@@ -863,7 +863,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/voflix.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/voflix.json"
         },
         {
             "key": "csp_biubiu_cupfox",
@@ -873,7 +873,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/cupfox.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/cupfox.json"
         },
         {
             "key": "金鹰资源",
@@ -910,7 +910,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/秋霞影视2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/秋霞影视2.json"
         },
         {
             "key": "csp_XBPQ_映迷影视",
@@ -920,7 +920,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/映迷影院.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/映迷影院.json"
         },
         {
             "key": "csp_XYQH_爱看影院",
@@ -930,7 +930,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/爱看影院.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/爱看影院.json"
         },
         {
             "key": "csp_XBPQ_无名小站",
@@ -940,7 +940,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/无名小站.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/无名小站.json"
         },
         {
             "key": "csp_XBPQ_野荷塘影院",
@@ -950,7 +950,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/野荷塘影院.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/野荷塘影院.json"
         },
         {
             "key": "csp_XBPQ_素白白影视",
@@ -960,7 +960,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/素白白影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/素白白影视.json"
         },
         {
             "key": "csp_XBPQ_剧白白",
@@ -970,7 +970,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/剧白白.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/剧白白.json"
         },
          {
             "key": "csp_XBPQ_大米星球",
@@ -980,7 +980,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/大米星球2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/大米星球2.json"
         },
         {
             "key": "csp_XBPQ_NikeTV",
@@ -990,7 +990,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/NikeTV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/NikeTV.json"
         },
         {
             "key": "csp_XBPQ_voflix",
@@ -1000,7 +1000,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/voflix.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/voflix.json"
         },
         {
             "key": "csp_XBPQ_vidhub",
@@ -1010,7 +1010,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/vidhub.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/vidhub.json"
         },
         {
             "key": "csp_XBPQ_看一看影视",
@@ -1020,7 +1020,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/莫扎兔.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/莫扎兔.json"
         },
         {
             "key": "csp_XBPQ_看一看影视",
@@ -1030,7 +1030,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/看一看影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/看一看影视.json"
         },
         {
             "key": "csp_XBPQ_冷曦影视",
@@ -1040,7 +1040,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/冷曦影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/冷曦影视.json"
         },
         {
             "key": "csp_XBPQ_二次萌影视",
@@ -1050,7 +1050,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/二次萌影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/二次萌影视.json"
         },
         {
             "key": "csp_XBPQ_耐看点播",
@@ -1060,7 +1060,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/耐看点播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/耐看点播.json"
         },
         {
             "key": "csp_XBPQ_buka",
@@ -1070,7 +1070,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/真不卡影院.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/真不卡影院.json"
         },
         {
             "key": "csp_XBPQ_FreeOK",
@@ -1080,7 +1080,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/FreeOK.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/FreeOK.json"
         },
         {
             "key": "csp_XBPQ_番茄影视",
@@ -1090,7 +1090,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/fanqie.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/fanqie.json"
         },
         {
             "key": "csp_XBPQ_干饭影视",
@@ -1100,7 +1100,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/干饭影视2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/干饭影视2.json"
         },
         {
             "key": "csp_XBPQ_ikan6",
@@ -1110,7 +1110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/ikan6.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/ikan6.json"
         },
         {
             "key": "csp_XBPQ_子子影视",
@@ -1120,7 +1120,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/子子影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/子子影视.json"
         },
         {
             "key": "csp_XBPQ_胖虎影视",
@@ -1130,7 +1130,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视.json"
         },
         {
             "key": "csp_biubiu_ting",
@@ -1140,7 +1140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/tingbook.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/tingbook.json"
         },
         {
             "key": "mtv_pc_yinfans",
@@ -1150,7 +1150,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/yinfans.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/yinfans.json"
         },
         {
             "key": "csp_XYQBiu_dsp",
@@ -1160,7 +1160,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/duanshipin.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/duanshipin.json"
         },
         {
             "key": "csp_XYQBiu_虎牙直播",
@@ -1170,7 +1170,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQBiu/huya.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/huya.json"
         },
         {
             "key": "csp_XYQBiu_17看",
@@ -1180,7 +1180,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/17看.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/17看.json"
         },
         {
             "key": "csp_XYQH_fositv影视",
@@ -1190,7 +1190,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQHiker/fositv2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/fositv2.json"
         },
         {
             "key": "csp_XBPQ_FosiPQ",
@@ -1200,7 +1200,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XBPQ/FosiPQ2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/FosiPQ2.json"
         },
         {
             "key": "csp_XBiu_口袋影院",
@@ -1246,7 +1246,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XP/dj看球.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/dj看球.json"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -1256,7 +1256,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XYQBiu/310直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/310直播.json"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -1266,7 +1266,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/XP/企鹅直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/企鹅直播.json"
         },
         {
             "key": "csp_XBPQ_zf",
@@ -1276,7 +1276,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/抓饭体育.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/抓饭体育.json"
         },
         {
             "key": "csp_XBPQ_kg",
@@ -1287,7 +1287,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/酷狗MV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/酷狗MV.json"
         },
         {
             "key": "csp_XBPQ_酷奇",
@@ -1297,7 +1297,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/酷奇MV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/酷奇MV.json"
         },
         {
             "key": "csp_XYQBiu_酷奇",
@@ -1307,7 +1307,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQBiu/酷奇MV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/酷奇MV.json"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
@@ -1317,7 +1317,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/虎牙直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/虎牙直播.json"
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -1327,7 +1327,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/斗鱼直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/斗鱼直播.json"
         },
         {
             "key": "csp_XBPQ_聚合短视频",
@@ -1337,7 +1337,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/短视频.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/短视频.json"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -1347,7 +1347,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/有声小说吧2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/有声小说吧2.json"
         },
         {
             "key": "drpy_js_有声小说吧",
@@ -1364,7 +1364,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/外剧.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/外剧.json"
         },
         {
             "key": "csp_XYQHiker皮皮鸭",
@@ -1374,7 +1374,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/皮皮鸭.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/皮皮鸭.json"
         },
         {
             "key": "csp_XYQHiker素白白",
@@ -1384,7 +1384,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/素白白.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/素白白.json"
         },
         {
             "key": "csp_XYQH野马",
@@ -1394,7 +1394,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/野马.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/野马.json"
         },
         {
             "key": "csp_XYQH追兔",
@@ -1404,7 +1404,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XYQHiker/追兔.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/追兔.json"
         },
         {
             "key": "csp_XBPQ_爱看",
@@ -1414,7 +1414,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://github.com/leilingzero/TEST301/blob/master/ganggang/XBPQ/爱看.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/爱看.json"
         },
         {
             "key": "csp_Nbys",
@@ -1461,7 +1461,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/bili3.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/bili3.json"
         },
         {
             "key": "csp_Biliych",
@@ -1471,7 +1471,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/ext/biliych.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/biliych.json"
         },
         {
             "key": "歌曲",
@@ -1481,7 +1481,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/歌曲.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/歌曲.json"
         },
         {
             "key": "戏曲",
@@ -1491,7 +1491,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/戏曲.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/戏曲.json"
         },
         {
             "key": "学习教程",
@@ -1501,7 +1501,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/学习教程.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/学习教程.json"
         },
         {
             "key": "少儿教育",
@@ -1511,7 +1511,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/少儿教育.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/少儿教育.json"
         },
         {
             "key": "小学课堂",
@@ -1521,7 +1521,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/小学课堂.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/小学课堂.json"
         },
         {
             "key": "初中课堂",
@@ -1531,7 +1531,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/初中课堂.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/初中课堂.json"
         },
         {
             "key": "高中教育",
@@ -1541,7 +1541,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/高中课堂.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/高中课堂.json"
         },
         {
             "key": "豆瓣",
