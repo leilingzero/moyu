@@ -183,8 +183,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
-            //"ext": "https://www.zxzj.org"
+            //"ext": "https://www.zxzjhd.com"
+            "ext": "https://www.zxzj.org"
         },
         {
             "key": "csp_ZxzjH3",
