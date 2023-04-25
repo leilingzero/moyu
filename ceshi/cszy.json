@@ -255,16 +255,6 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_MeiJu69",
-            "name": "69美剧(SP)",
-            "type": 3,
-            "api": "csp_MeiJu69",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/"
-        },
-        {
             "key": "csp_MeiJu69V2",
             "name": "69美剧(V2)",
             "api": "csp_AppYsV2",
@@ -275,8 +265,18 @@
             "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
+            "key": "360影视",
+            "name": "360影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/360影视2.json"
+        },
+        {
             "key": "csp_SP33",
-            "name": "360影视(SP)",
+            "name": "33影视(SP)",
             "type": 3,
             "api": "csp_SP33",
             "searchable": 1,
@@ -358,71 +358,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "csp_Nkdy",
-            "name": "耐看电影(SP)",
-            "type": 3,
-            "api": "csp_Nkdy",
-            "m3u8ads": "hd.youyhn.com",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7"
-        },
-        {
-            "key": "csp_Hlsp",
-            "name": "黑料影视(SP)",
-            "type": 3,
-            "api": "csp_Hlsp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/黑料.json",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230328.jar;md5;2427acdd749c3d413e3c9d16d4bebce3"
-        },
-        {
-            "key": "csp_Yht",
-            "name": "野荷塘(SP)",
-            "type": 3,
-            "api": "csp_Yht",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yehetang.cc",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
-        },
-        {
-            "key": "csp_Lezhu",
-            "name": "乐猪影视(SP)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
-        },
-        {
-            "key": "Tian",
-            "name": "天天影视(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
-            "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-        {
-            "key": "AppTT",
-            "name": "兔兔影院(SP)",
-            "type": "3",
-            "api": "csp_Dora",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad",
-            "ext": "110c922de7d69804467fb83d3bb664b5"
         },
         {
             "key": "csp_SP2345",
@@ -557,16 +492,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/gjwhk.json"
         },
         {
-            "key": "csp_biubiu_tvcys_xb",
-            "name": "TVC影视(XB)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MeowXB/tvcys_xb.json"
-        },
-        {
             "key": "csp_biubiu_yueyuds_xb",
             "name": "粤语电视(XB)",
             "type": 3,
@@ -585,6 +510,16 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/yueyuds.json"
+        },
+        {
+            "key": "csp_Lezhu",
+            "name": "乐猪影视(SP)",
+            "type": 3,
+            "api": "csp_Lezhu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
             "key": "csp_XBPQ_Lezhu",
@@ -1051,6 +986,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/二次萌影视.json"
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "耐看电影(SP)",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "m3u8ads": "hd.youyhn.com",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230411.jar;md5;4e76031a18cb23b27867a2c0829492b7"
         },
         {
             "key": "csp_XBPQ_耐看点播",
@@ -1750,7 +1696,7 @@
         {
             "name": "星辰云解析",
             "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v=",
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0422/analysis.php?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2392,22 +2338,6 @@
         "bilibili",
         "哔 哩",
         "哔 哩 哔 哩"
-    ],
-    "m3u8ads": [
-        {
-            "name": "过",
-            "hosts": [
-                "https://vip.ffzy",
-                "https://vip.lz",
-                "https://hd.lz"
-            ],
-            "rules": [
-                {
-                    "regexp": "ts\\r*\\n*#EXT-X-DISCONTINUITY[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                    "replace": "ts"
-                }
-            ]
-        }
     ],
     "ijk": [
         {
