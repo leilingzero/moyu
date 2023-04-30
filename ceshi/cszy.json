@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230425.jar;md5;5f336f6de028983fef9f3c8ea638dfb0",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230428.jar;md5;e911ef9b3f3c5101a90cdfd022f566f0",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+            "ext": "dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
         },
         {
             "key": "csp_BuLei",
@@ -51,7 +51,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://movie.bulei.cc$$$auto$$$sdlw1111$$$qqaa1122"
+            "ext": "http://v.ilime.cc$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_Xinsj",
@@ -183,7 +183,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
+            "ext": "https://www.zxzj.pro/"
+            //"ext": "https://www.zxzjhd.com"
             //"ext": "https://www.zxzj.org"
         },
         {
@@ -194,7 +195,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.zxzjhd.com"
+            "ext": "https://www.zxzj.pro/"
         },
         {
             "key": "csp_Lgyy",
@@ -1188,8 +1189,8 @@
             "key": "88js",
             "name": "88看球",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/88看球.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/88看球.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -1403,8 +1404,8 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙",
             "type": 3,
-            "api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js",
-            "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/兔小贝.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/兔小贝.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
