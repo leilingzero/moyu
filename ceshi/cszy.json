@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230510.jar;md5;ca446b243a4b3263cc3e3da6ea2e9628",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230512.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -979,6 +979,90 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/二次萌影视.json"
         },
         {
+            "key": "drpy_yak",
+            "name": "粤爱看",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://download.kstore.space/download/3313/js/粤爱看.js"
+        },
+        {
+            "key": "drpy_tvb",
+            "name": "云播",
+            "type": 3,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "ext": "https://download.kstore.space/download/3313/js/云播.js"
+        },
+        {
+            "key": "csp_XBPQ_xg",
+            "name": "西瓜官源",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/西瓜影视.json"
+        },
+        {
+            "key": "csp_XBPQsg",
+            "name": "思古高清",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/思古.json"
+        },
+        {
+            "key": "csp_XBPQ_539",
+            "name": "539影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/539影视2.json"
+        },
+        {
+            "key": "csp_XBPQ_98影院",
+            "name": "98影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/98影院2.json"
+        },
+        {
+            "key": "csp_XBPQ_我爱看",
+            "name": "我爱看",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/我爱看.json"
+        },
+        {
+            "key": "csp_XBPQ_看看影院",
+            "name": "看看剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/看看剧.json"
+        },
+        {
+            "key": "csp_appysv2_东方视频",
+            "name": "东方视频",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.dfspapp.com/api.php/app/"
+        },
+        {
             "key": "csp_Nkdy",
             "name": "耐看电影(SP)",
             "type": 3,
@@ -1677,9 +1761,9 @@
             "url": "Web"
         },
         {
-            "name": "爱酷解析",
+            "name": "星辰云解析",
             "type": 1,
-            "url": "http://jxapi.wutao7.top/XL/?url=",
+            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1720,9 +1804,9 @@
             }
         },
         {
-            "name": "星辰云解析",
+            "name": "爱酷解析",
             "type": 1,
-            "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0422/analysis.php?v=",
+            "url": "http://jxapi.wutao7.top/XL/?url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -2079,7 +2163,7 @@
         {
             "name": "喵喵喵",
             "type": 1,
-            "url": "https://vip.blbo.cc:2222/api/?key=948d83dd606496051c016302259e5519&url="
+            "url": "https://json.ccabc.cc/xc/?url="
         },
         {
             "name": "255",
