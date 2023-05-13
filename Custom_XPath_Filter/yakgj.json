@@ -10,7 +10,7 @@
   "cateName":"/text()",
   "cateId":"/@href",
   "cateIdR":"/vod-type-id-(\\d+)-pg-1.html",
-  "cateManual":{"港剧": "13","连续剧": "2","电影": "1","综艺": "3","动漫": "4"},
+//  "cateManual":{"港剧": "13","连续剧": "2","电影": "1","综艺": "3","动漫": "4"},
   "homeVodNode":"//ul[@class='stui-vodlist clearfix']/li/a[@class='stui-vodlist__thumb lazyload']",
   "homeVodName":"/@title",
   "homeVodId":"/@href",
