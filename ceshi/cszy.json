@@ -1064,6 +1064,26 @@
             "ext": "https://www.dfspapp.com/api.php/app/"
         },
         {
+            "key": "csp_appysv2_酷影影视",
+            "name": "酷影影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "csp_appysv2_如意影视",
+            "name": "如意影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
             "key": "csp_Nkdy",
             "name": "耐看电影(SP)",
             "type": 3,
@@ -2169,7 +2189,7 @@
         {
             "name": "255",
             "type": 1,
-            "url": "http://47.108.39.237:55/api/jsonindex.php/?key=dp2xOsl8Nws8uFdY0E&url="
+            "url": "http://124.223.51.144:999/api/?key=a8b552b9811ca030a5b58db8a8bb11d0&url="
         },
         {
             "name": "肥猫官解",
