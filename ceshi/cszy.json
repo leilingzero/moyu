@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230512.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230512.jar;md5;8ab1e35a1845822bbeec2a7e647f809f",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230516.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230516.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -187,16 +187,6 @@
             "ext": "https://www.zxzj.pro/"
             //"ext": "https://www.zxzjhd.com"
             //"ext": "https://www.zxzj.org"
-        },
-        {
-            "key": "csp_ZxzjH3",
-            "name": "在线之家H3(SP)",
-            "type": 3,
-            "api": "csp_ZxzjH3",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zxzj.pro/"
         },
         {
             "key": "csp_Lgyy",
