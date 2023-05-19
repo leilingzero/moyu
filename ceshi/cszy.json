@@ -456,11 +456,11 @@
             "key": "csp_xpath_yakgj",
             "name": "粤爱看网(XPF)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yakgj.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yak.json"
         },
         {
             "key": "csp_xpath_3kgj",
