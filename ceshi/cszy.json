@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230516.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230516.jar;md5;f8f76c056bd4f099a4b545173b16ac2e",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230520.jar;md5;e8fe5d2c9d119879e383a85df8ffd027",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230520.jar;md5;e8fe5d2c9d119879e383a85df8ffd027",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -35,6 +35,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_appysv2_酷影影视",
+            "name": "酷影影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
             "key": "csp_BuLei",
             "name": "布雷影视(SP)",
             "type": 3,
@@ -52,7 +62,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://6080dy3.com"
+            "ext": "https://6080dy4.com"
         },
         {
             "key": "csp_LibVio",
@@ -131,15 +141,6 @@
             "filterable": 0
         },
         {
-            "key": "csp_Voflix",
-            "name": "Voflix影视(SP)",
-            "type": 3,
-            "api": "csp_Voflix",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_fantuan",
             "name": "饭团(SP)",
             "type": 3,
@@ -148,6 +149,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuanhd.com"
+        },
+        {
+            "key": "csp_Voflix",
+            "name": "Voflix影视(SP)",
+            "type": 3,
+            "api": "csp_Voflix",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_Auete",
@@ -166,6 +176,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_小黄鸭",
+            "name": "小黄鸭",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
             "key": "csp_AppMr",
@@ -1074,16 +1094,6 @@
             "ext": "https://www.dfspapp.com/api.php/app/"
         },
         {
-            "key": "csp_appysv2_酷影影视",
-            "name": "酷影影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
-        },
-        {
             "key": "csp_appysv2_如意影视",
             "name": "如意影视",
             "type": 3,
@@ -1373,13 +1383,23 @@
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
-            "name": "虎牙直播",
+            "name": "虎牙直播(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/虎牙直播.json"
+        },
+        {
+            "key": "虎牙直播js",
+            "name": "虎牙直播js",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_XYQBiu_斗鱼",
@@ -1403,7 +1423,7 @@
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
-            "name": "有声小说吧",
+            "name": "有声小说吧(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -1417,6 +1437,16 @@
             "type": 3,
             "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
             "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
+        },
+        {
+            "key": "有声小说2js",
+            "name": "有声小说2",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/lib/drpy.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
         },
         {
             "key": "csp_XYQH外剧",
@@ -1626,7 +1656,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "http://饭太硬.ga/x/json/alist.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alist2.json"
+            //"ext": "http://饭太硬.ga/x/json/alist.json"
             //"ext": "http://cdn.饭太硬.ga/tv/alist.json"
             //"ext": "http://我不是.肥猫.love:63/json/alist3.json"
         },
@@ -1652,10 +1683,10 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
         },
         {
-            "key": "七夜",
-            "name": "七夜",
+            "key": "YiSo",
+            "name": "易搜(仅搜索)",
             "type": 3,
-            "api": "csp_Dovx",
+            "api": "csp_YiSo",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -1674,17 +1705,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json$$$自己去注册$$$qq112233"
         },
         {
-            "key": "YiSo",
-            "name": "易搜(仅搜索)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
-        },
-        {
             "key": "PanSou",
             "name": "盘搜(仅搜索)",
             "type": 3,
@@ -1692,6 +1712,27 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+            "changeable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+        },
+        {
+            "key": "七夜",
+            "name": "七夜(仅搜索)",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
+        },
+        {
+            "key": "TuGou",
+            "name": "土狗(仅搜索)",
+            "type": 3,
+            "api": "csp_TuGou",
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
         },
