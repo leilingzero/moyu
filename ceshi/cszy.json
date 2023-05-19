@@ -453,7 +453,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/23hktv.json"
         },
         {
-            "key": "csp_xpath_yakgj",
+            "key": "csp_xpf_yakgj",
             "name": "粤爱看网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
@@ -463,7 +463,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yakgj.json"
         },
         {
-            "key": "csp_xpath_hktvz",
+            "key": "csp_xpf_hktvz",
             "name": "粤语屋网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
