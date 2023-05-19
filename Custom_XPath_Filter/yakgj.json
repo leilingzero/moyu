@@ -1,6 +1,6 @@
 {
   "ua":"",
-  "homeUrl":"https://www.yakgj.com/",
+  "homeUrl":"https://www.yakgj.com",
   "dcVipFlag": "true",
   "pCfgJs": "https://www.yakgj.com/static/js/playerconfig.js",
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
@@ -328,7 +328,6 @@
       {"n": "人气","v": "hits"}
      ]
     }
-   ],
    ],
    "2": [
     {
