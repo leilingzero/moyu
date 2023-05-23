@@ -424,6 +424,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/tvyb03.json"
         },
         {
+            "key": "csp_xpath_hktv06",
+            "name": "TVB云播06(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hktv06.json"
+        },
+        {
             "key": "csp_xpath_hktvmi",
             "name": "hktvmi(XPF)",
             "type": 3,
