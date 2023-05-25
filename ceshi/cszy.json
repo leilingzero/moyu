@@ -2580,6 +2580,20 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
+            "name": "wuyun",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "vamoschuck",
+            "type": 0,
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+        },
+        {
             "group": "redirect",
             "channels": [
                 {
