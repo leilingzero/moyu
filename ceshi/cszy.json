@@ -467,7 +467,7 @@
             "key": "TVB云播(xml)",
             "name": "TVB云播(xml)",
             "type": 1,
-            "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
+            "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -497,8 +497,8 @@
             "name": "粤爱看网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yakgj.json"
         },
