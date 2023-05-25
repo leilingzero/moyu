@@ -21,7 +21,7 @@
   "fubiaotiqian": "#ff9900;\">",
   "fubiaotihou": "</span>",
 
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuoqian": "/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=10",
   "sousuohouzhui": "/vod/detail/id/",
   "ssmoshi": "0",
