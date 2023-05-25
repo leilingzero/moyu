@@ -523,6 +523,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yueyz.json"
         },
         {
+            "key": "csp_xpath_ykmov",
+            "name": "易看影院(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/ykmov.json"
+        },
+        {
             "key": "csp_xpath_3kgj",
             "name": "3K港剧网(XPF)",
             "type": 3,
