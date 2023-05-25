@@ -455,13 +455,13 @@
         },
         {
             "key": "csp_biubiu_tvyb01_xb",
-            "name": "TVB云播01(XB)",
+            "name": "TVB云播06(XB)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/tvyb01_xb.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/hktv06_xb.json"
         },
         {
             "key": "TVB云播(xml)",
