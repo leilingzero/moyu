@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230523.jar;md5;89fe4a02b78c136f02442851d659f1c0",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230523.jar;md5;89fe4a02b78c136f02442851d659f1c0",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230528.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230528.jar;md5;ebb1f03776fe4cb56896b10b7834739c",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
     "sites": [
@@ -9,7 +9,6 @@
             "name": "小苹果(SP)",
             "type": 3,
             "api": "csp_LiteApple",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -26,6 +25,16 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
+            "key": "csp_AppTT",
+            "name": "图图影视",
+            "type": 3,
+            "api": "csp_AppTT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="
+        },
+        {
             "key": "csp_Kuaikan",
             "name": "快看(SP)",
             "type": 3,
@@ -35,7 +44,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_appysv2_酷影影视",
+            "key": "csp_V2_酷影影视",
             "name": "酷影影视",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -62,7 +71,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://6080dy4.com"
+            "ext": "https://www.6080yy2.com/"
         },
         {
             "key": "csp_LibVio",
@@ -169,7 +178,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_红红",
+            "key": "csp_V2_红红",
             "name": "红红(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -179,7 +188,7 @@
             "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
         },
         {
-            "key": "csp_黄黄",
+            "key": "csp_V2_黄黄",
             "name": "黄黄(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
@@ -239,15 +248,6 @@
             "ext": "https://www.ysgc.vip"
         },
         {
-            "key": "csp_Panghu",
-            "name": "胖虎影视(SP)",
-            "type": 3,
-            "api": "csp_Panghu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Ys555",
             "name": "555影视(SP)",
             "type": 3,
@@ -267,7 +267,7 @@
             "filterable": 1
         },
         {
-            "key": "csp_MeiJu69V2",
+            "key": "csp_V2_MeiJu69",
             "name": "69美剧(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
@@ -493,7 +493,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/23hktv.json"
         },
         {
-            "key": "csp_xpf_yakgj",
+            "key": "csp_xpath_yakgj",
             "name": "粤爱看网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
@@ -503,7 +503,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yakgj.json"
         },
         {
-            "key": "csp_xpf_hktvz",
+            "key": "csp_xpath_hktvz",
             "name": "粤语屋网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
@@ -513,7 +513,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hktvz.json"
         },
         {
-            "key": "csp_xpf_yueyz",
+            "key": "csp_xpath_yueyz",
             "name": "粤语站网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
@@ -547,7 +547,6 @@
             "name": "HK港剧网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
-            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -631,7 +630,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/96ba.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/wzwt369.json"
         },
         {
             "key": "csp_xpath_agemys",
@@ -641,7 +640,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/agemys.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/agemys2.json"
         },
         {
             "key": "csp_xpath_动漫岛",
@@ -1124,7 +1123,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/看看剧.json"
         },
         {
-            "key": "csp_appysv2_东方视频",
+            "key": "csp_V2_东方视频",
             "name": "东方视频",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -1134,7 +1133,7 @@
             "ext": "https://www.dfspapp.com/api.php/app/"
         },
         {
-            "key": "csp_appysv2_如意影视",
+            "key": "csp_V2_如意影视",
             "name": "如意影视",
             "type": 3,
             "api": "csp_AppYsV2",
@@ -1142,6 +1141,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
+        },
+        {
+            "key": "csp_V2_多米影视",
+            "name": "多米影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+        },
+        {
+            "key": "csp_V2_豆子影视",
+            "name": "豆子影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.realdou.cn/api.php/app/"
         },
         {
             "key": "csp_Nkdy",
@@ -1742,7 +1761,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json$$$自己去注册$$$qq112233"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json$$$fanfan$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -1876,49 +1895,6 @@
             "name": "小新解析",
             "type": 1,
             "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
-        },
-        {
-            "name": "爱酷解析",
-            "type": 1,
-            "url": "http://jxapi.wutao7.top/XL/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
         },
         {
             "name": "全部",
@@ -2503,7 +2479,7 @@
             ]
         },
         {
-            "host": "www.agemys.net",
+            "host": "www.agemys.vip",
             "rule": [
                 "cdn-tos",
                 "obj/tos-cn"
@@ -2588,6 +2564,13 @@
             "url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "whpsky",
+            "type": 0,
+            "url": "https://ghproxy.com/?q=https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },
         {
             "name": "wuyun",
