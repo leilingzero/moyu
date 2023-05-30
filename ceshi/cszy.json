@@ -596,7 +596,7 @@
             "key": "csp_XYQHiker_乐猪影视",
             "name": "乐猪影视(XYQH)",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
