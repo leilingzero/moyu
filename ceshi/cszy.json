@@ -382,14 +382,14 @@
             "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
         },
         {
-            "key": "csp_XYQ_lu1",
-            "name": "电视直播(XYQH)",
+            "key": "csp_XYQH_lu1",
+            "name": "柠檬TV(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/电视直播.json",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/XYQHiker/柠檬TV2.json",
             "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -574,16 +574,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/yueyuds.json"
         },
         {
-            "key": "csp_Lezhu",
-            "name": "乐猪影视(SP)",
-            "type": 3,
-            "api": "csp_Lezhu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230204.jar;md5;a0a7ea766a7ed29fe1b93c77f54641ad"
-        },
-        {
             "key": "csp_XBPQ_Lezhu",
             "name": "乐猪影视(XBPQ)",
             "api": "csp_XBPQ",
@@ -591,7 +581,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/乐猪影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/乐猪影视2.json"
         },
         {
             "key": "csp_XYQHiker_乐猪影视",
@@ -1147,14 +1137,14 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/看看剧.json"
         },
         {
-            "key": "csp_V2_酷影影视",
-            "name": "酷影影视",
+            "key": "csp_V2_爱迪影视",
+            "name": "爱迪影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
             "key": "csp_V2_东方视频",
@@ -1174,7 +1164,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+            "ext": "http://v.dmdh.top/api.php/app/"
+//            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+        },
+        {
+            "key": "csp_V2_酷影影视",
+            "name": "酷影影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
         },
         {
             "key": "csp_V2_豆子影视",
@@ -1184,7 +1185,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ys.realdou.cn/api.php/app/"
+            "ext": "http://ys.realdou.cn:8652/api.php/app/"
+//            "ext": "http://ys.realdou.cn/api.php/app/"
         },
         {
             "key": "csp_XYQHiker_鸭奈飞影视",
@@ -1358,27 +1360,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/17看.json"
-        },
-        {
-            "key": "csp_XYQH_fositv影视",
-            "name": "fositv影视(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/fositv2.json",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_XBPQ_FosiPQ",
-            "name": "fositv影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/FosiPQ2.json"
         },
         {
             "key": "csp_XBiu_南瓜影视",
@@ -1557,6 +1538,13 @@
             "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
         },
         {
+            "key": "drpy_js_蜻蜓FM",
+            "name": "蜻蜓收音js",
+            "type": 3,
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+            "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
+        },
+        {
             "key": "有声小说2js",
             "name": "有声小说2",
             "type": 3,
@@ -1597,17 +1585,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/素白白.json",
-            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_XYQH野马",
-            "name": "️野马(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/野马.json",
             "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -1959,6 +1936,11 @@
             "name": "小新解析",
             "type": 1,
             "url": "http://xiaoxin.1080p.me/api/?key=368b2df76af1b58d897bbe31a00180c0&url="
+        },
+        {
+            "name": "小鱼之家",
+            "type": 1,
+            "url": "https://json.84jia.com/api/?key=zg2ZE0zTxIAeQPShoD&url="
         },
         {
             "name": "全部",
