@@ -597,11 +597,12 @@
             "key": "csp_XYQHiker_乐猪影视",
             "name": "乐猪影视(XYQH)",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/XYQHiker/乐猪TV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/XYQHiker/乐猪TV.json",
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
             "key": "csp_xpath_ysjdm",
@@ -1212,7 +1213,6 @@
             "name": "耐看电影(SP)",
             "type": 3,
             "api": "csp_Nkdy",
-            "m3u8ads": "hd.youyhn.com",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
