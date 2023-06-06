@@ -1337,16 +1337,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视2.json"
         },
         {
-            "key": "007影视",
-            "name": "007影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/零零七影视.json"
-        },
-        {
             "key": "csp_biubiu_ting",
             "name": "听书网（无画面）",
             "type": 3,
