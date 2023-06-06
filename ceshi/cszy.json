@@ -139,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys2.json"
         },
         {
             "key": "csp_fantuan",
@@ -1334,7 +1334,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视2.json"
+        },
+        {
+            "key": "007影视",
+            "name": "007影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/零零七影视.json"
         },
         {
             "key": "csp_biubiu_ting",
@@ -2417,6 +2427,21 @@
             "url": "https://www.1717yun.com/jx/ty.php?url="
         },
         {
+            "name": "1717",
+            "type": 0,
+            "url": "https://www.1717yun.com/1717yun/?url="
+        },
+        {
+            "name": "1988",
+            "type": 0,
+            "url": "https://vip.198830.com/?url="
+        },
+        {
+            "name": "555",
+            "type": 0,
+            "url": "https://jiexi.555jiexi.net:555/player/?url="
+        },
+        {
             "name": "诺讯",
             "type": 0,
             "url": "https://www.nxflv.com/?url="
@@ -2502,6 +2527,11 @@
             "url": "https://jsap.attakids.com/?url="
         },
         {
+            "name": "jsonplayer",
+            "type": 0,
+            "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
             "name": "爱豆",
             "type": 0,
             "url": "https://jx.aidouer.net/?url="
@@ -2525,6 +2555,11 @@
             "name": "盘古",
             "type": 0,
             "url": "https://www.pangujiexi.cc/jiexi.php?url="
+        },
+        {
+            "name": "盘古2",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
         },
         {
             "name": "Fosi嗅探",
