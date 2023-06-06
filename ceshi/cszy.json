@@ -469,7 +469,9 @@
             "key": "TVB云播(xml)",
             "name": "TVB云播(xml)",
             "type": 1,
-            "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
+//            "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
+//            "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
+            "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
