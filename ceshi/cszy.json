@@ -1843,16 +1843,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
         },
         {
-            "key": "TuGou",
-            "name": "土狗(仅搜索)",
-            "type": 3,
-            "api": "csp_TuGou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/ext/alitoken.json"
-        },
-        {
             "key": "push_agent",
             "name": "推送(爱优腾/阿里云盘/磁力链接)",
             "type": 3,
