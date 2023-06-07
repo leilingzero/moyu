@@ -6,7 +6,7 @@
   "cateId": "/@href",
   "cateIdR": "/list-(\\d+).html",
   "cateManual": {},
-  "homeVodNode": "//ul[@class='v_list']/li/div[@class='item']",
+  "homeVodNode": "//ul[contains(@class,'v_list')]/li/div[@class='item']",
   "homeVodName": "/a[@class='title']/@title",
   "homeVodId": "/a[@class='title']/@href",
   "homeVodIdR": "/v/(\\w+).html",
