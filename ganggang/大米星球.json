@@ -10,7 +10,7 @@
     "filterdata": {},
     "cat_YN_twice": "1",
     "cat_twice_pre": "class=\"module-items",
-    "cat_twice_suf": "<div class=\"fixedGroup",
+    "cat_twice_suf": "</div>",
     "cat_arr_pre": "<a",
     "cat_arr_suf": "/a>",
     "cat_pic": "referrer\" src=\"&&\"",
