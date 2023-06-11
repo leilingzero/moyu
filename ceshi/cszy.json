@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230607.jar;md5;8e5f048383b35728c4f1bb21c708c0c7",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230607.jar;md5;8e5f048383b35728c4f1bb21c708c0c7",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230611.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230611.jar;md5;f29e9bc19d40c5d4cbb271ec41172c74",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -29,6 +29,7 @@
             "name": "小苹果(SP)",
             "type": 3,
             "api": "csp_LiteApple",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -70,7 +71,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.6080yy2.com/"
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_V2_如意影视",
@@ -248,8 +249,8 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_V2_黄黄",
-            "name": "黄黄(V2)",
+            "key": "csp_V2_小黄鸭",
+            "name": "小黄鸭(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
             "filterable": 1,
@@ -423,6 +424,20 @@
             "type": 3,
             "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
             "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
+        },
+        {
+            "key": "csp_XBPQ_好趣直播",
+            "name": "好趣直播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/haoqu99.json"
+        },
+        {
+            "key": "csp_XBPQ_广播迷",
+            "name": "广播迷",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/guangbomi.json"
         },
         {
             "key": "csp_xpath_hktv02",
@@ -1014,6 +1029,26 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/二次萌影视.json"
         },
         {
+            "key": "csp_XBPQ_圣城",
+            "name": "圣城影视(XBPQ)",
+            "api": "csp_XBPQ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/圣城.json"
+        },
+        {
+            "key": "csp_XBPQ_星影",
+            "name": "星影(XBPQ)",
+            "api": "csp_XBPQ",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/星影.json"
+        },
+        {
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
@@ -1140,6 +1175,46 @@
             "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"
         },
         {
+            "key": "csp_appys_落叶",
+            "name": "落叶(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xn--yeta099v.online:66/api.php/app/"
+        },
+        {
+            "key": "csp_appys_啊班云",
+            "name": "啊班云影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://a.banwl.com/api.php/app/"
+        },
+        {
+            "key": "csp_appys_迷你库",
+            "name": "迷你库(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_appys_TV酷",
+            "name": "TV酷影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
+        {
             "key": "csp_V2_酷影影视",
             "name": "酷影影视(V2)",
             "type": 3,
@@ -1148,6 +1223,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_酷影影视2",
+            "name": "酷影影视2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.222.175.111:89/api.php/app/"
         },
         {
             "key": "csp_V2_红红",
@@ -2280,6 +2365,149 @@
             }
         },
         {
+            "name": "乌鸦",
+            "type": 1,
+            "url": "http://xhww.fun:63/乌鸦.php?url=",
+            "User-Agent": "okhttp/3.12.0"
+        },
+        {
+            "name": "我会",
+            "type": 1,
+            "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=",
+            "header": {
+                "User-Agent": "Dart/2.14 (dart:io)"
+            },
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "hulihuli",
+                    "hulihuli-",
+                    "优酷"
+                ]
+            }
+        },
+        {
+            "name": "255解芒果",
+            "type": 1,
+            "url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
+            "flag": [
+                "imgo",
+                "mgtv",
+                "芒果"
+            ]
+        },
+        {
+            "name": "修改",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url=",
+            "header": {
+                "User-Agent": "Dart/2.18 (dart:io)"
+            },
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "虾米json",
+            "url": "http://162.14.106.28/API.php?url=",
+            "type": 1,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            },
+            "header": {
+                "Referer": "https://jx.baiyu521.xyz/"
+            }
+        },
+        {
+            "name": "黄黄",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&format=json&url=",
+            "User-Agent": "Dart/2.18 (dart:io)",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "yk",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
+            "name": "左岸",
+            "type": 1,
+            "url": "https://vip.daina.hk/fyzy/json.php?&url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "yk",
+                    "CL4K",
+                    "renrenmi",
+                    "ltnb",
+                    "bilibili",
+                    "1905",
+                    "xigua"
+                ]
+            }
+        },
+        {
             "name": "So",
             "type": 0,
             "url": "https://tljiaqing.nde.tw/m3u8/?url="
@@ -2612,6 +2840,12 @@
             "regex": [
                 "is_play_url="
             ]
+        },
+        {
+            "host": "www.test.com",
+            "rule": [
+                "playwm/?video_id="
+            ]
         }
     ],
     "lives": [
@@ -2632,18 +2866,27 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "jundie",
+            "name": "TV2",
             "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "url": "aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0",
             "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "TV2",
+            "name": "TV3",
             "type": 0,
             "url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "jundie",
+            "type": 0,
+            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
