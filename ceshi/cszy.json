@@ -5,7 +5,6 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
-            "key": "csp_Miaobo",
             "name": "秒播(SP)",
             "type": 3,
             "api": "csp_Miaobo",
@@ -1052,13 +1051,13 @@
         },
         {
             "key": "csp_XBPQ_热播之家",
-            "name": "热播之家",
+            "name": "热播之家(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/热播之家.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/热播之家2.json"
         },
         {
             "key": "drpy_yak",
