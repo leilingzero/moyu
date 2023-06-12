@@ -1217,6 +1217,16 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
+            "key": "csp_appys_飞速",
+            "name": "飞速影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.lfytyl.com/api.php/app/"
+        },
+        {
             "key": "csp_V2_酷影影视",
             "name": "酷影影视(V2)",
             "type": 3,
@@ -2584,6 +2594,11 @@
             "url": "https://www.mtosz.com/erzi.php?url="
         },
         {
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xyflv.com/?url="
+        },
+        {
             "name": "虾米",
             "type": 0,
             "url": "https://jx.xmflv.com/?url="
@@ -2880,6 +2895,15 @@
             "name": "TV3",
             "type": 0,
             "url": "https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "TV4",
+            "type": 0,
+            "url": "https://tvbox.cainisi.cf/TV",
+            "playerType": 1,
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
