@@ -5,6 +5,7 @@
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
+            "key": "csp_Miaobo",
             "name": "秒播(SP)",
             "type": 3,
             "api": "csp_Miaobo",
