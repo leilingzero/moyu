@@ -1051,6 +1051,16 @@
             "jar": "http://xhww.fun:63/小米/小暴脾气2.jar;md5;95859e2220481e4c8a9d98a2d34435d8"
         },
         {
+            "key": "csp_XBPQ_热播之家",
+            "name": "热播之家",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/热播之家.json"
+        },
+        {
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
