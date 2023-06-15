@@ -1027,7 +1027,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/圣城2.json",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/圣城.json",
             "jar": "http://xhww.fun:63/小米/小暴脾气3.jar;md5;b4360dbac24e0aba72df8cddf1faf1dc"
         },
         {
@@ -1239,8 +1239,8 @@
             "ext": "http://kuyun.realku.cn/api.php/app/"
         },
         {
-            "key": "csp_V2_酷影影视2",
-            "name": "酷影影视2(V2)",
+            "key": "csp_V2_酷酷影视",
+            "name": "酷酷影视(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1268,6 +1268,16 @@
             "filterable": 1,
 //            "ext": "http://ys.realdou.cn:8652/api.php/app/"
             "ext": "http://ys.realdou.cn/api.php/app/"
+        },
+        {
+            "key": "PPY",
+            "name": "鸭鸭影视",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23450/api.php/provide/vod",
+            "playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_XYQHiker_鸭奈飞影视",
@@ -2015,7 +2025,7 @@
         {
             "name": "星辰云解析",
             "type": 1,
-            "url": "https://json.key521.cn/api/?key=080c82d4670d28ef3a3cedfc2370e21b&url=",
+            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
             "ext": {
                 "flag": [
                     "qq",
