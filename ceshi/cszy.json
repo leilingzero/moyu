@@ -420,7 +420,7 @@
             "key": "直播转点播2",
             "name": "电视直播仓2",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/直播转点播.js",
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/直播转点播2.js",
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/直播仓2.json"
         },
         {
