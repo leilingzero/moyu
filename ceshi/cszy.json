@@ -63,8 +63,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-//            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
             "ext": "https://api123.adys.app/xgapp.php/v3/"
+//            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
             "key": "csp_AppTT",
@@ -2079,7 +2079,7 @@
         {
             "name": "星辰云解析",
             "type": 1,
-            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
+            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
         },
         {
             "name": "小新解析",
@@ -2462,7 +2462,7 @@
         {
             "name": "爱酷",
             "type": 1,
-            "url": "https://api.json.icu/api/?key=aad5c2c72819716157511ef080f8d05f&url=",
+            "url": "https://api.json.icu/api/?key=aad5c2c72819716157511ef080f8d05f&url="
         },
         {
             "name": "左岸",
