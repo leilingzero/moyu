@@ -52,7 +52,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://longfei.lfytyl.com/api.php/app/"
+            "ext": "http://get.lfytyl.com/api.php/app/"
+//            "ext": "http://longfei.lfytyl.com/api.php/app/"
 //            "ext": "http://www.lfytyl.com/api.php/app/"
         },
         {
@@ -1928,7 +1929,8 @@
             "api": "https://mv.饭太硬.ml/mv/vod",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "csp_Alist1",
