@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230622.jar;md5;09baf4a03d362d96f0fc14085c343191",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230622.jar;md5;09baf4a03d362d96f0fc14085c343191",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230625.jar;md5;6b685af783259513bc64b2c9de1c2b8a",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230625.jar;md5;6b685af783259513bc64b2c9de1c2b8a",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -18,10 +18,11 @@
             "name": "饭团(SP)",
             "type": 3,
             "api": "csp_Fantuan",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
-//            "ext": "https://www.fantuanhd.com"
+            "filterable": 1,
+            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_YQKAPP",
@@ -52,7 +53,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://get.lfytyl.com/api.php/app/"
+            "ext": "http://big.lfytyl.com/api.php/app/"
+//            "ext": "http://get.lfytyl.com/api.php/app/"
 //            "ext": "http://longfei.lfytyl.com/api.php/app/"
 //            "ext": "http://www.lfytyl.com/api.php/app/"
         },
@@ -161,7 +163,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://tv.libvio.cc/"
+            "ext": "https://www.libvio.cc/"
         },
         {
             "key": "csp_Bttwo",
