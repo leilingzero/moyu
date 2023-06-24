@@ -528,14 +528,14 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/23hktv.json"
         },
         {
-            "key": "csp_xpath_yakgj",
+            "key": "csp_xpath_gjyak",
             "name": "粤爱看网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/yakgj.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/gjyak.json"
         },
         {
             "key": "csp_xpath_hktvz",
@@ -546,6 +546,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hktvz.json"
+        },
+        {
+            "key": "csp_xpath_hanjq",
+            "name": "粤语屋网2(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hanjq.json"
         },
         {
             "key": "csp_xpath_yueyz",
@@ -578,14 +588,14 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/3kgj.json"
         },
         {
-            "key": "csp_xpath_gjwhk",
+            "key": "csp_xpath_hkgjw",
             "name": "HK港剧网(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/gjwhk.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/hkgjw.json"
         },
         {
             "key": "csp_biubiu_yueyuds_xb",
@@ -676,7 +686,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/agemys2.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/agedm.json"
         },
         {
             "key": "csp_xpath_动漫岛",
@@ -1068,11 +1078,21 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/热播之家2.json"
         },
         {
+            "key": "csp_XBPQ_零零七影视",
+            "name": "零零七影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/零零七影视.json"
+        },
+        {
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://download.kstore.space/download/3313/js/粤爱看.js"
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/lib/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/js/粤爱看.json"
         },
         {
             "key": "drpy_tvb",
@@ -1342,8 +1362,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-//            "ext": "http://ys.realdou.cn:8652/api.php/app/"
             "ext": "http://ys.realdou.cn/api.php/app/"
+//            "ext": "http://ys.realdou.cn:8652/api.php/app/"
         },
         {
             "key": "云云资源",
@@ -2877,6 +2897,50 @@
             "host": "www.test.com",
             "rule": [
                 "playwm/?video_id="
+            ]
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
             ]
         }
     ],
