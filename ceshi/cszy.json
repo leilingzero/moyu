@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230628.jar;md5;6fb0a205b857f35e165a5f8cb2f8056d",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230628.jar;md5;6fb0a205b857f35e165a5f8cb2f8056d",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230630.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230630.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -24,6 +24,15 @@
             "ext": "https://www.fantuan3.com"
         },
         {
+            "key": "陌陌",
+            "name": "陌陌影视(SP)",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "csp_V2_爱迪影视",
             "name": "爱迪影视(V2)",
             "type": 3,
@@ -35,17 +44,8 @@
 //            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
-            "key": "csp_YT",
-            "name": "探探(SP)",
-            "type": 3,
-            "api": "csp_YT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_V2_豆子影视",
-            "name": "豆子影视(V2)",
+            "key": "csp_V2_酷云影视",
+            "name": "酷云影视(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -53,6 +53,15 @@
             "filterable": 1,
             "ext": "http://ys.realdou.cn/api.php/app/"
 //            "ext": "http://ys.realdou.cn:8652/api.php/app/"
+        },
+        {
+            "key": "csp_YT",
+            "name": "探探(SP)",
+            "type": 3,
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_YQKAPP",
@@ -64,16 +73,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_LiteApple",
-            "name": "小苹果(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_Kuaikan",
@@ -101,6 +100,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉影视(SP)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_Czsapp",
@@ -230,24 +239,14 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉影视(SP)",
+            "key": "csp_LiteApple",
+            "name": "小苹果(SP)",
             "type": 3,
-            "api": "csp_Xinsj",
+            "api": "csp_LiteApple",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.6080yy3.com/"
-        },
-        {
-            "key": "csp_BuLei",
-            "name": "布雷影视(SP)",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
+            "filterable": 1
         },
         {
             "key": "csp_appys_飞速",
@@ -264,8 +263,18 @@
 //            "ext": "http://www.lfytyl.com/api.php/app/"
         },
         {
+            "key": "csp_appys_飞速2",
+            "name": "飞速影视2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.lfytv.cn/api.php/app/"
+        },
+        {
             "key": "csp_AppTT",
-            "name": "图图影视",
+            "name": "图图影视(SP)",
             "type": 3,
             "api": "csp_AppTT",
             "searchable": 1,
@@ -281,6 +290,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_BuLei",
+            "name": "布雷影视(SP)",
+            "type": 3,
+            "api": "csp_BuLei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
         },
         {
             "key": "csp_V2_MeiJu69",
@@ -1110,6 +1129,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/零零七影视.json"
         },
         {
+            "key": "csp_XBPQ_飞云影视",
+            "name": "飞云影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/飞云.json"
+        },
+        {
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
@@ -1257,6 +1286,16 @@
             "ext": "http://xn--yeta099v.online:66/api.php/app/"
         },
         {
+            "key": "csp_appys_落叶2",
+            "name": "落叶2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://luoye.shop:66/api.php/app/"
+        },
+        {
             "key": "csp_appys_啊班云",
             "name": "啊班云影视(V2)",
             "type": 3,
@@ -1305,6 +1344,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://124.222.175.111:89/api.php/app/"
+        },
+        {
+            "key": "csp_V2_可可影视",
+            "name": "可可影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
         },
         {
             "key": "csp_V2_看看剧",
@@ -1365,6 +1414,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yanetflix.me/api.php/app/"
+        },
+        {
+            "key": "csp_V2_优世界",
+            "name": "优世界(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://dpg.laoxie.icu/api.php/app/"
         },
         {
             "key": "csp_V2_红红",
@@ -2110,6 +2169,11 @@
             "url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="
         },
         {
+            "name": "左岸解析",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
             "name": "小城解析",
             "type": 1,
             "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
@@ -2130,7 +2194,12 @@
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
         },
         {
-            "name": "牛逼",
+            "name": "牛牛",
+            "type": 1,
+            "url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
+        },
+        {
+            "name": "逼逼",
             "type": 1,
             "url": "http://json.g9.pub:66/?url=",
             "ext": {
@@ -2355,10 +2424,11 @@
             }
         },
         {
-            "name": "乌鸦",
+            "name": "夜曲",
             "type": 1,
 //            "url": "http://xhww.fun:63/乌鸦.php?url=",
-            "url": "http://xhww.fun:63/公众号1神秘的哥哥们.php?url=",
+//            "url": "http://xhww.fun:63/公众号1神秘的哥哥们.php?url=",
+            "url": "http://xhww.fun:63/爱肥猫.php?url=",
             "User-Agent": "okhttp/3.12.0"
         },
         {
@@ -2379,7 +2449,7 @@
         {
             "name": "窗外",
             "type": 1,
-            "url": "http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
+            "url": "http://ysjx.pingtouge.top/api/?key=bDJtCIVT3oe8bTN9eY&url=",
             "header": {
                 "User-Agent": "Dart/2.14 (dart:io)"
             }
@@ -2387,10 +2457,7 @@
         {
             "name": "落叶",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url=",
-            "header": {
-                "User-Agent": "Dart/2.18 (dart:io)"
-            }
+            "url": "https://110.42.2.98:33333/api/?key=6JsNUcM5473RcARVLg&url="
         },
         {
             "name": "255解芒果",
@@ -3017,7 +3084,8 @@
                     "name": "redirect",
                     "urls": [
                         //"proxy://do=live&type=txt&ext=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0"
-                        "proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
+                        //"proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="
+                        "proxy://do=live&type=txt&ext=aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3R2YnMudHh0
                     ]
                 }
             ]
