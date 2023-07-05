@@ -700,14 +700,14 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/ysjdm_xb.json"
         },
         {
-            "key": "csp_biubiu_gqdm_xb",
-            "name": "异世界动漫2(XB)",
+            "key": "csp_xpath_gqdm",
+            "name": "异世界动漫2(XPF)",
             "type": 3,
-            "api": "csp_XBPQ",
+            "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/gqdm_xb.json"
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/gqdm.json"
         },
         {
             "key": "csp_xpath_96ba",
