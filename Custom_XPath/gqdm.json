@@ -18,7 +18,7 @@
  "homeVodImg": "/a/@data-original",
  "homeVodImgR": "\\S+(http\\S+)",
  "homeVodMark": "/a/span[@class='pic_text text_right']/text()",
- "cateUrl": "https://www.gqdm.net/index.php/vod/show{cateId}/by/{by}/class/{class}/id/20/lang/{lang}/page/{catePg}/year/{year}.html",
+ "cateUrl": "https://www.gqdm.net/index.php/vod/show{cateId}/by/{by}/class/{class}/id/{id}/lang/{lang}/page/{catePg}/year/{year}.html",
  "cateVodNode": "//ul[contains(@class,'vodlist vodlist_wi ')]/li",
  "cateVodName": "/div/p/a/text()",
  "cateVodId": "/a/@href",
@@ -68,6 +68,14 @@
  "filter": {
     "": [
       {
+        "key": "id",
+        "name": "状态",
+        "value": [
+          {"n": "新番","v": "22"},
+          {"n": "完结","v": "20"}
+        ]
+      },
+      {
         "key": "cateId",
         "name": "分类",
         "value": [
@@ -115,6 +123,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
@@ -166,6 +175,14 @@
     ],
     "/area/日本": [
       {
+        "key": "id",
+        "name": "状态",
+        "value": [
+          {"n": "新番","v": "22"},
+          {"n": "完结","v": "20"}
+        ]
+      },
+      {
         "key": "cateId",
         "name": "分类",
         "value": [
@@ -213,6 +230,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
@@ -264,6 +282,14 @@
     ],
     "/area/中國": [
       {
+        "key": "id",
+        "name": "状态",
+        "value": [
+          {"n": "新番","v": "22"},
+          {"n": "完结","v": "20"}
+        ]
+      },
+      {
         "key": "cateId",
         "name": "分类",
         "value": [
@@ -311,6 +337,7 @@
         "name": "年份",
         "value": [
           {"n": "全部","v": ""},
+          {"n": "2023","v": "2023"},
           {"n": "2022","v": "2022"},
           {"n": "2021","v": "2021"},
           {"n": "2020","v": "2020"},
