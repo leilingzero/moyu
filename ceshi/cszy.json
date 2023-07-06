@@ -1,9 +1,19 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230630.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230630.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230707.jar;md5;88c55af008dbd9344f3cf95e6f426a2a",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230707.jar;md5;88c55af008dbd9344f3cf95e6f426a2a",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
+        {
+            "key": "csp_YGP",
+            "name": "预告片世界(SP)",
+            "type": 3,
+            "api": "csp_YGP",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0
+        },
         {
             "key": "csp_DuoX",
             "name": "多线(SP)",
@@ -11,7 +21,9 @@
             "api": "csp_DuoX",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
         },
         {
             "key": "csp_fantuan",
@@ -22,15 +34,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.fantuan3.com"
-        },
-        {
-            "key": "陌陌",
-            "name": "陌陌影视(SP)",
-            "type": 3,
-            "api": "csp_MmYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "csp_V2_爱迪影视",
@@ -56,9 +59,18 @@
         },
         {
             "key": "csp_YT",
-            "name": "探探(SP)",
+            "name": "影探(SP)",
             "type": 3,
             "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "蘑菇影视",
+            "name": "蘑菇影视(SP)",
+            "type": 3,
+            "api": "csp_MmYs",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -271,6 +283,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://www.lfytv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_appys_影探",
+            "name": "影探(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ytcms.lfytyl.com/api.php/app/"
         },
         {
             "key": "csp_AppTT",
@@ -690,6 +712,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/ysjdm.json"
         },
         {
+            "key": "csp_xpath_gqdm",
+            "name": "高清动漫(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/gqdm.json"
+        },
+        {
             "key": "csp_biubiu_ysjdm_xb",
             "name": "异世界动漫(XB)",
             "type": 3,
@@ -698,16 +730,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/YuanHsing/MaooXB2/ysjdm_xb.json"
-        },
-        {
-            "key": "csp_xpath_gqdm",
-            "name": "异世界动漫2(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/gqdm.json"
         },
         {
             "key": "csp_xpath_96ba",
@@ -1296,6 +1318,26 @@
             "ext": "http://luoye.shop:66/api.php/app/"
         },
         {
+            "key": "csp_appys_优视界",
+            "name": "优视界资源站(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://lg.tvcms.top/api.php/app/"
+        },
+        {
+            "key": "csp_appys_蘑菇",
+            "name": "蘑菇影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.moguys.xyz/api.php/app/"
+        },
+        {
             "key": "csp_appys_啊班云",
             "name": "啊班云影视(V2)",
             "type": 3,
@@ -1689,7 +1731,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/dj看球.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/dj看球2.json"
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -1699,7 +1741,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/310直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/310直播2.json"
         },
         {
             "key": "csp_XPath_企鹅体育",
@@ -1709,7 +1751,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/企鹅直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XP/企鹅直播2.json"
         },
         {
             "key": "csp_XBPQ_zf",
@@ -1740,7 +1782,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/酷奇MV.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/酷奇MV2.json"
         },
         {
             "key": "csp_XYQBiu_酷奇",
@@ -1781,7 +1823,18 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/斗鱼直播.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQBiu/斗鱼直播.json"
+        },
+        {
+            "key": "csp_XYQHiker_斗鱼",
+            "name": "斗鱼直播(XYQH)",
+            "type": 3,
+            "api": "csp_XYQBiu",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQHiker/斗鱼直播.json",
+            "jar": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
             "key": "csp_XBPQ_聚合短视频",
@@ -1791,7 +1844,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/短视频.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/短视频2.json"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -2194,12 +2247,12 @@
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
         },
         {
-            "name": "牛牛",
+            "name": "影视范提供",
             "type": 1,
             "url": "http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="
         },
         {
-            "name": "逼逼",
+            "name": "刚佬",
             "type": 1,
             "url": "http://json.g9.pub:66/?url=",
             "ext": {
@@ -2430,6 +2483,29 @@
 //            "url": "http://xhww.fun:63/公众号1神秘的哥哥们.php?url=",
             "url": "http://xhww.fun:63/爱肥猫.php?url=",
             "User-Agent": "okhttp/3.12.0"
+        },
+        {
+            "name": "夜曲2",
+            "type": 1,
+            "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                }
+            }
+        },
+        {
+            "name": "小艺",
+            "type": 1,
+            "url": "https://xjx.tvcms.top/api/?key=86e9e99ae4e23391b0531a2489f57273&url=",
+            "flag": [
+                "mmal",
+                "TD",
+                "TDB"
+            ],
+            "header": {
+                "User-Agent": "okhttp/3.12.11"
+            }
         },
         {
             "name": "看看剧",
@@ -3009,7 +3085,8 @@
         {
             "name": "live2",
             "type": 0,
-            "url": "http://hz752.love:63/txt/tvbs.txt",
+//            "url": "http://hz752.love:63/txt/tvbs.txt",
+            "url": "http://hz752.love:63/txt/ysbox.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
