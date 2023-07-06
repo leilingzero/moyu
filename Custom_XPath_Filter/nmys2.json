@@ -25,7 +25,7 @@
       "cateVodImg": "//@data-echo",
       "cateVodImgR": "",
       "cateVodMark": "/div/span[2]/span/em/text()",
-      "dtUrl": "https://v.cnmcom.com/{vid}.html",
+      "dtUrl": "https://v.cnmcom.com/{vid}",
       "dtNode": "//body",
       "dtName": "//section[@class='page-hd']/a/@title",
       "dtNameR": "",
