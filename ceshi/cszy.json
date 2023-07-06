@@ -1829,7 +1829,7 @@
             "key": "csp_XYQHiker_斗鱼",
             "name": "斗鱼直播(XYQH)",
             "type": 3,
-            "api": "csp_XYQBiu",
+            "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
