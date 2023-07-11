@@ -97,7 +97,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "http://ys.realdou.cn/api.php/app/"
+            "ext": "https://ys.realdou.cn/api.php/app/"
 //            "ext": "http://ys.realdou.cn:8652/api.php/app/"
         },
         {
@@ -295,6 +295,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://www.lfytv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_appys_飞速3",
+            "name": "飞速影视3(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://ytcms.lfytyl.com/api.php/app/"
         },
         {
             "key": "csp_appys_影探",
@@ -1044,6 +1054,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/剧白白2.json"
         },
         {
+            "key": "csp_XBPQ_蚂蚁影院",
+            "name": "蚂蚁影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/蚂蚁影院.json"
+        },
+        {
             "key": "csp_XBPQ_大米星球",
             "name": "大米星球(XBPQ)",
             "type": 3,
@@ -1186,6 +1206,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/飞云.json"
+        },
+        {
+            "key": "drpy_布蕾",
+            "name": "布蕾(js)",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/js/布蕾.json"
         },
         {
             "key": "drpy_yak",
@@ -1355,6 +1382,16 @@
             "ext": "https://lg.tvcms.top/api.php/app/"
         },
         {
+            "key": "csp_appys_伊人",
+            "name": "伊人(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://1cms.redpors.cn/api.php/app/"
+        },
+        {
             "key": "csp_appys_蘑菇",
             "name": "蘑菇影视(V2)",
             "type": 3,
@@ -1362,7 +1399,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.moguys.xyz/api.php/app/"
+            "ext": "https://www.gvideo.me/api.php/app/"
+//            "ext": "https://www.moguys.xyz/api.php/app/"
         },
         {
             "key": "csp_appys_啊班云",
@@ -1413,6 +1451,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://124.222.175.111:89/api.php/app/"
+        },
+        {
+            "key": "csp_V2_mogai",
+            "name": "mogai(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.31.2.112:8868/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_V2_可可影视",
@@ -2655,6 +2703,17 @@
                     "xigua"
                 ]
             }
+        },
+        {
+            "name": "黄黄2",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
+            "User-Agent": "okhttp/3.12.0",
+        }
+        {
+            "name": "红红",
+            "type": 1,
+            "url": "https://qq.396pay.cn/home/api?type=ys&uid=3927563&key=ainsuwyBDEFGNQS037&url="
         },
         {
             "name": "爱酷",
