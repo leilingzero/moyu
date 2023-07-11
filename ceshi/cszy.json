@@ -2708,8 +2708,8 @@
             "name": "黄黄2",
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-            "User-Agent": "okhttp/3.12.0",
-        }
+            "User-Agent": "okhttp/3.12.0"
+        },
         {
             "name": "红红",
             "type": 1,
