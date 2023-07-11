@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230707.jar;md5;88c55af008dbd9344f3cf95e6f426a2a",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230711.jar;md5;2d55815a43895b1ed5f48ccbb1630f6a",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230712.jar;md5;f024a5e507951d3c20514202aa6cf5fe",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230712.jar;md5;f024a5e507951d3c20514202aa6cf5fe",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -13,16 +13,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "csp_DuoX",
-            "name": "多线(SP)",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "蘑菇影视",
@@ -46,15 +36,14 @@
             "changeable": 1
         },
         {
-            "key": "csp_fantuan",
-            "name": "饭团(SP)",
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.fantuan3.com"
+            "filterable": 0,
+            "changeable": 1
         },
         {
             "key": "csp_V2_爱迪影视",
@@ -69,6 +58,16 @@
 //            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
+            "key": "csp_DuoX",
+            "name": "多线(SP)",
+            "type": 3,
+            "api": "csp_DuoX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Kunyu77",
             "name": "酷云七七(SP)",
             "type": 3,
@@ -77,6 +76,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "csp_fantuan",
+            "name": "饭团(SP)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_V2_酷云影视",
@@ -142,16 +152,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.6080yy3.com/"
-        },
-        {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1
         },
         {
             "key": "csp_Cokemv",
