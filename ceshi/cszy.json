@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230713.jar;md5;373edf85def4a2a644f8c41364ecab75",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230713.jar;md5;373edf85def4a2a644f8c41364ecab75",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230716.jar;md5;25c5d6aaa6858cc5b9a088b98947e06b",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230716.jar;md5;25c5d6aaa6858cc5b9a088b98947e06b",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -13,6 +13,16 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0
+        },
+        {
+            "key": "csp_DuoX",
+            "name": "多线(SP)",
+            "type": 3,
+            "api": "csp_DuoX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "蘑菇影视",
@@ -58,16 +68,6 @@
 //            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
-            "key": "csp_DuoX",
-            "name": "多线(SP)",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Kunyu77",
             "name": "酷云七七(SP)",
             "type": 3,
@@ -87,6 +87,14 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.fantuan3.com"
+        },
+        {
+            "key": "csp_js_荐片",
+            "name": "荐片(js)",
+            "type": 3,
+            "playerType": "1",
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/js/jp.json"
         },
         {
             "key": "csp_V2_酷云影视",
@@ -197,6 +205,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath_Filter/nmys2.json"
         },
         {
+            "key": "csp_Dy1010",
+            "name": "双十影院(SP)",
+            "type": 3,
+            "api": "csp_Dy1010",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Voflix",
             "name": "Voflix影视(SP)",
             "type": 3,
@@ -211,16 +229,6 @@
             "name": "Auete影院(SP)",
             "type": 3,
             "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Dy1010",
-            "name": "双十影院(SP)",
-            "type": 3,
-            "api": "csp_Dy1010",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3192,6 +3200,14 @@
             "type": 0,
 //            "url": "http://hz752.love:63/txt/tvbs.txt",
             "url": "http://hz752.love:63/txt/ysbox.txt",
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "live3",
+            "type": 0,
+            "url": "https://xhdwc.tk/tvlive.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
