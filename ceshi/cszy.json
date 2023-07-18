@@ -46,16 +46,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1
-        },
-        {
             "key": "csp_V2_爱迪影视",
             "name": "爱迪影视(V2)",
             "type": 3,
@@ -105,7 +95,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ys.realdou.cn/api.php/app/"
+            "ext": "http://cms.realdou.cn/api.php/app/",
+//            "ext": "https://ys.realdou.cn/api.php/app/"
 //            "ext": "http://ys.realdou.cn:8652/api.php/app/"
         },
         {
@@ -148,6 +139,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
             "changeable": 1
         },
         {
