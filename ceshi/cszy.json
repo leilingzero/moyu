@@ -819,13 +819,23 @@
         },
         {
             "key": "csp_xpath_动漫巴士",
-            "name": "动漫巴士(XB)",
+            "name": "动漫巴士(xp)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/Custom_XPath/dm84.json"
+        },
+        {
+            "key": "csp_biubiu_去看动漫",
+            "name": "去看动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XB/去看动漫.json"
         },
         {
             "key": "csp_xpath_libvio",
@@ -2172,7 +2182,8 @@
             "key": "MV_vod",
             "name": "明星MV",
             "type": 1,
-            "api": "https://mv.饭太硬.ml/mv/vod",
+            //"api": "https://mv.饭太硬.ml/mv/vod",
+            "api": "https://mv.wogg.link/mv/vod",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
