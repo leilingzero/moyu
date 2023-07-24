@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230718.jar;md5;f4ec316a5fa752ef8082328b9b28e708",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230718.jar;md5;f4ec316a5fa752ef8082328b9b28e708",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230724.jar;md5;666ca7d5468412592cd65e5a22376dc6",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230724.jar;md5;666ca7d5468412592cd65e5a22376dc6",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -15,16 +15,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_DuoX",
-            "name": "多线(SP)",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "蘑菇影视",
             "name": "蘑菇影视(SP)",
             "type": 3,
@@ -33,17 +23,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长影视(SP)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_V2_爱迪影视",
@@ -68,15 +47,36 @@
             "changeable": 1
         },
         {
-            "key": "csp_fantuan",
-            "name": "饭团(SP)",
+            "key": "csp_Czsapp",
+            "name": "厂长影视(SP)",
             "type": 3,
-            "api": "csp_Fantuan",
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 1
+        },
+        {
+            "key": "csp_LibVio",
+            "name": "LibVio(SP)",
+            "type": 3,
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.fantuan3.com"
+            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "csp_js_荐片",
@@ -104,6 +104,7 @@
             "name": "影探(SP)",
             "type": 3,
             "api": "csp_YT",
+            "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -142,16 +143,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 1
-        },
-        {
             "key": "csp_Xinsj",
             "name": "新视觉影视(SP)",
             "type": 3,
@@ -163,6 +154,17 @@
             "ext": "https://www.6080yy3.com/"
         },
         {
+            "key": "csp_fantuan",
+            "name": "饭团(SP)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.fantuan3.com"
+        },
+        {
             "key": "csp_Cokemv",
             "name": "Cokemv影院(SP)",
             "type": 3,
@@ -172,17 +174,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_LibVio",
-            "name": "LibVio(SP)",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.fun/"
         },
         {
             "key": "csp_Bttwo",
@@ -282,6 +273,16 @@
             "ext": "https://www.555dyy1.com"
         },
         {
+            "key": "csp_DuoX",
+            "name": "多线(SP)",
+            "type": 3,
+            "api": "csp_DuoX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_appys_飞速",
             "name": "飞速影视(V2)",
             "type": 3,
@@ -325,6 +326,7 @@
             "filterable": 1,
             "ext": "http://ytcms.lfytyl.com/api.php/app/"
         },
+/*
         {
             "key": "csp_LiteApple",
             "name": "小苹果(SP)",
@@ -364,6 +366,7 @@
             "filterable": 1,
             "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
         },
+*/
         {
             "key": "csp_V2_MeiJu69",
             "name": "69美剧(V2)",
@@ -1722,6 +1725,26 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/胖虎影视2.json"
         },
         {
+            "key": "csp_XBPQ_六月听书",
+            "name": "六月听书(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/六月听书.json"
+        },
+        {
+            "key": "csp_XBPQ_樱花动漫",
+            "name": "樱花动漫(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/樱花动漫.json"
+        },
+        {
             "key": "csp_biubiu_ting",
             "name": "听书网（无画面）",
             "type": 3,
@@ -1913,6 +1936,16 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "斗鱼直播js",
+            "name": "斗鱼直播js",
+            "type": 3,
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0
         },
         {
