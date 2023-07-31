@@ -2,8 +2,44 @@
   "vodPic": "https://s1.ax1x.com/2023/04/04/pp5M5Jx.png",
   "drives": [
     {
+      "name": "lan同学",
+      "server": "https://l.lantongxue.repl.co"
+    },
+    {
       "name": "小丫",
       "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "肥猫",
+      "server": "https://alist.ys-box.repl.co/"
+    },
+    {
+      "name": "蓝魔",
+      "server": "https://alistcn.repl.co"
+    },
+    {
+      "name": "小白",
+      "server": "https://xgs.rainyun.pro/"
+    },
+    {
+      "name": "听闻",
+      "server": "https://wangpan.sangxuesheng.com"
+    },
+    {
+      "name": "SB盘",
+      "server": "http://sbpan.tk"
+    },
+    {
+      "name": "repl",
+      "server": "https://ali.liucn.repl.co"
+    },
+    {
+      "name": "秋雨分享",
+      "server": "https://share.laowang.me"
+    },
+    {
+      "name": "讯维",
+      "server": "https://pan.xwbeta.com"
     },
     {
       "name": "触光",
@@ -27,7 +63,7 @@
       "server": " http://518p8g7316.goho.co:5244"
     },
     {
-      "name": "小兵",
+      "name": "小光组",
       "server": "https://6vv.app"
     },
     {
@@ -63,7 +99,7 @@
       "server": "https://8023.haohanba.cn"
     },
     {
-      "name": "雲播放",
+      "name": "云播放",
       "server": "https://quanzi.laoxianghuijia.cn"
     },
     {
@@ -75,7 +111,7 @@
       "server": "https://alist.shenzjd.com"
     },
     {
-      "name": "資源小站",
+      "name": "资源小站",
       "server": "https://960303.xyz"
     },
     {
