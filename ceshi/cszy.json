@@ -285,30 +285,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_appys_飞速",
-            "name": "飞速影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://longzhiqing.lfytyl.com/api.php/app/"
-//            "ext": "http://big.lfytyl.com/api.php/app/"
-//            "ext": "http://get.lfytyl.com/api.php/app/"
-//            "ext": "http://longfei.lfytyl.com/api.php/app/"
-//            "ext": "http://www.lfytyl.com/api.php/app/"
-        },
-        {
-            "key": "csp_appys_飞速2",
-            "name": "飞速影视2(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.lfytv.cn/api.php/app/"
-        },
-        {
             "key": "csp_appys_影探",
             "name": "影探(V2)",
             "type": 3,
@@ -316,7 +292,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+            "ext": "http://yt3823.lfytyl.com/api.php/app/"
+//            "ext": "http://ytcms.lfytyl.com/api.php/app/"
         },
         {
             "key": "csp_appys_影探2",
@@ -1088,16 +1065,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/蚂蚁影院.json"
         },
         {
-            "key": "csp_XBPQ_肥猫影视",
-            "name": "肥猫影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/芸芸.json"
-        },
-        {
             "key": "csp_XBPQ_虎虎影视",
             "name": "虎虎影视(XBPQ)",
             "type": 3,
@@ -1106,6 +1073,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/虎虎.json"
+        },
+        {
+            "key": "csp_XBPQ_新视觉影院",
+            "name": "新视觉影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/新视觉影院.json"
         },
         {
             "key": "csp_XBPQ_蘑菇影视",
@@ -1125,7 +1102,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/cddys.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/臭蛋蛋.json"
+        },
+        {
+            "key": "csp_XBPQ_达达龟",
+            "name": "达达龟(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/达达龟.json"
         },
         {
             "key": "csp_XBPQ_子子影视",
@@ -1396,55 +1383,25 @@
         },
         {
             "key": "csp_V2_如意影视",
-            "name": "如意影视",
+            "name": "如意影视(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
 //            "playUrl": "json:https://jx.4kdv.com/?url=",
+//            "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=".
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
-            "key": "csp_V2_小黄鸭",
-            "name": "小黄鸭(V2)",
+            "key": "csp_V2_耐菲影视",
+            "name": "耐菲影视(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-        },
-        {
-            "key": "csp_V2_东方视频",
-            "name": "东方视频(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.dfspapp.com/api.php/app/"
-        },
-        {
-            "key": "csp_V2_多米影视",
-            "name": "多米影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://v.dmdh.top/api.php/app/"
-//            "ext": "http://vod.dmdh.top:5680//api.php/app/"
-        },
-        {
-            "key": "csp_appys_xc",
-            "name": "小城影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"
         },
         {
             "key": "csp_appys_小米",
@@ -1517,16 +1474,6 @@
             "ext": "http://zl.yy365.vip/api.php/app/"
         },
         {
-            "key": "csp_appys_啊班云",
-            "name": "啊班云影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://a.banwl.com/api.php/app/"
-        },
-        {
             "key": "csp_appys_迷你库",
             "name": "迷你库(V2)",
             "type": 3,
@@ -1547,44 +1494,14 @@
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
         {
-            "key": "csp_V2_酷影影视",
-            "name": "酷影影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://kuyun.realku.cn/api.php/app/"
-        },
-        {
-            "key": "csp_V2_酷影2",
-            "name": "酷影2(V2)",
+            "key": "csp_V2_酷影影视2",
+            "name": "酷影影视2(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-        },
-        {
-            "key": "csp_V2_酷酷影视",
-            "name": "酷酷影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.222.175.111:89/api.php/app/"
-        },
-        {
-            "key": "csp_V2_mogai",
-            "name": "mogai(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.31.2.112:8868/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_V2_可可影视",
@@ -1617,14 +1534,14 @@
             "ext": "https://www.kuin.one/api.php/app/"
         },
         {
-            "key": "csp_V2_布雷",
-            "name": "布雷(V2)",
+            "key": "csp_V2_酷喵",
+            "name": "酷喵(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://117.175.212.198:8088/api.php/app/"
+            "ext": "http://wkking.top/ikumiao_api.php/v1.vod"
         },
         {
             "key": "csp_V2_明帝影视",
@@ -1657,6 +1574,121 @@
             "ext": "https://yanetflix.me/api.php/app/"
         },
         {
+            "key": "csp_V2_1080dyw",
+            "name": "1080电影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
+        },
+        {
+            "key": "csp_appys_飞速",
+            "name": "飞速影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://longzhiqing.lfytyl.com/api.php/app/"
+//            "ext": "http://big.lfytyl.com/api.php/app/"
+//            "ext": "http://get.lfytyl.com/api.php/app/"
+//            "ext": "http://longfei.lfytyl.com/api.php/app/"
+//            "ext": "http://www.lfytyl.com/api.php/app/"
+        },
+        {
+            "key": "csp_appys_飞速2",
+            "name": "飞速影视2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.lfytv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_东方视频",
+            "name": "东方视频(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.dfspapp.com/api.php/app/"
+        },
+        {
+            "key": "csp_V2_多米影视",
+            "name": "多米影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://v.dmdh.top/api.php/app/"
+//            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+        },
+        {
+            "key": "csp_appys_xc",
+            "name": "小城影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://jx.ccabc.cc/fanfan/api.php/app/"
+        },
+        {
+            "key": "csp_appys_啊班云",
+            "name": "啊班云影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://a.banwl.com/api.php/app/"
+        },
+        {
+            "key": "csp_V2_酷影影视",
+            "name": "酷影影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kuyun.realku.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_酷酷影视",
+            "name": "酷酷影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.222.175.111:89/api.php/app/"
+        },
+        {
+            "key": "csp_V2_mogai",
+            "name": "mogai(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.31.2.112:8868/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "csp_V2_布雷",
+            "name": "布雷(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://117.175.212.198:8088/api.php/app/"
+        },
+        {
             "key": "csp_V2_优世界",
             "name": "优世界(V2)",
             "type": 3,
@@ -1675,16 +1707,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
-        },
-        {
-            "key": "csp_V2_1080dyw",
-            "name": "1080电影(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
         },
         {
             "key": "云云资源",
@@ -2184,6 +2206,38 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/XBPQ/爱看.json"
         },
         {
+            "key": "csp_xml_新片热播",
+            "name": "新片热播(xml)",
+            "type": 1,
+            "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+/*
+            "categories": [
+                "连续剧",
+                "动漫"
+            ]
+*/
+        },
+        {
+            "key": "csp_xml_轻简",
+            "name": "轻简影视(xml)",
+            "type": 1,
+            "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+/*
+            "categories": [
+                "电影",
+                "电视剧",
+                "综艺",
+                "动漫"
+            ]
+*/
+        },
+        {
             "key": "csp_Nbys",
             "name": "泥巴┃墙外",
             "type": 3,
@@ -2317,8 +2371,19 @@
             "key": "爱看Bot",
             "name": "爱看Bot",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/Bot.js"
-            //"api": "http://alist.xn--z7x900a.love:63/Bot.js"
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/Bot.js",
+            //"api": "http://alist.xn--z7x900a.love:63/Bot.js",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "aikanbot",
+            "name": "影视爱看机器人",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/ftyjs/Bot2.js",
+//            "api": "https://qu.ax/eTKm.js",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "豆瓣",
@@ -2505,7 +2570,7 @@
         {
             "name": "小新解析",
             "type": 1,
-            "url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         },
         {
             "name": "小鱼解析",
@@ -2801,6 +2866,14 @@
             "name": "小米",
             "type": 1,
             "url": "http:/xhww.fun:63/qiqi.php?url=",
+            "header": {
+                "User-Agent": "okhttp/3.12.0"
+            }
+        },
+        {
+            "name": "小米2",
+            "type": 1,
+            "url": "http:/xhww.fun:63/爱肥猫.php?url=",
             "header": {
                 "User-Agent": "okhttp/3.12.0"
             }
