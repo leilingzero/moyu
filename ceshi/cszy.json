@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230731.jar;md5;f54c7cb6bc2c2a2112f2511fc363be98",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230731.jar;md5;f54c7cb6bc2c2a2112f2511fc363be98",
+    "spider": "https://raw.gitmirror.com/leilingzero/TEST301/master/ganggang/jar_fty230801.jar;md5;0b808ddea31654697cf64d4e237ce09f",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/TEST301/master/ganggang/jar_fty230801.jar;md5;0b808ddea31654697cf64d4e237ce09f",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
@@ -87,19 +87,14 @@
             "ext": "https://raw.gitmirror.com/leilingzero/TEST301/master/XYQ/js/jp.json"
         },
         {
-            "key": "csp_V2_酷云影视",
-            "name": "酷云影视(V2)",
+            "key": "csp_Kuying",
+            "name": "酷影(SP)",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Kuying",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
-            "ext": "http://cms.realdou.cn:27953/api.php/app/"
-//            "ext": "http://ys.realdou.cn:62703/api.php/app/"
-//            "ext": "http://cms.realdou.cn/api.php/app/"
-//            "ext": "https://ys.realdou.cn/api.php/app/"
-//            "ext": "http://ys.realdou.cn:8652/api.php/app/"
+            "changeable": 1
         },
         {
             "key": "csp_YT",
@@ -275,16 +270,6 @@
             "ext": "https://www.555dyy1.com"
         },
         {
-            "key": "csp_DuoX",
-            "name": "多线(SP)",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_appys_影探",
             "name": "影探(V2)",
             "type": 3,
@@ -305,7 +290,32 @@
             "filterable": 1,
             "ext": "http://yt3353.lfytyl.com/api.php/app/"
         },
+        {
+            "key": "csp_V2_酷云影视",
+            "name": "酷云影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://cms.realdou.cn:27953/api.php/app/"
+//            "ext": "http://ys.realdou.cn:62703/api.php/app/"
+//            "ext": "http://cms.realdou.cn/api.php/app/"
+//            "ext": "https://ys.realdou.cn/api.php/app/"
+//            "ext": "http://ys.realdou.cn:8652/api.php/app/"
+        },
 /*
+        {
+            "key": "csp_DuoX",
+            "name": "多线(SP)",
+            "type": 3,
+            "api": "csp_DuoX",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
         {
             "key": "csp_LiteApple",
             "name": "小苹果(SP)",
