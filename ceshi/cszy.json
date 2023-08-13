@@ -1,6 +1,6 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230809.jar;md5;55894a9f32ba4201a1e2b157bb2e5c91",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230809.jar;md5;55894a9f32ba4201a1e2b157bb2e5c91",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348",
+    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348",
     //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
     "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "sites": [
@@ -15,14 +15,34 @@
             "changeable": 0
         },
         {
-            "key": "蘑菇影视",
-            "name": "蘑菇影视(SP)",
+            "key": "4KHDR",
+            "name": "世界磁力(慎用)",
             "type": 3,
-            "api": "csp_MmYs",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
+        },
+        {
+            "key": "jiyingw",
+            "name": "Mp4磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
+        },
+        {
+            "key": "jiyingw",
+            "name": "极影磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/cili/jiyingw.js"
         },
         {
             "key": "csp_V2_爱迪影视",
@@ -35,6 +55,16 @@
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
 //            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+        {
+            "key": "蘑菇影视",
+            "name": "蘑菇影视(SP)",
+            "type": 3,
+            "api": "csp_MmYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "csp_Kunyu77",
@@ -82,6 +112,9 @@
             "key": "csp_js_荐片",
             "name": "荐片(js)",
             "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
             "playerType": "1",
             "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/jp.json"
@@ -108,16 +141,38 @@
             "changeable": 1
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "一起看(SP)",
+            "key": "csp_Auete",
+            "name": "Auete影院(SP)",
             "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
+            "ext": "https://www.zxzj.pro/"
+            //"ext": "https://www.zxzjhd.com"
+            //"ext": "https://www.zxzj.org"
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉影视(SP)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_Kuaikan",
@@ -140,15 +195,16 @@
             "changeable": 1
         },
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉影视(SP)",
+            "key": "csp_YQKAPP",
+            "name": "一起看(SP)",
             "type": 3,
-            "api": "csp_Xinsj",
+            "api": "csp_YQKAPP",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
+            "ext": "https://api-aws.11ty.top"
         },
         {
             "key": "csp_fantuan",
@@ -214,27 +270,15 @@
             "changeable": 1
         },
         {
-            "key": "csp_Auete",
-            "name": "Auete影院(SP)",
+            "key": "csp_Ysgc",
+            "name": "影视工场(SP)",
             "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线之家(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
+            "api": "csp_Ysgc",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.zxzj.pro/"
-            //"ext": "https://www.zxzjhd.com"
-            //"ext": "https://www.zxzj.org"
+            "ext": "https://www.ysgc1.vip"
         },
         {
             "key": "csp_Lgyy",
@@ -246,17 +290,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.lgyy.vip"
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "影视工场(SP)",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.ysgc.vip"
         },
         {
             "key": "csp_Ys555",
@@ -1598,6 +1631,16 @@
             "ext": "http://app.mengdandan.com/xgapp.php/v1/"
         },
         {
+            "key": "csp_V2_露露",
+            "name": "露露(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://154.204.178.161:67/api.php/app/"
+        },
+        {
             "key": "csp_V2_鸭奈飞",
             "name": "鸭奈飞(V2)",
             "type": 3,
@@ -2490,7 +2533,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto$$$https://wogg.xyz/"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd$$$https://wogg.xyz/"
         },
         {
             "key": "YiSo",
@@ -2501,7 +2544,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "Zhaozy",
@@ -2512,7 +2555,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto$$$fanfan$$$qqq111"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd$$$fanfan$$$qqq111"
         },
         {
             "key": "PanSou",
@@ -2523,7 +2566,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "UpYun",
@@ -2534,7 +2577,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "PanSearch",
@@ -2545,7 +2588,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "七夜",
@@ -2556,7 +2599,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -2566,7 +2609,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|fhd|auto"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         }
     ],
     "parses": [
