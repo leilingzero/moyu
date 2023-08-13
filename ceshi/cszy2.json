@@ -15,36 +15,6 @@
             "changeable": 0
         },
         {
-            "key": "4KHDR",
-            "name": "世界磁力(慎用)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
-        },
-        {
-            "key": "jiyingw",
-            "name": "Mp4磁力(慎用)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
-        },
-        {
-            "key": "jiyingw",
-            "name": "极影磁力(慎用)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/cili/jiyingw.js"
-        },
-        {
             "key": "csp_V2_爱迪影视",
             "name": "爱迪影视(V2)",
             "type": 3,
@@ -117,7 +87,7 @@
             "changeable": 1,
             "playerType": "1",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jp.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jp2.json"
         },
         {
             "key": "csp_Kuying",
@@ -278,7 +248,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.ysgc1.vip"
+            "ext": "https://www.ysgc1.cc/"
         },
         {
             "key": "csp_Lgyy",
@@ -305,14 +275,14 @@
         },
         {
             "key": "555电影",
-            "name": "555┃影视",
+            "name": "555影视(js)",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/555电影.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/555影视[V2].json"
         },
         {
             "key": "csp_appys_影探",
@@ -2475,6 +2445,36 @@
 //            "api": "https://qu.ax/eTKm.js",
             "searchable": 1,
             "quickSearch": 1
+        },
+        {
+            "key": "4KHDR",
+            "name": "世界磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
+        },
+        {
+            "key": "mp4us",
+            "name": "Mp4磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
+        },
+        {
+            "key": "jiyingw",
+            "name": "极影磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "ext": "http://smallmi.xiaohewanwan.love:63/cili/jiyingw.js"
         },
         {
             "key": "豆瓣",
