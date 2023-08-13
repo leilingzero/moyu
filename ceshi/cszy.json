@@ -1317,6 +1317,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/飞云.json"
         },
         {
+            "key": "csp_XBPQ_夜光影视",
+            "name": "夜光影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/夜光影视.json"
+        },
+        {
             "key": "drpy_布蕾",
             "name": "布蕾(js)",
             "type": 3,
