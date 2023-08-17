@@ -90,6 +90,31 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/jp2.json"
         },
         {
+            "key": "奇奇",
+            "name": "奇奇",
+            "type": 1,
+            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+            "playUrl": "json:http://lgg.llwwwll.com:5477/home/api?type=ys&uid=387611&key=ahnrvxyzCDGJKPY137&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "电影",
+                "连续剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
+            "key": "哈喽",
+            "name": "哈喽",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
+        {
             "key": "csp_Kuying",
             "name": "酷影(SP)",
             "type": 3,
@@ -605,6 +630,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/gdhktv.json"
         },
         {
+            "key": "csp_xpath_tvyb10",
+            "name": "TVB云播10(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb10.json"
+        },
+        {
             "key": "csp_biubiu_hktv06_xb",
             "name": "TVB云播06(XB)",
             "type": 3,
@@ -794,7 +829,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/g916.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/lmm1.json"
         },
         {
             "key": "csp_xpath_agemys",
