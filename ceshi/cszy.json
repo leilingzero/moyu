@@ -1646,6 +1646,16 @@
             "ext": "http://app.mengdandan.com/xgapp.php/v1/"
         },
         {
+            "key": "蚂蚁",
+            "name": "️蚂蚁┃APP",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://wushutvcms.byzz.top/api.php/app/"
+        },
+        {
             "key": "csp_V2_露露",
             "name": "露露(V2)",
             "type": 3,
@@ -1768,7 +1778,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.31.2.112:8868/mogai_api.php/v1.vod"
+            "ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"
         },
         {
             "key": "csp_V2_布雷",
