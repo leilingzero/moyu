@@ -1647,7 +1647,7 @@
         },
         {
             "key": "蚂蚁",
-            "name": "️蚂蚁┃APP",
+            "name": "️蚂蚁",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
