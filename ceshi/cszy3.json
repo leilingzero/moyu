@@ -297,7 +297,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
         },
         {
             "key": "csp_Dy1010",
@@ -307,7 +308,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
         },
         {
             "key": "csp_Lgyy",
@@ -318,7 +320,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.lgyy.vip"
+            "ext": "https://www.lgyy.vip",
+            "jar": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
         },
         {
             "key": "csp_Ys555",
