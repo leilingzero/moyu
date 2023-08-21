@@ -1,10 +1,18 @@
 {
+  //"vodPic": "https://s1.ax1x.com/2023/04/04/pp5M5Jx.png",
   "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
-//  "vodPic": "https://s1.ax1x.com/2023/04/04/pp5M5Jx.png",
   "drives": [
     {
       "name": "鸭鸭",
       "server": "http://shicheng.wang:555/"
+    },
+    {
+      "name": "NICS",
+      "server": "https://nics.eu.org"
+    },
+    {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
     },
     {
       "name": "lan同学",
@@ -90,6 +98,10 @@
     {
       "name": "一只魚",
       "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "一只魚2",
+      "server": "https://vtok.pp.ua/"
     },
     {
       "name": "七米蓝",
