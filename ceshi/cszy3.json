@@ -1,9 +1,9 @@
 {
     "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230825.jar;md5;c80207edebbe5019a688fd2eb653e005",
-    //"spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230825.jar;md5;c80207edebbe5019a688fd2eb653e005",
-    //"spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230825.jar;md5;c80207edebbe5019a688fd2eb653e005",
-    //"spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
-//    "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230825.jar;md5;c80207edebbe5019a688fd2eb653e005",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230825.jar;md5;c80207edebbe5019a688fd2eb653e005",
+//  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
+//  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "sites": [
         {
@@ -35,7 +35,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
-//            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+//          "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
             "key": "csp_Czsapp",
@@ -123,7 +123,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://guan.yy365.vip/api.php/app/"
-//            "ext": "http://zl.yy365.vip/api.php/app/"
+//          "ext": "http://zl.yy365.vip/api.php/app/"
         },
         {
             "key": "csp_V2_天天视频",
@@ -349,9 +349,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yt888168.lfytyl.com/api.php/app/"
-//            "ext": "http://yt3353.lfytyl.com/api.php/app/"
-//            "ext": "http://yt3823.lfytyl.com/api.php/app/"
-//            "ext": "http://ytcms.lfytyl.com/api.php/app/"
+//          "ext": "http://yt3353.lfytyl.com/api.php/app/"
+//          "ext": "http://yt3823.lfytyl.com/api.php/app/"
+//          "ext": "http://ytcms.lfytyl.com/api.php/app/"
         },
         {
             "key": "影探影视(js)",
@@ -383,10 +383,10 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://cms.realdou.cn:27953/api.php/app/"
-//            "ext": "http://ys.realdou.cn:62703/api.php/app/"
-//            "ext": "http://cms.realdou.cn/api.php/app/"
-//            "ext": "https://ys.realdou.cn/api.php/app/"
-//            "ext": "http://ys.realdou.cn:8652/api.php/app/"
+//          "ext": "http://ys.realdou.cn:62703/api.php/app/"
+//          "ext": "http://cms.realdou.cn/api.php/app/"
+//          "ext": "https://ys.realdou.cn/api.php/app/"
+//          "ext": "http://ys.realdou.cn:8652/api.php/app/"
         },
 /*
         {
@@ -581,7 +581,7 @@
             "key": "T4直播转点播",
             "name": "T4直播转点播",
             "type": 4,
-            //"api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==",
+//          "api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==",
             "api": "http://120.53.102.254/live?url=aHR0cDovL2Z0eXl5LnRrL2xpdmUudHh0==",
             "searchable": 0,
             "quickSearch": 0,
@@ -694,8 +694,8 @@
             "key": "TVB云播(xml)",
             "name": "TVB云播(xml)",
             "type": 1,
-//            "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
-//            "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
+//          "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
+//          "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
             "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
@@ -1575,7 +1575,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.moguys.work/api.php/app/"
-//            "ext": "https://www.moguys.xyz/api.php/app/"
+//          "ext": "https://www.moguys.xyz/api.php/app/"
         },
         {
             "key": "csp_appys_蘑菇2",
@@ -1786,10 +1786,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://longzhiqing.lfytyl.com/api.php/app/"
-//            "ext": "http://big.lfytyl.com/api.php/app/"
-//            "ext": "http://get.lfytyl.com/api.php/app/"
-//            "ext": "http://longfei.lfytyl.com/api.php/app/"
-//            "ext": "http://www.lfytyl.com/api.php/app/"
+//          "ext": "http://big.lfytyl.com/api.php/app/"
+//          "ext": "http://get.lfytyl.com/api.php/app/"
+//          "ext": "http://longfei.lfytyl.com/api.php/app/"
+//          "ext": "http://www.lfytyl.com/api.php/app/"
         },
         {
             "key": "csp_appys_飞速2",
@@ -1820,7 +1820,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://v.dmdh.top/api.php/app/"
-//            "ext": "http://vod.dmdh.top:5680//api.php/app/"
+//          "ext": "http://vod.dmdh.top:5680//api.php/app/"
         },
         {
             "key": "csp_appys_xc",
@@ -1937,7 +1937,7 @@
             "name": "禹康科技(xml)",
             "type": 1,
             "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
-//            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+//          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
             "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
             "playerType": "1",
             "searchable": 1,
@@ -2611,7 +2611,7 @@
             "key": "爱看Bot",
             "name": "爱看Bot",
             "type": 3,
-//            "api": "https://raw.iqiq.io/leilingzero/moyu/master/XYQ/ftyjs/Bot.js",
+//          "api": "https://raw.iqiq.io/leilingzero/moyu/master/XYQ/ftyjs/Bot.js",
             "api": "http://alist.xn--z7x900a.love:63/Bot.js",
             "searchable": 1,
             "quickSearch": 1
@@ -2621,7 +2621,7 @@
             "name": "影视爱看机器人",
             "type": 3,
             "api": "https://raw.iqiq.io/leilingzero/moyu/master/XYQ/ftyjs/Bot2.js",
-//            "api": "https://qu.ax/eTKm.js",
+//          "api": "https://qu.ax/eTKm.js",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -3113,12 +3113,12 @@
             "name": "小米",
             "type": 1,
             "url": "http:/xhww.fun:63/小米.php?url=",
-//            "url": "http:/xhww.fun:63/qiqi.php?url=",
-//            "url": "http:/xhww.fun:63/爱肥猫.php?url=",
-//            "url": "http:/xhww.fun:63/特别爱小米.php?url=",
-//            "url": "http://xhww.fun:63/乌鸦.php?url=",
-//            "url": "http://xhww.fun:63/公众号1神秘的哥哥们.php?url=",
-//            "url": "http://xhww.fun:63/爱肥猫.php?url=",
+//          "url": "http:/xhww.fun:63/qiqi.php?url=",
+//          "url": "http:/xhww.fun:63/爱肥猫.php?url=",
+//          "url": "http:/xhww.fun:63/特别爱小米.php?url=",
+//          "url": "http://xhww.fun:63/乌鸦.php?url=",
+//          "url": "http://xhww.fun:63/公众号1神秘的哥哥们.php?url=",
+//          "url": "http://xhww.fun:63/爱肥猫.php?url=",
             "header": {
                 "User-Agent": "okhttp/3.12.0"
             }
@@ -3754,9 +3754,9 @@
             "url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
-            //"playerType": 1,
+//          "playerType": 1,
             "ua": "okhttp/3.12.13"
-            //"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+//          "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
         },
         {
             "name": "live2",
@@ -3794,7 +3794,7 @@
         {
             "name": "TV3",
             "type": 0,
-//            "url": "http://hz752.love:63/txt/tvbs.txt",
+//          "url": "http://hz752.love:63/txt/tvbs.txt",
             "url": "http://hz752.love:63/txt/ysbox.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -3839,7 +3839,7 @@
             "name": "jundie",
             "type": 0,
             "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-//            "playerType": 1,
+//          "playerType": 1,
             "ua": "okhttp/3.12.13",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
