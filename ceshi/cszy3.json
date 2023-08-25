@@ -1937,19 +1937,13 @@
             "key": "csp_xml_禹康科技",
             "name": "禹康科技(xml)",
             "type": 1,
-//            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
-            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
+//          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
             "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
             "playerType": "1",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "categories": [
-                "电影",
-                "连续剧",
-                "综艺",
-                "动漫"
-            ]
+            "changeable": 1
         },
         {
             "key": "csp_XYQHiker_鸭奈飞影视",
