@@ -1522,8 +1522,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-//            "playUrl": "json:https://jx.4kdv.com/?url=",
-            "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=",
+            "playUrl": "json:https://jx.4kdv.com/?url=",
+//          "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=",
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
         },
         {
@@ -1537,26 +1537,6 @@
             "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
         },
         {
-            "key": "csp_appys_落叶",
-            "name": "落叶(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://luoye.shop:66/api.php/app/"
-        },
-        {
-            "key": "csp_appys_优视界",
-            "name": "优视界资源站(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://lg.tvcms.top/api.php/app/"
-        },
-        {
             "key": "csp_appys_伊人",
             "name": "伊人(V2)",
             "type": 3,
@@ -1567,17 +1547,6 @@
             "ext": "http://1cms.redpors.cn/api.php/app/"
         },
         {
-            "key": "csp_appys_蘑菇",
-            "name": "蘑菇影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.moguys.work/api.php/app/"
-//          "ext": "https://www.moguys.xyz/api.php/app/"
-        },
-        {
             "key": "csp_appys_蘑菇2",
             "name": "蘑菇影视2(V2)",
             "type": 3,
@@ -1586,16 +1555,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://11111111.moguys.xyz/api.php/app/"
-        },
-        {
-            "key": "csp_appys_简简",
-            "name": "简简影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mdy.ahailove.cn/api.php/app/"
         },
         {
             "key": "csp_appys_黑影剧院",
@@ -1708,16 +1667,6 @@
             "ext": "http://wushutvcms.byzz.top/api.php/app/"
         },
         {
-            "key": "csp_V2_露露",
-            "name": "露露(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://154.204.178.161:67/api.php/app/"
-        },
-        {
             "key": "csp_V2_鸭奈飞",
             "name": "鸭奈飞(V2)",
             "type": 3,
@@ -1726,16 +1675,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yanetflix.me/api.php/app/"
-        },
-        {
-            "key": "csp_V2_1080dyw",
-            "name": "1080电影(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
         },
         {
             "key": "csp_V2_玉米",
@@ -1757,6 +1696,78 @@
             "filterable": 1,
             "ext": "http://jh.dytt996.com:996/api.php/app/"
         },
+        {
+            "key": "csp_V2_mogai",
+            "name": "mogai(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"
+        },
+        {
+            "key": "csp_appys_落叶",
+            "name": "落叶(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://luoye.shop:66/api.php/app/"
+        },
+        {
+            "key": "csp_appys_优视界",
+            "name": "优视界资源站(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://lg.tvcms.top/api.php/app/"
+        },
+        {
+            "key": "csp_appys_蘑菇",
+            "name": "蘑菇影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.moguys.work/api.php/app/"
+//          "ext": "https://www.moguys.xyz/api.php/app/"
+        },
+        {
+            "key": "csp_appys_简简",
+            "name": "简简影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mdy.ahailove.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_露露",
+            "name": "露露(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://154.204.178.161:67/api.php/app/"
+        },
+        {
+            "key": "csp_V2_1080dyw",
+            "name": "1080电影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
+        },
+        
         {
             "key": "csp_appys_小米",
             "name": "小米(V2)",
@@ -1863,16 +1874,6 @@
             "ext": "http://124.222.175.111:89/api.php/app/"
         },
         {
-            "key": "csp_V2_mogai",
-            "name": "mogai(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://154.31.2.112:8869/mogai_api.php/v1.vod"
-        },
-        {
             "key": "csp_V2_布雷",
             "name": "布雷(V2)",
             "type": 3,
@@ -1936,8 +1937,8 @@
             "key": "csp_xml_禹康科技",
             "name": "禹康科技(xml)",
             "type": 1,
-            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
-//          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
+//            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
+            "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
             "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
             "playerType": "1",
             "searchable": 1,
