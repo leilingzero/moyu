@@ -1,7 +1,7 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230903.jar;md5;51f99bdb067984f87ee16dc026da79d2",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230903.jar;md5;51f99bdb067984f87ee16dc026da79d2",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230903.jar;md5;51f99bdb067984f87ee16dc026da79d2",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -49,14 +49,15 @@
             "changeable": 1
         },
         {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
+            "key": "率率",
+            "name": "率率(V2)",
             "type": 3,
-            "api": "csp_Ddrk",
+            "api": "csp_AppYsV2",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
         },
         {
             "key": "csp_Auete",
@@ -136,20 +137,14 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
         {
-            "key": "csp_V2_酷云影视",
-            "name": "酷云影视(V2)",
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Ddrk",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
-            "ext": "http://cms.realdou.cn:35264/api.php/app/"
-//          "ext": "http://cms.realdou.cn:27953/api.php/app/"
-//          "ext": "http://ys.realdou.cn:62703/api.php/app/"
-//          "ext": "http://cms.realdou.cn/api.php/app/"
-//          "ext": "https://ys.realdou.cn/api.php/app/"
-//          "ext": "http://ys.realdou.cn:8652/api.php/app/"
+            "changeable": 1
         },
         {
             "key": "csp_Kunyu77",
@@ -259,17 +254,6 @@
             "ext": "https://www.ysgc1.cc/"
         },
         {
-            "key": "csp_fantuan",
-            "name": "饭团(SP)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.fantuan3.com"
-        },
-        {
             "key": "csp_Bttwo",
             "name": "Bttwo(SP)",
             "type": 3,
@@ -279,6 +263,54 @@
             "filterable": 1,
             "changeable": 1,
             "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
+        },
+        {
+            "key": "影探影视(js)",
+            "name": "影探影视(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
+        },
+        {
+            "key": "肥猫荐片(js)",
+            "name": "肥猫荐片(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_appys_影探",
+            "name": "影探(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://gvvwvvvvwwwvvvvvvwvwwvwvwvwvwvwvwvwvwvwwvwvwvwvwvwvwvwvvwvwvwvv.lfytyl.com/api.php/app/"
+//          "ext": "http://yt888168.lfytyl.com/api.php/app/"
+//          "ext": "http://yt3353.lfytyl.com/api.php/app/"
+//          "ext": "http://yt3823.lfytyl.com/api.php/app/"
+//          "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        },
+/*
+        {
+            "key": "csp_fantuan",
+            "name": "饭团(SP)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.fantuan3.com"
         },
         {
             "key": "csp_Dy1010",
@@ -357,40 +389,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_appys_影探",
-            "name": "影探(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://yt888168.lfytyl.com/api.php/app/"
-//          "ext": "http://yt3353.lfytyl.com/api.php/app/"
-//          "ext": "http://yt3823.lfytyl.com/api.php/app/"
-//          "ext": "http://ytcms.lfytyl.com/api.php/app/"
-        },
-        {
-            "key": "影探影视(js)",
-            "name": "影探影视(js)",
-            "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://alist.xn--z7x900a.love:63/V2影探.js"
-        },
-        {
-            "key": "肥猫荐片(js)",
-            "name": "肥猫荐片(js)",
-            "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
-            "ext": "http://alist.xn--z7x900a.love:63/荐片.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-/*
-        {
             "key": "csp_DuoX",
             "name": "多线(SP)",
             "type": 3,
@@ -440,16 +438,6 @@
             "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
         },
 */
-        {
-            "key": "csp_V2_MeiJu69",
-            "name": "69美剧(V2)",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
         {
             "key": "360影视",
             "name": "360影视(XBPQ)",
@@ -1294,7 +1282,8 @@
             "key": "drpy_磁力熊",
             "name": "磁力熊(drpy)",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/磁力熊.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -1304,7 +1293,8 @@
             "key": "drpy_低端影视",
             "name": "低端影视(drpy)",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "playerType": "2",
             "ext": "http://alist.xn--z7x900a.love:63/yyds.js",
             "searchable": 1,
@@ -1514,6 +1504,43 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/看看剧.json"
+        },
+        {
+            "key": "csp_V2_酷云影视",
+            "name": "酷云影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://cms.realdou.cn:35264/api.php/app/"
+//          "ext": "http://cms.realdou.cn:27953/api.php/app/"
+//          "ext": "http://ys.realdou.cn:62703/api.php/app/"
+//          "ext": "http://cms.realdou.cn/api.php/app/"
+//          "ext": "https://ys.realdou.cn/api.php/app/"
+//          "ext": "http://ys.realdou.cn:8652/api.php/app/"
+        },
+        {
+            "key": "csp_V2_酷云影视3",
+            "name": "酷云影视3(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://ys.realdou.cn:2683/api.php/app/"
+        },
+        {
+            "key": "csp_V2_MeiJu69",
+            "name": "69美剧(V2)",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "csp_V2_如意影视",
@@ -1749,6 +1776,16 @@
             "ext": "http://yumi.ghlyys.com/api.php/app/"
         },
         {
+            "key": "csp_V2_一影",
+            "name": "一影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://22222.yiyingys.asia/api.php/app/"
+        },
+        {
             "key": "csp_V2_鸿运",
             "name": "鸿运(V2)",
             "type": 3,
@@ -1757,6 +1794,26 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://jh.dytt996.com:996/api.php/app/"
+        },
+        {
+            "key": "csp_V2_速看",
+            "name": "速看(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://jh.dytt996.com:996/api.php/app/"
+        },
+        {
+            "key": "csp_V2_大豆",
+            "name": "大豆(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.dadou.cm/api.php/app/"
         },
         {
             "key": "csp_appys_小米",
@@ -2395,14 +2452,16 @@
             "key": "drpy_js_有声小说吧",
             "name": "有声小说吧js",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "蜻蜓收音js",
             "type": 3,
-            "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+//          "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
             "ext": "http://alist.xn--z7x900a.love:63/蜻蜓FM.js"
         },
         {
@@ -2898,11 +2957,6 @@
             "url": "https://jx.ccabc.cc/xc/?key=5567332json&url="
         },
         {
-            "name": "星辰云解析",
-            "type": 1,
-            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
-        },
-        {
             "name": "小鱼解析",
             "type": 1,
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
@@ -2943,23 +2997,13 @@
             }
         },
         {
-            "name": "小新解析",
-            "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
-        },
-        {
-            "name": "哥哥们",
+            "name": "神秘的哥哥们",
             "type": 1,
             "url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
         },
         {
-            "name": "左岸解析",
+            "name": "解析",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
-        },
-        {
-            "name": "来自",
-            "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
@@ -2986,32 +3030,19 @@
             }
         },
         {
-            "name": "网络",
+            "name": "左岸解析",
             "type": 1,
-            "url": "https://api.cygc.xyz/analysis/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "芒果",
-                    "rx",
-                    "ltnb",
-                    "bilibili",
-                    "1905",
-                    "xigua"
-                ]
-            }
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
+            "name": "星辰云解析",
+            "type": 1,
+            "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
+        },
+        {
+            "name": "小新解析",
+            "type": 1,
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         },
         {
             "name": "大家",
@@ -3081,46 +3112,7 @@
         {
             "name": "再找来",
             "type": 1,
-            "url": "https://b.umkan.cc/API.php?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "企鹅",
-                    "IQiYi",
-                    "qiyi",
-                    "imgo",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "YouKu",
-                    "优酷",
-                    "sohu",
-                    "SoHu",
-                    "搜狐",
-                    "letv",
-                    "LeShi",
-                    "乐视",
-                    "imgo",
-                    "mgtv",
-                    "MangGuo",
-                    "芒果",
-                    "SLYS4k",
-                    "BYGA",
-                    "luanzi",
-                    "AliS",
-                    "dxzy",
-                    "bilibili",
-                    "QEYSS",
-                    "xigua",
-                    "西瓜视频",
-                    "腾讯视频",
-                    "奇艺视频",
-                    "优酷视频",
-                    "芒果视频",
-                    "乐视视频"
-                ]
-            }
+            "url": "https://b.umkan.cc/API.php?url="
         },
         {
             "name": "小艺",
@@ -3225,6 +3217,18 @@
             }
         },
         {
+            "name": "YuMi",
+            "type": 1,
+            "url": "https://jxjson.cf/json.php?url=",
+            "ext": {
+                "flag": [
+                    "qiqi-",
+                    "YuMi",
+                    "YuMi-vip"
+                ]
+            }
+        },
+        {
             "name": "探探",
             "type": 1,
             "url": "http://lflong.lyyytv.cn/json.php?url=",
@@ -3323,6 +3327,16 @@
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
             "User-Agent": "okhttp/3.12.0"
+        },
+        {
+            "name": "黄黄3",
+            "type": 1,
+            "url": "http://175.178.183.192:83/txqq.php?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/3.12.0"
+                }
+            }
         },
         {
             "name": "红红",
@@ -3763,6 +3777,7 @@
             ]
         }
     ],
+/*
     "doh": [
         {
             "name": "Google",
@@ -3807,6 +3822,7 @@
             ]
         }
     ],
+*/
     "lives": [
         {
             "name": "live",
