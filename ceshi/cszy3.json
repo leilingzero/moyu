@@ -1662,7 +1662,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playUrl": "json:http://api.sd4k.cc:666/?url=",
+//          "playUrl": "json:http://api.sd4k.cc:666/?url=",
 //          "playUrl": "json:https://jx.4kdv.com/?url=",
 //          "playUrl": "json:http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=",
             "ext": "http://cms.maoyingshi.cc/api.php/app/"
@@ -1817,6 +1817,7 @@
             "filterable": 1,
             "ext": "http://yumi.ghlyys.com/api.php/app/"
         },
+/*
         {
             "key": "csp_V2_大豆",
             "name": "大豆(V2)",
@@ -1827,7 +1828,6 @@
             "filterable": 1,
             "ext": "http://www.dadou.cm/api.php/app/"
         },
-/*
         {
             "key": "csp_appys_落叶",
             "name": "落叶(V2)",
@@ -3070,6 +3070,11 @@
             "name": "测试2",
             "type": 1,
             "url": "http://47.119.122.235:5566/json/free.php?url="
+        },
+        {
+            "name": "测试3",
+            "type": 1,
+            "url": "http://api.sd4k.cc:666/?url="
         },
         {
             "name": "小城解析",
