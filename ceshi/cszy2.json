@@ -91,6 +91,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
+        },
+        {
+            "key": "csp_js_荐片2",
+            "name": "荐片2(js)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": "1",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jp3.json"
         },
@@ -115,6 +126,37 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://www.miniku.cc/xgapp.php/v1/"
+        },
+        {
+            "key": "csp_V2_北极狐",
+            "name": "北极狐(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "csp_V2_奇奇",
+            "name": "奇奇(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://mp4.ghlyys.com/api.php/app/"
+        },
+        {
+            "key": "csp_V2_大鹏",
+            "name": "大鹏(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
         },
         {
             "key": "csp_V2_365影视",
@@ -176,7 +218,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.fun/"
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "csp_Xinsj",
@@ -266,6 +308,33 @@
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
         },
         {
+            "key": "csp_js_Bttwo",
+            "name": "Bttwo(js)",
+            "type": 3,
+          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+          //"ext": "https://drpy.cainisi.cf/js/两个BT.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
+        },
+        {
+            "key": "csp_js_555影视",
+            "name": "555影视(js)",
+            "type": 3,
+          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+          //"ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/555影视[V2].js"
+        },
+        {
             "key": "肥猫荐片(js)",
             "name": "肥猫荐片(js)",
             "type": 3,
@@ -337,17 +406,6 @@
             "changeable": 1,
             "ext": "https://www.555dyy1.com",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230731.jar;md5;f54c7cb6bc2c2a2112f2511fc363be98"
-        },
-        {
-            "key": "555电影",
-            "name": "555影视(js)",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/555影视[V2].json"
         },
         {
             "key": "csp_V2_专线",
@@ -924,8 +982,8 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/libvio3.json"
         },
         {
-            "key": "HG影视",
-            "name": "HG影视",
+            "key": "csp_xml_HG影视",
+            "name": "HG影视(xml)",
             "type": 1,
             "api": "https://hong.hgyx.vip/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -1748,16 +1806,6 @@
             "ext": "https://kankanju.cc/api.php/app/"
         },
         {
-            "key": "csp_V2_北极狐",
-            "name": "北极狐(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
-        {
             "key": "csp_V2_酷喵",
             "name": "酷喵(V2)",
             "type": 3,
@@ -1816,6 +1864,36 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://yumi.ghlyys.com/api.php/app/"
+        },
+        {
+            "key": "csp_V2_彩虹",
+            "name": "彩虹(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"
+        },
+        {
+            "key": "csp_V2_真爱",
+            "name": "真爱(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.chiguafilm.com/api.php/v1.vod"
+        },
+        {
+            "key": "csp_V2_嘉良",
+            "name": "嘉良(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.jialiangos.com/api.php/app/"
         },
 /*
         {
@@ -2367,7 +2445,8 @@
             "key": "88js",
             "name": "88看球",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+          //"api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/88看球.js",
             "style": {
                 "type": "rect",
@@ -2376,6 +2455,20 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "csp_js_qiumi",
+            "name": "Jrs球迷(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0
         },
         {
@@ -2392,6 +2485,20 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XP/dj看球2.json"
+        },
+        {
+            "key": "csp_js_310直播",
+            "name": "310看球(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
         },
         {
             "key": "csp_XYQBiu_310直播",
@@ -2448,7 +2555,8 @@
             "key": "酷奇js",
             "name": "酷奇MV(js)",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+          //"api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
             "style": {
                 "type": "rect",
@@ -2494,7 +2602,8 @@
             "key": "虎牙直播js",
             "name": "虎牙直播js",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+          //"api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
             "style": {
                 "type": "rect",
@@ -2509,7 +2618,8 @@
             "key": "斗鱼直播js",
             "name": "斗鱼直播js",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+          //"api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
             "style": {
                 "type": "rect",
@@ -2540,6 +2650,16 @@
             "filterable": 0,
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/斗鱼直播.json",
             "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "csp_js_聚合短视频",
+            "name": "聚合短视频(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
         },
         {
             "key": "csp_XBPQ_聚合短视频",
@@ -3853,7 +3973,8 @@
             "name": "lz",
             "hosts": [
                 "vip.lz",
-                "hd.lz"
+                "hd.lz",
+                "v.cdnlz"
             ],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
