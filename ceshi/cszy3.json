@@ -2184,13 +2184,13 @@
             ]
         },
         {
-            "key": "csp_xml_禹康科技",
-            "name": "禹康科技(xml)",
+            "key": "csp_xml_琪琪资源",
+            "name": "琪琪资源(xml)",
             "type": 1,
-            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
+            "api": "http://www.csykkj.club/api.php/provide/vod",
 //          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
-            "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
-            "playerType": "1",
+//          "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
