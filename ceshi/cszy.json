@@ -1,8 +1,8 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -54,7 +54,6 @@
             "name": "率率(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
-            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -146,28 +145,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "http://mp4.ghlyys.com/api.php/app/"
-        },
-        {
-            "key": "csp_V2_大鹏",
-            "name": "大鹏(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://s.ether-mine.com/api.php/app/"
-        },
-        {
-            "key": "csp_V2_365影视",
-            "name": "365影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://guan.yy365.vip/api.php/app/"
-//          "ext": "http://zl.yy365.vip/api.php/app/"
         },
         {
             "key": "csp_V2_天天视频",
@@ -1866,6 +1843,16 @@
             "ext": "http://yumi.ghlyys.com/api.php/app/"
         },
         {
+            "key": "csp_V2_嘉良",
+            "name": "嘉良(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.jialiangos.com/api.php/app/"
+        },
+        {
             "key": "csp_V2_彩虹",
             "name": "彩虹(V2)",
             "type": 3,
@@ -1886,14 +1873,26 @@
             "ext": "https://www.chiguafilm.com/api.php/v1.vod"
         },
         {
-            "key": "csp_V2_嘉良",
-            "name": "嘉良(V2)",
+            "key": "csp_V2_大鹏",
+            "name": "大鹏(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://s.ether-mine.com/api.php/app/"
+        },
+        {
+            "key": "csp_V2_365影视",
+            "name": "365影视(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.jialiangos.com/api.php/app/"
+            "changeable": 1,
+            "ext": "http://guan.yy365.vip/api.php/app/"
+//          "ext": "http://zl.yy365.vip/api.php/app/"
         },
 /*
         {
@@ -2152,7 +2151,6 @@
             "filterable": 1,
             "ext": "http://bbq.1006.tk/icciu_api.php/v1.vod"
         },
-*/
         {
             "key": "csp_xml_云云资源",
             "name": "云云资源(xml)",
@@ -2183,11 +2181,12 @@
                 "动漫"
             ]
         },
+*/
         {
             "key": "csp_xml_琪琪资源",
             "name": "琪琪资源(xml)",
             "type": 1,
-            "api": "http://www.csykkj.club/api.php/provide/vod",
+            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
 //          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
 //          "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
             "playerType": "2",
@@ -3076,7 +3075,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd$$$https://wogg.xyz/"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
         },
         {
             "key": "YiSo",
