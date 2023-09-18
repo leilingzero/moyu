@@ -1,8 +1,8 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -68,6 +68,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "csp_Mayiys",
+            "name": "蚂蚁影视(SP)",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
         },
         {
             "key": "csp_Zxzj",
@@ -336,6 +346,16 @@
 //          "ext": "http://yt3353.lfytyl.com/api.php/app/"
 //          "ext": "http://yt3823.lfytyl.com/api.php/app/"
 //          "ext": "http://ytcms.lfytyl.com/api.php/app/"
+        },
+        {
+            "key": "csp_xml_玉米资源",
+            "name": "玉米资源(xml)",
+            "type": 1,
+            "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 1,
+            "filterable": 1
         },
 /*
         {
@@ -623,10 +643,17 @@
         },
         {
             "key": "直播转点播",
-            "name": "电视直播仓",
+            "name": "肥猫电视直播仓",
             "type": 3,
             "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
             "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
+        },
+        {
+            "key": "小米直播转点播",
+            "name": "小米电视直播仓",
+            "type": 3,
+            "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+            "ext": "http://xhww.fun:63/小米/源222/直播.json"
         },
         {
             "key": "直播转点播2",
@@ -1894,6 +1921,27 @@
             "ext": "http://guan.yy365.vip/api.php/app/"
 //          "ext": "http://zl.yy365.vip/api.php/app/"
         },
+        {
+            "key": "csp_V2_一影",
+            "name": "一影(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://22222.yiyingys.asia/api.php/app/"
+        },
+        {
+            "key": "csp_appys_蘑菇",
+            "name": "蘑菇影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+//          "ext": "https://www.moguys.work/api.php/app/"
+            "ext": "https://www.moguys.xyz/api.php/app/"
+        },
 /*
         {
             "key": "csp_V2_大豆",
@@ -1924,17 +1972,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://lg.tvcms.top/api.php/app/"
-        },
-        {
-            "key": "csp_appys_蘑菇",
-            "name": "蘑菇影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.moguys.work/api.php/app/"
-//          "ext": "https://www.moguys.xyz/api.php/app/"
         },
         {
             "key": "csp_appys_蘑菇2",
@@ -1975,16 +2012,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://1080dyw.com/icciu_api.php/v1.vod"
-        },
-        {
-            "key": "csp_V2_一影",
-            "name": "一影(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://22222.yiyingys.asia/api.php/app/"
         },
         {
             "key": "csp_V2_鸿运",
@@ -2702,7 +2729,8 @@
             "key": "drpy_js_有声小说2",
             "name": "有声小说2",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+//          "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
             "style": {
                 "type": "rect",
@@ -3194,6 +3222,12 @@
             "name": "测试3",
             "type": 1,
             "url": "http://api.sd4k.cc:666/?url="
+        },
+        {
+            "name": "左岸2",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
+            "User-Agent": "Dart/2.19 (dart:io)"
         },
         {
             "name": "小城解析",
@@ -3998,8 +4032,7 @@
                 "s5.bfzycdn"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
