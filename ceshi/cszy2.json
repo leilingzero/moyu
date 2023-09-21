@@ -1,8 +1,8 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -50,14 +50,53 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "率率(V2)",
+            "key": "csp_Mayiys",
+            "name": "蚂蚁影视(SP)",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Mayiys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://rzys.xyz"
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉影视(SP)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.6080yy3.com/"
+        },
+        {
+            "key": "csp_xml_索尼",
+            "name": "索尼(xml)",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "战争片",
+                "恐怖片",
+                "剧情片",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "大陆综艺",
+                "日韩综艺"
+            ]
         },
         {
             "key": "csp_Auete",
@@ -68,16 +107,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Mayiys",
-            "name": "蚂蚁影视(SP)",
-            "type": 3,
-            "api": "csp_Mayiys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "http://rzys.xyz"
         },
         {
             "key": "csp_Zxzj",
@@ -91,6 +120,40 @@
             "ext": "https://www.zxzj.pro/"
 //          "ext": "https://www.zxzjhd.com"
 //          "ext": "https://www.zxzj.org"
+        },
+        {
+            "key": "csp_Bttwo",
+            "name": "Bttwo(SP)",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_js_Bttwo",
+            "name": "Bttwo(js)",
+            "type": 3,
+          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+          //"ext": "https://drpy.cainisi.cf/js/两个BT.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
+        },
+        {
+            "key": "csp_LibVio",
+            "name": "LibVio(SP)",
+            "type": 3,
+            "api": "csp_Libvio",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "csp_js_荐片",
@@ -127,26 +190,6 @@
             "ext": "vip.lyyytv.cn"
         },
         {
-            "key": "csp_V2_哈喽",
-            "name": "哈喽(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
-        {
-            "key": "csp_V2_北极狐",
-            "name": "北极狐(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kuin.one/api.php/app/"
-        },
-        {
             "key": "csp_V2_奇奇",
             "name": "奇奇(V2)",
             "type": 3,
@@ -157,14 +200,14 @@
             "ext": "http://mp4.ghlyys.com/api.php/app/"
         },
         {
-            "key": "csp_V2_天天视频",
-            "name": "天天视频(V2)",
+            "key": "csp_V2_哈喽",
+            "name": "哈喽(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://ttsp.live/api.php/app/"
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key": "csp_Ddrk",
@@ -187,6 +230,28 @@
             "changeable": 1
         },
         {
+            "key": "csp_Nmys",
+            "name": "农民影视(SP)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys3.json"
+        },
+        {
+            "key": "csp_Cokemv",
+            "name": "Cokemv影院(SP)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Voflix",
             "name": "Voflix影视(SP)",
             "type": 3,
@@ -195,28 +260,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_LibVio",
-            "name": "LibVio(SP)",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
-        },
-        {
-            "key": "csp_Xinsj",
-            "name": "新视觉影视(SP)",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.6080yy3.com/"
         },
         {
             "key": "csp_Kuaikan",
@@ -239,40 +282,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "一起看(SP)",
-            "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
-        {
-            "key": "csp_Cokemv",
-            "name": "Cokemv影院(SP)",
-            "type": 3,
-            "api": "csp_Cokemv",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民影视(SP)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys3.json"
-        },
-        {
             "key": "csp_Ysgc",
             "name": "影视工场(SP)",
             "type": 3,
@@ -284,29 +293,17 @@
             "ext": "https://www.ysgc1.cc/"
         },
         {
-            "key": "csp_Bttwo",
-            "name": "Bttwo(SP)",
+            "key": "csp_YQKAPP",
+            "name": "一起看(SP)",
             "type": 3,
-            "api": "csp_Bttwoo",
+            "api": "csp_YQKAPP",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230813.jar;md5;487c0fd0473af736ec82acc0811a8348"
-        },
-        {
-            "key": "csp_js_Bttwo",
-            "name": "Bttwo(js)",
-            "type": 3,
-          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 1,
-          //"ext": "https://drpy.cainisi.cf/js/两个BT.js"
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
+            "ext": "https://api-aws.11ty.top",
+            "jar": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9"
         },
         {
             "key": "csp_js_555影视",
@@ -366,6 +363,26 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 1
+        },
+        {
+            "key": "csp_V2_北极狐",
+            "name": "北极狐(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "csp_V2_天天视频",
+            "name": "天天视频(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://ttsp.live/api.php/app/"
         },
 /*
         {
@@ -669,10 +686,8 @@
             "key": "直播转点播2",
             "name": "电视直播仓2",
             "type": 3,
-//            "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
-            "ext": "http://我不是.肥猫.love:63/lives/直播仓.json"
-//            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓2.json"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓2.json"
         },
         {
             "key": "好趣直播js",
@@ -1882,6 +1897,16 @@
             "ext": "http://yumi.ghlyys.com/api.php/app/"
         },
         {
+            "key": "csp_V2_玉米2",
+            "name": "玉米2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://caiji.ghlyys.com/yumi/api.php/app/"
+        },
+        {
             "key": "csp_V2_嘉良",
             "name": "嘉良(V2)",
             "type": 3,
@@ -2873,6 +2898,19 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
+        },
+        {
+            "key": "Aid",
+            "name": "急救教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
         },
         {
             "key": "csp_Bili",
