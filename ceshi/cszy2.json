@@ -669,9 +669,10 @@
             "key": "直播转点播2",
             "name": "电视直播仓2",
             "type": 3,
-            "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
-//          "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓2.json"
+//            "api": "http://我不是.肥猫.love:63/JS/直播转点播2.js",
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
+            "ext": "http://xhww.fun:63/小米/源222/直播.json"
+//            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓2.json"
         },
         {
             "key": "好趣直播js",
