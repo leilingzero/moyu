@@ -1,8 +1,8 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230921.jar;md5;d65c6f3f30d78e020e48588d511f2bfe",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230922.jar;md5;533f279c487b5bd34cf4947a7afbee34",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230922.jar;md5;533f279c487b5bd34cf4947a7afbee34",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230922.jar;md5;533f279c487b5bd34cf4947a7afbee34",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230922.jar;md5;533f279c487b5bd34cf4947a7afbee34",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -97,6 +97,15 @@
                 "大陆综艺",
                 "日韩综艺"
             ]
+        },
+        {
+            "key": "csp_Maolv",
+            "name": "毛驴影视(SP)",
+            "type": 3,
+            "api": "csp_Maolv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Auete",
@@ -362,6 +371,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_快帆影视",
+            "name": "快帆影视(xml)",
+            "type": 1,
+            "api": "https://api.kuaifan.tv/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
@@ -2888,7 +2906,8 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
+//          "api": "http://xhww.fun:63/js/drpy1.min.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
             "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/兔小贝.js",
             "style": {
                 "type": "rect",
@@ -3153,10 +3172,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
-            "key": "YiSo",
+            "key": "csp_YiSo",
             "name": "易搜(仅搜索)",
             "type": 3,
             "api": "csp_YiSo",
@@ -3164,10 +3183,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
-            "key": "Zhaozy",
+            "key": "csp_Zhaozy",
             "name": "找资源(仅搜索)",
             "type": 3,
             "api": "csp_Zhaozy",
@@ -3175,10 +3194,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd$$$fanfan$$$qqq111"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$fanfan$$$qqq111"
         },
         {
-            "key": "PanSou",
+            "key": "csp_PanSou",
             "name": "盘搜(仅搜索)",
             "type": 3,
             "api": "csp_PanSou",
@@ -3186,10 +3205,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
-            "key": "UpYun",
+            "key": "csp_UpYun",
             "name": "Up云搜(仅搜索)",
             "type": 3,
             "api": "csp_UpYun",
@@ -3197,10 +3216,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
-            "key": "PanSearch",
+            "key": "csp_PanSearch",
             "name": "PanSearch(仅搜索)",
             "type": 3,
             "api": "csp_PanSearch",
@@ -3208,10 +3227,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
-            "key": "七夜",
+            "key": "csp_Dovx",
             "name": "七夜(仅搜索)",
             "type": 3,
             "api": "csp_Dovx",
@@ -3219,7 +3238,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -3229,7 +3248,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alitoken.json+4k|auto|fhd"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
         }
     ],
     "parses": [
@@ -3469,6 +3488,14 @@
             "name": "稻香",
             "type": 1,
             "url": "https://vip.mosangkeji.com/api/?key=rRNvXAnOghBBLnC35c&url="
+        },
+        {
+            "name": "稻香2",
+            "type": 1,
+            "url": "http://42.157.128.109:2323/CH/app/tv.php?url=",
+            "header": {
+                "User-Agent": "okhttp/3.12.0"
+            }
         },
         {
             "name": "窗外",
