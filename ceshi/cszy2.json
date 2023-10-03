@@ -50,7 +50,7 @@
         },
         {
             "key": "追忆",
-            "name": "✌追忆影视(SP)",
+            "name": "追忆影视(SP)",
             "type": 3,
             "api": "csp_Appto",
             "searchable": 1,
@@ -400,14 +400,13 @@
             "filterable": 1
         },
         {
-            "key": "csp_V2__蜗牛影视",
-            "name": "蜗牛影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
+            "key": "csp_xml_火狐",
+            "name": "火狐资源(xml)",
+            "type": 1,
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://v.wuxivlog.cn/api.php/app/"
+            "filterable": 1
         },
         {
             "key": "csp_V2_北极狐",
