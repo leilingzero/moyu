@@ -1,8 +1,8 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230930.jar;md5;9d742bf942adf729cadceba23f83ebd8",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty230930.jar;md5;9d742bf942adf729cadceba23f83ebd8",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty230930.jar;md5;9d742bf942adf729cadceba23f83ebd8",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty230930.jar;md5;9d742bf942adf729cadceba23f83ebd8",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -27,18 +27,6 @@
             "changeable": 0
         },
         {
-            "key": "csp_V2_爱迪影视",
-            "name": "爱迪影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-//          "ext": "https://aidiapp.xyz/xgapp.php/v2/"
-        },
-        {
             "key": "csp_Czsapp",
             "name": "厂长影视(SP)",
             "type": 3,
@@ -47,7 +35,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://cz01.cc/"
+        },
+        {
+            "key": "Mino",
+            "name": "Mino影视(SP)",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx"
+        },
+        {
+            "key": "追忆",
+            "name": "✌追忆影视(SP)",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
         },
         {
             "key": "csp_MLYS",
@@ -60,6 +69,16 @@
             "ext": "https://www.maolvys.com/"
         },
         {
+            "key": "橘子",
+            "name": "橘子影视(SP)",
+            "type": 3,
+            "api": "csp_Appto",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzExOS4xMDEuMTQ4LjM6MjUyNS9hcHB0by92MQ"
+        },
+        {
             "key": "csp_MYYS",
             "name": "蚂蚁影视(SP)",
             "type": 3,
@@ -68,6 +87,19 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "http://rzys.xyz"
+        },
+        {
+            "key": "csp_V2_爱迪影视",
+            "name": "爱迪影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+//          "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
             "key": "csp_xml_索尼",
@@ -121,7 +153,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "http://www.aueteys.com/"
         },
         {
             "key": "csp_Zxzj",
@@ -160,17 +193,6 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
         },
         {
-            "key": "csp_LibVio",
-            "name": "LibVio(SP)",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
-        },
-        {
             "key": "csp_js_荐片",
             "name": "荐片(js)",
             "type": 3,
@@ -205,14 +227,15 @@
             "ext": "vip.lyyytv.cn"
         },
         {
-            "key": "csp_V2_哈喽",
-            "name": "哈喽(V2)",
+            "key": "csp_LibVio",
+            "name": "LibVio(SP)",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_Libvio",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
+            "ext": "https://www.libvio.pro/"
         },
         {
             "key": "csp_Ddrk",
@@ -277,16 +300,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_AppMr",
-            "name": "明明影视(SP)",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Ysgc",
             "name": "影视工场(SP)",
             "type": 3,
@@ -298,17 +311,25 @@
             "ext": "https://www.ysgc1.cc/"
         },
         {
-            "key": "csp_YQKAPP",
-            "name": "一起看(SP)",
+            "key": "csp_AppMr",
+            "name": "明明影视(SP)",
             "type": 3,
-            "api": "csp_YQKAPP",
-            "playerType": 2,
+            "api": "csp_AppMr",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://api-aws.11ty.top",
-            "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9"
+            "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230930.jar;md5;9d742bf942adf729cadceba23f83ebd8"
+        },
+        {
+            "key": "csp_V2_哈喽",
+            "name": "哈喽(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "http://www.miniku.cc/xgapp.php/v1/"
         },
         {
             "key": "csp_js_555影视",
@@ -379,6 +400,16 @@
             "filterable": 1
         },
         {
+            "key": "csp_V2__蜗牛影视",
+            "name": "蜗牛影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://v.wuxivlog.cn/api.php/app/"
+        },
+        {
             "key": "csp_V2_北极狐",
             "name": "北极狐(V2)",
             "type": 3,
@@ -399,6 +430,19 @@
             "ext": "https://ttsp.live/api.php/app/"
         },
 /*
+        {
+            "key": "csp_YQKAPP",
+            "name": "一起看(SP)",
+            "type": 3,
+            "api": "csp_YQKAPP",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://api-aws.11ty.top",
+            "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty230918.jar;md5;2648825eee03cb548b2c411002a7aad9"
+        },
         {
             "key": "csp_fantuan",
             "name": "饭团(SP)",
@@ -535,27 +579,6 @@
             "filterable": 1,
             "ext": "http://fabu.bulei.cc/$$$auto$$$sdlw1111$$$qqaa1122"
         },
-*/
-        {
-            "key": "360影视",
-            "name": "360影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/360影视3.json"
-        },
-        {
-            "key": "csp_SP33",
-            "name": "33影视(SP)",
-            "type": 3,
-            "api": "csp_SP33",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
         {
             "key": "csp_Qtv",
             "name": "腾讯(SP)",
@@ -581,6 +604,27 @@
             "name": "芒果TV(SP)",
             "type": 3,
             "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+*/
+        {
+            "key": "360影视",
+            "name": "360影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/360影视3.json"
+        },
+        {
+            "key": "csp_SP33",
+            "name": "33影视(SP)",
+            "type": 3,
+            "api": "csp_SP33",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2853,7 +2897,7 @@
             "changeable": 0
         },
         {
-            "key": "斗鱼直播js",
+            "key": "csp_js_斗鱼直播",
             "name": "斗鱼直播js",
             "type": 3,
           //"api": "http://xhww.fun:63/js/drpy1.min.js",
@@ -3041,7 +3085,7 @@
         },
         {
             "key": "csp_Nbys",
-            "name": "泥巴┃墙外",
+            "name": "泥巴(墙外)",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -3051,7 +3095,7 @@
         },
         {
             "key": "csp_trj",
-            "name": "唐人街┃墙外",
+            "name": "唐人街(墙外)",
             "type": 3,
             "api": "csp_Tangrenjie",
             "searchable": 1,
@@ -3351,7 +3395,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$fanfan$$$qqq111"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$fantaiying$$$qqq111"
         },
         {
             "key": "csp_PanSou",
