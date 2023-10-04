@@ -1,8 +1,8 @@
 {
-    "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty231003.jar;md5;8960305db3cdfcb9842298cc39959c11",
+    "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty231004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty231004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty231004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -36,7 +36,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://cz01.cc/"
+            "ext": "https://www.cz01.pro/"
         },
         {
             "key": "Mino",
@@ -100,6 +100,16 @@
             "changeable": 1,
             "ext": "https://api123.adys.app/xgapp.php/v3/"
 //          "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+        },
+        {
+            "key": "csp_js_酷云",
+            "name": "酷云App(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://smallmi.xiaohewanwan.love:63/ky.js"
         },
         {
             "key": "csp_xml_索尼",
@@ -224,6 +234,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
+            "timeout": 30,
             "ext": "vip.lyyytv.cn"
         },
         {
@@ -3498,6 +3509,11 @@
             "url": "http://110.42.2.247:880/analysis/json/?uid=2283&my=ijknsvwBFHNRSTVZ03&url="
         },
         {
+            "name": "左岸解析",
+            "type": 1,
+            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+        },
+        {
             "name": "左岸2",
             "type": 1,
             "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
@@ -3512,6 +3528,11 @@
             "name": "小鱼解析",
             "type": 1,
             "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=fjklpqsyCDGMNQRWX8&url="
+        },
+        {
+            "name": "小新解析",
+            "type": 1,
+            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
         },
         {
             "name": "影视范提供",
@@ -3582,9 +3603,9 @@
             }
         },
         {
-            "name": "左岸解析",
+            "name": "全部",
             "type": 1,
-            "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="
+            "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
         },
         {
             "name": "星辰云解析",
@@ -3592,9 +3613,9 @@
             "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url="
         },
         {
-            "name": "小新解析",
+            "name": "网络",
             "type": 1,
-            "url": "http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url="
+            "url": "http://119.91.123.253:1234/Api/cs.php?url="
         },
         {
             "name": "大家",
