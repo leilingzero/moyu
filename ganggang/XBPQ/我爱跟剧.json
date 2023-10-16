@@ -4,7 +4,7 @@
 "搜索副标题":"",
 
 "二次截取":"",
-"数组":"<a&&<div class=\"module-item-content",
+"数组":"<div class=\"module-item\"&&<div class=\"module-item-content",
 "图片":"data-src=\"&&\"",
 "标题":"alt=\"&&\"",
 "链接":"href=\"&&\"",
