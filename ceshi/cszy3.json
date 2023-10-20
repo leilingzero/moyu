@@ -1007,14 +1007,14 @@
             "ext": "https://raw.kgithub.com/leilingzero/moyu/master/Custom_XPath_Filter/lmm1.json"
         },
         {
-            "key": "csp_xpath_agemys",
+            "key": "csp_xpath_agedm",
             "name": "AGE动漫(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kgithub.com/leilingzero/moyu/master/Custom_XPath/agemys3.json"
+            "ext": "https://raw.kgithub.com/leilingzero/moyu/master/Custom_XPath/agedm2.json"
         },
         {
             "key": "csp_xpath_动漫岛",
