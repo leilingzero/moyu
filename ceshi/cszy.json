@@ -1402,7 +1402,7 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/vidhub.json"
         },
         {
-            "key": "csp_XBPQ_看一看影视",
+            "key": "csp_XBPQ_莫扎兔",
             "name": "莫扎兔(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
@@ -1419,7 +1419,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/蜗牛.json"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/XBPQ/蜗牛2.json"
         },
         {
             "key": "csp_XBPQ_磁力熊",
