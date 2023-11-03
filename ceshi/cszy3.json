@@ -60,15 +60,14 @@
             "changeable": 1
         },
         {
-            "key": "嗨嘢",
-            "name": "嗨嘢影视(SP)",
+            "key": "极光",
+            "name": "极光影视(SP)",
             "type": 3,
-            "api": "csp_AppMao",
+            "api": "csp_AppSK",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "playerType": 2,
-            "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
+            "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
         },
         {
             "key": "橘子",
@@ -132,14 +131,15 @@
             "ext": "FbjGYUhJ48PN5SRV8ymH7sxmDexYH70Jfi9xvvb3lUoiQZT4niDpyWHPvb6yEhCFbEq5hiEGh3YxXwh5W7NvWBQ8JoHwkF2vTDAYvVEeme53A/PWbglRCQDgEAU+vbK+/T2GSrMOHskluhobn3mSQhtfMuOPoUNIZtFdK24EO1SS5vh2xN8jBqcVac55PkkpWTt2qzo8UTfii3ohtRpvy5Mmw7PxnVcfMzdDzYE+XjRYz9LdmFbvNICYo3D/0YvzNMmaHG1IUw=="
         },
         {
-            "key": "极光",
-            "name": "极光影视(SP)",
+            "key": "嗨嘢",
+            "name": "嗨嘢影视(SP)",
             "type": 3,
-            "api": "csp_AppSK",
+            "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFro1kcspJGpZFEy1L9qCt0RcDCdqQ/iHaxETP6Le1Hyasa2eX33lg2zI+TmNzCMM4OldJXt6Q2B7ULz5M1CsK3w=="
+            "playerType": 2,
+            "ext": "FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="
         },
         {
             "key": "快影",
@@ -303,6 +303,7 @@
             "name": "低端影视(SP)",
             "type": 3,
             "api": "csp_Ddrk",
+            "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -443,6 +444,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "playerType": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xml_玉米采集",
+            "name": "玉米采集(xml)",
+            "type": 0,
+            "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
+            "playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
         },
         {
@@ -1863,6 +1874,17 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "csp_XYQHiker_JOJO",
+            "name": "JOJO影视(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/XYQHiker/jojo.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
             "key": "csp_XBPQ_我爱看",
             "name": "我爱看(XBPQ)",
             "type": 3,
@@ -2420,14 +2442,14 @@
             "ext": "http://app.alovo.cn/api.php/app/"
         },
         {
-            "key": "csp_V2_世界",
-            "name": "世界(V2)",
+            "key": "csp_V2_世界2",
+            "name": "世界2(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
             "searchable": 1,
-            "ext": "http://yycms.77ev.cn/api.php/app/"
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://103.197.25.136:3836/api.php/app/"
         },
         {
             "key": "csp_V2_影视之家",
@@ -2480,7 +2502,27 @@
             "playerType": 1,
             "ext": "http://cms.cttv.vip/api.php/app/"
         },
+        {
+            "key": "csp_V2_达人",
+            "name": "达人(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
+        },
 /*
+        {
+            "key": "csp_V2_世界",
+            "name": "世界(V2)",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "http://yycms.77ev.cn/api.php/app/"
+        },
         {
             "key": "csp_V2_大豆",
             "name": "大豆(V2)",
@@ -2779,7 +2821,7 @@
             "key": "csp_xml_琪琪资源",
             "name": "琪琪资源(xml)",
             "type": 1,
-            "api": "http://www.csykkj.club/api.php/provide/vod/?ac=list",
+            "api": "http://www.csykkj.club/api.php/provide/vod/",
 //          "api": "http://www.csykkj.club/api.php/provide/vod/from/qiqi",
 //          "playUrl": "json:http://42.157.128.109:2323/CH/zy/qiqi.php?url=",
             "playerType": "2",
@@ -2789,6 +2831,22 @@
             "categories": [
                 "电影",
                 "连续剧",
+                "综艺",
+                "动漫"
+            ]
+        },
+        {
+            "key": "csp_xml_琪琪资源2",
+            "name": "琪琪资源2(xml)",
+            "type": 1,
+            "api": "https://playersll.gaoxin155.com.cn/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "连续剧",
+                "电影",
                 "综艺",
                 "动漫"
             ]
@@ -3460,6 +3518,8 @@
             "api": "https://api.iku.cool/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
+            "playerType": 2,
+            "playUrl": "https://jx.xmflv.com/?url=",
             "filterable": 1
         },
         {
@@ -3704,15 +3764,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/cili/jiyingw.js"
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jiyingw.js"
         },
         {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "http://xhww.fun:63/js/drpy1.min.js",
-            "ext": "http://smallmi.xiaohewanwan.love:63/drpy.js",
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -4836,6 +4896,50 @@
             "url": "https://player.movie09.com/dplayer/?url="
         }
     ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
     "rules": [
         {
             "name": "量子",
@@ -4921,52 +5025,6 @@
             ]
         }
     ],
-/*
-    "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
-*/
     "lives": [
         {
             "name": "live",
