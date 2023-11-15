@@ -1,7 +1,12 @@
 {
   //"vodPic": "https://s1.ax1x.com/2023/04/04/pp5M5Jx.png",
-  "vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  //"vodPic": "https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
   "drives": [
+    {
+      "name": "小鸭托盘",
+      "server": "https://pan.mediy.cn/"
+    }
     {
       "name": "鸭鸭",
       "server": "http://shicheng.wang:555/"
