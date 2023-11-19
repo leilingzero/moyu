@@ -220,14 +220,14 @@
             "key": "csp_js_Bttwo",
             "name": "Bttwo(js)",
             "type": 3,
-          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+//          "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
-          //"ext": "https://drpy.cainisi.cf/js/两个BT.js"
+//          "ext": "https://drpy.cainisi.cf/js/两个BT.js"
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
         },
         {
@@ -381,13 +381,13 @@
             "key": "csp_js_555影视",
             "name": "555影视(js)",
             "type": 3,
-          //"api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+//          "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
             "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-          //"ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
+//          "ext": "https://drpy.cainisi.cf/js/555电影[V2].js"
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/555影视[V2].js"
         },
         {
