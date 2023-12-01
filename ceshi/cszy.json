@@ -947,6 +947,16 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/gdhktv.json"
         },
         {
+            "key": "csp_xpath_hktvyun",
+            "name": "hktvyun(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/hktvyun.json"
+        },
+        {
             "key": "csp_xpath_tvyb10",
             "name": "TVB云播10(XPF)",
             "type": 3,
