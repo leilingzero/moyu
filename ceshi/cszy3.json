@@ -497,6 +497,26 @@
             "changeable": 1,
             "ext": "http://iosa.xn--654a.cc/api.php/app/"
         },
+	{
+		"key": "赞赞",
+		"name": "赞赞影视(js)",
+		"type": 3,
+		"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+		"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0
+	},
+	{
+		"key": "feiyun",
+		"name": "飞云影视(js)",
+		"type": 3,
+		"api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+		"ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
+		"searchable": 1,
+		"quickSearch": 1,
+		"changeable": 0
+	},
 /*
         {
             "key": "君离",
