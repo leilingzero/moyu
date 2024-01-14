@@ -5689,7 +5689,7 @@
             "epg": "http://api.cntv.cn/epg/epginfo?serviceId=cbox&c={name}&d={date}",
             "logo": "https://jihulab.com/zhulr7765/tvbox/-/raw/main/ing/{name}.png"
         },
-/*
+
         {
             "name": "live",
             "type": 0,
@@ -5726,7 +5726,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-*/
+
         {
             "name": "IPV6",
             "type": 0,
