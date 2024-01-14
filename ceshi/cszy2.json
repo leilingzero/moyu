@@ -1,9 +1,9 @@
 {
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty240110.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
+//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
+//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
+//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -61,6 +61,26 @@
             "changeable": 1
         },
         {
+            "key": "九六",
+            "name": "九六影视(SP)",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "酷云七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "小柚",
             "name": "小柚影视(SP)",
             "type": 3,
@@ -79,26 +99,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "九六",
-            "name": "九六影视(SP)",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "嘿嘿",
@@ -4049,7 +4049,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "csp_YiSo",
