@@ -1,9 +1,7 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
-//  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
-//  "spider": "https://raw.iqiq.io/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
-//  "spider": "https://raw.kgithub.com/leilingzero/moyu/master/ganggang/jar_fty240114.jar;md5;d6887b89bd560dec9e8f6de49f384c00",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
@@ -51,20 +49,30 @@
             "ext": "https://www.hdmyy.com/"
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
+            "key": "南坊",
+            "name": "南坊影视(SP)",
             "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
+            "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
             "key": "九六",
             "name": "九六影视(SP)",
             "type": 3,
             "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
+            "type": 3,
+            "api": "csp_NanGua",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -109,16 +117,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-        },
-        {
-            "key": "南坊",
-            "name": "南坊影视(SP)",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
         },
         {
             "key": "csp_MLYS",
@@ -184,6 +182,17 @@
 //          "ext": "https://www.zxzj.org"
         },
         {
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_V2_爱迪影视",
             "name": "爱迪影视(V2)",
             "type": 3,
@@ -230,17 +239,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.libvio.pro/"
-        },
-        {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_Nmys",
@@ -4071,7 +4069,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$fanty$$$qqq111"
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$lmok37266@bazatek.com$$$Yoursmile"
         },
         {
             "key": "csp_PanSou",
