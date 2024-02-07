@@ -1,7 +1,7 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240203.jar;md5;63f50337d37d87c6a3b61d81375fc378",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240203.jar;md5;63f50337d37d87c6a3b61d81375fc378",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240203.jar;md5;63f50337d37d87c6a3b61d81375fc378",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -60,24 +60,23 @@
             "ext": "https://www.hdmyy.com/"
         },
         {
-            "key": "爱看",
-            "name": "爱看影视(SP)",
+            "key": "南坊",
+            "name": "南坊影视(SP)",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
         },
         {
-            "key": "萌米",
-            "name": "萌米影视(SP)",
+            "key": "酷看",
+            "name": "酷看影视(SP)",
             "type": 3,
-            "api": "csp_AppMao",
+            "api": "csp_Kkys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+            "changeable": 1
         },
         {
             "key": "南瓜",
@@ -100,14 +99,24 @@
             "changeable": 1
         },
         {
-            "key": "虾米",
-            "name": "虾米影视(SP)",
+            "key": "萌米",
+            "name": "萌米影视(SP)",
             "type": 3,
-            "api": "csp_AppSK",
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+        },
+        {
+            "key": "csp_MLYS",
+            "name": "毛驴影视(SP)",
+            "type": 3,
+            "api": "csp_MLYS",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "小柚",
@@ -129,16 +138,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
-        },
-        {
-            "key": "csp_MLYS",
-            "name": "毛驴影视(SP)",
-            "type": 3,
-            "api": "csp_MLYS",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "csp_YQKan",
@@ -196,16 +195,6 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
         },
         {
-            "key": "九六",
-            "name": "九六影视(SP)",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_LibVio",
             "name": "LibVio(SP)",
             "type": 3,
@@ -214,7 +203,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pro/"
+            "ext": "https://www.libvio.la/"
         },
         {
             "key": "csp_Auete",
@@ -225,7 +214,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://v.auete.com/"
+            "ext": "https://auete.pro/"
+//          "ext": "https://v.auete.com/"
 //          "ext": "https://haozhansou.com/"
         },
         {
@@ -463,14 +453,34 @@
         },
 /*
         {
-            "key": "南坊",
-            "name": "南坊影视(SP)",
+            "key": "九六",
+            "name": "九六影视(SP)",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "虾米",
+            "name": "虾米影视(SP)",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="
+        },
+        {
+            "key": "爱看",
+            "name": "爱看影视(SP)",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="
+            "changeable": 0,
+            "ext": "FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"
         },
         {
             "key": "嘿嘿",
@@ -4163,7 +4173,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$lmok37266@bazatek.com$$$Yoursmile"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
         },
         {
             "key": "csp_PanSou",
@@ -5648,6 +5658,9 @@
                 "suonizy"
             ],
             "regex": [
+                "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+                "15.1666",
+                "15.2666",
                 "16.333333",
                 "15.266667"
             ]
@@ -5751,7 +5764,8 @@
         {
             "name": "SAO0",
             "type": 0,
-            "url": "https://xhdwc.tk/tvlive.txt",
+            "url": "https://www.100km.top/tvlive.txt",
+//          "url": "https://xhdwc.tk/tvlive.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
