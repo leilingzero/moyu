@@ -3853,9 +3853,9 @@
         {
             "key": "csp_xml_duanju",
             "name": "短剧资源(xml)",
-            "type": 1,
-            "api": "https://zzdj.cc/api.php/provide/vod/?ac=list",
-            "searchable": 0,
+            "type": 0,
+            "api": "https://zzdj.cc/api.php/provide/vod",
+            "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
         },
