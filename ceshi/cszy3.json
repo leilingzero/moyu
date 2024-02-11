@@ -1,7 +1,7 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240208.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240211.jar;md5;4eec8bf0a642330662224a01636e0df6",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240211.jar;md5;4eec8bf0a642330662224a01636e0df6",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240211.jar;md5;4eec8bf0a642330662224a01636e0df6",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -37,6 +37,15 @@
             "changeable": 0
         },
         {
+            "key": "酷看",
+            "name": "酷看影视(SP)",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Czsapp",
             "name": "厂长影视(SP)",
             "type": 3,
@@ -70,15 +79,6 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaI+FqHtLjQhalHqIy0+kpiTv2eOfJYxTshgoxEZvRX9BA0UIrOurFxHa4dPZw=="
         },
         {
-            "key": "酷看",
-            "name": "酷看影视(SP)",
-            "type": 3,
-            "api": "csp_Kkys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "南瓜",
             "name": "南瓜影视(SP)",
             "type": 3,
@@ -97,6 +97,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "率率",
+            "name": "率率影视(SP)",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
         },
         {
             "key": "萌米",
@@ -3835,6 +3846,15 @@
             "name": "suoni资源2(xml)",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 0,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_xml_duanju",
+            "name": "短剧资源(xml)",
+            "type": 1,
+            "api": "https://zzdj.cc/api.php/provide/vod/?ac=list",
             "searchable": 0,
             "quickSearch": 1,
             "changeable": 1
