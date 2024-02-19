@@ -78,6 +78,17 @@
             "ext": "FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJGU3QP9+aykEFcCJTRtWyLyATI/Kr0RWOrdmmE82op1Sp3CSI5WoN6fFdLHN+LxA+CamUTj3pr0P4lAumpPCpzMgL5ZXIuytPprjLXKt5kbYcwtkFA9gT8BgdcY6mr40MUeodBOmAdLR2v8uYbpugEDOo5fQ=="
         },
         {
+            "key": "率率",
+            "name": "率率影视(SP)",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBXQM2e7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCLl5XQ4NDrrhhBSVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
+        },
+        {
             "key": "南瓜",
             "name": "南瓜影视(SP)",
             "type": 3,
@@ -118,17 +129,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://www.czzy55.com/"
-        },
-        {
-            "key": "率率",
-            "name": "率率影视(SP)",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="
         },
         {
             "key": "csp_MLYS",
@@ -3893,7 +3893,7 @@
             "key": "csp_xml_短剧资源2",
             "name": "短剧资源2(xml)",
             "type": 1,
-            "api": "https: //cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+            "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
