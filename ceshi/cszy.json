@@ -1,7 +1,7 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240219.jar;md5;87d5916b7bb5c8acacac5490e802828e",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240219.jar;md5;87d5916b7bb5c8acacac5490e802828e",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240219.jar;md5;87d5916b7bb5c8acacac5490e802828e",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240228.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240228.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240228.jar;md5;82a31f7dab4c0eb89a46584f3934d810",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -80,17 +80,6 @@
             "changeable": 1
         },
         {
-            "key": "率率",
-            "name": "率率影视(SP)",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
-        },
-        {
             "key": "南坊",
             "name": "南坊影视(SP)",
             "type": 3,
@@ -139,6 +128,17 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "率率",
+            "name": "率率影视(SP)",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
         },
         {
             "key": "小柚",
@@ -1004,10 +1004,11 @@
             "name": "直播合集(SP)",
             "type": 3,
             "api": "csp_Yj1211",
-            "searchable": 1,
+            "playerType": "1",
+            "searchable": 0,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 0
         },
         {
             "key": "csp_SP2345",
@@ -3636,8 +3637,9 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huya2.js",
             "style": {
 //              "type": "list"
                 "type": "rect",
