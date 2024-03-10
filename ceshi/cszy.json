@@ -142,7 +142,8 @@
             "api": "csp_Bdys",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
         },
         {
             "key": "南瓜",
