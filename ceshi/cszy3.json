@@ -1,7 +1,7 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
     "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -41,6 +41,17 @@
             "name": "酷看影视(SP)",
             "type": 3,
             "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "原创影视(SP)",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -50,27 +61,36 @@
             "name": "新视觉影视(SP)",
             "type": 3,
             "api": "csp_Xinsj",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.80yy3.com/"
+//          "ext": "https://www.hdmyy.com/"
         },
         {
-            "key": "追剧",
-            "name": "追剧影视(SP)",
+            "key": "csp_Czsapp",
+            "name": "厂长影视(SP)",
             "type": 3,
-            "api": "csp_AppTT",
+            "api": "csp_Czsapp",
+            "timeout": 15,
             "playerType": 2,
-            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
-        },
-        {
-            "key": "嘀嘀",
-            "name": "嘀嘀影视(SP)",
-            "type": 3,
-            "api": "csp_Bdys",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "酷云七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1
         },
         {
@@ -85,28 +105,17 @@
             "changeable": 1
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "萌米",
             "name": "萌米影视(SP)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+        },
+        {
+            "key": "萌米2",
+            "name": "萌米影视2(SP)",
             "type": 3,
             "api": "csp_AppMao",
             "searchable": 1,
@@ -115,22 +124,43 @@
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
         {
-            "key": "csp_Czsapp",
-            "name": "厂长影视(SP)",
+            "key": "追剧",
+            "name": "追剧影视(SP)",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_AppTT",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "AO7TcBkd8Jqf5UgA7xXA6dVlLcc="
+        },
+        {
+            "key": "嘀嘀",
+            "name": "嘀嘀影视(SP)",
+            "type": 3,
+            "api": "csp_Bdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.czzy55.com/"
+            "changeable": 1
         },
         {
             "key": "csp_MLYS",
             "name": "毛驴影视(SP)",
             "type": 3,
             "api": "csp_MLYS",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -141,6 +171,7 @@
             "name": "在线之家(SP)",
             "type": 3,
             "api": "csp_Zxzj",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -175,6 +206,7 @@
             "name": "农民影视(SP)",
             "type": 3,
             "api": "csp_Nmys",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -210,6 +242,7 @@
             "name": "LibVio(SP)",
             "type": 3,
             "api": "csp_Libvio",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -221,6 +254,7 @@
             "name": "Auete影院(SP)",
             "type": 3,
             "api": "csp_Auete",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
