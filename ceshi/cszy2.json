@@ -1,10 +1,11 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240310.jar;md5;9fdf355f7d803698900ccf4ceb4626cb",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
-    "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+//  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "csp_DouDou",
@@ -94,6 +95,16 @@
             "changeable": 1
         },
         {
+            "key": "白嫖",
+            "name": "白飘影视(SP)",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_Ddrk",
             "name": "低端影视(SP)",
             "type": 3,
@@ -103,6 +114,38 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "新星",
+            "name": "新星影视(xml)",
+            "type": 1,
+            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_MLYS",
+            "name": "毛驴影视(SP)",
+            "type": 3,
+            "api": "csp_MLYS",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.maolvys.com/"
         },
         {
             "key": "萌米",
@@ -122,6 +165,21 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
+//          "ext": "https://www.zxzj.pro/"
+//          "ext": "https://www.zxzjhd.com"
+//          "ext": "https://www.zxzj.org"
         },
         {
             "key": "追剧",
@@ -144,43 +202,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_MLYS",
-            "name": "毛驴影视(SP)",
-            "type": 3,
-            "api": "csp_MLYS",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://www.maolvys.com/"
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线之家(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzja.com/"
-//          "ext": "https://www.zxzj.pro/"
-//          "ext": "https://www.zxzjhd.com"
-//          "ext": "https://www.zxzj.org"
         },
         {
             "key": "率率",
@@ -1050,7 +1071,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "http://aiduanju.vip/"
+//          "ext": "http://aiduanju.vip/"
         },
         {
             "key": "csp_Yj1211",
@@ -5940,11 +5961,14 @@
         {
             "name": "lz",
             "hosts": [
-                "lz"
+                "lz",
+                "v.cdnlz",
+                "yzzy"
             ],
             "regex": [
                 "18.5333",
-                "19.52"
+                "19.52",
+                "18.6666"
             ]
         },
         {
