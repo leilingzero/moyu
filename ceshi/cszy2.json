@@ -96,7 +96,7 @@
         },
         {
             "key": "白嫖",
-            "name": "白飘影视(SP)",
+            "name": "白嫖影视(SP)",
             "type": 3,
             "api": "csp_BaiPiao",
             "playerType": 2,
@@ -1070,7 +1070,7 @@
             "api": "csp_Duanju",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
+            "changeable": 1
 //          "ext": "http://aiduanju.vip/"
         },
         {
