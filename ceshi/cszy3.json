@@ -1,7 +1,7 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240315.jar;md5;d275081b5b9f999614a1930aa7599cb9",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -43,6 +43,15 @@
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "苹果",
+            "name": "小苹果影视(SP)",
+            "type": 3,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -201,18 +210,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "playerType": 2,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
-        },
-        {
-            "key": "率率",
-            "name": "率率影视(SP)",
-            "type": 3,
-            "api": "csp_AppLd",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
         },
         {
             "key": "csp_YQKan",
@@ -550,6 +549,17 @@
             "quickSearch":1
         },
 /*
+        {
+            "key": "率率",
+            "name": "率率影视(SP)",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
+        },
         {
             "key": "九六",
             "name": "九六影视(SP)",
@@ -5902,29 +5912,26 @@
             ]
         },
         {
-            "name": "hwk",
+            "name": "kk",
             "hosts": [
-                "haiwaikan"
+                "kuaikan"
             ],
             "regex": [
-                "10.0099",
-                "10.3333",
-                "16.0599",
-                "8.1748",
-                "12.33",
-                "10.85"
+                "5",
+                "20.123",
+                "20.167",
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
             ]
         },
         {
             "name": "yqk",
             "hosts": [
-                "yqk88"
+                "yqk"
             ],
             "regex": [
                 "18.4",
                 "15.1666",
-                "16.5333",
-                "#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"
+                "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
             ]
         },
         {
@@ -5961,9 +5968,10 @@
         {
             "name": "lz",
             "hosts": [
-                "lz",
+                "vip.lz",
+                "hd.lz",
                 "v.cdnlz",
-                "yzzy"
+                "yzzy1.play"
             ],
             "regex": [
                 "18.5333",
