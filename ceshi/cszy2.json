@@ -1,7 +1,7 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240322.jar;md5;dd909349c70fe92e82470eba611b7094",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240331.jar;md5;c8e7b51e9cf0fae22899ca9470d34c4c",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240331.jar;md5;c8e7b51e9cf0fae22899ca9470d34c4c",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240331.jar;md5;c8e7b51e9cf0fae22899ca9470d34c4c",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -25,7 +25,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
         },
         {
             "key": "csp_YGP",
@@ -38,20 +38,21 @@
             "changeable": 0
         },
         {
+            "key": "短剧(js)",
+            "name": 短剧(js)",
+            "type": 3,
+            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
             "key": "酷看",
             "name": "酷看影视(SP)",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "苹果",
-            "name": "小苹果影视(SP)",
-            "type": 3,
-            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -67,17 +68,24 @@
             "changeable": 1
         },
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉影视(SP)",
+            "key": "苹果",
+            "name": "小苹果影视(SP)",
             "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
+            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白嫖",
+            "name": "白嫖影视(SP)",
+            "type": 3,
+            "api": "csp_BaiPiao",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-//          "ext": "https://www.hdmyy.com/"
+            "ext": "https://www.baipiaoys.com:9092/"
         },
         {
             "key": "csp_Czsapp",
@@ -104,10 +112,11 @@
             "changeable": 1
         },
         {
-            "key": "白嫖",
-            "name": "白嫖影视(SP)",
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
             "type": 3,
-            "api": "csp_BaiPiao",
+            "api": "csp_NanGua",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -125,17 +134,6 @@
             "changeable": 1
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "新星",
             "name": "新星影视(xml)",
             "type": 1,
@@ -144,6 +142,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民影视(SP)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys5.json"
         },
         {
             "key": "csp_MLYS",
@@ -174,6 +184,19 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+        },
+        {
+            "key": "csp_Xinsj",
+            "name": "新视觉影视(SP)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+//          "ext": "https://www.hdmyy.com/"
         },
         {
             "key": "csp_Zxzj",
@@ -221,18 +244,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民影视(SP)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys5.json"
         },
         {
             "key": "csp_Bttwo",
@@ -1004,7 +1015,8 @@
             "changeable": 1,
             "playerType": "1",
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
 //          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
 //          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
@@ -4302,6 +4314,16 @@
 //          "ext": "http://101.34.67.237/txt/json/alist.json"
         },
         {
+            "key": "夸搜",
+            "name": "夸搜搜索",
+            "type": 3,
+            "api": "csp_QuarkPanso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+        },
+        {
             "key": "csp_YiSo",
             "name": "易搜(仅搜索)",
             "type": 3,
@@ -4310,18 +4332,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
-        },
-        {
-            "key": "csp_Zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         },
         {
             "key": "csp_PanSou",
@@ -4332,7 +4343,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         },
         {
             "key": "csp_UpYun",
@@ -4343,7 +4354,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         },
         {
             "key": "csp_PanSearch",
@@ -4354,7 +4365,18 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+        },
+        {
+            "key": "csp_Zhaozy",
+            "name": "找资源(仅搜索)",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
         },
         {
             "key": "csp_Dovx",
@@ -4365,7 +4387,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -4375,7 +4397,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt+4k|auto|fhd"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         }
     ],
     "parses": [
@@ -6035,6 +6057,13 @@
     ],
     "lives": [
         {
+            "name": "看电视呗",
+            "type": 0,
+            "url": "http://mywlkj.ddns.net:754/tv.php",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "live",
             "type": 0,
             "url": "http://我不是.肥猫.live/TV/tvzb.txt",
@@ -6213,6 +6242,24 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+        },
+        {
+            "name": "多线ITV",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "高速V6",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "嗅探",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
+            "type": 0,
+            "url": "https://xhdwc.tk/xiutan.m3u"
         },
         {
             "group": "redirect",
