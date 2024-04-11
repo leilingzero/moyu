@@ -1,7 +1,7 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240403.jar;md5;939c79aa5e93766504d1f7a957d32f24",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240403.jar;md5;939c79aa5e93766504d1f7a957d32f24",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240403.jar;md5;939c79aa5e93766504d1f7a957d32f24",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -25,7 +25,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd",
+                "siteUrl": "https://api.wogg.xyz/",
+                "danMu": "弹"
+            }
         },
         {
             "key": "csp_YGP",
@@ -88,6 +94,19 @@
             "ext": "https://www.baipiaoys.com:9092/"
         },
         {
+            "key": "csp_Xinsj",
+            "name": "新视觉影视(SP)",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.80yy3.com/"
+//          "ext": "https://www.hdmyy.com/"
+        },
+        {
             "key": "csp_Czsapp",
             "name": "厂长影视(SP)",
             "type": 3,
@@ -98,18 +117,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "ext": "https://www.czys01.com/"
         },
         {
             "key": "南瓜",
@@ -120,6 +128,29 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Nmys",
+            "name": "农民影视(SP)",
+            "type": 3,
+            "api": "csp_Nmys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys6.json"
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "酷云七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1
         },
         {
@@ -142,18 +173,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_Nmys",
-            "name": "农民影视(SP)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys5.json"
         },
         {
             "key": "csp_MLYS",
@@ -186,34 +205,6 @@
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
         {
-            "key": "csp_Xinsj",
-            "name": "新视觉影视(SP)",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.80yy3.com/"
-//          "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线之家(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzja.com/"
-//          "ext": "https://www.zxzj.pro/"
-//          "ext": "https://www.zxzjhd.com"
-//          "ext": "https://www.zxzj.org"
-        },
-        {
             "key": "追剧",
             "name": "追剧影视(SP)",
             "type": 3,
@@ -235,15 +226,6 @@
             "changeable": 1,
             "playerType": 2,
             "jar": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240306.jar;md5;a0df2c561cdc1fc457ed12595bf8659f"
-        },
-        {
-            "key": "csp_YQKan",
-            "name": "一起看影视(SP)",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "csp_Bttwo",
@@ -268,6 +250,30 @@
             "playerType": 1,
 //          "ext": "https://drpy.cainisi.cf/js/两个BT.js"
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
+        },
+        {
+            "key": "csp_YQKan",
+            "name": "一起看影视(SP)",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Zxzj",
+            "name": "在线之家(SP)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://www.zxzja.com/"
+//          "ext": "https://www.zxzj.pro/"
+//          "ext": "https://www.zxzjhd.com"
+//          "ext": "https://www.zxzj.org"
         },
         {
             "key": "csp_LibVio",
@@ -4321,7 +4327,10 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_YiSo",
@@ -4332,7 +4341,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_PanSou",
@@ -4343,7 +4355,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_UpYun",
@@ -4354,7 +4369,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_PanSearch",
@@ -4365,7 +4383,10 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "from": "4k|auto|fhd"
+            }
         },
         {
             "key": "csp_Zhaozy",
@@ -4397,7 +4418,11 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
+            "ext": {
+                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
+                "quarkCookie": "tvfan/cookie.txt",
+                "from": "4k|auto|fhd"
+            }
         }
     ],
     "parses": [
@@ -6244,7 +6269,7 @@
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },
         {
-            "name": "多线ITV",
+            "name": "ITV",
             "type": 0,
             "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
             "playerType": 1
@@ -6256,7 +6281,7 @@
             "playerType": 1
         },
         {
-            "name": "嗅探",
+            "name": "XIUTAN",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
             "url": "https://xhdwc.tk/xiutan.m3u"
