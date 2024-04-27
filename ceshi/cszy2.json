@@ -1,7 +1,7 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240411.jar;md5;013794cda7f4898b65b8a7f7382cc5a1",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240427.jar;md5;ca8aebf22c8948c98104d094d5f87c73",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240427.jar;md5;ca8aebf22c8948c98104d094d5f87c73",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240427.jar;md5;ca8aebf22c8948c98104d094d5f87c73",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -44,11 +44,22 @@
             "changeable": 0
         },
         {
+            "key": "csp_Djuu",
+            "name": "上头短剧(SP)",
+            "type": 3,
+            "api": "csp_Djuu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "短剧(js)",
             "name": "短剧(js)",
             "type": 3,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/上头短剧.js"
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
@@ -110,14 +121,25 @@
             "key": "csp_Czsapp",
             "name": "厂长影视(SP)",
             "type": 3,
-            "api": "csp_Czsapp",
+            "api": "csp_NewCz",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.czys01.com/"
+            "ext": "https://www.czys.top/"
+        },
+        {
+            "key": "csp_Kunyu77",
+            "name": "酷云七七(SP)",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "南瓜",
@@ -141,17 +163,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys6.json"
-        },
-        {
-            "key": "csp_Kunyu77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
         },
         {
             "key": "csp_Ddrk",
@@ -566,6 +577,16 @@
             "quickSearch":1
         },
 /*
+        {
+            "key": "csp_Duanju",
+            "name": "短剧在线(SP)",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+//          "ext": "http://aiduanju.vip/"
+        },
         {
             "key": "率率",
             "name": "率率影视(SP)",
@@ -1020,8 +1041,10 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
 //          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
 //          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
 //          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
@@ -1090,16 +1113,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
-        {
-            "key": "csp_Duanju",
-            "name": "短剧在线(SP)",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-//          "ext": "http://aiduanju.vip/"
         },
         {
             "key": "csp_Yj1211",
@@ -3571,8 +3584,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/JRKAN直播.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/jrk.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -3604,8 +3619,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/310直播.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/310直播.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+//            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -3640,7 +3657,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
 //          "ext": "https://fanty.run.goorm.site/ext/企鹅直播.json"
 //          "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XP/企鹅直播2.json"
         },
@@ -3674,8 +3692,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/酷奇MV.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -3717,7 +3737,8 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/MTV.json"
         },
         {
             "key": "csp_XYQHiker_虎牙直播",
@@ -3740,8 +3761,10 @@
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
 //          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huyazhibo.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huya2.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/huya2.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
             "style": {
 //              "type": "list"
                 "type": "rect",
@@ -3762,8 +3785,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/斗鱼直播.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
             "style": {
 //              "type": "list"
                 "type": "rect",
@@ -3804,8 +3829,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/短视频.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -3857,8 +3884,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/有声小说吧.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -4060,8 +4089,10 @@
 //          "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/兔小贝.js",
 //          "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
 //          "ext": "https://fanty.run.goorm.site/ext/兔小贝.js",
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/兔小贝.js",
+//          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+//          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/兔小贝.js",
+            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -4323,7 +4354,8 @@
             "key": "夸搜",
             "name": "夸搜搜索",
             "type": 3,
-            "api": "csp_QuarkPanso",
+//          "api": "csp_QuarkPanso",
+            "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -6271,13 +6303,7 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
-            "playerType": 1
-        },
-        {
-            "name": "高速V6",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
             "playerType": 1
         },
         {
@@ -6285,6 +6311,12 @@
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
             "url": "https://xhdwc.tk/xiutan.m3u"
+        },
+        {
+            "name": "高速V6",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+            "playerType": 1
         },
         {
             "group": "redirect",
