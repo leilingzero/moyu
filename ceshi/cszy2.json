@@ -59,7 +59,7 @@
 //          "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
 //          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/上头短剧.js"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/上头短剧.js",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
