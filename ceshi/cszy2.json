@@ -1326,7 +1326,8 @@
             "type": 1,
 //          "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
 //          "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
-            "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
+//          "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
+            "api": "http://www.hktv08.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1463,24 +1464,24 @@
             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_xpath_ysjdm",
+            "key": "csp_xpath_dmmiku",
             "name": "异世界动漫(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/lldm.json"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/dmmiku.json"
         },
         {
-            "key": "csp_xpath_gqdm",
+            "key": "csp_xpath_dmmiku2",
             "name": "高清动漫(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/gqdm.json"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/dmmiku2.json"
         },
         {
             "key": "csp_biubiu_ysjdm_xb",
