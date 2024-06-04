@@ -1,13 +1,14 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240531.jar;md5;e5331c586bf5835734be13338cecf00d",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240531.jar;md5;e5331c586bf5835734be13338cecf00d",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240531.jar;md5;e5331c586bf5835734be13338cecf00d",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240531.jar;md5;e5331c586bf5835734be13338cecf00d",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240531.jar;md5;e5331c586bf5835734be13338cecf00d",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
-    "wallpaper": "https://深色壁纸.xxooo.cf/",
+//  "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "wallpaper": "https://深色壁纸.饭.eu.org/",
     "sites": [
         {
             "key": "csp_DouDou",
@@ -107,7 +108,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys6.json"
+            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"
+//          "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/Custom_XPath_Filter/nmys6.json"
         },
         {
             "key": "csp_Czsapp",
