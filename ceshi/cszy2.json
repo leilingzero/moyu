@@ -1,9 +1,9 @@
 {
-    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240604.jar;md5;6adeb73add2066fe62257d2337084da2",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -1273,6 +1273,16 @@
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb03.json"
         },
         {
+            "key": "csp_xpath_tvyb04",
+            "name": "TVB云播04(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb04.json"
+        },
+        {
             "key": "csp_xpath_hktv06",
             "name": "TVB云播06(XPF)",
             "type": 3,
@@ -1281,6 +1291,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/hktv06.json"
+        },
+        {
+            "key": "csp_xpath_tvyb07",
+            "name": "TVB云播07(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb07.json"
         },
         {
             "key": "csp_xpath_gdhktv",
@@ -6182,7 +6202,9 @@
         {
             "name": "看电视呗",
             "type": 0,
-            "url": "http://tvbox6.com/tv.php?key=2785",
+            "url": "http://tvbox.mhfs.eu.org/6.php",
+//          "url": "http://tvbox.mohuajz.eu.org/6.php?all=1",
+//          "url": "http://tvbox6.com/tv.php?key=2785",
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
