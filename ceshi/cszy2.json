@@ -1,14 +1,14 @@
 {
-    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240607.jar;md5;aa164c88dfaf62b98b44fc6086a77fef",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
-//  "wallpaper": "https://深色壁纸.xxooo.cf/",
-    "wallpaper": "https://深色壁纸.饭.eu.org/",
+//  "wallpaper": "https://深色壁纸.饭.eu.org/",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "csp_DouDou",
@@ -125,17 +125,6 @@
             "ext": "https://czzy.top/"
         },
         {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Zxzj",
             "name": "在线之家(SP)",
             "type": 3,
@@ -150,6 +139,17 @@
 //          "ext": "https://www.zxzj.pro/"
 //          "ext": "https://www.zxzjhd.com"
 //          "ext": "https://www.zxzj.org"
+        },
+        {
+            "key": "csp_Ddrk",
+            "name": "低端影视(SP)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
         },
         {
             "key": "csp_js_荐片",
@@ -179,6 +179,16 @@
             "playerType": "1",
             "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jp3.json"
+        },
+        {
+            "key": "蛋蛋",
+            "name": "蛋蛋影视(SP)",
+            "type": 3,
+            "api": "csp_Cddys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "小点",
@@ -222,10 +232,10 @@
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
+            "key": "可可",
+            "name": "可可影视(SP)",
             "type": 3,
-            "api": "csp_NanGua",
+            "api": "csp_Kekys",
             "timeout": 15,
             "playerType": 2,
             "searchable": 1,
@@ -233,11 +243,12 @@
             "changeable": 1
         },
         {
-            "key": "新星",
-            "name": "新星影视(xml)",
-            "type": 1,
-            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
+            "type": 3,
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -271,17 +282,6 @@
             "name": "一起看影视(SP)",
             "type": 3,
             "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "可可",
-            "name": "可可影视(SP)",
-            "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -633,6 +633,16 @@
             "changeable": 1
         },
 /*
+        {
+            "key": "新星",
+            "name": "新星影视(xml)",
+            "type": 1,
+            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
+            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
         {
             "key": "csp_Duanju",
             "name": "短剧在线(SP)",
