@@ -1,9 +1,9 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240612.jar;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240616.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240616.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240616.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240616.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240616.jar;md5;c75cf198357a3a77f2189ab0764f2a8c",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -152,6 +152,16 @@
             "changeable": 1
         },
         {
+            "key": "文采",
+            "name": "文采影视(SP)",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "csp_js_荐片",
             "name": "荐片(js)",
             "type": 3,
@@ -181,10 +191,11 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/jp3.json"
         },
         {
-            "key": "蛋蛋",
-            "name": "蛋蛋影视(SP)",
+            "key": "可可",
+            "name": "可可影视(SP)",
             "type": 3,
-            "api": "csp_Cddys",
+            "api": "csp_Kekys",
+            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -232,22 +243,10 @@
             "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
         {
-            "key": "可可",
-            "name": "可可影视(SP)",
+            "key": "蛋蛋",
+            "name": "蛋蛋影视(SP)",
             "type": 3,
-            "api": "csp_Kekys",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
+            "api": "csp_Cddys",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -278,10 +277,12 @@
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
         },
         {
-            "key": "csp_YQKan",
-            "name": "一起看影视(SP)",
+            "key": "南瓜",
+            "name": "南瓜影视(SP)",
             "type": 3,
-            "api": "csp_YQKan",
+            "api": "csp_NanGua",
+            "timeout": 15,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -296,7 +297,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.libvio.pw/"
+            "ext": "https://www.libvio.cc/"
         },
         {
             "key": "csp_Auete",
@@ -322,6 +323,15 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.maolvys.com/"
+        },
+        {
+            "key": "csp_YQKan",
+            "name": "一起看影视(SP)",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "南坊",
