@@ -29,8 +29,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "quarkCookie": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t2.txt",
+                "Cloud-drive":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/t3.txt",
                 "from": "4k|auto|fhd",
                 "siteUrl": "https://www.wogg.link/",
                 "danMu": "弹"
