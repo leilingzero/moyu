@@ -1,9 +1,9 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240712.jar;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240721.jar;md5;71d846866f2ceb9666ba114e5963983f",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240721.jar;md5;71d846866f2ceb9666ba114e5963983f",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240721.jar;md5;71d846866f2ceb9666ba114e5963983f",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240721.jar;md5;71d846866f2ceb9666ba114e5963983f",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240721.jar;md5;71d846866f2ceb9666ba114e5963983f",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -29,10 +29,9 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "quarkCookie": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t2.txt",
-                "from": "4k|auto|fhd",
-                "siteUrl": "https://www.wogg.link/",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto",
+                "siteUrl": "https://www.wogg.net/",
                 "danMu": "弹"
             }
         },
@@ -91,6 +90,16 @@
             "changeable": 1
         },
         {
+            "key": "小点",
+            "name": "小点影视(SP)",
+            "type": 3,
+            "api": "csp_Appxdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
+        {
             "key": "原创",
             "name": "原创影视(SP)",
             "type": 3,
@@ -135,16 +144,6 @@
             "changeable": 1,
             "ext": "https://www.6080z.com/"
 //          "ext": "https://www.hdmyy.com/"
-        },
-        {
-            "key": "小点",
-            "name": "小点影视(SP)",
-            "type": 3,
-            "api": "csp_Xdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
         },
         {
             "key": "文采",
@@ -4463,9 +4462,8 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "pan": "quark",
-                "quarkCookie": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t2.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4479,8 +4477,8 @@
             "changeable": 0,
             "ext": {
                 "pan": "quark",
-                "quarkCookie": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t2.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4493,8 +4491,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4507,8 +4505,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4521,8 +4519,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4535,8 +4533,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         },
         {
@@ -4570,9 +4568,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": {
-                "aliToken": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt",
-                "quarkCookie": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t2.txt",
-                "from": "4k|auto|fhd"
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
             }
         }
     ],
@@ -6427,8 +6424,11 @@
         {
             "name": "ITV",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
-            "playerType": 1
+            "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
+//          "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "huichunniao",
