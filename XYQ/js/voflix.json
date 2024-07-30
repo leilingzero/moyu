@@ -3,7 +3,7 @@ var rule={
     title:'voflix',
     模板:'mxpro',
    
-    host:'https://www.voflix.me',
+    host:'https://www.voflix.fun',
     homeUrl:'/label/new.html',
    
     url:'/show/fyfilter.html',
