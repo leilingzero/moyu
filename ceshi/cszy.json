@@ -2410,6 +2410,7 @@
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
