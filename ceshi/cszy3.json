@@ -361,7 +361,7 @@
             "name": "赞赞影视(js)",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zanzan.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zanzan.js",
 //          "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 //          "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
             "searchable": 1,
@@ -373,7 +373,7 @@
             "name": "飞云影视(js)",
             "type": 3,
             "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/fy.js"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/fy.js",
 //          "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
 //          "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/fy.js",
             "searchable": 1,
