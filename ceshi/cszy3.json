@@ -649,11 +649,11 @@
             "key": "csp_xpath_dmmiku2",
             "name": "高清动漫(XPF)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPath",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/dmmiku2.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/dmmiku3.json"
         },
         {
             "key": "csp_xpath_lmm",
