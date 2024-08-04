@@ -47,7 +47,7 @@
  "dtDirectorR": "",
  "dtDesc": "//div[@class='module-info-content']//div[@class='module-info-introduction-content show-desc']/p/text()",
  "dtDescR": "",
- "dtFromNode": "//div[@class='module-tab-item tab-item active selected']/span",
+ "dtFromNode": "//div[contains(@id,'y-playList')]/div/span",
  "dtFromName": "/text()",
  "dtFromNameR": "",
  "dtUrlNode": "//div[@class='module-play-list']/div",
