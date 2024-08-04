@@ -647,7 +647,7 @@
         },
         {
             "key": "csp_xpath_dmmiku2",
-            "name": "高清动漫(XPF)",
+            "name": "高清动漫(XP)",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
