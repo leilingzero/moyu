@@ -1,7 +1,8 @@
 // 网址发布页 https://www.555dy.top
 var rule = {
 	title: '555电影[V2]', // csp_AppYsV2
-	host: 'https://www.555dyy.top',
+	//host: 'https://www.555dyy.top',
+	host: 'https://555yy9.com',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(2)&&a&&href");print(src);HOST=src',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
