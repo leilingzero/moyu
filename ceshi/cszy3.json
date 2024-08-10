@@ -1,9 +1,9 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240802.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240802.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240802.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240802.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240802.jar;md5;d295ec4dcf9a78f8441996009a88ecb0",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240810.jar;md5;67d1780ee22d022e0551fb8de5db17b6",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240810.jar;md5;67d1780ee22d022e0551fb8de5db17b6",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240810.jar;md5;67d1780ee22d022e0551fb8de5db17b6",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240810.jar;md5;67d1780ee22d022e0551fb8de5db17b6",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240810.jar;md5;67d1780ee22d022e0551fb8de5db17b6",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -86,15 +86,6 @@
             "changeable": 1
         },
         {
-            "key": "小点",
-            "name": "小点影视(SP)",
-            "type": 3,
-            "api": "csp_Appxdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "煤球",
             "name": "煤球影视(SP)",
             "type": 3,
@@ -113,6 +104,15 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
+        },
+        {
+            "key": "小点",
+            "name": "小点影视(SP)",
+            "type": 3,
+            "api": "csp_Appxdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
         },
         {
             "key": "原创",
