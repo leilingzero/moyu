@@ -445,7 +445,8 @@
             "key": "csp_xpath_tvyb03",
             "name": "TVB云播03(XPF)",
             "type": 3,
-            "api": "csp_XPathFilter",
+            "api": "csp_XPathFilter
+            "playUrl": "https://pl.qcheng.cc/hktvpc.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
