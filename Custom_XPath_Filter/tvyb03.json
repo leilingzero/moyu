@@ -56,7 +56,7 @@
   "dtUrlName":"/text()",
   "dtUrlNameR":"",
   "playUrl":"http://www.tvyb03.com/vod/play/id/{playUrl}.html",
-  "playUa":"",
+  "playUa":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
 //  "searchUrl":"http://www.tvyb03.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=10",
   "searchUrl":"http://www.tvyb03.com/ajax/suggest?mid=1&wd={wd}&limit=10",
   "scVodNode":"json:list",
