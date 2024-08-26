@@ -1,5 +1,5 @@
 {
-  "ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+  "ua":"Mozilla/5.0 (iPad; U; CPU OS 3_2_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B500 Safari/531.21.10",
   "homeUrl":"http://www.tvyb09.com",
   "dcVipFlag": "true",
   "pCfgJs": "http://www.tvyb09.com/static/js/playerconfig.js",
@@ -47,7 +47,7 @@
   "dtDesc":"//div[@class='col-pd text-collapse content']/span[@class='sketch content']/text()",
   "dtDescR":"",
   "dtFromNode":"//div[@class='myui-panel__head bottom-line active clearfix']/h3[@class='title']",
-  "dtFromName":"concat('播放源',count(parent::*/preceding::*//div[@class='myui-panel__head bottom-line active clearfix']/h3[@class='title']) + 1)",
+//  "dtFromName":"concat('播放源',count(parent::*/preceding::*//div[@class='myui-panel__head bottom-line active clearfix']/h3[@class='title']) + 1)",
   "dtFromNameR":"",
   "dtUrlNode":"//div[@class='myui-panel_bd clearfix']/ul[contains(@class,'myui-content__list')]",
   "dtUrlSubNode":"//li/a",
