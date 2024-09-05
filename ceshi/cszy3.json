@@ -577,7 +577,7 @@
                 "分类url": "http://www.tvyb09.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;8CA9E18CB5AF61795706D277D40D3651"
         },
         {
             "key": "csp_xpath_gangju5",
