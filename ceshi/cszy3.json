@@ -1,9 +1,9 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240901.jar;md5;cdee73045927fcb02b709ae63292cfd7",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240901.jar;md5;cdee73045927fcb02b709ae63292cfd7",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240901.jar;md5;cdee73045927fcb02b709ae63292cfd7",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240901.jar;md5;cdee73045927fcb02b709ae63292cfd7",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240901.jar;md5;cdee73045927fcb02b709ae63292cfd7",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -535,6 +535,49 @@
             "quickSearch": 1,
             "filterable": 1,
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231020.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
+        },
+        {
+            "key": "绿茶剧影",
+            "name": "绿茶影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://lvcha.asia/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;m",
+                "编码": "UTF-8",
+                "请求头": "手机",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+        },
+        {
+            "key": "兰花",
+            "name": "兰花┃影视",
+            "type": 3,          
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.lanhuatv.com/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+        },
+        {
+            "key": "tvy9云播",
+            "name": "tvy9云播影视",
+            "type": 3,          
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "http://www.tvyb09.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_xpath_gangju5",
