@@ -364,7 +364,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/360影视3.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_Dm84",
@@ -431,7 +431,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/haoqu99.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_广播迷",
@@ -439,7 +439,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/guangbomi.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xpath_hktvyun",
@@ -547,7 +547,7 @@
                 "请求头": "手机",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "兰花",
@@ -562,7 +562,7 @@
                 "分类url": "https://www.lanhuatv.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "tvy9云播",
@@ -577,7 +577,7 @@
                 "分类url": "http://www.tvyb09.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xpath_gangju5",
@@ -658,7 +658,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/乐猪影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XYQHiker_乐猪影视",
@@ -730,7 +730,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/fengchedm.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_biubiu_去看动漫",
@@ -741,7 +741,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/去看吧.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xpath_libvio",
@@ -781,7 +781,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/shdy.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "抖音小姐姐",
@@ -811,7 +811,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/voflix.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_biubiu_cupfox",
@@ -822,7 +822,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/cupfox.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "金鹰资源",
@@ -860,7 +860,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/秋霞影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_映迷影视",
@@ -871,7 +871,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/映迷影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XYQH_爱看影院",
@@ -893,7 +893,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/无名小站.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_野荷塘影院",
@@ -904,7 +904,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/野荷塘影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_素白白影视",
@@ -915,7 +915,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/素白白影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_剧白白",
@@ -926,7 +926,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/剧白白2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_蚂蚁影院",
@@ -937,7 +937,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/蚂蚁影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_虎虎影视",
@@ -948,7 +948,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/虎虎.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_新视觉影院",
@@ -959,7 +959,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/新视觉影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_蘑菇影视",
@@ -970,7 +970,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/蘑菇.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_臭蛋影视",
@@ -981,7 +981,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/臭蛋蛋.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_达达龟",
@@ -992,7 +992,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/达达龟.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_子子影视",
@@ -1003,7 +1003,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/子子影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_大米星球",
@@ -1014,7 +1014,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/大米星球2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_NikeTV",
@@ -1025,7 +1025,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/NikeTV.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_voflix",
@@ -1036,7 +1036,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/voflix.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_vidhub",
@@ -1047,7 +1047,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/vidhub.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_莫扎兔",
@@ -1058,7 +1058,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/莫扎兔.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "蜗牛影视",
@@ -1069,7 +1069,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/蜗牛2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_磁力熊",
@@ -1082,7 +1082,7 @@
             "changeable": 1,
             "playerType": 2,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/磁力熊.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "drpy_磁力熊",
@@ -1114,7 +1114,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/看一看影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_冷曦影视",
@@ -1125,7 +1125,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/冷曦影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_酷爱剧院",
@@ -1136,7 +1136,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/酷爱剧院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_二次萌影视",
@@ -1147,7 +1147,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/二次萌影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_圣城",
@@ -1158,7 +1158,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/圣城2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_星影",
@@ -1169,7 +1169,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/星影.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_热播之家",
@@ -1180,7 +1180,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/热播之家2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_零零七影视",
@@ -1191,7 +1191,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/零零七影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_飞云影视",
@@ -1202,7 +1202,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/飞云.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_夜光影视",
@@ -1213,7 +1213,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/夜光影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "drpy_yak",
@@ -1312,7 +1312,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/555电影2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xb_ky77",
@@ -1323,7 +1323,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/ky77.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xp_lgyy",
@@ -1364,7 +1364,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/乌龟影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xb_影视工厂",
@@ -1375,7 +1375,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/影视工厂.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_xg",
@@ -1386,7 +1386,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/西瓜影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQsg",
@@ -1397,7 +1397,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/思古.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_539",
@@ -1408,7 +1408,7 @@
             "quickSearch": 1,
             "searchable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/539影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_98看片",
@@ -1419,7 +1419,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/98影院2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XYQHiker_98电影",
@@ -1441,7 +1441,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/我爱看.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_看看影院",
@@ -1452,7 +1452,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/看看剧.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_V2_4k鸭奈飞",
@@ -1543,7 +1543,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/耐看点播.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_buka",
@@ -1554,7 +1554,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/真不卡影院.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_FreeOK",
@@ -1565,7 +1565,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/FreeOK.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_好戏影视",
@@ -1576,7 +1576,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/好戏.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_我爱跟剧",
@@ -1587,7 +1587,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/我爱跟剧.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_电影先生",
@@ -1598,7 +1598,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/电影先生2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_石榴影视",
@@ -1609,7 +1609,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/shiliu.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_番茄影视",
@@ -1620,7 +1620,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/fanqie.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_干饭影视",
@@ -1631,7 +1631,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/干饭影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_ikan6",
@@ -1642,7 +1642,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/ikan6.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_子子影视",
@@ -1653,7 +1653,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/子子影视.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_胖虎影视",
@@ -1664,7 +1664,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/胖虎影视2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_六月听书",
@@ -1675,7 +1675,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/六月听书.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_樱花动漫",
@@ -1686,7 +1686,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/樱花动漫.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_biubiu_ting",
@@ -1697,7 +1697,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/tingbook.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "mtv_pc_yinfans",
@@ -1862,7 +1862,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/抓饭体育.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XBPQ_kg",
@@ -1874,7 +1874,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/酷狗MV.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "酷奇js",
@@ -1900,7 +1900,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/酷奇MV2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XYQBiu_酷奇",
@@ -1998,7 +1998,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短视频2.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_XYQHiker_有声小说吧",
@@ -2060,7 +2060,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/爱看.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_xml_suoni",
