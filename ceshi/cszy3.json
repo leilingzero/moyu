@@ -1,9 +1,9 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240905.jar;md5;764421b45d9fff19a772e8366c64c5e5",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -562,7 +562,7 @@
                 "分类url": "https://www.lanhuatv.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;8CA9E18CB5AF61795706D277D40D3651"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "tvy9云播",
@@ -577,7 +577,7 @@
                 "分类url": "http://www.tvyb09.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
-            "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;8CA9E18CB5AF61795706D277D40D3651"
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240803.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_xpath_gangju5",
