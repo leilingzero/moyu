@@ -523,6 +523,16 @@
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun01.json"
         },
         {
+            "key": "csp_xpath_viphktv",
+            "name": "viphktv(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/viphktv.json"
+        },
+        {
             "key": "云播影视",
             "name": "云播影视",
             "type": 3,
@@ -540,11 +550,11 @@
 //          "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
 //          "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
 //          "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
-            "api": "http://www.hktv03.com/api.php/provide/vod/?ac=list",
+//          "api": "http://www.hktv03.com/api.php/provide/vod/?ac=list",
+            "api": "http://www.viphktv.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231020.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
+            "filterable": 1
         },
         {
             "key": "绿茶剧影",
