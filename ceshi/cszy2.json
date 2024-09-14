@@ -513,6 +513,16 @@
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb10.json"
         },
         {
+            "key": "csp_xpath_tvyun01",
+            "name": "tvyun01(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun01.json"
+        },
+        {
             "key": "云播影视",
             "name": "云播影视",
             "type": 3,
