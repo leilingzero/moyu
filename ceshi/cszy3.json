@@ -554,7 +554,12 @@
             "api": "http://www.viphktv.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "categories":[
+                "电视剧",
+                "电影",
+                "综艺",
+                "动漫"]
         },
         {
             "key": "绿茶剧影",
@@ -729,7 +734,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/lmmvip.json"
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/lmm88.json"
         },
         {
             "key": "csp_xpath_agedm",
