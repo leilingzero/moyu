@@ -1,9 +1,9 @@
 {
-    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240908.jar;md5;329e914a90b0bb5c7cb69b0eaec19700",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -44,6 +44,16 @@
             "changeable": 0
         },
         {
+            "key": "alllive",
+            "name": "一直播LIVE(SP)",
+            "type": 3,
+            "api": "csp_Alllive",
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "csp_LibVio",
             "name": "LibVio(SP)",
             "type": 3,
@@ -62,6 +72,16 @@
             "type": 3,
             "api": "csp_Jpys",
             "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "糯米",
+            "name": "糯米影视(SP)",
+            "type": 3,
+            "api": "csp_Nmyswv",
+            "timeout": 15,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -88,6 +108,17 @@
             "ext": "https://www.czys.pro/"
         },
         {
+            "key": "原创",
+            "name": "原创影视(SP)",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "热播",
             "name": "热播影视(SP)",
             "type": 3,
@@ -98,14 +129,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
-        {
-            "key": "追剧",
-            "name": "追剧影视(SP)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
         },
         {
             "key": "萌米",
@@ -138,27 +161,6 @@
             "changeable": 1
         },
         {
-            "key": "酷看",
-            "name": "酷看影视(SP)",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "原创",
-            "name": "原创影视(SP)",
-            "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "可可",
             "name": "可可影视(SP)",
             "type": 3,
@@ -170,31 +172,11 @@
             "changeable": 1
         },
         {
-            "key": "小点",
-            "name": "小点影视(SP)",
+            "key": "樱花",
+            "name": "樱花影视(SP)",
             "type": 3,
-            "api": "csp_Appxd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-        },
-        {
-            "key": "煤球",
-            "name": "煤球影视(SP)",
-            "type": 3,
-            "api": "csp_Appmq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Zx4k",
-            "name": "专线影视(SP)",
-            "type": 3,
-            "api": "csp_Zx4k",
+            "api": "csp_Yh007",
             "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -402,6 +384,54 @@
             "searchable": 0,
             "quickSearch": 1,
             "changeable": 0
+        },
+        {
+            "key": "追剧",
+            "name": "追剧影视(SP)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+        },
+        {
+            "key": "酷看",
+            "name": "酷看影视(SP)",
+            "type": 3,
+            "api": "csp_Kkys",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "小点",
+            "name": "小点影视(SP)",
+            "type": 3,
+            "api": "csp_Appxd",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+        },
+        {
+            "key": "煤球",
+            "name": "煤球影视(SP)",
+            "type": 3,
+            "api": "csp_Appmq",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "Zx4k",
+            "name": "专线影视(SP)",
+            "type": 3,
+            "api": "csp_Zx4k",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "直播",
@@ -1992,7 +2022,7 @@
                 "type": "rect",
                 "ratio": 1.755
             },
-            "playerType": "1",
+            "playerType": "2",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -2007,7 +2037,7 @@
                 "type": "rect",
                 "ratio": 1.755
             },
-            "playerType": "1",
+            "playerType": "2",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -2466,19 +2496,6 @@
             }
         },
         {
-            "key": "csp_PanSou",
-            "name": "盘搜(仅搜索)",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
             "key": "csp_UpYun",
             "name": "Up云搜(仅搜索)",
             "type": 3,
@@ -2496,6 +2513,19 @@
             "name": "PanSearch(仅搜索)",
             "type": 3,
             "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "csp_PanSou",
+            "name": "盘搜(仅搜索)",
+            "type": 3,
+            "api": "csp_PanSou",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
