@@ -1,9 +1,9 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240916.jar;md5;efdeb8bb81fe2f02ab0aee00455930e4",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240921.jar;md5;050512c9db356ad449af9d37dde8c5f0",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240921.jar;md5;050512c9db356ad449af9d37dde8c5f0",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240921.jar;md5;050512c9db356ad449af9d37dde8c5f0",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240921.jar;md5;050512c9db356ad449af9d37dde8c5f0",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240921.jar;md5;050512c9db356ad449af9d37dde8c5f0",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -338,17 +338,6 @@
             "ext": "http://122.228.85.203:1000/api.php/app/"
         }, 
         {
-            "key": "360影视",
-            "name": "360影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/360影视3.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "csp_Dm84",
             "name": "动漫巴士(SP)",
             "type": 3,
@@ -371,64 +360,6 @@
             "name": "Anime动漫(SP)",
             "type": 3,
             "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Yj1211",
-            "name": "直播合集(SP)",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "playerType": "1",
-            "searchable": 0,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "追剧",
-            "name": "追剧影视(SP)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "playerType": 2,
-            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
-        },
-        {
-            "key": "酷看",
-            "name": "酷看影视(SP)",
-            "type": 3,
-            "api": "csp_Kkys",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "小点",
-            "name": "小点影视(SP)",
-            "type": 3,
-            "api": "csp_Appxd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-        },
-        {
-            "key": "煤球",
-            "name": "煤球影视(SP)",
-            "type": 3,
-            "api": "csp_Appmq",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Zx4k",
-            "name": "专线影视(SP)",
-            "type": 3,
-            "api": "csp_Zx4k",
-            "timeout": 15,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -472,15 +403,35 @@
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-	    "key": "csp_Tvyb",
-	    "name": "TVB云播(SP)",
-	    "type": 3,
-	    "api": "csp_Tvyb",
-	    "playerType": 2,
+            "key": "csp_瓜子",
+            "name": "瓜子影视(SP)",
+            "api": "csp_Gz360",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
+        },
+        {
+            "key": "freeok",
+            "name": "freeOK影视(SP)",
+            "api": "csp_FreeOK",
+            "type": 3,
+            "changeable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
+        },
+        {
+            "key": "csp_Tvyb",
+            "name": "TVB云播(SP)",
+            "type": 3,
+            "api": "csp_Tvyb",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
-	},
+        },
         {
             "key": "csp_xpath_hktvyun",
             "name": "hktvyun(XPF)",
@@ -492,67 +443,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/hktvyun.json"
         },
         {
-            "key": "csp_xpath_tvyb03",
-            "name": "TVB云播03(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "playUrl": "json:https://pl.qcheng.cc/hktvpc.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb03.json"
-        },
-        {
-            "key": "csp_xpath_tvyb04",
-            "name": "TVB云播04(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb04.json"
-        },
-        {
-            "key": "csp_xpath_hktv06",
-            "name": "TVB云播06(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/hktv06.json"
-        },
-        {
-            "key": "csp_xpath_hktv07",
-            "name": "TVB云播07(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/hktv07.json"
-        },
-        {
-            "key": "csp_xpath_tvyb09",
-            "name": "TVB云播09(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb09.json"
-        },
-        {
-            "key": "csp_xpath_tvyb10",
-            "name": "TVB云播10(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyb10.json"
-        },
-        {
             "key": "csp_xpath_tvyun01",
             "name": "tvyun01(XPF)",
             "type": 3,
@@ -561,45 +451,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun01.json"
-        },
-        {
-            "key": "csp_xpath_viphktv",
-            "name": "viphktv(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/viphktv.json"
-        },
-        {
-            "key": "云播影视",
-            "name": "云播影视",
-            "type": 3,
-            "playerType": "2",
-//          "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
-//          "ext": "http://js.xn--z7x900a.com/js/TVB云播.js"
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/TVB云播09.js"
-
-        },
-        {
-            "key": "TVB云播(xml)",
-            "name": "TVB云播(xml)",
-            "type": 1,
-//          "api": "http://www.tvyb03.com/api.php/provide/vod/?ac=list",
-//          "api": "http://www.hktv06.com/api.php/provide/vod/?ac=list",
-//          "api": "http://api.gdhktv.com/api.php/provide/vod/?ac=list",
-//          "api": "http://www.hktv03.com/api.php/provide/vod/?ac=list",
-            "api": "http://www.viphktv.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories":[
-                "电视剧",
-                "电影",
-                "综艺",
-                "动漫"]
         },
         {
             "key": "绿茶剧影",
@@ -625,21 +476,6 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://www.lanhuatv.com/vodshow/{cateId}--------{catePg}---{year}.html",
-                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-            },
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "tvy9云播",
-            "name": "tvy9云播影视",
-            "type": 3,          
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "http://www.tvyb09.com/vod/show/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
             },
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -757,16 +593,6 @@
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/ysj39.json"
         },
         {
-            "key": "csp_xpath_dmmiku2",
-            "name": "高清动漫(XP)",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/dmmiku3.json"
-        },
-        {
             "key": "csp_xpath_lmm",
             "name": "路漫漫(XPF)",
             "type": 3,
@@ -775,6 +601,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/lmm88.json"
+        },
+        {
+            "key": "csp_xpath_lmm2",
+            "name": "路漫漫2(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/lmm92.json"
         },
         {
             "key": "csp_xpath_agedm",
