@@ -336,9 +336,23 @@
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
-            "playUrl": "json:http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
             "ext": "http://122.228.85.203:1000/api.php/app/"
         }, 
+        {
+            "key": "junjun",
+            "name": "君君2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1, 
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/appys.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
+        },
         {
             "key": "csp_Dm84",
             "name": "动漫巴士(SP)",
@@ -440,24 +454,8 @@
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
-            "playUrl": "json:http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
             "ext": "http://110.42.37.106:7788/api.php/app/"
         }, 
-        {
-            "key": "junjun",
-            "name": "🚗君君┃1080",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1, 
-            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/appys.js",
-            "ext": {
-                "host": "http://122.228.85.203:1000/api.php/app/",
-                "*": [
-                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
-                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
-                ]
-            }
-        },
         {
             "key": "freeok",
             "name": "freeOK影视(SP)",
@@ -2433,6 +2431,11 @@
                     "User-Agent": "okhttp/4.9.1"
                 }
             }
+        },
+        {
+            "name": "君瓜",
+            "type": 1,
+            "url": "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url="
         },
         {
             "name": "大家",
