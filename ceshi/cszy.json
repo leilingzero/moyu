@@ -1,9 +1,9 @@
 {
-    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240924.jar;md5;5769450f1eccd0c8dc347327736e870a",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240924.jar;md5;5769450f1eccd0c8dc347327736e870a",
-//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240924.jar;md5;5769450f1eccd0c8dc347327736e870a",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240924.jar;md5;5769450f1eccd0c8dc347327736e870a",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240924.jar;md5;5769450f1eccd0c8dc347327736e870a",
+    "spider": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/jar_fty240927.jar;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240927.jar;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+//  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240927.jar;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240927.jar;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
+//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty240927.jar;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
 //  "spider": "http://我不是.肥猫.love:63/Jar/panda230212.jar;md5;92DB9B2513E203A32A01195C4D376F67",
 //  "wallpaper": "http://饭.eu.org/深色壁纸/api.php",
 //  "wallpaper": "http://www.饭太硬.top/深色壁纸/api.php",
@@ -96,27 +96,47 @@
             "changeable": 1
         },
         {
-            "key": "csp_Czsapp",
-            "name": "厂长影视(SP)",
+            "key": "萌米",
+            "name": "萌米影视(SP)",
             "type": 3,
-            "api": "csp_NewCz",
-            "timeout": 15,
+            "api": "csp_AppTT",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czys.pro/"
+            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "原创",
-            "name": "原创影视(SP)",
+            "key": "萌米2",
+            "name": "萌米影视2(SP)",
             "type": 3,
-            "api": "csp_YCyz",
-            "timeout": 15,
-            "playerType": 1,
+            "api": "csp_AppMao",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 0,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+        },
+        {
+            "key": "欢视",
+            "name": "欢视影视(SP)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+        },
+        {
+            "key": "热播",
+            "name": "热播影视(SP)",
+            "type": 3,
+            "api": "csp_AppTT",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
             "key": "南瓜",
@@ -134,42 +154,10 @@
             "name": "可可影视(SP)",
             "type": 3,
             "api": "csp_Kekys",
-            "timeout": 15,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "热播",
-            "name": "热播影视(SP)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
-        {
-            "key": "萌米",
-            "name": "萌米影视(SP)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "timeout": 15,
-            "playerType": 1,
-            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-        },
-        {
-            "key": "萌米2",
-            "name": "萌米影视2(SP)",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
         },
         {
             "key": "csp_Zxzj",
@@ -211,7 +199,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/jp3.json"
         },
         {
@@ -227,13 +215,36 @@
             "key": "csp_js_Bttwo",
             "name": "Bttwo(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "playerType": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/bttwo.js"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长影视(SP)",
+            "type": 3,
+            "api": "csp_NewCz",
+            "timeout": 15,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://www.czzy77.com/"
+        },
+        {
+            "key": "原创",
+            "name": "原创影视(SP)",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "csp_Auete",
@@ -256,16 +267,6 @@
             "changeable": 1
         },
         {
-            "key": "樱花",
-            "name": "樱花影视(SP)",
-            "type": 3,
-            "api": "csp_Yh007",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Kuaikan",
             "name": "快看(SP)",
             "type": 3,
@@ -280,7 +281,7 @@
             "key": "csp_js_555影视",
             "name": "555影视(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -291,7 +292,7 @@
             "key": "肥猫荐片(js)",
             "name": "肥猫荐片(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/荐片.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -335,6 +336,7 @@
             "searchable": 1, 
             "quickSearch": 1, 
             "filterable": 1, 
+            "playUrl": "json:http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
             "ext": "http://122.228.85.203:1000/api.php/app/"
         }, 
         {
@@ -383,7 +385,7 @@
             "key": "好趣直播js",
             "name": "好趣直播js",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/好趣网.json"
         },
         {
@@ -411,7 +413,50 @@
             "playerType": 2,
             "timeout": 30,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
+        },
+        {
+            "key": "GUAZI",
+            "name": "瓜子2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1, 
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/appys.js",
+            "ext": {
+                "host": "http://110.42.37.106:7788/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    ""
+                ]
+            }
+        },
+        {
+            "key": "瓜子3", 
+            "name": "瓜子3(V2)", 
+            "playerType": 1, 
+            "type": 3, 
+            "changeable": 0,
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "playUrl": "json:http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+            "ext": "http://110.42.37.106:7788/api.php/app/"
+        }, 
+        {
+            "key": "junjun",
+            "name": "🚗君君┃1080",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1, 
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/appys.js",
+            "ext": {
+                "host": "http://122.228.85.203:1000/api.php/app/",
+                "*": [
+                    "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=", 
+                    "https://xcoo.vip/xiaojun/xiaojunjiexi.php?url="
+                ]
+            }
         },
         {
             "key": "freeok",
@@ -420,7 +465,7 @@
             "type": 3,
             "changeable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
         },
         {
             "key": "csp_Tvyb",
@@ -430,7 +475,7 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726332831793/08015.jar;md5;d797a2aea119c4c5e217172e274d72f6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727398313929/0927.txt;md5;5f7ad832093d5ffd021bfd3d665b5a4a"
         },
         {
             "key": "csp_xpath_hktvyun",
@@ -999,7 +1044,7 @@
             "key": "drpy_磁力熊",
             "name": "磁力熊(drpy)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/磁力熊.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -1009,7 +1054,7 @@
             "key": "drpy_低端影视",
             "name": "低端影视(drpy)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "playerType": "2",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/ddys.js",
             "searchable": 1,
@@ -1130,21 +1175,21 @@
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/粤爱看.json"
         },
         {
             "key": "drpy_tvb",
             "name": "云播(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/云播.js"
         },
         {
             "key": "drpy_TVB云播",
             "name": "TVB云播(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/TVB云播.json"
@@ -1155,7 +1200,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/南瓜影院.js",
             "changeable": 0
         },
@@ -1163,7 +1208,7 @@
             "key": "drpy_VOFLIX",
             "name": "VOFLIX影视(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/voflix.json"
@@ -1172,7 +1217,7 @@
             "key": "drpy_58动漫",
             "name": "58动漫(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1182,7 +1227,7 @@
             "key": "drpy_AnFuns动漫",
             "name": "AnFuns动漫(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/AnFuns.json"
@@ -1191,7 +1236,7 @@
             "key": "drpy_动漫岛",
             "name": "动漫岛(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
@@ -1200,7 +1245,7 @@
             "key": "drpy_NyaFun",
             "name": "NyaFun影视(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/NyaFun.json"
@@ -1209,7 +1254,7 @@
             "key": "drpy_4K电影网",
             "name": "4K电影网(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/4K电影网.json"
@@ -1634,14 +1679,14 @@
             "key": " 短剧网",
             "name": "短剧视频(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/短剧网.js"
         },
         {
             "key": " 在线直播",
             "name": "在线直播(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/JustLive.js",
             "gridview": "0-0-H",
             "style": {
@@ -1653,7 +1698,7 @@
             "key": "畅梦",
             "name": "畅梦影视(js)",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/changmeng.js"
         },
         {
@@ -1739,7 +1784,7 @@
             "changeable": 0
         },
         {
-            "key": "csp_js_qiumi",
+            "key": "csp_js_Jrs",
             "name": "Jrs球迷(js)",
             "type": 3,
             "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
@@ -1926,14 +1971,14 @@
             "key": "drpy_js_有声小说吧",
             "name": "有声小说吧js",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "蜻蜓收音js",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/蜻蜓FM.js"
         },
         {
@@ -1948,7 +1993,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -2026,26 +2070,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Nbys",
-            "name": "泥巴(墙外)",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "唐人街(墙外)",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "dr_兔小贝",
             "name": "儿童启蒙",
             "type": 3,
@@ -2057,7 +2081,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -2084,7 +2107,6 @@
             },
             "searchable": 1,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/bili3.json"
         },
@@ -2099,7 +2121,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/biliych.json"
         },
@@ -2147,7 +2168,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/少儿教育.json"
         },
@@ -2162,7 +2182,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/小学课堂.json"
         },
@@ -2177,7 +2196,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/初中课堂.json"
         },
@@ -2192,7 +2210,6 @@
             },
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1,
             "changeable": 0,
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/高中课堂.json"
         },
@@ -2211,7 +2228,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
         },
         {
@@ -2222,7 +2239,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "http://www.xb6v.com/"
+            "ext": "https://www.xb6v.com/"
         },
         {
             "key": "mp4us",
@@ -2231,14 +2248,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
         },
         {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
+            "api": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/XYQ/ftyjs/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
@@ -2283,19 +2300,6 @@
             "name": "抠搜搜索",
             "type": 3,
             "api": "csp_KkSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "盘他",
-            "name": "盘他U夸",
-            "type": 3,
-            "api": "csp_PanTa",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -2355,19 +2359,6 @@
             }
         },
         {
-            "key": "csp_UpYun",
-            "name": "Up云搜(仅搜索)",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
             "key": "csp_PanSearch",
             "name": "PanSearch(仅搜索)",
             "type": 3,
@@ -2379,41 +2370,6 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
-        {
-            "key": "csp_PanSou",
-            "name": "盘搜(仅搜索)",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "csp_Zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd$$$zhaoziyuan777$$$qqq111"
-        },
-        {
-            "key": "csp_Dovx",
-            "name": "七夜(仅搜索)",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/ext/t1.txt---4k|auto|fhd"
         },
         {
             "key": "push_agent",
@@ -2448,6 +2404,35 @@
             "name": "Json并发",
             "type": 2,
             "url": "Parallel"
+        },
+        {
+            "name": "1080解析1",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
         },
         {
             "name": "大家",
