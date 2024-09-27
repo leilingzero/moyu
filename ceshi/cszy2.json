@@ -194,7 +194,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": "1",
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/jp3.json"
         },
         {
@@ -210,7 +210,7 @@
             "key": "csp_js_Bttwo",
             "name": "Bttwo(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -276,7 +276,7 @@
             "key": "csp_js_555影视",
             "name": "555影视(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -287,7 +287,7 @@
             "key": "肥猫荐片(js)",
             "name": "肥猫荐片(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/荐片.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -394,7 +394,7 @@
             "key": "好趣直播js",
             "name": "好趣直播js",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/好趣网.json"
         },
         {
@@ -1037,7 +1037,7 @@
             "key": "drpy_磁力熊",
             "name": "磁力熊(drpy)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -1047,7 +1047,7 @@
             "key": "drpy_低端影视",
             "name": "低端影视(drpy)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "playerType": "2",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/ddys.js",
             "searchable": 1,
@@ -1168,21 +1168,21 @@
             "key": "drpy_yak",
             "name": "粤爱看(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/粤爱看.json"
         },
         {
             "key": "drpy_tvb",
             "name": "云播(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/云播.js"
         },
         {
             "key": "drpy_TVB云播",
             "name": "TVB云播(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/TVB云播.json"
@@ -1193,7 +1193,7 @@
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/南瓜影院.js",
             "changeable": 0
         },
@@ -1201,7 +1201,7 @@
             "key": "drpy_VOFLIX",
             "name": "VOFLIX影视(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/voflix.json"
@@ -1210,7 +1210,7 @@
             "key": "drpy_58动漫",
             "name": "58动漫(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1220,7 +1220,7 @@
             "key": "drpy_AnFuns动漫",
             "name": "AnFuns动漫(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/AnFuns.json"
@@ -1229,7 +1229,7 @@
             "key": "drpy_动漫岛",
             "name": "动漫岛(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
@@ -1238,7 +1238,7 @@
             "key": "drpy_NyaFun",
             "name": "NyaFun影视(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/NyaFun.json"
@@ -1247,7 +1247,7 @@
             "key": "drpy_4K电影网",
             "name": "4K电影网(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4K电影网.json"
@@ -1672,14 +1672,14 @@
             "key": " 短剧网",
             "name": "短剧视频(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/短剧网.js"
         },
         {
             "key": " 在线直播",
             "name": "在线直播(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/JustLive.js",
             "gridview": "0-0-H",
             "style": {
@@ -1691,7 +1691,7 @@
             "key": "畅梦",
             "name": "畅梦影视(js)",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/changmeng.js"
         },
         {
@@ -1964,14 +1964,14 @@
             "key": "drpy_js_有声小说吧",
             "name": "有声小说吧js",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/有声小说吧.js"
         },
         {
             "key": "drpy_js_蜻蜓FM",
             "name": "蜻蜓收音js",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蜻蜓FM.js"
         },
         {
@@ -2221,7 +2221,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
         },
         {
@@ -2241,14 +2241,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
         },
         {
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
-            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib1/drpy1.min.js",
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
