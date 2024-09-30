@@ -9,7 +9,7 @@
   
   "分类url": "https://www.kykhd.cc/index.php?m=vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-0-letter--area--lang-.html",
 
-  "数组":"p2 m1  \">&&</li>",
+//  "数组":"p2 m1  \">&&</li>",
   "标题":"title=\"&&\"",
   "副标题": "<i>&&</i>",
   "图片":"data-original=\"&&\"",
