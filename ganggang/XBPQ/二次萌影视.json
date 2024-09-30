@@ -1,11 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "二次萌影视",
-  "主页url": "https://ys.ccmoe.cc",
+//  "主页url": "https://ys.ccmoe.cc",
+  "主页url": "https://www.ecmys.com",
   
   "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
   
-  "分类url": "https://ys.ccmoe.cc/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}/",
+  "分类url": "https://www.ecmys.com/vod/show{area}{by}/id/{cateId}/page/{catePg}{year}/",
   
   "副标题": "module-item-note\">&&</div>",
   
