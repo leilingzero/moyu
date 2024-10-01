@@ -1,5 +1,6 @@
 {"网站名字": "樱花动漫",
-"网站地址": "http://www.yinghuavideo.com",
+//"网站地址": "http://www.yinghuavideo.com",
+"网站地址": "http://www.yinghuajinju.com",  
 "访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 "播放请求头": "User-Agent$123",
 "集数倒序": "1",
@@ -10,23 +11,23 @@
 "筛选列表": [
 {
 "分类名称": "新番动漫",
-"第一页分类链接": "http://www.yinghuavideo.com/2023/",
-"分类链接": "http://www.yinghuavideo.com/2023/翻页.html"
+"第一页分类链接": "http://www.yinghuajinju.com/2023/",
+"分类链接": "http://www.yinghuajinju.com/2023/翻页.html"
 },
 {
 "分类名称": "日本动漫",
-"第一页分类链接": "http://www.yinghuavideo.com/japan/",
-"分类链接": "http://www.yinghuavideo.com/japan/翻页.html"
+"第一页分类链接": "http://www.yinghuajinju.com/japan/",
+"分类链接": "http://www.yinghuajinju.com/japan/翻页.html"
 },
 {
 "分类名称": "国产动漫",
-"第一页分类链接": "http://www.yinghuavideo.com/china/",
-"分类链接": "http://www.yinghuavideo.com/china/翻页.html"
+"第一页分类链接": "http://www.yinghuajinju.com/china/",
+"分类链接": "http://www.yinghuajinju.com/china/翻页.html"
 },
 {
 "分类名称": "美国动漫",
-"第一页分类链接": "http://www.yinghuavideo.com/american/",
-"分类链接": "http://www.yinghuavideo.com/american/翻页.html"
+"第一页分类链接": "http://www.yinghuajinju.com/american/",
+"分类链接": "http://www.yinghuajinju.com/american/翻页.html"
 }
 ],
 "列表二次截取": "空",
@@ -40,9 +41,9 @@
 "列表链接后缀": "",
 "搜索请求方式": "0",
 "搜索模式": "1",
-"搜索前": "http://www.yinghuavideo.com/search/",
+"搜索前": "http://www.yinghuajinju.com/search/",
 "搜索后": "/",
-"搜索带翻页模式": "http://www.yinghuavideo.com/search/搜索词/?page=翻页",
+"搜索带翻页模式": "http://www.yinghuajinju.com/search/搜索词/?page=翻页",
 "搜索连接后缀": "空",
 "搜索二次截取": "空",
 "搜索截取数组": "<img$$</li>",
