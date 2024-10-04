@@ -1,8 +1,9 @@
 {
-    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241001.jar;md5;fae44887703772d67cbf11432d50d113",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241001.jar;md5;fae44887703772d67cbf11432d50d113",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241001.jar;md5;fae44887703772d67cbf11432d50d113",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241001.jar;md5;fae44887703772d67cbf11432d50d113",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241004.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241004.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241004.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241004.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241004.jar;md5;74a1bf23b9d08ad9f3483d1d73105a93",
 //  "wallpaper": "https://深色壁纸.饭.eu.org/",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
@@ -378,14 +379,14 @@
             "type": 3,
             "playerType": 1,
             "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
-            "ext": "Box醒人室$https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.txt#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
+            "ext": "WWB$https://gh.con.sh/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u#原子力$http://175.178.251.183:6689/live.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
         },
         {
             "key": "直播转点播2",
             "name": "电视直播仓2",
             "type": 3,
             "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓2.json"
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓3.json"
         },
         {
             "key": "好趣直播js",
@@ -673,6 +674,66 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/dongmandao.json"
+        },
+        {
+            "key": "drpy_漫次元",
+            "name": "漫次元(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/漫次元.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_七色番",
+            "name": "七色番(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/七色番.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_次元派对",
+            "name": "次元派对(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/次元派对.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_clicli",
+            "name": "clicli(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/clicli.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_mutefun",
+            "name": "mutefun(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mutefun.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "drpy_HDmoli2",
+            "name": "HDmoli2(drpy)",
+            "type": 3,
+            "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/HDmoli2.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "csp_biubiu_风车动漫",
@@ -1042,7 +1103,7 @@
             "name": "磁力熊(drpy)",
             "type": 3,
             "api": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.js",
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
