@@ -32,7 +32,7 @@ var rule = {
      class_name:'番剧&剧场版',
      class_url:'20&22',
      double: false, // 推荐内容是否双层定位
-     推荐: '.public-list-exp;a&&title;img&&data-src;.ft2&&Text;a&&href',
+     推荐: '.public-list-exp;a&&title;img&&src;.ft2&&Text;a&&href',
      一级:`js:
         let body = input.split("#")[1];
         let t = Math.round(new Date / 1e3).toString();
