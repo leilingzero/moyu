@@ -1612,7 +1612,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/电影先生2.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_XBPQ_石榴影视",
@@ -1678,7 +1678,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/胖虎影视2.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_XBPQ_六月听书",
@@ -1689,7 +1689,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/六月听书.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_XBPQ_樱花动漫",
@@ -1700,7 +1700,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/樱花动漫.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "csp_biubiu_ting",
@@ -1711,7 +1711,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/tingbook.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
         },
         {
             "key": "mtv_pc_yinfans",
@@ -1731,7 +1731,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/duanshipin.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/duanshipin.json",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": " 短剧网",
@@ -1767,7 +1769,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQBiu/huya.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQBiu/huya.json",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "csp_XYQBiu_17看",
@@ -1777,7 +1781,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/17看.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/17看.json",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "csp_XBiu_南瓜影视",
@@ -1787,7 +1793,9 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html"
+            "ext": "https://www.ngys8.com/vodshow/id/{cateId}/page{catePg}.html",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "csp_XBiu_口袋影院",
@@ -1799,21 +1807,27 @@
                 "playlist": {
                     "sort": 1
                 }
-            }
+            },
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "csp_XBiu_233动漫",
             "name": "233动漫(XBiu)",
             "type": 3,
             "api": "csp_XBiu",
-            "ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html"
+            "ext": "https://www.233dm.cc/show/{cateId}--------{catePg}---.html",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "csp_XBiu_COKEMV",
             "name": "COKEMV影视(XBiu)",
             "type": 3,
             "api": "csp_XBiu",
-            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"
+            "ext": "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
         },
         {
             "key": "88js",
