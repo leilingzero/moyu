@@ -50,7 +50,7 @@ var rule = {
      `,
      二级:{
            "title":".slide-info-title&&Text;#qiAnDao_1&&Text",
-           "img":".detail-pic&&data-src",
+           "img":".detail-pic&&data-original",
            "desc":".this-text&&Text;.deployment&&span:eq(0)&&Text;.deployment&&span:eq(2)&&Text",
            "content":"#height_limit&&Text",
            "tabs":"#zxdaoxu",
