@@ -496,7 +496,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
             "changeable": 0,
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guoguo.js"
         },
@@ -508,7 +507,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "order_num": 0,
             "changeable": 0,
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/摘星.js"
         },
