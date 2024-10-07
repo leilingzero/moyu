@@ -541,6 +541,9 @@
             "changeable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/摘星.js"
         },
+        {"key":"drpy_js_360影视","name":"官源 | 360[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/360影视.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/百忙无果.js"},
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/腾云驾雾.js"},
         {
             "key": "csp_xpath_gangju5",
             "name": "港剧屋(XP)",
