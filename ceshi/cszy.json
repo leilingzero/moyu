@@ -455,8 +455,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://api123.adys.app/xgapp.php/v3/"
-//          "ext": "https://aidiapp.xyz/xgapp.php/v2/"
+            "ext": "https://aidiapp.xyz/xgapp.php/v2/"
         },
         {
             "key": "csp_Tvyb",
