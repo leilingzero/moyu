@@ -541,8 +541,8 @@
             "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/摘星.js"
         },
         {
-            "key":"drpy_js_影视",
-            "name":"(js)",
+            "key":"drpy_js_360影视",
+            "name":"360(js)",
             "type":3,
             "api":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext":"https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/360影视.js"
