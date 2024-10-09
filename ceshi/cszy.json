@@ -818,7 +818,7 @@
             "key": "360资源",
             "name": "360资源(xml)",
             "type": 1,
-            "api": "https://360zy.com/api.php/provide/vod",
+            "api": "https://360zy.com/api.php/provide/vod/at/json",
             "searchable": 1,
             "changeable": 0
         },
