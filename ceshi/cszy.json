@@ -723,41 +723,11 @@
             "filterable": 1
         },
         {
-            "key": "drpy_七色番",
-            "name": "七色番(js)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/七色番.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "drpy_次元派对",
-            "name": "次元派对(js)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/次元派对.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "drpy_clicli",
             "name": "clicli(js)",
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/clicli.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "drpy_HDmoli2",
-            "name": "HDmoli2(js)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/HDmoli2.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -877,15 +847,6 @@
             "filterable": 0,
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/shdy.json",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "抖音小姐姐",
-            "name": "抖音小姐姐",
-            "type": 4,
-            "api": "http://120.53.102.254/xjj",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
         },
         {
             "key": "csp_biubiu_voflix",
