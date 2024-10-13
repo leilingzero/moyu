@@ -298,6 +298,29 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c"
         },
         {
+            "key": "csp_农民",
+            "name": "农民(SP)",
+            "type": 3,
+            "api": "csp_Nongm",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.wwgz.cn/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c"
+        },
+        {
+            "key": "csp_yigeg",
+            "name": "菠菜(SP)",
+            "type": 3,
+            "api": "csp_Pptv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://yigeg.pro/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728350715516/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c"
+        },
+        {
             "key": "csp_全网",
             "name": "全网(SP)",
             "type": 3,
@@ -520,7 +543,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
-            "ext": "https://yanaifei.net/api.php/app/"
+            "ext": "https://yanaifei.one/api.php/app/"
         },
         {
             "key": "csp_V2_鸭奈飞",
@@ -533,6 +556,16 @@
             "ext": "https://yanetflix.me/api.php/app/"
         },
         {
+            "key": "csp_V2_奈飞工厂",
+            "name": "奈飞工厂(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.netflixgc.com/api.php/app/"
+        },
+        {
             "key": "csp_appys_TV酷",
             "name": "TV酷影视(V2)",
             "type": 3,
@@ -542,16 +575,7 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-        {
-            "key": "csp_V2_星河影视",
-            "name": "星河影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://111.173.115.204:2211/api.php/app/"
-        },
+
         {
             "key": "csp_V2_小马",
             "name": "小马(V2)",
@@ -771,6 +795,17 @@
             }
         },
         {
+            "key": "FreeOK",
+            "name": "FreeOK(js)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/FREE.js"
+        },
+        {
             "key": "闪电",
             "name": "闪电(js)",
             "type": 3,
@@ -798,17 +833,6 @@
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/粤爱看.json"
-        },
-        {
-            "key": "drpy_低端影视",
-            "name": "低端影视(js)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "playerType": 2,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/ddys.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
         },
         {
             "key": "drpy_voflix",
@@ -984,6 +1008,15 @@
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/dongmandao.json"
         },
         {
+            "key": "drpy_动漫岛",
+            "name": "动漫岛(js)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
+        },
+        {
             "key": "drpy_漫次元",
             "name": "漫次元(js)",
             "type": 3,
@@ -1014,13 +1047,14 @@
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/58动漫.json"
         },
         {
-            "key": "drpy_动漫岛",
-            "name": "动漫岛(js)",
+            "key": "drpy_去看吧",
+            "name": "去看吧(js)",
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "searchable": 1,
-            "changeable": 1,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
         },
         {
             "key": "csp_xml_HG影视",
@@ -1869,6 +1903,11 @@
             "name": "帅",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+        },
+        {
+            "name": "zhuimi-super",
+            "type": 1,
+            "url": "http://103.38.82.59:9527/zhuimi666.php?url="
         },
         {
             "name": "大家",
