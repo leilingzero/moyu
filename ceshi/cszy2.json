@@ -790,7 +790,7 @@
             "ext": {
                 "host": "http://110.42.37.106:7788/api.php/app/",
                 "*": [
-                    "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+                    "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url="
                 ]
             }
         },
@@ -1672,7 +1672,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alist2.json"
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alist2.json",
+            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "csp_Alist2",
@@ -1839,7 +1840,7 @@
         {
             "name": "君瓜",
             "type": 1,
-            "url": "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+            "url": "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url="
         },
         {
             "name": "反弹",
