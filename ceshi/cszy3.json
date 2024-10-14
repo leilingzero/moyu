@@ -790,7 +790,7 @@
             "ext": {
                 "host": "http://110.42.37.106:7788/api.php/app/",
                 "*": [
-                    "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+                    "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url="
                 ]
             }
         },
@@ -1275,7 +1275,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty231020.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
             "key": "csp_XYQHiker_素白白",
@@ -1672,7 +1672,8 @@
             "quickSearch": 0,
             "filterable": 0,
             "changeable": 0,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alist2.json"
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/alist2.json",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
             "key": "csp_Alist2",
@@ -1839,7 +1840,7 @@
         {
             "name": "君瓜",
             "type": 1,
-            "url": "http://122.228.85.203:7979/api/?key=29a5e65c75bf3d339dec1bf50155cf87&url="
+            "url": "http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url="
         },
         {
             "name": "反弹",
