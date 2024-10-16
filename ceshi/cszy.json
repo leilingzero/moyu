@@ -602,14 +602,14 @@
         },
         {
             "key":"csp_XBPQ_老王影视",
-            "name":"老王影视",
+            "name":"老王影视(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
             "ext":{
-                "简介":"剧情介绍:+&&</span>",
+                "简介":"</span>",
                 "主页url":"https://www.laowang.co/",
                 "播放数组":"module-blocklist scroll-box scroll-box-y&&</div>",
                 "搜索url":"https://laowang.co/s.html?wd={wd}",
@@ -619,8 +619,22 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "LW",
+            "name": "老王影视2(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            },
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "好帅短剧",
-            "name": "好帅短剧",
+            "name": "好帅短剧(XBPQ)",
             "type":3,
             "api":"csp_XBPQ",
             "ext": {
@@ -1091,6 +1105,15 @@
             "name": "HG影视(xml)",
             "type": 1,
             "api": "https://hong.hgyx.vip/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "csp_xml_老王影视",
+            "name": "老王影视(xml)",
+            "type": 1,
+            "api": "https://www.laowang.co/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
