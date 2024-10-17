@@ -1288,6 +1288,26 @@
             "changeable": 0
         },
         {
+            "key": "华为资源",
+            "name": "华为资源(xml)",
+            "type": 1,
+            "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "playUrl":"https://player.dphw8.com/player?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "php_huaweiba",
+            "name": "华为吧(T4)",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=webhuaweiba",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "金鹰资源",
             "name": "金鹰资源(xml)",
             "type": 1,
