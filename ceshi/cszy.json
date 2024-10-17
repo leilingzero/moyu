@@ -627,6 +627,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "副标题": "class=\"module-item-text\">&&</div>",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
