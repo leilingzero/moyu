@@ -1272,9 +1272,10 @@
             "name": "木耳资源(xml)",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+            "playUrl":"https://player.heimuer.tv/index.html?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "changeable": 0
         },
         {
             "key": "金鹰资源",
