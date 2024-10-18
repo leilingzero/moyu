@@ -612,7 +612,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.a6club.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.a6club.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
                 "分类": "国产剧$38#港台剧$39#欧美剧$40#日韩剧$41#电影$20#连续剧$37#动漫$43#B站$47#综艺$45#体育$52"
             }
         },
@@ -639,7 +639,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://yigeg.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类url": "https://yigeg.pro/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
