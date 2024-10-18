@@ -1,11 +1,10 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://hub.gitmirror.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
-//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241016.jar;md5;0a91b704fc178bc3766d0eb33b7d908e",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
+//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241018.jar;md5;ce37642e140a829d57496a32d8fcc648",
 //  "wallpaper": "https://深色壁纸.饭.eu.org/",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
@@ -85,10 +84,29 @@
             "changeable": 1
         },
         {
+            "key": "csp_Bttwo",
+            "name": "Bttwo(SP)",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "苹果",
             "name": "苹果影视(SP)",
             "type": 3,
             "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "原创",
+            "name": "原创影视(SP)",
+            "type": 3,
+            "api": "csp_YCyz",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
@@ -103,16 +121,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.czzy77.com/"
-        },
-        {
-            "key": "原创",
-            "name": "原创影视(SP)",
-            "type": 3,
-            "api": "csp_YCyz",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
         },
         {
             "key": "萌米",
@@ -210,15 +218,6 @@
             "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
         },
         {
-            "key": "csp_Bttwo",
-            "name": "Bttwo(SP)",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "Auete影院(SP)",
             "type": 3,
@@ -227,7 +226,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://auete.pro/"
+            "ext": "https://auete.com/"
         },
         {
             "key": "csp_Djtt",
@@ -266,6 +265,17 @@
             "changeable": 1
         },
         {
+            "key": "926看球",
+            "name": "926看球",
+            "type": 3,
+            "api": "csp_kanqiu926",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
@@ -288,12 +298,23 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611"
         },
         {
+            "key": "csp_Tvyb",
+            "name": "TVB云播(SP)",
+            "type": 3,
+            "api": "csp_Tvyb",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611"
+        },
+        {
             "key": "huohuo",
             "name": "火火(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
             "searchable": 1,
             "quickSearch": 1,
+            "changeable": 0,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611"
         },
         {
@@ -328,16 +349,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611"
-        },
-        {
-            "key": "csp_Tvyb",
-            "name": "TVB云播(SP)",
-            "type": 3,
-            "api": "csp_Tvyb",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729048164641/1016.jar;md5;bf29a76dfb052377031f57fc69a95611"
         },
         {
@@ -553,7 +564,6 @@
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
         },
-
         {
             "key": "csp_V2_小马",
             "name": "小马(V2)",
@@ -603,7 +613,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.a6club.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "国产剧$38#电影$20#连续剧$37#动漫$43#B站$47#体育$52#综艺$45"
+                "分类": "国产剧$38#港台剧$39#欧美剧$40#日韩剧$41#电影$20#连续剧$37#动漫$43#B站$47#综艺$45#体育$52"
             }
         },
         {
@@ -617,6 +627,20 @@
             "ext": {
                 "分类url": "https://888.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$28"
+            },
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "一个G",
+            "name": "一个G影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://yigeg.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1076,6 +1100,26 @@
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
         },
         {
+            "key": "php_heimuer",
+            "name": "木耳(T4)",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "php_huaweiba",
+            "name": "华为吧(T4)",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=webhuaweiba",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "csp_xml_HG影视",
             "name": "HG影视(xml)",
             "type": 1,
@@ -1272,19 +1316,8 @@
             "name": "木耳资源(xml)",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
-            "playUrl":"https://player.heimuer.tv/index.html?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "php_heimuer",
-            "name": "木耳(T4)",
-            "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1292,19 +1325,8 @@
             "name": "华为资源(xml)",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
-            "playUrl":"https://player.dphw8.com/player?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "php_huaweiba",
-            "name": "华为吧(T4)",
-            "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=webhuaweiba",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
             "changeable": 0
         },
         {
@@ -1829,7 +1851,7 @@
             }
         },
         {
-            "key": "csp_PanSearch",
+            "key": "PanSearch",
             "name": "PanSearch(仅搜索)",
             "type": 3,
             "api": "csp_PanSearch",
@@ -1973,6 +1995,16 @@
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
         },
         {
+            "name": "巧技一",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/neibu.php?url="
+        },
+        {
+            "name": "巧技二",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url="
+        },
+        {
             "name": "zhuimi-super",
             "type": 1,
             "url": "http://103.38.82.59:9527/zhuimi666.php?url="
@@ -2038,9 +2070,19 @@
             "url": "https://www.ckplayer.vip/jiexi/?url="
         },
         {
+            "name": "冰豆",
+            "type": 0,
+            "url": "https://bd.jx.cn/?url="
+        },
+        {
             "name": "m3u8tv高清",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "name": "红狐",
+            "type": 0,
+            "url": "https://player.mrgaocloud.com/player/?url="
         },
         {
             "name": "盘古",
@@ -2211,7 +2253,7 @@
             "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
-            "name": "高速V6",
+            "name": "IPV6",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1
