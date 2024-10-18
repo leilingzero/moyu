@@ -575,6 +575,16 @@
             "ext": "https://mas.szyyds.cn/api.php/app/"
         },
         {
+            "key": "csp_MeiJu69",
+            "name": "69美剧(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.69mj.com/xgapp.php/v2/"
+        },
+        {
             "key": "兰花",
             "name": "兰花影视(XBPQ)",
             "type": 3,
