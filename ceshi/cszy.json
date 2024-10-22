@@ -1468,6 +1468,7 @@
             "name": "️爱你短剧(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
+            "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
