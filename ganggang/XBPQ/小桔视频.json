@@ -46,8 +46,8 @@
 
 "播放链接": "href=\"&&\"",
 
-"分类url": "https://www.xiaoju.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year};;mak",
+"分类url": "https://www.xiaoju.vip/vod/list/{catePg}/{cateId}/0/0/0/0/0/0",
 
-"分类": "电影$20#电视剧$21#综艺$22#动漫$23#纪录$32#短剧$53"
+"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$43"
 
 }
