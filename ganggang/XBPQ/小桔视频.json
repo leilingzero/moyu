@@ -26,7 +26,7 @@
 
 //"搜索数组": "<div class=\"module-item-pic\">&&<div class=\"module-search-item\">",
 
-"搜索url": "https://www.xiaoju.vip/vodsearch{wd}----------{catePg}---/",
+"搜索url": "https://www.xiaoju.vip/search/index.html?keyword={wd}&page={catePg}",
 
 "搜索标题": "alt=\"&&\"",
 
