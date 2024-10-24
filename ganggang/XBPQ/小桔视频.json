@@ -34,7 +34,7 @@
 
 "搜索链接": "href=\"&&\"",
 
-"线路数组": "data-dropdown-value&&</div>",
+"线路数组": "data-dropdown-value=&&</div>",
 
 "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
 
