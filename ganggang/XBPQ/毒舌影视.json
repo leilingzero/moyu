@@ -1,10 +1,10 @@
 {
     "数组": "module-item&&/span>",
-    "副标题": "/span>&&<",
+    "副标题": "<span>&&<",
     "图片": "https+://61.147.93.252:15002/vod1/+data-original=\"/vod1/&&\"",
     "简介": "detail-desc\">&&</p>",
     "线路数组": "class=\"swiper-slide source-swiper-slide&&</div>",
-    "线路标题": "\">&&</span>",
+    "线路标题": "id=&&</span>",
     "搜索二次截取": "<div class=\"search-result-list&&pagenation-box fs-margin-section",
     "搜索数组": "<a&&</a>",
     "搜索图片": "https+://61.147.93.252:15002/vod1/+data-original=\"/vod1/&&\"",
