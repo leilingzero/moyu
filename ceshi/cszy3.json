@@ -1,10 +1,10 @@
 {
-    "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
-//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241026.jar;md5;8851819289f80deae32319080028db3b",
+    "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
+//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241030.jar;md5;6b677bfdb3bb51c5bf8f868791e3cf5a",
 //  "wallpaper": "https://深色壁纸.饭.eu.org/",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
@@ -214,8 +214,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": 1,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
         },
         {
             "key": "csp_Auete",
@@ -1489,8 +1489,8 @@
             "key": "88js",
             "name": "88看球",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -1502,8 +1502,8 @@
             "key": "csp_js_310直播",
             "name": "310看球(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -1515,8 +1515,8 @@
             "key": "csp_js_Jrs",
             "name": "Jrs球迷(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -1535,14 +1535,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/企鹅直播.json"
         },
         {
             "key": "酷奇js",
             "name": "酷奇MV(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1587,14 +1587,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
         },
         {
             "key": "csp_js_虎牙直播",
             "name": "虎牙直播(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/huya2.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1619,8 +1619,8 @@
             "key": "csp_js_斗鱼直播",
             "name": "斗鱼直播(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1634,8 +1634,8 @@
             "key": "drpy_js_有声小说",
             "name": "有声小说(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1648,8 +1648,8 @@
             "key": "csp_js_聚合短视频",
             "name": "聚合短视频(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -1665,8 +1665,8 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/兔小贝.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1914,8 +1914,8 @@
             "key": "Sso js",
             "name": "盘他三盘(js)",
             "type": 3,
-            "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-            "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/盘他.js",
+            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+            "ext": "https://notabug.org/fantaiying/ext/raw/main/盘他.js",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
