@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
-//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
-//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241031.jar;md5;928787071b399acc863d001929973803",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
+//  "spider": "https://gh.con.sh/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
+//  "spider": "https://ghproxy.net/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241102.jar;md5;a889982d5efe39d65ff9f81559fa2f87",
 //  "wallpaper": "https://深色壁纸.饭.eu.org/",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
@@ -276,12 +276,29 @@
             }
         },
         {
+            "key": "csp_Duopan",
+            "name": "至臻4K(SP)",
+            "type": 3,
+            "api": "csp_Duopan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "site_urls": [
+                    "http://mpanso.com",
+                    "http://mihdr.top"
+                ]
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+        },
+        {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 1,
             "changeable": 0,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
         },
@@ -293,8 +310,19 @@
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
             "filterable": 1,
+            "changeable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+        },
+        {
+            "key": "csp_Nkdy",
+            "name": "耐看影视(SP)",
+            "type": 3,
+            "api": "csp_Nkdy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
         },
         {
@@ -564,6 +592,26 @@
             "ext": "https://mas.szyyds.cn/api.php/app/"
         },
         {
+            "key": "csp_V2_腐剧",
+            "name": "腐剧(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
+        },
+        {
+            "key": "csp_V2_wlsy99",
+            "name": "wlsy99(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://scm.wlsy99.top:8686/api.php/app/"
+        },
+        {
             "key": "兰花",
             "name": "兰花影视(XBPQ)",
             "type": 3,
@@ -656,6 +704,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/素白白影视.json",
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "csp_XBPQ_金牌影视",
+            "name": "金牌影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/金牌.json",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -912,6 +971,16 @@
             }
         },
         {
+            "key":"摸鱼瓜子",
+            "name":"摸鱼瓜子",
+            "type":3,
+            "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "filterable":1,
+            "order_num":0,
+            "changeable":0,
+            "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guazi.js"
+        },
+        {
             "key": "FreeOK",
             "name": "FreeOK(js)",
             "type": 3,
@@ -966,6 +1035,13 @@
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/changmeng.js"
+        },
+        {
+            "key": "drpy_zjydj",
+            "name": "zjydj(js)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zjydj.js"
         },
         {
             "key": "csp_js_Bttwo",
@@ -1587,7 +1663,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+            "ext": {
+                "json": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+            }
         },
         {
             "key": "csp_js_虎牙直播",
@@ -1715,7 +1793,9 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/bili3.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/bili3.json"
+            }
         },
         {
             "key": "csp_Biliych",
@@ -1729,7 +1809,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/biliych.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/biliych.json"
+            }
         },
         {
             "key": "歌曲",
@@ -1776,7 +1858,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/少儿教育.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/少儿教育.json"
+            }
         },
         {
             "key": "小学课堂",
@@ -1790,7 +1874,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/小学课堂.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/小学课堂.json"
+            }
         },
         {
             "key": "初中课堂",
@@ -1804,7 +1890,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/初中课堂.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/初中课堂.json"
+            }
         },
         {
             "key": "高中教育",
@@ -1818,7 +1906,9 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/高中课堂.json"
+            "ext": {
+                "json": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/高中课堂.json"
+            }
         },
         {
             "key": "csp_SixV",
@@ -2102,9 +2192,14 @@
             "url": "https://zy.qiaoji8.com/gouzi.php?url="
         },
         {
-            "name": "zhuimi-super",
+            "name": "肥猫一",
             "type": 1,
-            "url": "http://103.38.82.59:9527/zhuimi666.php?url="
+            "url": "http://39.104.230.177:1122/lxjx/myyk.php?url="
+        },
+        {
+            "name": "肥猫二",
+            "type": 1,
+            "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url="
         },
         {
             "name": "大家",
@@ -2357,18 +2452,30 @@
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },
         {
-            "name": "wwb521",
+            "name": "IPV4",
             "type": 0,
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://live.fanmingming.com/tv/{name}.png"
+            "url": "https://notabug.org/fantaiying/ext/raw/main/id.m3u",
+            "playerType": 1
         },
         {
             "name": "IPV6",
             "type": 0,
             "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "playerType": 1
+        },
+{
+            "name": "IPV6①",
+            "type": 0,
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "wwb521",
+            "type": 0,
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         }
     ],
     "flags": [
