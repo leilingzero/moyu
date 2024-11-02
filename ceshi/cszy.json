@@ -976,7 +976,6 @@
             "type":3,
             "api":"https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "filterable":1,
-            "order_num":0,
             "changeable":0,
             "ext":"https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guazi.js"
         },
@@ -1035,13 +1034,6 @@
             "type": 3,
             "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/changmeng.js"
-        },
-        {
-            "key": "drpy_zjydj",
-            "name": "zjydj(js)",
-            "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zjydj.js"
         },
         {
             "key": "csp_js_Bttwo",
@@ -1238,6 +1230,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/58动漫.json"
+        },
+        {
+            "key": "drpy_zjydj",
+            "name": "zjydj(js)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zjydj.js"
         },
         {
             "key": "drpy_去看吧",
