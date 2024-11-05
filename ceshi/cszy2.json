@@ -315,6 +315,18 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
         },
         {
+            "key": "csp_Jpyy",
+            "name": "金牌影院(SP)",
+            "type": 3,
+            "api": "csp_Jpyy",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729938537491/1026.jar;md5;b3c44a3be68151a9fea6e0b441bdb2fd"
+        },
+        {
             "key": "csp_Nkdy",
             "name": "耐看影视(SP)",
             "type": 3,
