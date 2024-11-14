@@ -166,16 +166,6 @@
             "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
         },
         {
-            "key": "萌米2",
-            "name": "萌米影视2(SP)",
-            "type": 3,
-            "api": "csp_AppMao",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
-        },
-        {
             "key": "速播",
             "name": "速播影视(SP)",
             "type": 3,
@@ -201,16 +191,6 @@
             "name": "可可影视(SP)",
             "type": 3,
             "api": "csp_Kekys",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ddrk",
-            "name": "低端影视(SP)",
-            "type": 3,
-            "api": "csp_Ddrk",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -318,18 +298,6 @@
             "type": 3,
             "api": "csp_SuBaiBai",
             "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"
-        },
-        {
-            "key": "csp_Jpyy",
-            "name": "金牌影院(SP)",
-            "type": 3,
-            "api": "csp_Jpyy",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -703,33 +671,6 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "西瓜",
-            "name": "西瓜影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.a6club.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-                "分类": "国产剧$38#港台剧$39#欧美剧$40#日韩剧$41#电影$20#连续剧$37#动漫$43#B站$47#综艺$45#体育$52"
-            }
-        },
-        {
-            "key": "全网看",
-            "name": "全网看(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "分类url": "https://888.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$28"
-            },
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "一个G",
             "name": "一个G影视(XBPQ)",
             "type": 3,
@@ -738,7 +679,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://yigeg.pro/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类url": "https://yigeg.vip/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -942,17 +883,6 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "csp_XBPQ_毒蛇",
-            "name": "毒蛇影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/毒蛇.json",
-            "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "csp_XBPQ_哩咕TV",
             "name": "哩咕TV(XBPQ)",
             "type": 3,
@@ -1053,7 +983,7 @@
         },
         {
             "key":"摸鱼瓜子",
-            "name":"摸鱼瓜子",
+            "name":"摸鱼瓜子(js)",
             "type":3,
             "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "filterable":1,
@@ -1367,16 +1297,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
-        },
-        {
-            "key": "drpy_老白故事",
-            "name": "老白故事(js)",
-            "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/老白故事.js"
         },
         {
             "key": "php_heimuer",
