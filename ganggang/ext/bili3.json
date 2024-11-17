@@ -1,6 +1,10 @@
 {
   "classes": [
     {
+      "type_name": "登陆配置",
+      "type_id": "peizhi"
+    },
+    {
       "type_name": "美食", 
       "type_id": "美食超清"
     }, 
