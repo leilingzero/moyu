@@ -1,5 +1,9 @@
 {
-  "classes": [
+  "class": [
+    {
+      "type_name": "登陆配置",
+      "type_id": "peizhi"
+    },
     {
       "type_name": "7年级语文", 
       "type_id": "7年级语文"
