@@ -402,29 +402,21 @@
         },
         {
             "key": "csp_BookTing",
-            "name": "📚┃听书┃音频",
+            "name": "听书音频(SP)",
             "type": 3,
             "playerType": "2",
             "api": "csp_BookTing",
             "searchable": 0,
             "ext": "https://m.ting275.com",
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
             "jar": "https://img2.gelonghui.com/library/78554-ee66ea6f-59ab-42f9-b68d-d37ae3859325.txt;md5;78554ae60397b702202d578eaeefbb91"
         },
         {
             "key": "csp_LaoBaiBook",
-            "name": "📚┃有声┃小说",
+            "name": "有声小说(SP)",
             "type": 3,
             "playerType": "2",
             "api": "csp_LaoBaiBook",
             "searchable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            },
             "jar": "https://img2.gelonghui.com/library/78554-ee66ea6f-59ab-42f9-b68d-d37ae3859325.txt;md5;78554ae60397b702202d578eaeefbb91"
         },
         {
@@ -960,6 +952,29 @@
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "影院大全",
+            "name": "影院大全(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "剧狗狗",
+            "name": "剧狗狗(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.jugougou.me/vodtype/{cateId}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+            },
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"},
+            "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "珍品",
             "name": "珍品影视(XBPQ)",
             "type": 3,
@@ -1040,7 +1055,7 @@
             "key": "摸鱼瓜子",
             "name": "摸鱼瓜子(js)",
             "type": 3,
-            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guazi.js"
@@ -1110,6 +1125,17 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/星芽短剧.js"
+        },
+        {
+            "key": "短剧天堂(js)",
+            "name": "短剧天堂(js)",
+            "type": 3,
+            "api": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/短剧天堂.js"
         },
         {
             "key": "drpy_粤爱看",
