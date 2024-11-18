@@ -971,7 +971,7 @@
                 "分类url": "https://www.jugougou.me/vodtype/{cateId}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             },
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"},
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
