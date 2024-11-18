@@ -958,7 +958,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             },
             "jar": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -969,7 +969,7 @@
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://www.jugougou.me/vodtype/{cateId}-{catePg}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             },
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
             "jar": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -1941,9 +1941,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": {
-                "json": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/biliych.json"
-            }
+            "ext":  "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/ext/biliych.json"
         },
         {
             "key": "歌曲",
