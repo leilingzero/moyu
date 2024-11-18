@@ -1,5 +1,9 @@
 {
-  "classes": [
+  "class": [
+    {
+      "type_name": "登陆配置",
+      "type_id": "peizhi"
+    },
     {
       "type_name": "粤语", 
       "type_id": "粤语MV4k合集"
