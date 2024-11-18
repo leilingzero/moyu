@@ -1,5 +1,9 @@
 {
-  "classes": [
+  "class": [
+    {
+      "type_name": "登陆配置",
+      "type_id": "peizhi"
+    },
     {
       "type_name": "C语言教程", 
       "type_id": "C语言"
