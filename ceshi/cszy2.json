@@ -304,10 +304,10 @@
             "jar": "https://img2.gelonghui.com/library/78554-ee66ea6f-59ab-42f9-b68d-d37ae3859325.txt;md5;78554ae60397b702202d578eaeefbb91"
         },
         {
-            "key": "csp_Nkdy",
-            "name": "耐看影视(SP)",
+            "key": "csp_Lkdy",
+            "name": "乐看影视(SP)",
             "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_Lkdy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
