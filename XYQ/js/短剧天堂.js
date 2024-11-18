@@ -16,7 +16,7 @@ searchable: 1,
 quickSearch: 1,
 filterable: 1,
 
-class_name: '逆袭(1组)&都市(2组)&神医(3组)&脑洞(4组)',
+class_name: '逆袭&都市&神医&脑洞',
 class_url: '1&20&25&30',
 filter_def: {
 1: {cateId: '1'},
