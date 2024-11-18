@@ -1,1 +1,79 @@
-dmFyIHJ1bGUgPSB7CiAgICBhdXRob3I6ICflsI/lj6/kuZAvMjQwNTI1L+esrOS4gOeJiCcsCiAgICB0aXRsZTogJ+efreWJp+WkqeWggicsCiAgICBob3N0OiAnaHR0cHM6Ly9kdWFuanV0dC50dicsCiAgICBob3N0SnM6ICcnLAogICAgaGVhZGVyczogeydVc2VyLUFnZW50JzogJ01PQklMRV9VQSd9LAogICAg57yW56CBOiAndXRmLTgnLAogICAgdGltZW91dDogNTAwMCwKCiAgICBob21lVXJsOiAnLycsCiAgICB1cmw6ICcvdm9kc2hvdy9meWZpbHRlci0tLWZ5cGFnZS0tLS5odG1sJywKICAgIGZpbHRlcl91cmw6ICd7e2ZsLmNhdGVJZH19LS17e2ZsLmJ5fX0tLS17e2ZsLmxldHRlcn19JywKICAgIGRldGFpbFVybDogJycsCiAgICBzZWFyY2hVcmw6ICcvdm9kc2VhcmNoLyoqLS0tLS0tLS0tLWZ5cGFnZS0tLS5odG1sJywKICAgIHNlYXJjaGFibGU6IDEsCiAgICBxdWlja1NlYXJjaDogMSwKICAgIGZpbHRlcmFibGU6IDEsCgogICAgY2xhc3NfbmFtZTogJ+mAhuiirSgx57uEKSbpg73luIIoMue7hCkm56We5Yy7KDPnu4QpJuiEkea0nig057uEKScsCiAgICBjbGFzc191cmw6ICcxJjIwJjI1JjMwJywKICAgIGZpbHRlcl9kZWY6IHsKICAgICAgICAxOiB7Y2F0ZUlkOiAnMSd9LAogICAgICAgIDIwOiB7Y2F0ZUlkOiAnMjAnfSwKICAgICAgICAyNToge2NhdGVJZDogJzI1J30sCiAgICAgICAgMzA6IHtjYXRlSWQ6ICczMCd9CiAgICB9LAoKICAgIHBsYXlfcGFyc2U6IHRydWUsCiAgICBwYXJzZV91cmw6ICcnLAogICAgbGF6eTogYGpzOgp2YXIga2NvZGUgPSBKU09OLnBhcnNlKHJlcXVlc3QoaW5wdXQpLm1hdGNoKC9yIHBsYXllcl8uKj89KC4qPyk8LylbMV0pOwp2YXIga3VybCA9IGtjb2RlLnVybDsKaW5wdXQgPSB7CnBhcnNlOiAwLCB1cmw6IGt1cmwsIGhlYWRlcjogeyJVc2VyLUFnZW50IjogJ01PQklMRV9VQScsICJSZWZlcmVyIjoiaHR0cHM6Ly9kdWFuanV0dC50diJ9Cn1gLAoKICAgIGxpbWl0OiA5LAogICAgZG91YmxlOiBmYWxzZSwKICAgIOaOqOiNkDogJyo7KjsqOyo7KicsCiAgICDkuIDnuqc6ICcubXl1aS12b2RsaXN0IGxpO2EmJnRpdGxlO2EmJmRhdGEtb3JpZ2luYWw7LnRleHQtcmlnaHQmJlRleHQ7YSYmaHJlZicsCiAgICDkuoznuqc6IHsKLy/lkI3np7A757G75Z6LCiAgICAgICAgInRpdGxlIjogImgxJiZUZXh0Oy5kYXRhOmVxKDApJiZhOmVxKDApJiZUZXh0IiwKLy/lm77niYcKICAgICAgICAiaW1nIjogIi5waWN0dXJlJiZpbWcmJmRhdGEtb3JpZ2luYWwiLAovL+S4u+imgeaPj+i/sDvlubTku7075Zyw5Yy6O+a8lOWRmDvlr7zmvJQKICAgICAgICAiZGVzYyI6ICIuZGF0YTplcSgxKSYmVGV4dDsuZGF0YTplcSgwKSYmYTplcSgtMSkmJlRleHQ7LmRhdGE6ZXEoMCkmJmE6ZXEoLTIpJiZUZXh0Oy5kYXRhLS1zcGFuOmVxKDIpJiZUZXh0Oy5kYXRhLS1zcGFuOmVxKDMpJiZUZXh0IiwKLy/nroDku4sKICAgICAgICAiY29udGVudCI6ICIuZGF0YTplcSgtMSkmJlRleHQiLAovL+e6v+i3r+aVsOe7hAogICAgICAgICJ0YWJzIjogIi5uYXYtdGFiczpoYXMobGkpJiZhIiwKLy/nur/ot6/moIfpopgKICAgICAgICAidGFiX3RleHQiOiAiYm9keSYmVGV4dCIsCi8v5pKt5pS+5pWw57uEIOmAiembhuWIl+ihqAogICAgICAgICJsaXN0cyI6ICIubXl1aS1jb250ZW50X19saXN0OmVxKCNpZCkmJmEiLAovL+mAiembhuagh+mimAogICAgICAgICJsaXN0X3RleHQiOiAiYm9keSYmVGV4dCIsCi8v6YCJ6ZuG6ZO+5o6lCiAgICAgICAgImxpc3RfdXJsIjogImEmJmhyZWYiCiAgICB9LAogICAg5pCc57SiOiAnLm15dWktdm9kbGlzdF9fbWVkaWEgLnRodW1iOyo7KjsqOyonLAoKICAgIGZpbHRlcjogJ0g0c0lBQUFBQUFBQUErM1dXMHNiUVJRSDhQZjlHUE9jUWt4TXJiNTVOOTd2VjN4STdVSkZhMEhYZ29SQTJrMVVxb2xXZ3JGUVkxc1ZZaUZld0lZMmkvaGxNcnVUYitHRy91ZU1KVzk1Qyt6YnptOTJ6OHpEK1hNMnFyRW0xcmFnUmRtS3ZzWGEyRkxFME1Odm1JK3RSZDdwN3RxNXMzaHV6MTEvaUt4dXVyQVFaV3N1VitMYjRtZWh5dTZpaWNWOC85akpmT1BYMzhFQll2SDEwUDY0Qnc2cXQ2OGVSZkV6dUptNHNwTnlNbWZnRUlzdHhueDB2VlhkTVBSMWRUMWV5Tm8zcVpycjhXUytZdVpSZ2dxM0E5cEpPaUFkSkoyUVRwSXVTQmRKTjZTYnBBZlNROUlMNlNYcGcvU1JoQ0Zoa241SVA4a0FaSUJrRURKSU1nUVpJaG1HREpPTVFFWklSaUdqSkdPUU1aSnh5RGpKQkdTQ1pCSXlTVElGbVNLWmhreVR6RUJtU0dZaHN5UnprRG1TZWNnOGlmOUZLNno2OUYrdnZONVNmV0tuajNqcG9LWlA3R3l4a3IxSEFXUFpmVlhXTFpkSzltMEdPMitYalEzVnpEY0p2cnVOblkybDkrdDY5Vmh0MGFleGdMK2VLSmtQL004bm1SbS9Ta2Y2dG15ZGkzemNOcE55VnlXTkgxeUljL0xBYzYvNVNpWE8zajF4TG5QU203MXNlZGxxbUd5RjZzaVcyK3g4MzVMOUhsTFp1c3lKdTEvU1g2cnppMGxoUGtodlVYNjR6NjlQcGI5U2FidElsYTBkNmExZW5ydzhOVXFlZ3ZYTUtwSDRZdC9MK1JGVXMwcjhQdUZYajlLZi9RK21FL3l2ekY5UVRTbkhMSWdmY2VscVB2RmtzV3dkUy9mbWs1ZW54c2lURm5zQzhVbnZia2dOQUFBPScKfQ==
+var rule = {
+author: '小可乐/240525/第一版',
+title: '短剧天堂',
+host: 'https://duanjutt.tv',
+hostJs: '',
+headers: {'User-Agent': 'MOBILE_UA'},
+编码: 'utf-8',
+timeout: 5000,
+
+homeUrl: '/',
+url: '/vodshow/fyfilter---fypage---.html',
+filter_url: '{{fl.cateId}}--{{fl.by}}---{{fl.letter}}',
+detailUrl: '',
+searchUrl: '/vodsearch/**----------fypage---.html',
+searchable: 1,
+quickSearch: 1,
+filterable: 1,
+
+class_name: '逆袭&甜宠&虐恋&穿越&重生&都市&现代言情&古装&古代言情&战神&神医&神豪&超能&萌宝&复仇&脑洞&赘婿&玄幻&热血&其他',
+class_url: '1&2&3&4&5&20&21&22&23&24&25&26&27&28&29&30&31&32&33&34',
+filter_def: {
+1: {cateId: '1'},
+2: {cateId: '2'},
+3: {cateId: '3'},
+4: {cateId: '4'},
+5: {cateId: '5'},
+20: {cateId: '20'},
+21: {cateId: '21'},
+22: {cateId: '22'},
+23: {cateId: '23'},
+24: {cateId: '24'},
+25: {cateId: '25'},
+26: {cateId: '26'},
+27: {cateId: '27'},
+28: {cateId: '28'},
+29: {cateId: '29'},
+30: {cateId: '30'},
+31: {cateId: '31'},
+32: {cateId: '32'},
+33: {cateId: '33'},
+34: {cateId: '34'}
+},
+
+play_parse: true,
+parse_url: '',
+lazy: `js:
+var kcode = JSON.parse(request(input).match(/r player_.*?=(.*?)var kurl = kcode.url;
+input = {
+parse: 0, url: kurl, header: {"User-Agent": 'MOBILE_UA', "Referer":"https://duanjutt.tv"}
+}`,
+
+limit: 9,
+double: false,
+推荐: '*;*;*;*;*',
+一级: '.myui-vodlist li;a&&title;a&&data-original;.text-right&&Text;a&&href',
+二级: {
+//名称;类型
+"title": "h1&&Text;.data:eq(0)&&a:eq(0)&&Text",
+//图片
+"img": ".picture&&img&&data-original",
+//主要描述;年份;地区;演员;导演
+"desc": ".data:eq(1)&&Text;.data:eq(0)&&a:eq(-1)&&Text;.data:eq(0)&&a:eq(-2)&&Text;.data--span:eq(2)&&Text;.data--span:eq(3)&&Text",
+//简介
+"content": ".data:eq(-1)&&Text",
+//线路数组
+"tabs": ".nav-tabs:has(li)&&a",
+//线路标题
+"tab_text": "body&&Text",
+//播放数组 选集列表
+"lists": ".myui-content__list:eq(#id)&&a",
+//选集标题
+"list_text": "body&&Text",
+//选集链接
+"list_url": "a&&href"
+},
+搜索: '.myui-vodlist__media .thumb;*;*;*;*',
+
+filter: 'H4sIAAAAAAAAA+3WW0sbQRQH8Pf9GPOcQkxMrb55N97vV3xI7UJFa0HXgoRA2k1UqolWgrFQY1sVYiFewIY2i/hlMruTb+GG/ueMJW95C+zbzm92z8zD+XM2qrEm1ragRdmKvsXa2FLE0MNvmI+tRd7p7tq5s3huz11/iKxuurAQZWsuV+Lb4mehyu6iicV8/9jJfOPX38EBYvH10P64Bw6qt68eRfEzuJm4spNyMmfgEIstxnx0vVXdMPR1dT1eyNo3qZrr8WS+YuZRggq3A9pJOiAdJJ2QTpIuSBdJN6SbpAfSQ9IL6SXpg/SRhCFhkn5IP8kAZIBkEDJIMgQZIhmGDJOMQEZIRiGjJGOQMZJxyDjJBGSCZBIySTIFmSKZhkyTzEBmSGYhsyRzkDmSecg8if9FK6z69F+vvN5SfWKnj3jpoKZP7Gyxkr1HAWPZfVXWLZdK9m0GO2+XjQ3VzDcJvruNnY2l9+t69Vht0aexgL+eKJkP/M8nmRm/Skf6tmydi3zcNpNyVyWNH1yIc/LAc6/5SiXO3j1xLnPSm71sedlqmGyF6siW2+x835L9HlLZusyJu1/SX6rzi0lhPkhvUX64z69Ppb9SabtIla0d6a1enrw8NUqegvXMKpH4Yt/L+RFUs0r8PuFXj9Kf/Q+mE/yvzF9QTSnHLIgfcelqPvFksWwdS/fmk5enxsiTFnsC8UnvbkgNAAA='
+}
