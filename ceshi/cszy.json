@@ -777,6 +777,77 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "csp_XBPQ_耐看点播2",
+            "name": "耐看点播2(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+            },
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "csp_XBPQ_大米",
+            "name": "大米(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "播放数组":"<div class=\"module-play-list-content  module-play-list-base\">&&</div>",
+                "分类":"电影$20#电视剧$21#动漫$22#综艺$23",
+                "分类url":"https://damihub.life/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+            },
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "csp_XBPQ_999影视",
+            "name": "999影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "data-dropdown-value=\"&&</div>",
+                "线路标题": "<span>&&</small>",
+                "分类": "电影$1#电视剧$2#动漫$4",
+                "播放数组":"class=\"module-play-list\">&&</div>",
+                "播放标题":"<span>&&</span>",
+                "播放列表":"<a&&</a>",
+                "分类url": "https://www.999ys.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"
+             }
+        },
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "csp_XBPQ_蛋蛋剧",
+            "name": "蛋蛋剧(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/蛋蛋剧.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "csp_XBPQ_九八影视",
+            "name": "九八影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/九八影视.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "csp_XBPQ_臭蛋影视",
             "name": "臭蛋影视(XBPQ)",
             "type": 3,
