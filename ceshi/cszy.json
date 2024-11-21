@@ -976,12 +976,7 @@
             "name": "123影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>♡]+集♡",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#儿童动画$5",
-                "分类url": "https://www.123tvb.org/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;a"
-            },
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/123影视.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
