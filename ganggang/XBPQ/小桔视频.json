@@ -8,9 +8,11 @@
 
 "主演": "主演：&&</div>",
 
-"影片类型": "video-info-aux scroll-content\">&&立即播放",
+//"影片类型": "video-info-aux scroll-content\">&&立即播放",
+"影片类型": "更新：&&</div>",
 
-"简介": "video-info-item video-info-content vod_content\">&&</span>",
+//"简介": "video-info-item video-info-content vod_content\">&&</span>",
+"简介": "<p>&&</p>",
 
 "嗅探词": ".m3u8#.mp4#.flv",
 
