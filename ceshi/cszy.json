@@ -774,7 +774,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "主页url": "https://www.nkvod.com/",
                 "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
                 "图片": "data-src=\"&&\"",
                 "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
