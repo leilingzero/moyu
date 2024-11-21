@@ -1,6 +1,6 @@
 {
     "线路数组": "\"channelname swiper-slide&&</a>",
-    "线路标题": "\"alt=\"&&\">",
+    "线路标题": "alt=\"&&\">",
     "分类": "电影$1#剧集$2#动漫$4#综艺$3#儿童动画$5",
     "分类url": "https://www.123tvb.org/show/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html;;a"
 }
