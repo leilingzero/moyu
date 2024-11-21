@@ -564,8 +564,8 @@
             "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
         },
         {
-            "key": "csp_V2_4k鸭奈飞",
-            "name": "4k鸭奈飞(V2)",
+            "key": "csp_V2_鸭奈菲",
+            "name": "鸭奈菲(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
             "filterable": 1,
@@ -582,6 +582,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yanetflix.me/api.php/app/"
+        },
+        {
+            "key": "csp_V2_爱迪影视",
+            "name": "爱迪影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://adys.tv/api.php/app/"
         },
         {
             "key": "csp_appys_TV酷",
@@ -622,6 +632,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "副标题": "module-item-text\">&&</div>",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
@@ -636,6 +647,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "副标题": "module-item-text\">&&</div>",
                 "分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$58"
             },
@@ -774,8 +786,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
-                "图片": "data-src=\"&&\"",
                 "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
             },
@@ -804,37 +814,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "线路数组": "data-dropdown-value=\"&&</div>",
-                "线路标题": "<span>&&</small>",
-                "分类": "电影$1#电视剧$2#动漫$4",
-                "播放数组":"class=\"module-play-list\">&&</div>",
-                "播放标题":"<span>&&</span>",
-                "播放列表":"<a&&</a>",
-                "分类url": "https://www.999ys.top/index.php/vod/show/id/{cateId}/page/{catePg}.html"
-             },
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "csp_XBPQ_蛋蛋剧",
-            "name": "蛋蛋剧(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/蛋蛋剧.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "csp_XBPQ_九八影视",
-            "name": "九八影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/九八影视.json",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/999影视.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -937,6 +917,61 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "sdsrty",
+            "name": "影视大全(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/影视大全.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "兄弟影视",
+            "name": "兄弟影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/兄弟影视.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "胖虎影视",
+            "name": "胖虎影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/胖虎影视4.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "美柏影视",
+            "name": "美柏影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/美柏影视.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "慕白",
+            "name": "慕白影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://m.mubai.link/filmClassifySearch?Pid={cateId}&Sort=update_stamp&current={catePg}",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+            },
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "剧狗狗",
             "name": "剧狗狗(XBPQ)",
             "type": 3,
@@ -964,11 +999,7 @@
             "name": "大师兄影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "简介": "+剧情介绍：&&</p >",
-                "分类url": "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
-            },
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/大师兄影视2.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -984,12 +1015,23 @@
             "name": "好帅短剧(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://nhsyy.com/vodshwo/{cateId}--------{catePg}---.html",
-                "简介": "剧情介绍:+video-info-item video-info-content vod_content\">&&</div>",
-                "播放数组": "sort-item\" id=\"sort-item-1\">&&</div>",
-                "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
-            },
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/好帅短剧.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "短剧网",
+            "name": "短剧网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧网.json",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "短剧吧",
+            "name": "短剧吧(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧吧.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1008,17 +1050,6 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "playerType": "2",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/ddys3.js"
-        },
-        {
-            "key": "爱迪影视",
-            "name": "爱迪影视(js)",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/爱迪影视2.js"
         },
         {
             "key": "FreeOK",
@@ -1112,6 +1143,20 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/voflix.json"
+        },
+        {
+            "key": "drpy_圣城影视",
+            "name": "圣城影视(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/圣城影视.js"
+        },
+        {
+            "key": "drpy_南瓜",
+            "name": "南瓜影视(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/南瓜影视.js"
         },
         {
             "key": "drpy_畅梦",
@@ -1546,6 +1591,15 @@
             "name": "华为资源(xml)",
             "type": 1,
             "api": "https://cjhwba.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "文才资源",
+            "name": "文才资源(xml)",
+            "type": 1,
+            "api": "https://api.zeqaht.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
