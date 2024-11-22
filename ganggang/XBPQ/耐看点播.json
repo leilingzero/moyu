@@ -4,10 +4,10 @@
   "主页url": "https://www.nkvod.com/",
 //  "主页url": "https://nkvlog.com",
 
-  "数组": "\"public-list-div public-list-bj&&</img>",
+  "数组": "\"public-list-box public-pic-b&&",
   "标题":"title=\"&&\"",
   "链接":"href=\"&&\"",
-//  "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
+  "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
   "图片": "data-src=\"&&\"",
   
 //  "免嗅": "1",
