@@ -1,4 +1,8 @@
 {
+    "主页url": "https://www.123tvb.org/",
+    "副标题": "<span>&&</span>",
+    "图片": "data-original=\"&&\"",
+    "搜索url": "https://www.123tvb.org/search/wd/{wd}.html",
     "线路数组": "<a class=\"channelname swiper-slide&&</a>",
     "线路标题": "&nbsp;&&<",
     "播放数组": "class=\"playlist_notfull\">&&</div>",
