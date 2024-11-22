@@ -17,18 +17,17 @@
   "分类url": "https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html",
   
 
-  
-  "搜索后缀":"/detail/",
+  "搜索url": "https://www.nkvod.com/nk/-------------.html?wd={wd}",
   
   "导演": "导演：&&</div>",
   "主演": "演员：&&</div>",
-  "简介": "text cor3\">&&</div>",
+//  "简介": "text cor3\">&&</div>",
   
   "线路数组": "<a class=\"swiper-slide&&</a>",
   "线路标题": "&nbsp;&&\"",
   
-  "播放数组": "anthology-list-play size\">&&</ul>",
-  "播放标题": ">&&</a>",
+  "播放数组": "anthology-list-play size\"&&</ul>",
+  "播放标题": "\">&&</a>",
   
   "筛选":{
 "1":[
