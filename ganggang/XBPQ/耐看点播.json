@@ -4,11 +4,11 @@
   "主页url": "https://www.nkvod.com/",
 //  "主页url": "https://nkvlog.com",
 
-//  "数组": "\"public-list-box&&</div></div></div>",
-//  "标题":"title=\"&&\"",
-//  "链接":"href=\"&&\"",
-//  "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
-//  "图片": "src=\"&&\"",
+  "数组": "\"public-list-box&&</div></div></div>",
+  "标题":"title=\"&&\"",
+  "链接":"href=\"&&\"",
+  "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
+  "图片": "src=\"&&\"",
   
   "免嗅": "1",
   
@@ -24,8 +24,8 @@
   "主演": "演员：&&</div>",
   "简介": "text cor3\">&&</div>",
   
-  "线路数组": "\"swiper-slide&&</a>",
-  "线路标题": "&nbsp&&\"",
+  "线路数组": "<a class=\"swiper-slide&&</a>",
+  "线路标题": "&nbsp;&&\"",
   
   "播放数组": "anthology-list-play size\">&&</ul>",
   "播放标题": ">&&</a>",
