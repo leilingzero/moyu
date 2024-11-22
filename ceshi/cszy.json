@@ -1,9 +1,9 @@
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241119.jar;md5;fd16c6765d2cc453d40f8b3dfc02621d",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241119.jar;md5;fd16c6765d2cc453d40f8b3dfc02621d",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241119.jar;md5;fd16c6765d2cc453d40f8b3dfc02621d",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241119.jar;md5;fd16c6765d2cc453d40f8b3dfc02621d",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241119.jar;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241121.jar;md5;8a9023a88704d4f491b2eee649be20d8",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241121.jar;md5;8a9023a88704d4f491b2eee649be20d8",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241121.jar;md5;8a9023a88704d4f491b2eee649be20d8",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241121.jar;md5;8a9023a88704d4f491b2eee649be20d8",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241121.jar;md5;8a9023a88704d4f491b2eee649be20d8",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -264,6 +264,17 @@
             }
         },
         {
+            "key": "88看球",
+            "name": "88看球",
+            "type": 3,
+            "api": "csp_Sir88",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
@@ -341,7 +352,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "csp_Wwys",
@@ -353,7 +364,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.wwgz.cn/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730855920785/1106.jar;md5;3574bbe3de12181b1ef79c9938246aa6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "QIYIU",
@@ -584,16 +595,6 @@
             "ext": "https://yanetflix.me/api.php/app/"
         },
         {
-            "key": "csp_V2_爱迪影视",
-            "name": "爱迪影视(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://adys.tv/api.php/app/"
-        },
-        {
             "key": "csp_appys_TV酷",
             "name": "TV酷影视(V2)",
             "type": 3,
@@ -632,7 +633,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "副标题": "module-item-text\">&&</div>",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
@@ -647,7 +647,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "副标题": "module-item-text\">&&</div>",
                 "分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$58"
             },
@@ -797,9 +796,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "播放数组":"<div class=\"module-play-list-content  module-play-list-base\">&&</div>",
-                "分类":"电影$20#电视剧$21#动漫$22#综艺$23",
-                "分类url":"https://damihub.life/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
+                "播放数组": "<div class=\"module-play-list-content  module-play-list-base\">&&</div>",
+                "分类": "电影$20#电视剧$21#动漫$22#综艺$23",
+                "分类url": "https://damihub.life/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
             },
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -881,17 +880,6 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "csp_XBPQ_酷云影视",
-            "name": "酷云影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/酷云影视.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "csp_XBPQ_55影视",
             "name": "55影视(XBPQ)",
             "type": 3,
@@ -936,17 +924,6 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "胖虎影视",
-            "name": "胖虎影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/胖虎影视4.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "美柏影视",
             "name": "美柏影视(XBPQ)",
             "type": 3,
@@ -955,17 +932,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/美柏影视.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "慕白",
-            "name": "慕白影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://m.mubai.link/filmClassifySearch?Pid={cateId}&Sort=update_stamp&current={catePg}",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-            },
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1140,13 +1106,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/voflix.json"
-        },
-        {
-            "key": "drpy_圣城影视",
-            "name": "圣城影视(js)",
-            "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/圣城影视.js"
         },
         {
             "key": "drpy_南瓜",
@@ -1687,7 +1646,7 @@
         },
         {
             "key": "88js",
-            "name": "88看球",
+            "name": "88看球(js)",
             "type": 3,
             "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
             "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
@@ -2093,10 +2052,10 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/alist.json"
         },
         {
-            "key": "米搜",
-            "name": "米盘搜索",
+            "key": "抠搜",
+            "name": "抠抠搜索",
             "type": 3,
-            "api": "csp_MIPanSo",
+            "api": "csp_KkSs",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -2106,10 +2065,10 @@
             }
         },
         {
-            "key": "抠搜",
-            "name": "抠抠搜索",
+            "key": "UC",
+            "name": "优汐搜索",
             "type": 3,
-            "api": "csp_KkSs",
+            "api": "csp_UuSs",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -2142,15 +2101,40 @@
             "changeable": 0
         },
         {
-            "key": "夸搜",
-            "name": "夸搜搜索",
+            "key": "YpanSo",
+            "name": "盘她三盘",
             "type": 3,
-            "api": "csp_PanSearch",
+            "api": "csp_YpanSo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
-                "pan": "quark",
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "米盘搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "Aliso",
+            "name": "阿狸盘搜",
+            "type": 3,
+            "api": "csp_Aliso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
@@ -2164,6 +2148,20 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "夸搜",
+            "name": "夸搜搜索",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "pan": "quark",
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
@@ -2607,8 +2605,9 @@
         {
             "name": "IPV4①",
             "type": 0,
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.m3u",
-            "playerType": 1
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "IPV6",
