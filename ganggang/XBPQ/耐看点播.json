@@ -5,10 +5,10 @@
 //  "主页url": "https://nkvlog.com",
 
   "数组": "\"public-list-box&&</div></div></div>",
-//  "标题":"title=\"&&\"",
-//  "链接":"href=\"&&\"",
+  "标题":"title=\"&&\"",
+  "链接":"href=\"&&\"",
   "副标题": "public-list-subtitle cor5 hide ft2\">&&</div>",
-//  "图片": "src=\"&&\"",
+  "图片": "src=\"&&\"",
   
   "免嗅": "1",
   
@@ -24,10 +24,11 @@
   "主演": "主演：&&</div>",
   "简介": "<p>&&</p>",
   
-  "线路数组": "data-dropdown-value=&&</div>",
-  "线路标题": "<span>&&</small>",
+  "线路数组": "\"swiper-slide&&</a>",
+  "线路标题": "&nbsp&&\"",
   
-  "播放数组": "module-play-list\">&&</div>",
+  "播放数组": "anthology-list-play size\">&&</ul>",
+  "播放标题": ">&&</a>",
   
   "筛选":{
 "1":[
