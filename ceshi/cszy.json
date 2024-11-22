@@ -785,7 +785,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/耐看点播.json",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/耐看点播.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1597,6 +1597,7 @@
             "name": "文才资源(xml)",
             "type": 1,
             "api": "https://api.zeqaht.com/api.php/provide/vod/?ac=list",
+            "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
