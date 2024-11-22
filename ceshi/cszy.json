@@ -785,10 +785,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url":"https://www.nkvod.com/show/{cateId}--{by}------{catePg}---{year}.html"
-            },
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/耐看点播.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -870,17 +867,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/毒舌影视.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "csp_XBPQ_毒舌影视2",
-            "name": "毒舌影视2(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/毒舌影视2.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
