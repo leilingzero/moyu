@@ -32,7 +32,7 @@
     "cateVodImg": "/../img/@data-src",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/../../../div[@class='module-item-text']/text()",
-    "dtUrl": "https://www.laowang.co/{vid}.html",
+    "dtUrl": "https://www.laowang.co{vid}",
     "dtNode": "//div[@class='video-info']",
     "dtName": "/div[@class='video-info-header']/h1/text()",
     "dtNameR": "",
