@@ -524,9 +524,9 @@
         },
         {
             "key": "csp_xpath_laowang",
-            "name": "老王影视(XPMF)",
+            "name": "老王影视(XPF)",
             "type": 3,
-            "api": "csp_XPathMacFilter",
+            "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
