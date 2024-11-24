@@ -208,15 +208,6 @@
             "ext": "https://auete.com/"
         },
         {
-            "key": "csp_Djtt",
-            "name": "上头短剧(SP)",
-            "type": 3,
-            "api": "csp_Djtt",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Dm84",
             "name": "动漫巴士(SP)",
             "type": 3,
@@ -273,6 +264,14 @@
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
+            "ext": "http://www.tvyun02.com/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+        },
+        {
+            "key": "csp_Xingchen",
+            "name": "星辰影院(SP)",
+            "type": 3,
+            "api": "csp_Xingchen",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
@@ -404,23 +403,16 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
-            "key": "csp_BookTing",
-            "name": "听书音频(SP)",
+            "key": "csp_Wwys",
+            "name": "旺旺(SP)",
             "type": 3,
-            "playerType": "2",
-            "api": "csp_BookTing",
-            "searchable": 0,
-            "ext": "https://m.ting275.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_LaoBaiBook",
-            "name": "有声小说(SP)",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_LaoBaiBook",
-            "searchable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+            "api": "csp_Wwys",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.wwgz.cn/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
             "key": "csp_Nkdy",
@@ -431,18 +423,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
-        },
-        {
-            "key": "csp_Wwys",
-            "name": "旺旺(SP)",
-            "type": 3,
-            "api": "csp_Wwys",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.wwgz.cn/",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
         },
         {
@@ -634,6 +614,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "搜索url":"https://www.laowang.co/s{wd}.html",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
@@ -1646,6 +1627,25 @@
             "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "csp_BookTing",
+            "name": "听书音频(SP)",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_BookTing",
+            "searchable": 0,
+            "ext": "https://m.ting275.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+        },
+        {
+            "key": "csp_LaoBaiBook",
+            "name": "有声小说(SP)",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_LaoBaiBook",
+            "searchable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+        },
+        {
             "key": "88js",
             "name": "88看球(js)",
             "type": 3,
@@ -1825,6 +1825,127 @@
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蜻蜓FM.js"
         },
         {
+            "key": "抠搜",
+            "name": "抠抠搜索",
+            "type": 3,
+            "api": "csp_KkSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "UC",
+            "name": "优汐搜索",
+            "type": 3,
+            "api": "csp_UuSs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "csp_PanSso",
+            "name": "盘他三盘",
+            "type": 3,
+            "api": "csp_PanSso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "YpanSo",
+            "name": "盘她三盘",
+            "type": 3,
+            "api": "csp_YpanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "米搜",
+            "name": "米盘搜索",
+            "type": 3,
+            "api": "csp_MIPanSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "Aliso",
+            "name": "阿狸盘搜",
+            "type": 3,
+            "api": "csp_Aliso",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "csp_YiSo",
+            "name": "易搜(仅搜索)",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "from": "4k|auto"
+            }
+        },
+        {
+            "key": "csp_SixV",
+            "name": "新6V磁力(慎用)",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/"
+        },
+        {
+            "key": "4KHDR",
+            "name": "世界磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
+        },
+        {
+            "key": "mp4us",
+            "name": "Mp4磁力(慎用)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
+        },
+        {
             "key": "dr_兔小贝",
             "name": "儿童启蒙(js)",
             "type": 3,
@@ -1837,34 +1958,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
-        {
-            "key": "直播",
-            "name": "电视直播",
-            "type": 3,
-            "playerType": 1,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
-            "ext": "WWB$https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u#原子力$http://175.178.251.183:6689/live.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
-        },
-        {
-            "key": "直播转点播",
-            "name": "电视直播仓",
-            "type": 3,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓3.json"
-        },
-        {
-            "key": "csp_FirstAid",
-            "name": "急救教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            }
         },
         {
             "key": "csp_Bili",
@@ -2002,34 +2095,32 @@
             }
         },
         {
-            "key": "csp_SixV",
-            "name": "新6V磁力(慎用)",
+            "key": "csp_FirstAid",
+            "name": "急救教学",
             "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://www.xb6v.com/"
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
         },
         {
-            "key": "4KHDR",
-            "name": "世界磁力(慎用)",
+            "key": "直播",
+            "name": "电视直播",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
+            "playerType": 1,
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
+            "ext": "WWB$https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u#原子力$http://175.178.251.183:6689/live.m3u#范明明$https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&https://pic.3gbizhi.com/uploads/20140428/4a96bce58a37d196e242bb5d68f02902.jpg"
         },
         {
-            "key": "mp4us",
-            "name": "Mp4磁力(慎用)",
+            "key": "直播转点播",
+            "name": "电视直播仓",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
+            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
+            "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播仓3.json"
         },
         {
             "key": "csp_Alist1",
@@ -2051,134 +2142,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/alist.json"
-        },
-        {
-            "key": "抠搜",
-            "name": "抠抠搜索",
-            "type": 3,
-            "api": "csp_KkSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "UC",
-            "name": "优汐搜索",
-            "type": 3,
-            "api": "csp_UuSs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "csp_PanSso",
-            "name": "盘他三盘",
-            "type": 3,
-            "api": "csp_PanSso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Sso js",
-            "name": "盘他三盘(js)",
-            "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/盘他.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "YpanSo",
-            "name": "盘她三盘",
-            "type": 3,
-            "api": "csp_YpanSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "米搜",
-            "name": "米盘搜索",
-            "type": 3,
-            "api": "csp_MIPanSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "Aliso",
-            "name": "阿狸盘搜",
-            "type": 3,
-            "api": "csp_Aliso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "csp_YiSo",
-            "name": "易搜(仅搜索)",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "夸搜",
-            "name": "夸搜搜索",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "pan": "quark",
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
-        },
-        {
-            "key": "PanSearch",
-            "name": "PanSearch(仅搜索)",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "from": "4k|auto"
-            }
         },
         {
             "key": "push_agent",
