@@ -1,9 +1,9 @@
 {
-    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241123.jar;md5;73c62850faf556c9c2d7048baf3a5d3a",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241123.jar;md5;73c62850faf556c9c2d7048baf3a5d3a",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241123.jar;md5;73c62850faf556c9c2d7048baf3a5d3a",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241123.jar;md5;73c62850faf556c9c2d7048baf3a5d3a",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241123.jar;md5;73c62850faf556c9c2d7048baf3a5d3a",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -257,24 +257,6 @@
             }
         },
         {
-            "key": "csp_Tvyb",
-            "name": "TVB云播(SP)",
-            "type": 3,
-            "api": "csp_Tvyb",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "http://www.tvyun02.com/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_Xingchen",
-            "name": "星辰影院(SP)",
-            "type": 3,
-            "api": "csp_Xingchen",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
             "key": "csp_Kanke",
             "name": "看客影视(SP)",
             "type": 3,
@@ -320,6 +302,13 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
+            "key": "csp_Xingchen",
+            "name": "星辰影院(SP)",
+            "type": 3,
+            "api": "csp_Xingchen",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+        },
+        {
             "key": "csp_饭团",
             "name": "饭团影院(SP)",
             "type": 3,
@@ -355,17 +344,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
-            "key": "csp_瓜子",
-            "name": "瓜子影视(SP)",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
             "key": "可可2",
             "name": " 可可影视2(SP)",
             "type": 3,
@@ -385,22 +363,25 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
-            "key": "csp_Bttwo",
-            "name": "Bttwo(SP)",
+            "key": "csp_Tvyb",
+            "name": "TVB云播(SP)",
             "type": 3,
-            "api": "csp_Bttwoo",
+            "api": "csp_Tvyb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea"
+        },
+        {
+            "key": "csp_XSX",
+            "name": "视讯(SP)",
+            "type": 3,
+            "api": "csp_Xsx",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_Jiaozi",
-            "name": "饺子影视(SP)",
-            "type": 3,
-            "api": "csp_Jiaozi",
-            "playerType": 2,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
+            "filterable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea"
         },
         {
             "key": "csp_Wwys",
@@ -412,18 +393,26 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.wwgz.cn/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea"
         },
         {
-            "key": "csp_Nkdy",
-            "name": "耐看影视(SP)",
+            "key": "csp_瓜子",
+            "name": "瓜子影视(SP)",
             "type": 3,
-            "api": "csp_Nkdy",
+            "api": "csp_Gz360",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732155296962/11211.jar;md5;365a6cd519e4bd1e41b47b8af5cc1c23"
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea"
+        },
+        {
+            "key": "zhaixing",
+            "name": "摘星影视(SP)",
+            "type": 3,
+            "api": "csp_AppZX",
+            "playerType": 2,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732592361715/1127xm.jar;md5;14c4ca7ce934c460b2864cb781c1d3ea"
         },
         {
             "key": "csp_xpath_tvyun01",
@@ -576,6 +565,26 @@
             "ext": "https://yanetflix.me/api.php/app/"
         },
         {
+            "key": "csp_V2_奈飞星球",
+            "name": "奈飞星球(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.netfly.tv/api.php/app/"
+        },
+        {
+            "key": "csp_V2_555影院",
+            "name": "555影院(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://e3wuwu4.com/api.php/app/"
+        },
+        {
             "key": "csp_appys_TV酷",
             "name": "TV酷影视(V2)",
             "type": 3,
@@ -614,7 +623,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "搜索url":"https://www.laowang.co/s{wd}.html",
+                "搜索url": "https://www.laowang.co/s{wd}.html",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
