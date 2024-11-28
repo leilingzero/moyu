@@ -290,7 +290,8 @@
             "key": "csp_Xingchen",
             "name": "星辰影院(SP)",
             "type": 3,
-            "api": "csp_Xingchen"
+            "api": "csp_Xingchen",
+          "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
       },
     {
             "key": "Zzys",
