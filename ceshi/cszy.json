@@ -1,9 +1,9 @@
 {
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
-//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
-//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241126.jar;md5;4e2429f30551927d1831c19063158ee9",
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241202.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241202.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+//  "spider": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241202.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+//  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241202.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241202.jar;md5;ceb55a4a2d2ec91bd9d76f4234a70f99",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -110,7 +110,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy77.com/"
+            "ext": "https://www.czzyvideo.com/"
+        },
+        {
+            "key": "原创",
+            "name": "原创影视(SP)",
+            "type": 3,
+            "api": "csp_YCyz",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "木星",
@@ -176,6 +187,16 @@
             "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
         },
         {
+            "key": "低端",
+            "name": "低端影视(SP)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
             "key": "可可",
             "name": "可可影视(SP)",
             "type": 3,
@@ -193,8 +214,8 @@
             "quickSearch": 1,
             "changeable": 1,
             "playerType": 1,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js"
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
         },
         {
             "key": "csp_Auete",
@@ -257,75 +278,11 @@
             }
         },
         {
-            "key": "csp_Kanke",
-            "name": "看客影视(SP)",
-            "type": 3,
-            "api": "csp_Kanke",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
             "key": "csp_Nongm",
             "name": "农民影视2(SP)",
             "type": 3,
             "api": "csp_Nongm",
             "ext": "https://wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "huohuo",
-            "name": "火火(SP)",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "QIYIU",
-            "name": "奇优(SP)",
-            "type": 3,
-            "api": "csp_Qiyou",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.dyxz2.com/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_Quanwk",
-            "name": "全看影视(SP)",
-            "type": 3,
-            "api": "csp_Quanwk",
-            "ext": "https://www.91qkw.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_饭团",
-            "name": "饭团影院(SP)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://fantuan.vip/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
-        },
-        {
-            "key": "csp_subaobai",
-            "name": "素白白(SP)",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://subaibai.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
@@ -349,13 +306,77 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228"
         },
         {
+            "key": "csp_Kanke",
+            "name": "看客影视(SP)",
+            "type": 3,
+            "api": "csp_Kanke",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "huohuo",
+            "name": "火火(SP)",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "QIYIU",
+            "name": "奇优(SP)",
+            "type": 3,
+            "api": "csp_Qiyou",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.dyxz2.com/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "csp_Quanwk",
+            "name": "全看影视(SP)",
+            "type": 3,
+            "api": "csp_Quanwk",
+            "ext": "https://www.91qkw.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "csp_饭团",
+            "name": "饭团影院(SP)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": "https://fantuan.vip/",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "csp_subaobai",
+            "name": "素白白(SP)",
+            "type": 3,
+            "api": "csp_SuBaiBai",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://subaibai.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
             "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "csp_XSX",
@@ -367,7 +388,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "csp_Wwys",
@@ -379,7 +400,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.wwgz.cn/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "csp_瓜子",
@@ -390,7 +411,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "zhaixing",
@@ -398,28 +419,44 @@
             "type": 3,
             "api": "csp_AppZX",
             "playerType": 2,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "FengGo",
             "name": "疯狗影视(SP)",
             "type": 3,
             "api": "csp_FengGo",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
+        },
+        {
+            "key": "csp_MiTo",
+            "name": "追饭影视(SP)",
+            "type": 3,
+            "api": "csp_FengGo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "url": "http://xiafan.zhuiju666.com",
+                "dataKey": "aassddwwxxllsx1x",
+                "siteUrl": "https://www.wogg.net/",
+                "playKey": "bbssqdbbssll25sx",
+                "version": "1.1.0"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "csp_Xingchen",
             "name": "星辰影院(SP)",
             "type": 3,
             "api": "csp_Xingchen",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "Zzys",
             "name": "Zzys影视(SP)",
             "type": 3,
             "api": "csp_Zzys",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732763660181/xmwd.jar;md5;6c89ddbe14836a4999d18ff806ab0a6f"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732868600931/tounima.jar;md5;859ac4d2f96f5168819e8da09af1207d"
         },
         {
             "key": "csp_xpath_tvyun01",
@@ -1005,7 +1042,7 @@
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guazi.js"
         },
         {
-            "key": "低端",
+            "key": "低端js",
             "name": "低端影视(js)",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
@@ -1665,8 +1702,8 @@
             "key": "88js",
             "name": "88看球(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/88看球.js",
             "style": {
                 "type": "list"
             },
@@ -1678,8 +1715,8 @@
             "key": "csp_js_310直播",
             "name": "310看球(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -1691,8 +1728,8 @@
             "key": "csp_js_Jrs",
             "name": "Jrs球迷(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
             "style": {
                 "type": "list"
             },
@@ -1718,8 +1755,8 @@
             "key": "酷奇js",
             "name": "酷奇MV(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/酷奇MV.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1765,15 +1802,15 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+                "json": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/MTV.json"
             }
         },
         {
             "key": "csp_js_虎牙直播",
             "name": "虎牙直播(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/huya2.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1798,8 +1835,8 @@
             "key": "csp_js_斗鱼直播",
             "name": "斗鱼直播(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1813,8 +1850,8 @@
             "key": "drpy_js_有声小说",
             "name": "有声小说(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1827,8 +1864,8 @@
             "key": "csp_js_聚合短视频",
             "name": "聚合短视频(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/短视频.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -1965,8 +2002,8 @@
             "key": "dr_兔小贝",
             "name": "儿童启蒙(js)",
             "type": 3,
-            "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-            "ext": "https://notabug.org/fantaiying/ext/raw/main/兔小贝.js",
+            "api": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/兔小贝.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -2174,7 +2211,7 @@
     ],
     "parses": [
         {
-            "name": "解析聚合",
+            "name": "Json聚合",
             "type": 3,
             "url": "Demo"
         },
@@ -2184,14 +2221,38 @@
             "url": "Web"
         },
         {
-            "name": "Json轮询",
-            "type": 2,
-            "url": "Sequence"
+            "name": "解析1",
+            "type": 1,
+            "url": "https://www.mpanso.com/muou/qilin.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
         },
         {
-            "name": "Json并发",
-            "type": 2,
-            "url": "Parallel"
+            "name": "星耀",
+            "type": 1,
+            "url": "http://27.25.158.73:8555/xingyao/jsons.php?url="
         },
         {
             "name": "1080解析1",
@@ -2579,7 +2640,7 @@
         {
             "name": "IPV4",
             "type": 0,
-            "url": "https://notabug.org/fantaiying/ext/raw/main/id.m3u",
+            "url": "https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/id.m3u",
             "playerType": 1
         },
         {
