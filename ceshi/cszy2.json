@@ -2502,10 +2502,9 @@
             "ua": "okhttp/4.12.0"
         },
         {
-            "name": "Hami",
+            "name": "4GTV",
             "type": 0,
-            "url": "https://www.mytvsuper.xyz/m3u/Hami.m3u",
-            "ua": "okhttp/4.12.0"
+            "url": "https://www.mytvsuper.xyz/m3u/4GTV.m3u"
         },
         {
             "name": "电视直播",
