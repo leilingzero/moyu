@@ -1376,6 +1376,16 @@
             "changeable": 0
         },
         {
+            "key": "php_bttwoo",
+            "name": "bttwoo(T4)",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "csp_xml_HG影视",
             "name": "HG影视(xml)",
             "type": 1,
