@@ -1029,6 +1029,17 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "短视频短剧网",
+            "name": "短视频短剧网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.idsp.cc/type/{cateId}-{catePg}.html",
+                "分类": "精品短剧$1#短剧大全$2#抖音短剧$3#西瓜视频$4"
+            },
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "好帅短剧",
             "name": "好帅短剧(XBPQ)",
             "type": 3,
