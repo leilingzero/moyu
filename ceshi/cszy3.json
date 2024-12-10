@@ -447,6 +447,13 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733665439692/FeiMao1208.txt;md5;863482d781ed88514ec5d9ace8fde91a"
         },
         {
+            "key": "csp_Xlys",
+            "name": "西乐影视(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733665439692/FeiMao1208.txt;md5;863482d781ed88514ec5d9ace8fde91a"
+        },
+        {
             "key": "可可2",
             "name": " 可可影视2(SP)",
             "type": 3,
@@ -2326,6 +2333,35 @@
                 ],
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "反弹",
+            "type": 0,
+            "url": "https://jx.hls.one/?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.94 Safari/537.36"
                 }
             }
         },
