@@ -59,7 +59,7 @@
     "dtUrlIdR": "/player/(\\S+)",
     "dtUrlName": "/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://www.gj5.tv/player{playUrl}",
+    "playUrl": "https://www.gj5.tv/player/{playUrl}",
     "playUa": "",
     "searchUrl": "https://www.gj5.tv/search/--/?wd={wd}&submit=",
     "scVodNode": "//div[@class='col-4 col-md-3 col-lg-2']/div/a",
