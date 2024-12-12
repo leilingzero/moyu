@@ -1,1 +1,120 @@
-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
+var rule = {
+    类型: '影视',
+    title: '星芽短剧app',
+    host: 'https://app.whjzjx.cn',
+    url: '/cloud/v2/theaterfyfilter',
+    filter_url: '/home_page?theater_class_id=fyclass&type=1&{{fl.type or "class2_ids=0"}}&page_num=fypage&page_size=24',
+    searchUrl: '/v3/search',
+    searchable: 2,
+    quickSearch: 1,
+    filterable: 1,
+    filter: 'H4sIAAAAAAAAA6vmUgACJUMlK4VoMBMEquEssGR2aiVQWqmksiBVSQdVKi8xNxUk93zj7qfzutFlyxJzSlNRTMZuA8I4kFlPW1e8bF6BZhbCTJCS5JzE4mKj+MyUYlsDJQx1tZha8dn3snnv0x1NxNpnQrF9T/uXvFjcSqx9phTb97xvw5Pdi1+saHjWTLSthpRb+6xjxvOl84i10IjycH3Z0PZi0VpiLTSnPFxX7n+xrYvoEKXcwqd9bU/7NxGdUCnPGS+2zni6cj/RUWhGeZAunfe0ZzfRFlKeSF+29z6fMp9YC6ngwSlznq5bQKx9xsbUKGxIzvzGVMgbfS1PdxIdkcaUR+SLCT1P180l1kJLyu1rmfhsC9Glm7ERxRY+2bWJhCg0MaTchzMnPGtEr9JxWmiBxT4UkVguVPFYrloA8HqNcnwIAAA=',
+    headers: {
+        "X-App-Id": "7",
+        "platform": "1",
+        "manufacturer": "Xiaomi",
+        "version_name": "3.2.0.1",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11; M2012K10C Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/87.0.4280.141 Mobile Safari/537.36",
+        "dev_token": "BY1wFZd4K0vDqzVMbtHXNmlQ29ovO5peS5MsZ7VX1rQUXDwAqskxkJtiPMZCEj6MaW-40xNnbvn12F68nLEAMkRoD7tpoieO4nkUE-GLOYxqCs0xmxWgXAh0-7NmmGCHi95SlyZlpHeit94JfJPkpo-hl4JFru2wUI-4P0AwDc5Y*",
+        "app_version": "3.2.0.1",
+        "device_platform": "android",
+        "personalized_recommend_status": "1",
+        "device_type": "M2012K10C",
+        "device_brand": "Redmi",
+        "os_version": "11",
+        "channel": "default",
+        "raw_channel": "default",
+        "oaid": "9494817a02a93435",
+        "msa_oaid": "9494817a02a93435",
+        "uuid": "randomUUID_f87c01c7-3d61-4feb-ade0-3d6d45d24dfd",
+        "device_id": "23b07cf840c8b3eeca8c01fc56f0f0a09",
+        "support_h265": "1",
+        "Host": "app.whjzjx.cn",
+        "Connection": "Keep-Alive",
+        "User-Agent": "okhttp/4.10.0"
+    },
+    timeout: 5000,
+    class_name: '剧场&热播剧&会员专享&星选好剧&新剧&阳光剧场',
+    class_url: '1&2&8&7&3&5',
+    预处理:$js.toString(()=>{
+        let html = post('https://u.shytkjgs.com/user/v1/account/login', {
+        headers: {
+            'User-Agent': 'okhttp/4.10.0',
+            'Accept-Encoding': 'gzip',
+            'Content-Type': 'application/x-www-form-urlencoded',
+            'x-app-id': '7',
+            'platform': '1',
+            'manufacturer': 'realme',
+            'version_name': '3.3.1',
+            'user_agent': 'Mozilla/5.0 (Linux; Android 9; RMX1931 Build/PQ3A.190605.05081124; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/91.0.4472.114 Mobile Safari/537.36',
+            'app_version': '3.3.1',
+            'device_platform': 'android',
+            'personalized_recommend_status': '1',
+            'device_type': 'RMX1931',
+            'device_brand': 'realme',
+            'os_version': '9',
+            'channel': 'default',
+            'raw_channel': 'default',
+            'oaid': '',
+            'msa_oaid': '',
+            'uuid': 'randomUUID_914e7a9b-deac-4f80-9247-db56669187df',
+            'device_id': '24250683a3bdb3f118dff25ba4b1cba1a',
+            'ab_id': '',
+            'support_h265': '1'
+        },
+        body: "device=24250683a3bdb3f118dff25ba4b1cba1a&install_first_open=false&first_install_time=1723214205125&last_update_time=1723214205125&report_link_url="
+    });
+    rule.headers['authorization'] = JSON.parse(html).data.token
+    }),
+    play_parse: true,
+    lazy: $js.toString(() => {
+        input = {
+            url: input,
+            parse: 0
+        }
+    }),
+    double: true,
+    一级: $js.toString(()=>{
+        let d = [];
+        let html = request(input,{headers:rule.headers});
+        let data = JSON.parse(html).data.list;
+        data.forEach(it => {
+            let id = 'https://app.whjzjx.cn/v2/theater_parent/detail?theater_parent_id='+it.theater.id;
+            d.push({
+            url:id,
+            title:it.theater.title,
+            img:it.theater.cover_url,
+            desc:it.theater.theme,
+        })
+        })
+       setResult(d);
+    }),
+    二级: $js.toString(()=>{
+        let urls = [];
+        let html = request(input,{headers:rule.headers});
+        let data = JSON.parse(html).data;
+        data.theaters.forEach(it => {
+            urls.push(it.num+'$'+it.son_video_url);
+        })
+    VOD = {
+            vod_name: data.title,
+            vod_pic: data.cover_url,
+            vod_play_from: '影视车App',
+            vod_play_url: urls.join('#')
+        };
+    }),
+  搜索: $js.toString(()=>{
+      let html = post(input,{headers:rule.headers,body:{"text":KEY}})
+      let list = JSON.parse(html).data.theater.search_data;
+      list.forEach(it =>{
+        let id = 'https://app.whjzjx.cn/v2/theater_parent/detail?theater_parent_id='+it.id;
+        d.push({
+            url:id,
+            title:it.title,
+            img:it.cover_url,
+            content:it.introduction,
+        })
+      })
+      setResult(d);
+  }),
+}
