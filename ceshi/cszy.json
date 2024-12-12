@@ -1149,8 +1149,7 @@
             "key": "瓜子",
             "name": "瓜子(js)",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "playerType": "2",
+            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/瓜子.js"
         },
         {
@@ -1259,7 +1258,7 @@
             "name": "蓝莓短剧(js)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝莓短剧.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝莓短剧.js"
         },
         {
             "key": "drpy_粤爱看",
@@ -1346,13 +1345,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/星空影院.js"
-        },
-        {
-            "key": "网飞啦(js)",
-            "name": "网飞啦(js)",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/网飞啦.js"
         },
         {
             "key": "老王电影(js)",
