@@ -378,8 +378,8 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
         },
         {
-            "key": "Zzys",
-            "name": "Zzys影视(SP)",
+            "key": "csp_Zzys",
+            "name": "小米影视(SP)",
             "type": 3,
             "api": "csp_Zzys",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
@@ -608,6 +608,15 @@
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/6d.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "csp_V2_加速",
+            "name": "加速(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://103.88.35.251/api.php/v1.vod"
         },
         {
             "key": "csp_V2_加速2",
