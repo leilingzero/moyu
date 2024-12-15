@@ -363,8 +363,8 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
         },
         {
-            "key": "Zzys",
-            "name": "Zzys影视(SP)",
+            "key": "csp_Zzys",
+            "name": "小米影视(SP)",
             "type": 3,
             "api": "csp_Zzys",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
@@ -1644,8 +1644,18 @@
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
         },
         {
-            "key": "php_heimuer",
+            "key": "py_HeiMuEr",
             "name": "木耳(T4)",
+            "type": 4,
+            "api": "https://spider.doube.eu.org/spider?site=HeiMuEr",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "php_heimuer",
+            "name": "木耳2(T4)",
             "type": 4,
             "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
             "searchable": 1,
@@ -1670,6 +1680,26 @@
             "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
             "searchable": 1,
             "quickSearch": 1,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_UpFuHn",
+            "name": "Hi视频(T4)",
+            "type": 4,
+            "api": "https://spider.doube.eu.org/spider?site=UpFuHn",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "php_Dm84",
+            "name": "动漫巴士(T4)",
+            "type": 4,
+            "api": "https://json.doube.eu.org/app/index.php?site=webdm84",
+            "searchable": 1,
+            "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
         },
