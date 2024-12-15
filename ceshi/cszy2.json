@@ -278,7 +278,7 @@
         },
         {
             "key": "csp_Xlys",
-            "name": "哔嘀影视(SP)",
+            "name": "修罗影视(SP)",
             "type": 3,
             "api": "csp_Xlys",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
@@ -595,8 +595,8 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_V2_加速2",
-            "name": "加速2(V2)",
+            "key": "csp_V2_加速",
+            "name": "加速(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
