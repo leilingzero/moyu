@@ -92,8 +92,11 @@
 {"key":"caiji.naichaapi.com","name":"成人61","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","searchable":1},
 {"key":"api.apilyzy.com","name":"成人62","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1},
 {"key": "森林","name": "🔞采集.森林资源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable": 1},
+{"key": "php_MaDou","name": "MaDou(T4)","type": 4,"api": "https://json.doube.eu.org/app/index.php?site=dbmadou","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key": "php_madou","name": "麻豆(T4)","type": 4,"api": "https://json.doube.eu.org/app/index.php?site=dbmadou","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.5}},
+{"key": "py_AiDou","name": "AiDou(T4)","type": 4,"api": "https://py.doube.eu.org/spider?site=AiDou","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0},
 {"key": "py_aidouchuanmei","name": "爱豆传媒(T4)","type": 4,"api": "https://py.doube.eu.org/api?site=aidouchuanmei","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.5}},
+{"key": "py_BadNews","name": "BadNews(T4)","type": 4,"api": "https://py.doube.eu.org/spider?site=BadNews","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0}
 {"key": "py_mrjav","name": "MrJav(翻)(T4)","type": 4,"api": "https://py.doube.eu.org/api?site=mrjav","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.5}},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
 ],
