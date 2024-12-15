@@ -278,9 +278,23 @@
         },
         {
             "key": "csp_Xlys",
-            "name": "哔嘀影视(SP)",
+            "name": "修罗影视(SP)",
             "type": 3,
             "api": "csp_Xlys",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
+        },
+        {
+            "key": "csp_AppZX",
+            "name": "在线影视(SP)",
+            "type": 3,
+            "api": "csp_AppZX",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
+        },
+        {
+            "key": "csp_TvLive",
+            "name": "电视直播(SP)",
+            "type": 3,
+            "api": "csp_TvLive",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066"
         },
         {
