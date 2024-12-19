@@ -1,0 +1,12 @@
+{
+    "副标题": "module-item-note\">&&</div>",
+    "影片年代": "<div class=\"module-info-tag\">&&</div>",
+    "影片地区": "未知",
+    "影片状态": "备注：&&</div>",
+    "影片类型": "module-info-tag\">&&立即播放",
+    "线路数组": "data-dropdown-value=&&</div>",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+  //"分类url": "https://dylstv.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类url": "https://tdgo.shop/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类": "电影$20#剧集$21#综艺$23#动漫$22#短剧$24"
+}
