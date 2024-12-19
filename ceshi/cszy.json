@@ -1,7 +1,7 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241218.jar;md5;c76ccccc921e555436828a86ed604fc1",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241218.jar;md5;c76ccccc921e555436828a86ed604fc1",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241218.jar;md5;c76ccccc921e555436828a86ed604fc1",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1068,7 +1068,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
-        	"简介": "简介：&&</div>",
+                "简介": "简介：&&</div>",
                 "搜索url": "https://www.295yhw.com/search/-------------.html?wd={wd}&submit=",
                 "分类url": "https://www.295yhw.com/show/{cateId}--------{catePg}---.html",
                 "分类": "国产动漫$guochandongman#日本动漫$ribendongman#欧美动漫$omeidongman#动漫电影$dongmandianying"
@@ -2512,7 +2512,7 @@
         {
             "name": "反弹",
             "type": 1,
-            "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+            "url": "http://110.40.85.39:81/jxxx/api.php?url=",
             "ext": {
                 "flag": [
                     "qq",
