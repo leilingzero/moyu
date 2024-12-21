@@ -1,7 +1,7 @@
 {
-    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241219.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
+    "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241221.jar;md5;262a678665ac3d5c727a8c812b31dfdf",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241221.jar;md5;262a678665ac3d5c727a8c812b31dfdf",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241221.jar;md5;262a678665ac3d5c727a8c812b31dfdf",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -438,7 +438,7 @@
             "type": 3,
             "api": "csp_Nongm",
             "ext": "https://wwgz.cn",
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "csp_AppRZ",
@@ -446,7 +446,7 @@
             "type": 3,
             "api": "csp_AppRZ",
             "ext": "http://rzys.xyz",
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "csp_Jiaozi",
@@ -454,7 +454,7 @@
             "type": 3,
             "api": "csp_Jiaozi",
             "playerType": 2,
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "可可2",
@@ -466,7 +466,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.kkys02.com",
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "csp_xpath_tvyun01",
@@ -1941,7 +1941,7 @@
             "api": "csp_BookTing",
             "searchable": 0,
             "ext": "https://m.ting275.com",
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "csp_LaoBaiBook",
@@ -1950,7 +1950,7 @@
             "playerType": "2",
             "api": "csp_LaoBaiBook",
             "searchable": 0,
-            "jar": "https://img2.gelonghui.com/library/b97a0-b33fe897-498a-4dc9-9f5a-46fef469dd89.txt;md5;b97a0b4c9bc92e86c3f1c0b15e6ba290"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
             "key": "88js",
@@ -2809,6 +2809,20 @@
             "ua": "okhttp/3.15",
             "url": "https://tv.iill.top/m3u/Live",
             "playerType": 2
+        },
+        {
+            "name": "央卫",
+            "type": 0,
+            "url": "https://livetv.wqwqwq.sbs/tv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "4GTV",
+            "type": 0,
+            "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "开心",
