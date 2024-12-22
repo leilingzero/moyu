@@ -1093,6 +1093,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
+                "副标题": "pic-text text-right\"><b>&&</b>",
                 "搜索url": "https://dbwyt.com/search.php?searchword={wd}",
                 "分类url": "https://dbwyt.com/wuba/{cateId}-{catePg}.html",
                 "分类": "国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"
