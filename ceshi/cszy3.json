@@ -272,6 +272,7 @@
             "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
+            "ext": "http://www.tvyun03.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
         },
         {
@@ -469,14 +470,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
-            "key": "csp_xpath_tvyun01",
-            "name": "tvyun01(XPF)",
+            "key": "csp_xpath_tvyun03",
+            "name": "tvyun03(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun01.json",
+            "ext": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun03.json",
             "jar": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
