@@ -207,7 +207,8 @@
       "key": "csp_Tvyb",
       "name": "☁️云播┃1080P",
       "type": 3,
-      "api": "csp_Tvyb"
+      "api": "csp_Tvyb",
+      "ext": "http://www.tvyun03.com"
     },
     {
       "key": "csp_Czsapp",
@@ -226,8 +227,7 @@
       "api": "csp_Fantuan",
       "playerType": 2,
       "filterable": 1,
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://fantuan.vip/"
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
     },
     
     {
@@ -259,8 +259,7 @@
       "type": 3,
       "playerType": 2,
       "changeable": 0,
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn/"
+      "api": "csp_Wwys"
     },
     {
       "key": "csp_Kanke",
@@ -272,27 +271,28 @@
       "key": "QIYIU",
       "name": "奇优(SP)",
       "type": 3,
-      "api": "csp_Qiyou"
+      "api": "csp_Qiyou",
+      "ext": "http://www.dyxz2.com"
     },
     {
       "key": "csp_Quanwk",
       "name": "全看影视(SP)",
       "type": 3,
-      "api": "csp_Quanwk"
+      "api": "csp_Quanwk",
+      "ext": "https://www.91qkw.com"
     },
     {
-            "key": "FengGo",
-            "name": "疯狗影视(SP)",
-            "type": 3,
-            "api": "csp_FengGo"
+      "key": "FengGo",
+      "name": "疯狗影视(SP)",
+      "type": 3,
+      "api": "csp_FengGo"
     },
-        {
+    {
             "key": "csp_Xingchen",
             "name": "星辰影院(SP)",
             "type": 3,
-            "api": "csp_Xingchen",
-          "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
-      },
+            "api": "csp_Xingchen"
+    },
     {
             "key": "Zzys",
             "name": "小米影视(SP)",
