@@ -1,8 +1,8 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241225.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241225.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241225.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
-//  "spider": "https://ghgo.xyz/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241225.jar;md5;5187bb3bc6eba66ecb3785abb0d21431",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
+//  "spider": "https://ghgo.xyz/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -140,7 +140,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
+            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
         },
         {
             "key": "热播",
@@ -283,7 +283,7 @@
             "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "http://www.tvyun03.com",
+            "ext": "http://www.tvyun04.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
         },
         {
@@ -451,18 +451,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
         },
         {
-            "key": "可可2",
-            "name": " 可可影视2(SP)",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.kkys02.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
-        },
-        {
             "key": "csp_南瓜",
             "name": "南瓜(SP)",
             "type": 3,
@@ -517,14 +505,25 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
         },
         {
-            "key": "csp_xpath_tvyun03",
-            "name": "tvyun03(XPF)",
+            "key": "csp_xpath_tvyun04",
+            "name": "tvyun04(XPF)",
             "type": 3,
             "api": "csp_XPathFilter",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun03.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/tvyun04.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "csp_xpath_hktv",
+            "name": "hktv(XPF)",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/hktv.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
