@@ -737,7 +737,6 @@
             "name": "皮皮虾(V2)",
             "type": 3,
             "api": "csp_AppYsV2",
-            "playUrl": "json:http://45.207.215.101:5423/index.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2706,6 +2705,17 @@
                 "header": {
                     "User-Agent": "okhttp/4.9.1"
                 }
+            }
+        },
+        {
+            "name": "皮皮虾",
+            "type": 1,
+            "url": "http://45.207.215.101:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
             }
         },
         {
