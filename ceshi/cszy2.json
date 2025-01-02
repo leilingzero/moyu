@@ -284,7 +284,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "http://www.hktv09.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_SuBaiBai",
@@ -295,14 +295,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://subaibai.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Xlys",
             "name": "修罗影视(SP)",
             "type": 3,
             "api": "csp_Xlys",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Wwys",
@@ -313,7 +313,7 @@
             "quickSearch": 1,
             "changeable": 0,
             "ext": "https://www.wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_XSX",
@@ -324,7 +324,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_饭团",
@@ -332,28 +332,28 @@
             "type": 3,
             "api": "csp_Fantuan",
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_SaoHuo",
             "name": "火火影视(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Kanke",
             "name": "看客影视(SP)",
             "type": 3,
             "api": "csp_Kanke",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Qiyou",
             "name": "奇优影视(SP)",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Quanwk",
@@ -361,59 +361,74 @@
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "FengGo",
             "name": "疯狗影视(SP)",
             "type": 3,
             "api": "csp_FengGo",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_MiTuApp",
             "name": "米兔影视(SP)",
             "type": 3,
-            "quickSearch": 0,
             "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_电影",
             "name": "电影影视(SP)",
             "type": 3,
-            "quickSearch": 0,
             "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
-            "key": "csp_悠悠",
-            "name": "悠悠影视(SP)",
+            "key": "csp_DUODUO",
+            "name": "多多影视(SP)",
             "type": 3,
-            "quickSearch": 0,
             "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn6HTjU76bdvB3up+9CiGGVZHR3fM8KlJPXSneStHrC+DgWIxl9G+rM70oCwdQkorhrIzUoY/hqgTn/n8VXBDfMYYJQXjRv4wnyIB9zbV+McOQuf9XquqTIYCrvZq2K/XN8gy3u6uGRNLRlVrwt2esQ5pwE+Y8C3ts7ivRub9bEpuB7nN4tthfe6L4f4RdQDHpA==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_良人",
             "name": "良人影视(SP)",
             "type": 3,
-            "quickSearch": 0,
             "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_麻花",
             "name": "麻花影视(SP)",
             "type": 3,
-            "quickSearch": 0,
             "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
+        },
+        {
+            "key": "csp_悠悠",
+            "name": "悠悠影视(SP)",
+            "type": 3,
+            "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "sHR2rlsfjI4L3t4RXQMknzkBg7Vkp4iTNqyeosAJpHnw6roDAjVKHwM/MZzlXynRCKNQf+PEtIE3pKftvdy035HammwEvPJdXnu53vPsiVjInePtgdaIgmcH8QzBLPlDKW1pNMfczNnMzBOp9pYad354sdlKgFnUBsFuy5KfTh6NymaocNlwJqN85IfMUV4M",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_瓜子",
@@ -424,7 +439,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734861856358/XMKY.jar;md5;0a762b54cf53124bc90868821a884d43"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
             "key": "csp_Nongm",
@@ -626,17 +641,6 @@
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_xp_newfii",
-            "name": "奈落影视(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/newfii.json",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
             "key": "csp_xp_zxzj",
             "name": "在线之家(XPF)",
             "type": 3,
@@ -737,6 +741,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://nnystv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_皮皮虾",
+            "name": "皮皮虾(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
         },
         {
             "key": "老王影视",
@@ -1223,14 +1237,14 @@
             "key": "瓜子",
             "name": "瓜子(js)",
             "type": 3,
-            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/瓜子.js"
         },
         {
             "key": "低端影视(js)",
             "name": "低端影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "playerType": "2",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/ddys3.js"
         },
@@ -1238,7 +1252,7 @@
             "key": "低端(js)",
             "name": "低端(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "playerType": "2",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/低端.js"
         },
@@ -1246,7 +1260,7 @@
             "key": "厂长资源(js)",
             "name": "厂长资源(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "playerType": "2",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/厂长资源.js"
         },
@@ -1254,7 +1268,7 @@
             "key": "FreeOK",
             "name": "FreeOK(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1265,7 +1279,7 @@
             "key": "摘星",
             "name": "摘星影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1276,7 +1290,7 @@
             "key": "xiongmao2",
             "name": "熊猫(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1287,7 +1301,7 @@
             "key": "金牌影视(js)",
             "name": "金牌影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1298,7 +1312,7 @@
             "key": "星芽短剧(js)",
             "name": "星芽短剧(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1309,21 +1323,21 @@
             "key": "蓝莓短剧(js)",
             "name": "蓝莓短剧(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝莓短剧.js"
         },
         {
             "key": "drpy_粤爱看",
             "name": "粤爱看(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/粤爱看.json"
         },
         {
             "key": "drpy_voflix",
             "name": "voflix影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/voflix.json"
@@ -1332,154 +1346,154 @@
             "key": "drpy_南瓜",
             "name": "南瓜影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/南瓜影视.js"
         },
         {
             "key": "drpy_畅梦",
             "name": "畅梦影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/changmeng.js"
         },
         {
             "key": "素白白(js)",
             "name": "素白白(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/素白白.js"
         },
         {
             "key": "七新电影网(js)",
             "name": "七新电影网(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/七新电影网.js"
         },
         {
             "key": "HBOTV(js)",
             "name": "HBOTV(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/HBOTV.js"
         },
         {
             "key": "111tv(js)",
             "name": "111tv(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/111tv.js"
         },
         {
             "key": "多多追剧(js)",
             "name": "多多追剧(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/多多追剧.js"
         },
         {
             "key": "可可影视(js)",
             "name": "可可影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/可可影视.js"
         },
         {
             "key": "星辰影视(js)",
             "name": "星辰影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/星辰.js"
         },
         {
             "key": "星空影院(js)",
             "name": "星空影院(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/星空影院.js"
         },
         {
             "key": "老王电影(js)",
             "name": "老王电影(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/老王电影.js"
         },
         {
             "key": "饺子影院(js)",
             "name": "饺子影院(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/饺子影院.js"
         },
         {
             "key": "看了么(js)",
             "name": "看了么(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/看了么.js"
         },
         {
             "key": "努努影院(js)",
             "name": "努努影院(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/努努影院.js"
         },
         {
             "key": "牌牌影院(js)",
             "name": "牌牌影院(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/牌牌影院.js"
         },
         {
             "key": "蓝光影视(js)",
             "name": "蓝光影视(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝光影视.js"
         },
         {
             "key": "茶杯狐(js)",
             "name": "茶杯狐(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/茶杯狐.js"
         },
         {
             "key": "臭蛋蛋(js)",
             "name": "臭蛋蛋(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/臭蛋蛋.js"
         },
         {
             "key": "六月听书(js)",
             "name": "六月听书(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/六月听书.js"
         },
         {
             "key": "博看听书(js)",
             "name": "博看听书(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/博看听书.js"
         },
         {
             "key": "贝乐虎(js)",
             "name": "贝乐虎(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/贝乐虎.js"
         },
         {
             "key": "csp_js_Bttwo",
             "name": "Bttwo(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1491,7 +1505,7 @@
             "key": "csp_js_荐片2",
             "name": "荐片2(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -1502,7 +1516,7 @@
             "key": "drpy_磁力熊",
             "name": "磁力熊(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.json",
             "searchable": 1,
             "quickSearch": 1,
@@ -1512,7 +1526,7 @@
             "key": "drpy_腾腾",
             "name": "腾腾(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1523,7 +1537,7 @@
             "key": "guoguo",
             "name": "果果(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1534,42 +1548,42 @@
             "key": "drpy_js_360影视",
             "name": "360(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/360影视.js"
         },
         {
             "key": "drpy_js_百忙无果",
             "name": "芒果(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/百忙无果.js"
         },
         {
             "key": "drpy_js_腾云驾雾",
             "name": "腾讯(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/腾云驾雾.js"
         },
         {
             "key": "drpy_js_奇珍异兽",
             "name": "爱奇艺(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/奇珍异兽.js"
         },
         {
             "key": "drpy_js_菜狗",
             "name": "搜狗(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/菜狗.js"
         },
         {
             "key": "drpy_js_优酷",
             "name": "优酷(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/优酷.js"
         },
         {
@@ -1642,7 +1656,7 @@
             "key": "drpy_动漫岛",
             "name": "动漫岛(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
@@ -1651,7 +1665,7 @@
             "key": "drpy_漫次元",
             "name": "漫次元(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/漫次元.js",
             "searchable": 1,
             "quickSearch": 1,
@@ -1661,7 +1675,7 @@
             "key": "drpy_58动漫",
             "name": "58动漫(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1671,18 +1685,48 @@
             "key": "drpy_追剧鸭",
             "name": "追剧鸭(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/zjydj.js"
         },
         {
             "key": "drpy_去看吧",
             "name": "去看吧(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
+        },
+        {
+            "key": "drpy_米兔",
+            "name": "米兔(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/MTDM.js"
+        },
+        {
+            "key": "drpy_小熊",
+            "name": "小熊(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/XXDM.js"
+        },
+        {
+            "key": "drpy_巨人",
+            "name": "巨人(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/JRDM.js"
         },
         {
             "key": "py_HeiMuEr",
@@ -2189,7 +2233,7 @@
             "key": "drpy_js_蜻蜓FM",
             "name": "蜻蜓收音(js)",
             "type": 3,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蜻蜓FM.js"
         },
         {
@@ -2327,7 +2371,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
         },
         {
@@ -2337,7 +2381,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib2/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
         },
         {
