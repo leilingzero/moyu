@@ -283,7 +283,7 @@
             "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
- //           "ext": "http://www.hktv09.com",
+            "ext": "http://www.hktv09.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
@@ -371,7 +371,7 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
-            "key": "csp_MiTuApp",
+            "key": "csp_米兔",
             "name": "米兔影视(SP)",
             "type": 3,
             "api": "csp_MiTuApp",
@@ -391,7 +391,7 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
-            "key": "csp_DUODUO",
+            "key": "csp_多多",
             "name": "多多影视(SP)",
             "type": 3,
             "api": "csp_MiTuApp",
@@ -428,7 +428,24 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 0,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
+        },
+        {
+            "key": "csp_视觉",
+            "name": "视觉(py)",
+            "type": 3,
+            "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
+        },
+        {
+            "key": "csp_猎手",
+            "name": "猎手(py)",
+            "type": 3,
+            "api": "https://drive.almondcloud.cn/f/mnyRt1/py_电影猎手.py",
+            "searchable": 1,
+            "quickSearch": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
         },
         {
@@ -437,7 +454,7 @@
             "type": 3,
             "api": "csp_Nongm",
             "ext": "https://wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
         },
         {
             "key": "csp_AppRZ",
@@ -445,7 +462,21 @@
             "type": 3,
             "api": "csp_AppRZ",
             "ext": "http://rzys.xyz",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
+        },
+        {
+            "key": "csp_Lkdy",
+            "name": "来看影视(SP)",
+            "type": 3,
+            "api": "csp_Lkdy",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
+        },
+        {
+            "key": "csp_Lggys",
+            "name": "攻阁影视(SP)",
+            "type": 3,
+            "api": "csp_Lggys",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
         },
         {
             "key": "csp_Jiaozi",
@@ -453,61 +484,7 @@
             "type": 3,
             "api": "csp_Jiaozi",
             "playerType": 2,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
-        },
-        {
-            "key": "csp_南瓜",
-            "name": "南瓜(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cDovLzExMS4xODAuMjA2LjEyNzozMzAiLAogICAgICAgICJkYXRhS2V5IjogInZhM2hmNzkzbjNDRmR2RlMiLAogICAgICAgICJkYXRhSXYiOiAidmEzaGY3OTNuM0NGZHZGUyIsCiAgICAgICAgImRldmljZUlkIjogIjIzODEzYjE1YmY3YmQzNTljYjhkMzJmOWQwMjg2MjQ0YyIKICB9",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
-        },
-        {
-            "key": "米兔",
-            "name": "米兔(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
-        },
-        {
-            "key": "电影2",
-            "name": "电影2(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5IiwKICAgICAgICAiZGF0YUtleSI6ICJkeXl6dHZhcGlhcHB5eWRzIiwKICAgICAgICAiZGF0YUl2IjogImR5eXp0dmFwaWFwcHl5ZHMiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgICAgIH0=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
-        },
-        {
-            "key": "csp_MiTo",
-            "name": "追饭影视(SP)",
-            "type": 3,
-            "api": "csp_MiTo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": {
-                "url": "http://103.88.35.251:8989",
-                "dataKey": "aassddwwxxllsx1x",
-                "playKey": "bbssqdbbssll25sx",
-                "version": "2.1.0"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
-        },
-        {
-            "key": "zhaixing",
-            "name": "摘星影视(SP)",
-            "type": 3,
-            "api": "csp_AppZX",
-            "playerType": 2,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734406105614/xiaoyii.jar;md5;0c1b445d169566cda344d6877ad76b43"
-        },
-        {
-            "key": "csp_Zzys",
-            "name": "小米影视(SP)",
-            "type": 3,
-            "api": "csp_Zzys",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735808055188/xiaom250102.jar;md5;a3df7f0e4c407a28548fdc68b5e213b6"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
         },
         {
             "key": "csp_xpath_tvyun04",
@@ -752,6 +729,8 @@
             "filterable": 1,
             "ext": {
                 "搜索url": "https://www.laowang.co/s{wd}.html",
+                "线路数组": "class=\"module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</span>",
                 "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
             },
@@ -1117,6 +1096,14 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "流光影视",
+            "name": "流光影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/LGYS.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "红狐狸影视",
             "name": "红狐狸影视(XBPQ)",
             "type": 3,
@@ -1215,13 +1202,28 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "摸鱼瓜子",
-            "name": "摸鱼瓜子(js)",
+            "key": "吉吉短剧",
+            "name": "吉吉短剧(XBPQ)",
             "type": 3,
-            "api": "http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/guazi.js"
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/JJDJ.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "爱我短剧",
+            "name": "爱我短剧(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/AWDJ.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "短剧网cc",
+            "name": "短剧网cc(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/DJWang.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
             "key": "瓜子",
@@ -1424,6 +1426,13 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/看了么.js"
         },
         {
+            "key": "看了么2(js)",
+            "name": "看了么2(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/KLM.js"
+        },
+        {
             "key": "努努影院(js)",
             "name": "努努影院(js)",
             "type": 3,
@@ -1452,11 +1461,25 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/茶杯狐.js"
         },
         {
+            "key": "茶杯狐2(js)",
+            "name": "茶杯狐2(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/CBH.js"
+        },
+        {
             "key": "臭蛋蛋(js)",
             "name": "臭蛋蛋(js)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/臭蛋蛋.js"
+        },
+        {
+            "key": "魔力高清(js)",
+            "name": "魔力高清(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/MLGQ.js"
         },
         {
             "key": "六月听书(js)",
@@ -1662,6 +1685,16 @@
             "filterable": 1
         },
         {
+            "key": "drpy_56动漫",
+            "name": "56动漫(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/56DM.json"
+        },
+        {
             "key": "drpy_58动漫",
             "name": "58动漫(js)",
             "type": 3,
@@ -1670,6 +1703,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/58动漫.json"
+        },
+        {
+            "key": "drpy_爱弹幕动漫",
+            "name": "爱弹幕动漫(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/ADM.js"
         },
         {
             "key": "drpy_追剧鸭",
@@ -1729,32 +1772,22 @@
             "changeable": 0
         },
         {
-            "key": "php_heimuer",
-            "name": "木耳2(T4)",
-            "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0
-        },
-        {
             "key": "php_huaweiba",
             "name": "华为吧(T4)",
             "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=webhuaweiba",
+            "api": "https://spider.doube.eu.org/spider?site=HuaWeiBa",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 0
         },
         {
-            "key": "php_bttwoo",
-            "name": "bttwoo(T4)",
+            "key": "py_AiGuaTV",
+            "name": "爱瓜TV",
             "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+            "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 0,
             "changeable": 0
         },
@@ -1769,10 +1802,20 @@
             "changeable": 0
         },
         {
+            "key": "py_OleVod",
+            "name": "欧乐影院",
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=OleVod",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
             "key": "php_Dm84",
             "name": "动漫巴士(T4)",
             "type": 4,
-            "api": "https://json.doube.eu.org/app/index.php?site=webdm84",
+            "api": "https://py.doube.eu.org/spider?site=Dm84",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -2046,7 +2089,7 @@
             "playerType": 2,
             "searchable": 0,
             "ext": "https://m.ting275.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
         },
         {
             "key": "csp_LaoBaiBook",
@@ -2055,7 +2098,7 @@
             "api": "csp_LaoBaiBook",
             "playerType": 2,
             "searchable": 0,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735929700473/Feimao250104.txt;md5;5b3659cbd185ab44d1dc65a0fde78a0f"
         },
         {
             "key": "88js",
