@@ -1,8 +1,8 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
-//  "spider": "https://ghgo.xyz/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty241230.jar;md5;9136a7f6aec51c5b18e911121774ab5f",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250104.jar;md5;65e12949f9090ca4451bd04338542881",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250104.jar;md5;65e12949f9090ca4451bd04338542881",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250104.jar;md5;65e12949f9090ca4451bd04338542881",
+//  "spider": "https://ghgo.xyz/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250104.jar;md5;65e12949f9090ca4451bd04338542881",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -77,6 +77,16 @@
             "name": "糯米影视(SP)",
             "type": 3,
             "api": "csp_Nmyswv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "白白",
+            "name": "白白影视(SP)",
+            "type": 3,
+            "api": "csp_Sbaibai",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
