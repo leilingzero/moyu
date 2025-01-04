@@ -730,6 +730,16 @@
             "ext": "http://38.55.250.149:1314/api.php/app/"
         },
         {
+            "key": "csp_V2_HG影视",
+            "name": "HG影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+        },
+        {
             "key": "老王影视",
             "name": "老王影视(XBPQ)",
             "type": 3,
@@ -737,14 +747,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
-                "副标题": "module-item-text\">&&</div>",
-                "搜索url": "https://www.laowang.co/s{wd}.html",
-                "线路数组": "class=\"module-tab-item tab-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "分类url": "https://www.laowang.co/vs/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
-            },
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/老王影视.json",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1794,7 +1797,7 @@
         },
         {
             "key": "py_AiGuaTV",
-            "name": "爱瓜TV",
+            "name": "爱瓜TV(T4)",
             "type": 4,
             "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
             "searchable": 1,
