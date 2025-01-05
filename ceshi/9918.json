@@ -1,8 +1,8 @@
 {
-"spider":"https://raw.gitmirror.com/leilingzero/moyu/master/ganggang/fm.nogo.jar;md5;900f98c4a593a41c7c4253e323477ab8",
-"lives":[{"name":"FongMi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
-{"name":"YanG","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
-{"name":"atsushi","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/fm.nogo.jar;md5;900f98c4a593a41c7c4253e323477ab8",
+"lives":[{"name":"FongMi","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
+{"name":"YanG","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
+{"name":"atsushi","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"初秋语","type":0,"url":"./listx.txt"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
