@@ -99,7 +99,7 @@
 {"key": "drpyS_色花堂[密+]","name": "色花堂[密+](DS)","type": 4,"api": "https://drpys-kznt.vercel.app/api/色花堂[密+]","searchable": 1,"filterable": 0,"quickSearch": 0},
 {"key": "drpyS_伊甸园[密]","name": "伊甸园[密](DS)","type": 4,"api": "https://drpys-kznt.vercel.app/api/伊甸园[密]","searchable": 1,"filterable": 0,"quickSearch": 0},
 {"key": "drpyS_x草榴社区[密]","name": "x草榴社区[密](DS)","type": 4,"api": "https://drpys-kznt.vercel.app/api/x草榴社区[密]","searchable": 1,"filterable": 0,"quickSearch": 0},
-{"key": "drpyS_xvideos[密]","name": "xvideos[密](DS)","type": 4,"api": "https://drpys-kznt.vercel.app/api/xvideos[密]","searchable": 1,"filterable": 0,"quickSearch": 0,},
+{"key": "drpyS_xvideos[密]","name": "xvideos[密](DS)","type": 4,"api": "https://drpys-kznt.vercel.app/api/xvideos[密]","searchable": 1,"filterable": 0,"quickSearch": 0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_Push","searchable":1,"changeable":0}
 ],
 "rules":[
