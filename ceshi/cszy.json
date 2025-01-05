@@ -1826,6 +1826,126 @@
             "changeable": 0
         },
         {
+            "key": "drpyS_瓜子H5",
+            "name": "瓜子H5(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/瓜子H5",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_好乐影视",
+            "name": "好乐影视(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/好乐影视",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_火车太堵",
+            "name": "火车太堵(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/火车太堵",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_蓝莓短剧",
+            "name": "蓝莓短剧(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/蓝莓短剧",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 1,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_老白故事[听]",
+            "name": "老白故事[听](DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/老白故事[听]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_七猫小说[书]",
+            "name": "七猫小说[书](DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/七猫小说[书]",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_人人视频",
+            "name": "人人视频(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/人人视频",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_素白白",
+            "name": "素白白(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/素白白",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 0,
+            "ext": ""
+        },
+         {
+            "key": "drpyS_星芽短剧",
+            "name": "星芽短剧(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/星芽短剧",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_兄弟影视",
+            "name": "兄弟影视(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/兄弟影视",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_雪糕TV",
+            "name": "雪糕TV(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/雪糕TV",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
+            "key": "drpyS_专享影视",
+            "name": "专享影视(DS)",
+            "type": 4,
+            "api": "https://drpys-kznt.vercel.app/api/专享影视",
+            "searchable": 1,
+            "filterable": 0,
+            "quickSearch": 0,
+            "ext": ""
+        },
+        {
             "key": "csp_xml_HG影视",
             "name": "HG影视(xml)",
             "type": 1,
