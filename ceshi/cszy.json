@@ -730,6 +730,16 @@
             "ext": "http://38.55.250.149:1314/api.php/app/"
         },
         {
+            "key": "csp_V2_皮皮虾2",
+            "name": "皮皮虾2(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.ppxys.vip/api.php/app/"
+        },
+        {
             "key": "csp_V2_HG影视",
             "name": "HG影视(V2)",
             "type": 3,
@@ -2758,6 +2768,17 @@
             "name": "皮皮虾",
             "type": 1,
             "url": "http://45.207.215.101:5423/index.php?url=",
+            "ext": {
+                "flag": [
+                    "PPXLG",
+                    "皮皮虾4K"
+                ]
+            }
+        },
+        {
+            "name": "摸鱼皮皮虾",
+            "type": 1,
+            "url": "http://jiexi.52ppx.top/lxjson.php?url=",
             "ext": {
                 "flag": [
                     "PPXLG",
