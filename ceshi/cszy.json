@@ -2971,6 +2971,18 @@
             "ua": "judy/5.2.1"
         },
         {
+            "name": "judy_zh",
+            "type": 0,
+            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=298688230065203",
+            "ua": "judy/5.2.1"
+        },
+        {
+            "name": "judy_ty",
+            "type": 0,
+            "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=298688230065203",
+            "ua": "judy/5.2.1"
+        },
+        {
             "name": "网络直播",
             "type": 0,
             "ua": "okhttp/3.15",
