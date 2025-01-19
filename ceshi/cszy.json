@@ -895,6 +895,20 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "奈飞中文",
+            "name": "奈飞中文(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.naifei1.org/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$dy#剧集$juji#综艺$zongyi#动漫$dongman#短剧$dj#记录$jilupian"
+            },
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "即看影视",
             "name": "即看影视(XBPQ)",
             "type": 3,
