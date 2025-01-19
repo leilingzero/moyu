@@ -1017,6 +1017,20 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "csp_xb_影视工厂2",
+            "name": "影视工厂2(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://www.ysgc.fun/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33"
+            },
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "csp_XBPQ_999影视",
             "name": "999影视(XBPQ)",
             "type": 3,
