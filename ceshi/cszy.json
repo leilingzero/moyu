@@ -164,16 +164,6 @@
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
         },
         {
-            "key": "南瓜",
-            "name": "南瓜影视(SP)",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "萌米",
             "name": "萌米影视(SP)",
             "type": 3,
@@ -214,17 +204,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
-        {
-            "key": "csp_js_荐片",
-            "name": "荐片(js)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jp.js"
         },
         {
             "key": "csp_Auete",
@@ -293,7 +272,6 @@
             "api": "csp_Tvyb",
             "searchable": 1,
             "quickSearch": 1,
-       //     "ext": "http://www.hktv09.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959"
         },
         {
@@ -471,33 +449,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959"
         },
         {
-            "key": "csp_视觉",
-            "name": "视觉(py)",
-            "type": 3,
-            "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
-            "searchable": 1,
-            "quickSearch": 1
-  //          "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959"
-        },
-        {
-            "key": "csp_猎手",
-            "name": "猎手(py)",
-            "type": 3,
-            "api": "https://drive.almondcloud.cn/f/mnyRt1/py_电影猎手.py",
-            "searchable": 1,
-            "quickSearch": 1
- //           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959"
-        },
-        {
-            "key": "csp_猎手2",
-            "name": "猎手2(py)",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py",
-            "searchable": 1,
-            "quickSearch": 1
- //           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736998904961/0116.jar;md5;5d55d1e0bf4079bc9591d2ce641a9959"
-        },
-        {
             "key": "csp_Nongm",
             "name": "农民影视2(SP)",
             "type": 3,
@@ -534,6 +485,22 @@
             "api": "csp_Jiaozi",
             "playerType": 2,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736950001321/Feimao0115.txt;md5;ac47ab523e82a62663f3f8665ad85c3e"
+        },
+        {
+            "key": "csp_视觉",
+            "name": "视觉(py)",
+            "type": 3,
+            "api": "https://drive.almondcloud.cn/f/q3JKT9/shijue.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_猎手",
+            "name": "猎手(py)",
+            "type": 3,
+            "api": "https://drive.almondcloud.cn/f/mnyRt1/py_电影猎手.py",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "csp_xpath_tvyun04",
@@ -765,26 +732,6 @@
             "ext": "https://yanetflix.me/api.php/app/"
         },
         {
-            "key": "csp_V2_奈飞星球",
-            "name": "奈飞星球(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.netfly.tv/api.php/app/"
-        },
-        {
-            "key": "csp_V2_奈飞星球2",
-            "name": "奈飞星球2(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.naifei1.org/api.php/app/"
-        },
-        {
             "key": "csp_appys_TV酷",
             "name": "TV酷影视(V2)",
             "type": 3,
@@ -793,16 +740,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.tvkuys.xyz/api.php/app/"
-        },
-        {
-            "key": "csp_V2_小马",
-            "name": "小马(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://mas.szyyds.cn/api.php/app/"
         },
         {
             "key": "csp_V2_腐剧",
@@ -842,7 +779,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://38.55.250.149:1314/api.php/app/"
+            "ext": "http://www.ppxys.vip/api.php/app/"
         },
         {
             "key": "csp_V2_皮皮虾2",
@@ -852,7 +789,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://www.ppxys.vip/api.php/app/"
+            "ext": "http://38.55.250.149:1314/api.php/app/"
         },
         {
             "key": "csp_V2_HG影视",
@@ -873,20 +810,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/老王影视.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "白嫖者联盟",
-            "name": "白嫖者联盟(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$58"
-            },
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -915,17 +838,6 @@
                 "分类url": "https://www.naifei1.org/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dy#剧集$juji#综艺$zongyi#动漫$dongman#短剧$dj#记录$jilupian"
             },
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "即看影视",
-            "name": "即看影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/jkv.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1014,20 +926,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XB/影视工厂.json",
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "csp_xb_影视工厂2",
-            "name": "影视工厂2(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "http://www.ysgc.fun/vodshow/{cateId}--------{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33"
-            },
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
