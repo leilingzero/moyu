@@ -788,26 +788,6 @@
             "ext": "https://nnystv.cn/api.php/app/"
         },
         {
-            "key": "csp_V2_皮皮虾",
-            "name": "皮皮虾(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.ppxys.vip/api.php/app/"
-        },
-        {
-            "key": "csp_V2_皮皮虾2",
-            "name": "皮皮虾2(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://38.55.250.149:1314/api.php/app/"
-        },
-        {
             "key": "csp_V2_HG影视",
             "name": "HG影视(V2)",
             "type": 3,
@@ -851,6 +831,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                "副标题": "module-item-text\">&&</div>",
+                "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</small>+集",
                 "分类url": "https://www.naifei1.org/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dy#剧集$juji#综艺$zongyi#动漫$dongman#短剧$dj#记录$jilupian"
             },
@@ -864,7 +847,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/奈飞.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/奈飞2.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -2969,21 +2952,9 @@
             "ua": "okhttp/3.15"
         },
         {
-            "name": "aktv",
-            "type": 0,
-            "url": "https://aktv.top/live.m3u",
-            "ua": "okhttp/4.12.0"
-        },
-        {
             "name": "liTV",
             "type": 0,
             "url": "https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.txt"
-        },
-        {
-            "name": "电视直播",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 2
         },
         {
             "name": "摸鱼",
@@ -2992,18 +2963,6 @@
             "ua": "okhttp/3.15",
             "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
             "logo":"https://live.fanmingming.com/tv/{name}.png"
-        },
-        {
-            "name": "IPTV研究所",
-            "type": 0,
-            "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
-            "ua": "okhttp/4.12.0"
-        },
-        {
-            "name": "IPTV研究所2",
-            "type": 0,
-            "url": "https://www.mytvsuper.com.mp/m3u/judy.m3u",
-            "ua": "judy/5.2.1"
         },
         {
             "name": "judy_zh",
@@ -3018,17 +2977,11 @@
             "ua": "judy/5.2.1"
         },
         {
-            "name": "网络直播",
+            "name": "日后",
             "type": 0,
-            "ua": "okhttp/3.15",
-            "url": "https://tv.iill.top/m3u/Live"
-        },
-        {
-            "name": "开心",
-            "type": 0,
-            "url": "http://kxrj.site:55/lib/kx2024.txt",
+            "url": "http://rihou.cc:55/lib/kx2024.txt",
             "ua": "okhttp/4.12.0"
-        },
+        }
         {
             "name": "catvodTV",
             "type": 0,
@@ -3104,7 +3057,7 @@
         {
             "name": "whpsky",
             "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/CHINATV/main/CHINATV.m3u",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },
