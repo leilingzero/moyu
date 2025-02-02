@@ -1,8 +1,8 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250129.jar;md5;fcd3be29030c912a28d7a205a88f749d",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250129.jar;md5;fcd3be29030c912a28d7a205a88f749d",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250129.jar;md5;fcd3be29030c912a28d7a205a88f749d",
-//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250129.jar;md5;fcd3be29030c912a28d7a205a88f749d",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250202.jar;md5;9dbf4e8b686d614d5d6ae609347742ab",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250202.jar;md5;9dbf4e8b686d614d5d6ae609347742ab",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250202.jar;md5;9dbf4e8b686d614d5d6ae609347742ab",
+//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250202.jar;md5;9dbf4e8b686d614d5d6ae609347742ab",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -511,6 +511,14 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_九龙影视",
+            "name": "九龙影视(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/九龙影视.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_视觉",
             "name": "视觉(py)",
             "type": 3,
@@ -754,6 +762,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://yanetflix.me/api.php/app/"
+        },
+        {
+            "key": "csp_V2_快看",
+            "name": "快看(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://kkwk123.top/api.php/app/"
         },
         {
             "key": "csp_appys_TV酷",
@@ -1175,6 +1193,14 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "樱花影视",
+            "name": "樱花影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/樱花影视",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "红狐狸影视",
             "name": "红狐狸影视(XBPQ)",
             "type": 3,
@@ -1182,28 +1208,6 @@
             "ext": {
                 "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            },
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "极光影视",
-            "name": "极光影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.jigys.com/vod/show/id/{cateId}/page/{catePg}",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-            },
-            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "凡客TV",
-            "name": "凡客TV(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://fktv.me/channel?page={catePg}&cat_id={cateId}",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$8#纪录片$6#解说$7#音乐$5"
             },
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1326,11 +1330,25 @@
             "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
         },
         {
+            "key": "追剧迷(js)",
+            "name": "追剧迷(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/追剧迷.js"
+        },
+        {
             "key": "瓜子",
             "name": "瓜子(js)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/瓜子.js"
+        },
+        {
+            "key": "剧圈圈",
+            "name": "剧圈圈(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/剧圈圈.js"
         },
         {
             "key": "低端影视(js)",
@@ -2817,7 +2835,7 @@
             ]
         }
     ],
-//    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+// "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/gif/11.gif",
     "lives": [
         {
@@ -2883,6 +2901,11 @@
             "name": "天微",
             "type": 0,
             "url": "https://7337.kstore.space/twkj/tvzb.txt"
+        },
+        {
+            "name": "PizazzGY",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"
         },
         {
             "name": "ysclive",
