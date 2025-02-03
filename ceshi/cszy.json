@@ -1283,11 +1283,11 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "短剧网",
-            "name": "短剧网(XBPQ)",
+            "key": "短剧001",
+            "name": "短剧001(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧网.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧001.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1474,6 +1474,13 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/素白白.js"
         },
         {
+            "key": "素白白2(js)",
+            "name": "素白白2(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/素白白2.js"
+        },
+        {
             "key": "七新电影网(js)",
             "name": "七新电影网(js)",
             "type": 3,
@@ -1548,7 +1555,7 @@
             "name": "看了么2(js)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/KLM.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/看了么2.js"
         },
         {
             "key": "努努影院(js)",
@@ -1583,7 +1590,7 @@
             "name": "茶杯狐2(js)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/CBH.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/茶杯狐2.js"
         },
         {
             "key": "臭蛋蛋(js)",
@@ -1781,7 +1788,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧2.js"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧.js"
         },
         {
             "key": "drpy_米兔",
