@@ -509,6 +509,14 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_酷云",
+            "name": "酷云(py)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/酷云.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_视觉",
             "name": "视觉(py)",
             "type": 3,
@@ -748,9 +756,9 @@
             "name": "鸭奈菲(V2)",
             "api": "csp_AppYsV2",
             "type": 3,
-            "filterable": 1,
             "quickSearch": 1,
             "searchable": 1,
+            "filterable": 1,
             "ext": "https://yanaifei.tv/api.php/app/"
         },
         {
@@ -802,6 +810,76 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+        },
+    {
+            "key": "皮皮虾",
+            "name": "皮皮虾(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://110.40.40.242:992/api.php/app/"
+        },
+    {
+            "key": "起点",
+            "name": "起点影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms.ttys001.asia/api.php/v1.vod"
+        },
+        {
+            "key": "146影视",
+            "name": "146影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://154.12.19.146/api.php/app/"
+        },
+        {
+            "key": "皮皮影视",
+            "name": "皮皮影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.ppxys.cc/api.php/app/"
+        },
+        {
+            "key": "优优兔",
+            "name": "优优兔(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cmstv.ttxgzs.cn/api.php/app/"
+        },
+        {
+            "key": "空城",
+            "name": "空城影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://itv.zwzs.fun/api.php/app/"
+        },
+        {
+            "key": "小枫影视",
+            "name": "小枫影视(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m.xiaofengtv.com/api.php/app/"
         },
         {
             "key": "老王影视",
@@ -1624,7 +1702,7 @@
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.json"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/动漫岛.js"
         },
         {
             "key": "drpy_漫次元",
@@ -1691,7 +1769,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/MTDM.js"
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/米兔弹幕.js"
         },
         {
             "key": "drpy_小熊",
@@ -1712,6 +1790,44 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/JRDM.js"
+        },
+        {
+            "key": "drpy_4K影院",
+            "name": "4K影院(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4K影院.js"
+        },
+        {
+            "key": "drpy_火车太堵",
+            "name": "火车太堵(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/火车太堵.js"
+        },
+        {
+            "key": "drpy_梦米",
+            "name": "梦米(js)",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/梦米.js"
+        },
+        {
+            "key": "php_统一影视",
+            "name": "统一影视(T4)",
+            "type": 4,
+            "api": "http://8.129.30.117:5757/api/统一影视?pwd=drpys2025",
+            "searchable": 1,
+            "quickSearch": 0
         },
         {
             "key": "py_HeiMuEr",
@@ -2613,6 +2729,46 @@
             "name": "qilin",
             "type": 1,
             "url": "https://dl.love0997.top/qilin.php?v="
+        },
+        {
+            "name": "皮皮box",
+            "type": 1,
+            "url": "https://app.wki8.com/ipa/?url="
+        },
+        {
+            "name": "牛马",
+            "type": 1,
+            "url": "http://niiuma.qi-simple.top/jiexi.php?user=qqwens&pwd=112233&url="
+        },
+        {
+            "name": "火花",
+            "type": 1,
+            "url": "https://api.huohua.live/api/?key=m5CK267ypabEU1jBNS&url="
+        },
+        {
+            "name": "江湖",
+            "type": 1,
+            "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
+        },
+        {
+            "name": "顾我",
+            "type": 1,
+            "url": "http://118.31.6.152/guwo.php?v="
+        },
+        {
+            "name": "小枫",
+            "type": 1,
+            "url": "https://jx.xiaofengtv.com/home/api?type=ys&uid=54810&key=fhjlmrtyAEHNUV1456&url="
+        },
+        {
+            "name": "小鱼",
+            "type": 1,
+            "url": "http://json.84jia.top/home/api?type=ys&uid=145147&key=djmrxyAGJORVW14569&url="
+        },
+        {
+            "name": "皮皮嗅探",
+            "type": 0,
+            "url": "https://bfqq.wki8.com/?url="
         },
         {
             "name": "虾米",
