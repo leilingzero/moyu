@@ -1,6 +1,7 @@
 var rule = {
     title: '看了么',
-    host: 'https://www.ksksl.com',
+    host: 'https://www.ksksn.com',
+    //host: 'https://www.ksksl.com',
     // url:'/show/fyclass/page/fypage.html',
     url: '/show/fyclassfyfilter.html',
     filterable: 1, //是否启用分类筛选,
