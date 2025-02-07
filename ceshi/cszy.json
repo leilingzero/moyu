@@ -1138,6 +1138,30 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "drpy_海纳",
+            "name": "海纳影视(js)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/海纳影视.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "drpy_面包",
+            "name": "面包影视(js)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/面包影视.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
+            "key": "drpy_永乐",
+            "name": "永乐影视(js)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/永乐影视.json",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "流光影视",
             "name": "流光影视(XBPQ)",
             "type": 3,
@@ -1709,28 +1733,6 @@
             "filterable": 1,
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/JRDM.js"
         },
-        {
-            "key": "drpy_海纳",
-            "name": "海纳影视(js)",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/海纳影视.js"
-        },
-        {
-            "key": "drpy_面包",
-            "name": "面包影视(js)",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/面包影视.js"
-        },
-        {
-            "key": "drpy_永乐",
-            "name": "永乐影视(js)",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/永乐影视.js"
-        },
-
         {
             "key": "drpy_4K影院",
             "name": "4K影院(js)",
