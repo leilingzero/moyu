@@ -459,16 +459,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0"
         },
         {
-            "key": "csp_麻花",
-            "name": "麻花影视(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "sHR2rlsfjI4L3t4RXQMkn8ivSF5g8jXfhsjvizFR8ljN3AOVzpH9pr9GtPv0p/pnhxACPxmzklGulcZ5QfkGRCf6Rs7SjJmolZldAYa939+CUP8xvcjHb492E8waghkGxrtWlTiEC9t4dl/TaQf07LDUAJHsnAKfXpKlbKLXQWnAB8CtibGEXY01QAOeG3k4IaLl5w+AZDEEMHPNX5zL4bnOOk1PYBVZKZWV+DzWC9I=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738899321098/0207-1.jar;md5;a21873a6b978627f12aa58f57b26b9b0"
-        },
-        {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
@@ -508,7 +498,7 @@
             "type": 3,
             "api": "csp_LaoBaiBook",
             "playerType": 2,
-            "searchable": 0,
+            "searchable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar;md5;1001eaf2f69c956086fe21dbdf1c78ed"
         },
         {
@@ -517,7 +507,7 @@
             "type": 3,
             "api": "csp_BookTing",
             "playerType": 2,
-            "searchable": 0,
+            "searchable": 1,
             "ext": "https://m.ting275.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737765180601/feimao0125.jar;md5;1001eaf2f69c956086fe21dbdf1c78ed"
         },
@@ -1822,30 +1812,6 @@
             "quickSearch": 0
         },
         {
-            "key": "php_兄弟影视",
-            "name": "兄弟影视(T4)",
-            "type": 4,
-            "api": "http://8.129.30.117:5757/api/兄弟影视?pwd=drpys2025",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "php_凡客TV影视",
-            "name": "凡客TV影视(T4)",
-            "type": 4,
-            "api": "http://8.129.30.117:5757/api/凡客TV?pwd=drpys2025",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "php_七猫小说",
-            "name": "七猫小说(T4)",
-            "type": 4,
-            "api": "http://45.204.193.33:9097/api/七猫小说[书]?pwd=dzyyds",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
             "key": "php_专享影视",
             "name": "专享影视(T4)",
             "type": 4,
@@ -1859,9 +1825,7 @@
             "type": 4,
             "api": "https://spider.doube.eu.org/spider?site=HeiMuEr",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0
         },
         {
             "key": "php_huaweiba",
@@ -1869,9 +1833,7 @@
             "type": 4,
             "api": "https://spider.doube.eu.org/spider?site=HuaWeiBa",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 1
         },
         {
             "key": "py_AiGuaTV",
@@ -1879,9 +1841,7 @@
             "type": 4,
             "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0
         },
         {
             "key": "py_UpFuHn",
@@ -1889,9 +1849,7 @@
             "type": 4,
             "api": "https://py.doube.eu.org/spider?site=UpFuHn",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0
         },
         {
             "key": "php_Dm84",
@@ -1899,9 +1857,7 @@
             "type": 4,
             "api": "https://py.doube.eu.org/spider?site=Dm84",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0
         },
         {
             "key": "py_BaHaoTV",
@@ -1909,9 +1865,7 @@
             "type": 4,
             "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
+            "quickSearch": 0
         },
         {
             "key": "csp_xml_墨白",
@@ -2947,14 +2901,6 @@
             "name": "PizazzGY",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"
-        },
-        {
-            "name": "huaren",
-            "type": 0,
-            "url": "https://huaren.live/static/addons/tv/tv.txt",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "haitang",
