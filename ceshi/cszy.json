@@ -813,7 +813,7 @@
             "filterable": 1,
             "ext": "https://cs.hgyx.vip/api2/api.php/app/"
         },
-    {
+        {
             "key": "皮皮虾",
             "name": "皮皮虾(V2)",
             "type": 3,
@@ -823,7 +823,7 @@
             "filterable": 1,
             "ext": "http://110.40.40.242:992/api.php/app/"
         },
-    {
+        {
             "key": "起点",
             "name": "起点影视(V2)",
             "type": 3,
@@ -2857,8 +2857,8 @@
             "type": 0,
             "url": "http://我不是.摸鱼儿.com/live.php",
             "ua": "okhttp/3.15",
-            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo":"https://live.fanmingming.com/tv/{name}.png"
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "judy_zh",
@@ -2883,8 +2883,8 @@
             "type": 0,
             "url": "http://iptv.catvod.com/tv.m3u",
             "ua": "okhttp/5.0.0-alpha.14",
-            "epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo":"https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
             "name": "百宝箱",
