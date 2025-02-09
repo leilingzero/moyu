@@ -1825,7 +1825,15 @@
             "key": "php_兄弟影视",
             "name": "兄弟影视(T4)",
             "type": 4,
-            "api": "http://8.129.30.117:5757/api/统一影视?pwd=drpys2025",
+            "api": "http://8.129.30.117:5757/api/兄弟影视?pwd=drpys2025",
+            "searchable": 1,
+            "quickSearch": 0
+        },
+        {
+            "key": "php_凡客TV影视",
+            "name": "凡客TV影视(T4)",
+            "type": 4,
+            "api": "http://8.129.30.117:5757/api/凡客TV?pwd=drpys2025",
             "searchable": 1,
             "quickSearch": 0
         },
@@ -1833,7 +1841,7 @@
             "key": "php_七猫小说",
             "name": "七猫小说(T4)",
             "type": 4,
-            "api": "http://8.129.30.117:5757/api/七猫小说[书]?pwd=drpys2025",
+            "api": "http://45.204.193.33:9097/api/七猫小说[书]?pwd=dzyyds",
             "searchable": 1,
             "quickSearch": 0
         },
