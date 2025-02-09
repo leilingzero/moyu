@@ -1833,7 +1833,7 @@
             "type": 4,
             "api": "https://spider.doube.eu.org/spider?site=HuaWeiBa",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 0
         },
         {
             "key": "py_AiGuaTV",
