@@ -302,7 +302,7 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
         },
         {
-            "key": "csp_多多",
+            "key": "csp_多多2",
             "name": "👔多多┃1080P",
             "type": 3,
             "quickSearch": 0,
@@ -339,12 +339,31 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
         },
         {
+            "key": "csp_AppDrama3",
+            "name": "眼镜影视(SP)",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppDrama",
+            "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+        },
+        {
             "key": "剧荒",
             "name": "🐯虎虎┃1080P",
             "type": 3,
             "quickSearch": 0,
             "api": "csp_AppDrama",
             "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+jp6DtQUgoV/MWx7LvNS5D57tUvG+UaiaLHorcoeY6PA2BQ0IIVRYdI/yQ+piD4EkLLOUFJZ6zshkRhCt7R3zio746xMGoAs2lFtAet2a3pxDqz4708qipvlP9FzCAYkeJlQtJV+tiVMIyovpNpLwsz6NGB1j8wEXaeqmCoCin8Zu+2Ktm+moS96Y9oowdSWgGS1F36a0wKZVagV3uHJb4Q==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+        },
+        {
+            "key": "csp_AppDrama2",
+            "name": "虎虎影视(SP)",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg==",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
         },
         {
@@ -392,25 +411,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_AppDrama2",
-            "name": "虎虎影视(SP)",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_AppDrama3",
-            "name": "眼镜影视(SP)",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M=",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
         },
         {
