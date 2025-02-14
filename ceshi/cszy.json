@@ -1,8 +1,8 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250213.jar;md5;793d41d0573885b6f21c8cef69624881",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250213.jar;md5;793d41d0573885b6f21c8cef69624881",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250213.jar;md5;793d41d0573885b6f21c8cef69624881",
-//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250213.jar;md5;793d41d0573885b6f21c8cef69624881",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250214.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250214.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250214.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
+//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250214.jar;md5;0d0e3817ef4fd3f0526b3d52f60da991",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -255,7 +255,7 @@
         },
         {
             "key": "926看球",
-            "name": "926看球",
+            "name": "926看球(SP)",
             "type": 3,
             "api": "csp_kanqiu926",
             "searchable": 0,
@@ -266,7 +266,7 @@
         },
         {
             "key": "88看球",
-            "name": "88看球",
+            "name": "88看球(SP)",
             "type": 3,
             "api": "csp_Sir88",
             "searchable": 0,
@@ -274,6 +274,82 @@
             "style": {
                 "type": "list"
             }
+        },
+        {
+            "key": "看球",
+            "name": "看球直播(SP)",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "csp_麻花",
+            "name": "麻花影视(SP)",
+            "type": 3,
+            "api": "csp_MiTuApp",
+            "quickSearch": 1,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "csp_良人",
+            "name": "良人影视(SP)",
+            "type": 3,
+            "api": "csp_MiTu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNn0Whw+jpp24kW5u+x7quxXdQzFJek0l4ALR6YAKsw5NVExSVI0Q8wY3mmxjpEiMUL",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "csp_兄弟",
+            "name": "兄弟影视(SP)",
+            "type": 3,
+            "api": "csp_MiTuApp",
+            "quickSearch": 1,
+            "ext": "N/01JeZBCBEQ0wOXNuAI/jeUk7bpi30NvBNgvAW4dT/HHOQROzrjiDRCRItK641e3/kKZGcOce7l7TMU/c5wNJE7mwb3+X/Rn5DH1v2dUQ+x/cBZ6DqUekN861vp2GPOOT2P8AHXVVtTkHRXwCKgbvIwhmfeuvRW/jfyKIO/sbxp6wiZa2ZSeBA235TRBm615UZcnHPpOAGL4rXjqRDbfH06Q+7JJ+hjUBleGGS22uI=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "电影",
+            "name": "电影影视(SP)",
+            "type": 3,
+            "api": "csp_MiTuApp",
+            "quickSearch": 0,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "小猫",
+            "name": "小猫(SP)",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "︎酷云",
+            "name": "酷云(SP)",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_MiTuApp",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
+        },
+        {
+            "key": "csp_米兔",
+            "name": "米兔影视(SP)",
+            "type": 3,
+            "api": "csp_MiTuApp",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_SuBaiBai",
@@ -284,14 +360,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://www.subaibaiys.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Xlys",
             "name": "修罗影视(SP)",
             "type": 3,
             "api": "csp_Xlys",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Wwys",
@@ -299,162 +375,42 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://m.wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_多多2",
-            "name": "👔多多┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1pQ1vkhef+muSxZLPS9vDhFqja5QKdX0vSluV77MzWchMKBe9DRUsldTdVVDNp14s",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_多多",
-            "name": "多多影视(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9Eir6RzAIaQXa7PAZzZhsYO7tEfOCUAO2ipKyX1sxqAYggPt4M4DNHWCnz414Yfuh19nNi3k0dkJGtsOqEQzKCgcf9wGo4XmYWuIzgVworYxXRSYBQb2oLBmTl1W7hxxhfer8LsRYZB6ALfwu2bInzh3EENDkFkaHYb1olDPUR1EqpMaZLpMW0oSOW9zzMF5WIDfKUOvd7q2bKD4uZ8/oc=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_麻花",
-            "name": "🍡麻花┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn64XzcQ7xvStB8jMisBReTIxM41ceZBHTzUgk3r/HwfaQHDZorN0nnVVuvE2MPKn8MPxE7ylJqasRuICMIOVVttRnHTeArnRbQHtOtv9F+MUHJKlwhy6U0meUqFlwIn7psnaR3hGPEBEsJYJsPp76XCOFyL1bvM3tTLekJMN0bE6C8wUUmg83iijAB1Xb6BFY0SFjRkJUBqkeUVtwAx1KA1QQjwUVBpGjtQEZ08jK7hLlREWx4foeg01L1aMK+viow==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_眼镜",
-            "name": "👀眼镜┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_AppDrama3",
-            "name": "眼镜影视(SP)",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIo9iSIwfIqdHlpvuwJw09AVmwEOfCxMwqLVMJhfLimSVcQK/l703QANc8WIkB/uW5sUdZSeZIU9+8Rk+3N6ehNBRUUbdXwHB/6h1j5nm+yHTh+KNx2kJ25BR77lheSHLwTnAU6VXLKSspVz/FQx8qOP8w0hfCMh1ephwsEIF24MCgXWhiAzL92YSEph0y0FlAqwP2rvfW8v3juUbcw47E+M=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "剧荒",
-            "name": "🐯虎虎┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_AppDrama",
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+jp6DtQUgoV/MWx7LvNS5D57tUvG+UaiaLHorcoeY6PA2BQ0IIVRYdI/yQ+piD4EkLLOUFJZ6zshkRhCt7R3zio746xMGoAs2lFtAet2a3pxDqz4708qipvlP9FzCAYkeJlQtJV+tiVMIyovpNpLwsz6NGB1j8wEXaeqmCoCin8Zu+2Ktm+moS96Y9oowdSWgGS1F36a0wKZVagV3uHJb4Q==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_AppDrama2",
-            "name": "虎虎影视(SP)",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "dZyf/FE+KyNozU1BJTipIlQwV9Exzgodak8HaPQS3+zONEYCA2iEg3LraoCo2u5+6rn3VmrCG6H/XvFKSMzGrev5JV2DZOVsAQxLXRNRbxFUFKM1SEJpngJgi7Fj/n1DfJU3XaJt/aV+5tEC4C+/K7Bx/k1Kz08b1iyW0f8Ghf/NH5BnTsoFeiXrPUjRIyi1oIQh1RUF0aQHwI/DPqGAMHE+KK9efsb7FTDKW7TXastSWVcfpizheTXfXFdRtX+qjWkii8PMPPizDUAlTR3Ptg==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "电影",
-            "name": "🎬电影┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_电影",
-            "name": "电影影视(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "s1/kf8dfHZAgs5H4ledT0gNpK7vQhd67t79FMOlp/3hon97gPN02BO+erk3EBCNXM6SamStX8E1N/eOSW8iHnh/V/WWXQik712AKDkDyClacr4JX917KX00fvnFi+PAJCJmEjfkTIInNogcntp+7cErzTorQY87aZkXQz64jcMNBTxpU+OGhfwZ2WqemvRRoQcF3TRFQdK9yVcAPrcKlPHxNivbPun5GntvfOIbWqYyWQSzU7f8y5TSHoXNt3Ag7WpEtt5DdeFwKFlYQ/RcwUw==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "小猫",
-            "name": "🐱小猫┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn1xFjIix0m8Cj9X8OUrGrK4fl4xu1EDS3cPpLFW/FctyWeOV755l/zvJzsf4Rq5dH82tGLii5o2Wvz3PcDGX7hgkjVxwZEyPqNUMRYFbQpmgyLVzYt4LYN1N1hC91NEscnCu4djQ0sa9TGuk4FO9yXzddgCJ2lWF9cJPVFd9ro6QI83NqCw0yBUcmhyF6YeEF4vM0+Q34Ku2OHQ2EQM2Kuo=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "︎酷云",
-            "name": "🐰米兔┃1080P",
-            "type": 3,
-            "quickSearch": 0,
-            "api": "csp_MiTuApp",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9vBxsiZMC9mEjdFHy1b0JxMI9e9kwLyaPtpomLvf/SELlR2tG4av7VLVOnJfhzo9ctafjyVzyG8mJz6OMXeHP7ApPRdTfqKs9a3vBioIdqaC4SFZmteBwEWgHRwJv8Eecn5qIoxur3gmurN6cdUqIwRj8TAAm0asiETQ4b9bq0OXuO6Att6+aOM406026kk7qswMkcs8TxRXUyvexxaQgk=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_米兔",
-            "name": "米兔影视(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "s1/kf8dfHZAgs5H4ledT0oVFC1n/KhNfQfc0onBTauGjjbKin/VdMFrfJlKKnt/ClccntSyJqzbI1hHzGUUmZg7v02l1fvcdAH0iCUzGlopNgnI3rkeQtAwS54GySfRT0IRokasLwr5Rr6pm8/lTNJXMTEkq+9mzK976Dvv80seU9riYmFeBD+EBp8RzurdP02PNc0S2aZPlMbdm5yTIQfI8QeSRJGz+0AIsFOyBoPr4LDptq0AAc37KMhnWDCXF",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_AppTuTu",
-            "name": "图图影视(SP)",
-            "type": 3,
-            "api": "csp_AppTuTu",
-            "ext": "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",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_SaoHuo",
             "name": "火火影视(SP)",
             "type": 3,
             "api": "csp_SaoHuo",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Kanke",
             "name": "看客影视(SP)",
             "type": 3,
             "api": "csp_Kanke",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Lgyy",
             "name": "流光影视(SP)",
             "type": 3,
             "api": "csp_Lgyy",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Lkdy",
             "name": "来看影视(SP)",
             "type": 3,
             "api": "csp_Lkdy",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Qiyou",
             "name": "奇优影视(SP)",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Quanwk",
@@ -462,34 +418,24 @@
             "type": 3,
             "api": "csp_Quanwk",
             "ext": "https://www.91qkw.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Siren",
             "name": "诗人影视(SP)",
             "type": 3,
             "api": "csp_Siren",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
-            "key": "csp_良人",
-            "name": "良人影视(SP)",
+            "key": "csp_良人2",
+            "name": "良人影视2(SP)",
             "type": 3,
             "api": "csp_MiTuApp",
             "searchable": 1,
             "quickSearch": 1,
             "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNndZJYNJohfwIzBP+iTuz6C8FWXazDuKfwSS4BfeyQuGM=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
-        },
-        {
-            "key": "csp_yumi",
-            "name": "玉米影视(SP)",
-            "type": 3,
-            "api": "csp_MiTuApp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "s1/kf8dfHZAgs5H4ledT0i6LXx6xdZC0ph9uRVITTKNp23AhIWvyzmvWXVSGAFNw4cyEOCScilMV9nTxuQd8NgE7JgcEh/KZ0BJMCTQ3NWsr7zaQPpHDJf1GLtn+xIRmSB9So8Y08nH6E8sY9yun1dTf0xqR2kGXxnoBoGZMWam+DW343WG42WKm94hzvQb7yDEUDLU2jR9lBy3hMWV7yjLPpu0QFLKd8NNgBWw1p4Q=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_AppRR",
@@ -497,28 +443,28 @@
             "type": 3,
             "api": "csp_AppRR",
             "ext": "WsTbUN+IzcfBYxQ6QFfhNbGQHAJ3uDtQrJqsZDQMRZ33dQlQckxRblQPSfNOwdvHZw7dBuy1ysMc7T5CFk8zgHL8O4D6nXhv18hYKphskvH9Ehle3V/b05I+7Vh/8XzIr5sgF9jH2enSkvNdCX+fm56ExGC0i9VATPdNFt0O9HJetzaOareaj4+Bq8VY8S50nW01FRDiGrD8UFqUN3sAIQ==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_AppNG",
             "name": "南瓜影视(SP)",
             "type": 3,
             "api": "csp_AppNG",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_AppXY",
             "name": "星芽短剧(SP)",
             "type": 3,
             "api": "csp_AppXY",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739413165886/0213-1.jar;md5;9f2f1919105180e5c3287867251f9e56"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739499246969/0214.jar;md5;fcb8e9c523e551337ad1260d1b77c7ae"
         },
         {
             "key": "csp_Tvyb",
@@ -624,6 +570,38 @@
             "name": "猎手(py)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_剧多短剧",
+            "name": "剧多短剧(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/剧多短剧.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_腾讯py",
+            "name": "腾讯(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_腾.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_芒果py",
+            "name": "芒果(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_芒.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_爱奇艺py",
+            "name": "爱奇艺(py)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_爱.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -1888,12 +1866,34 @@
             "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/金牌影视.js"
         },
         {
+            "key": "次元派对(js)",
+            "name": "次元派对(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/Appapi.js",
+            "ext": "aHR0cHM6Ly9hcHBjbXMuYWNnLnBhcnR5L2FwaS5waHB8ZjY2NjYwM2IyMjA3MGVhM3xmNjY2NjAzYjIyMDcwZWEz"
+        },
+        {
+            "key": "MiFun(js)",
+            "name": "MiFun(js)",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/Appapi.js",
+            "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
+        },
+        {
             "key": "php_统一影视",
             "name": "统一影视(T4)",
             "type": 4,
             "api": "http://8.129.30.117:5757/api/统一影视?pwd=drpys2025",
             "searchable": 1,
-            "quickSearch": 0
+            "quickSearch": 1
+        },
+        {
+            "key": "php_麻花视频",
+            "name": "麻花视频(T4)",
+            "type": 4,
+            "api": "http://8.129.30.117:5757/api/麻花视频(DS)?pwd=drpys2025",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "php_专享影视",
@@ -1901,7 +1901,15 @@
             "type": 4,
             "api": "http://45.204.193.33:9097/api/专享影视?pwd=dzyyds",
             "searchable": 1,
-            "quickSearch": 0
+            "quickSearch": 1
+        },
+        {
+            "key": "drpyS_Nyafun",
+            "name": "Nyafun(T4)",
+            "type": 4,
+            "api": "http://drpy.mxlgsl.cn/api/Nyafun[漫]",
+            "searchable": 1,
+            "quickSearch": 1
         },
         {
             "key": "py_HeiMuEr",
@@ -1956,6 +1964,22 @@
             "name": "墨白影视(xml)",
             "type": 1,
             "api": "https://nm.xxxc137.top/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_xml_如意",
+            "name": "如意资源(xml)",
+            "type": 1,
+            "api": "https://www.ryzy.tv/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_xml_豆瓣",
+            "name": "豆瓣资源(xml)",
+            "type": 1,
+            "api": "https://dbzy.tv/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -2764,6 +2788,11 @@
             "url": "http://niiuma.qi-simple.top/jiexi.php?user=qqwens&pwd=112233&url="
         },
         {
+            "name": "牛马2",
+            "type": 1,
+            "url": "http://niiuma.qi-simple.top/algorithm.php?url="
+        },
+        {
             "name": "火花",
             "type": 1,
             "url": "https://api.huohua.live/api/?key=m5CK267ypabEU1jBNS&url="
@@ -2777,6 +2806,11 @@
             "name": "顾我",
             "type": 1,
             "url": "http://118.31.6.152/guwo.php?v="
+        },
+        {
+            "name": "巧技",
+            "type": 1,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url="
         },
         {
             "name": "小枫",
@@ -2914,8 +2948,7 @@
             ]
         }
     ],
-// "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/gif/11.gif",
+    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
     "lives": [
         {
             "name": "看电视呗",
@@ -2990,6 +3023,11 @@
             "name": "haitang",
             "type": 0,
             "url": "http://yuan.haitangw.net/ZB/user_result.txt"
+        },
+        {
+            "name": "diyp",
+            "type": 0,
+            "url": "http://iptv.diyp.site/diyp.php"
         },
         {
             "name": "ysclive",
