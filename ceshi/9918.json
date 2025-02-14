@@ -3,6 +3,7 @@
 "lives":[{"name":"FongMi","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"},
 {"name":"YanG","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
 {"name":"atsushi","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
+{"name": "刘公子","type": 0,"url": "http://免.l5.ca/daili/zhibo/api/api.txt","ua": "okhttp/3.15"},
 {"name":"初秋语","type":0,"url":"./listx.txt"}
 ],
 "wallpaper":"https://liu.chuqiuyu.tk",
