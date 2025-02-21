@@ -3021,7 +3021,7 @@
     ],
     "rules": [
         {
-            "name": "♻️量非",
+            "name": "量非",
             "hosts": [
                 "lz",
                 "vip.lz",
@@ -3037,7 +3037,7 @@
             ]
         },
         {
-            "name": "♻️索尼",
+            "name": "索尼",
             "hosts": [
                 "suonizy",
                 "qrssv.com"
@@ -3048,7 +3048,7 @@
             ]
         },
         {
-            "name": "♻️乐视",
+            "name": "乐视",
             "hosts": [
                 "leshiyun"
             ],
@@ -3057,7 +3057,7 @@
             ]
         },
         {
-            "name": "♻️优质",
+            "name": "优质",
             "hosts": [
                 "yzzy",
                 "playback"
@@ -3070,7 +3070,7 @@
             ]
         },
         {
-            "name": "♻️快看",
+            "name": "快看",
             "hosts": [
                 "kuaikan",
                 "vip.kuaikan"
@@ -3082,7 +3082,7 @@
             ]
         },
         {
-            "name": "♻️360",
+            "name": "360",
             "hosts": [
                 "lyhuicheng"
             ],
@@ -3092,7 +3092,7 @@
             ]
         },
         {
-            "name": "♻️开源棋牌",
+            "name": "开源棋牌",
             "hosts": [
                 "askzycdn",
                 "jkunbf",
@@ -3105,7 +3105,7 @@
             ]
         },
         {
-            "name": "♻️暴风",
+            "name": "暴风",
             "hosts": [
                 "bfengbf.com",
                 "bfzy",
@@ -3117,7 +3117,7 @@
             ]
         },
         {
-            "name": "♻️农民",
+            "name": "农民",
             "hosts": [
                 "toutiaovod.com"
             ],
@@ -3126,7 +3126,7 @@
             ]
         },
         {
-            "name": "♻️火山",
+            "name": "火山",
             "hosts": [
                 "huoshan.com"
             ],
@@ -3135,7 +3135,7 @@
             ]
         },
         {
-            "name": "♻️抖音",
+            "name": "抖音",
             "hosts": [
                 "douyin.com"
             ],
@@ -3144,7 +3144,7 @@
             ]
         },
         {
-            "name": "♻️磁力",
+            "name": "磁力",
             "hosts": [
                 "magnet"
             ],
@@ -3155,7 +3155,7 @@
             ]
         },
         {
-            "name": "♻️饭团点击",
+            "name": "饭团点击",
             "hosts": [
                 "dadagui",
                 "freeok",
@@ -3166,7 +3166,7 @@
             ]
         },
         {
-            "name": "♻️毛驴点击",
+            "name": "毛驴点击",
             "hosts": [
                 "www.maolvys.com"
             ],
