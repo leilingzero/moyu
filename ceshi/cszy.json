@@ -1016,6 +1016,16 @@
             "ext": "http://cms147.lyyytv.cn/api.php/app/"
         },
         {
+            "key": "每日港剧",
+            "name": "每日港剧(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.mrgj.cc/api.php/app/"
+        },
+        {
             "key": "csp_V2_大米",
             "name": "大米(V2)",
             "type": 3,
