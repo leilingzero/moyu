@@ -317,23 +317,6 @@
             }
         },
         {
-            "key": "csp_热播",
-            "name": "热播影视(SP)",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "quickSearch": 1,
-            "ext": "http://v.rbotv.cn/",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"
-        },
-        {
-            "key": "csp_天天",
-            "name": "天天影视(SP)",
-            "type": 3,
-            "api": "csp_AppTian",
-            "quickSearch": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"
-        },
-        {
             "key": "天天",
             "name": "天天(SP)",
             "type": 3,
@@ -501,16 +484,6 @@
         {
             "key": "csp_良人2",
             "name": "良人影视2(SP)",
-            "type": 3,
-            "api": "csp_MiTu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "sHR2rlsfjI4L3t4RXQMkn+pzOh0GsJJgcwHHxDs8FcBDGD81qAZtun78VAJxzshCbStdXIlQiksUvc2b5fXyuxJO9KBNp5LzL/pYLLOs1V3R3WOh90eVpJGxxXWEZtoq+F7Cq4CbQ3J1TTXahpYpeXXeevwPopQutGBNaxYkdBgBL6rCgov0BCUWOXriRXNn0Whw+jpp24kW5u+x7quxXdQzFJek0l4ALR6YAKsw5NVExSVI0Q8wY3mmxjpEiMUL",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740365131257/0224.jar;md5;4cfaa3add65e69b8b58cee4f045c0db8"
-        },
-        {
-            "key": "csp_良人3",
-            "name": "良人影视3(SP)",
             "type": 3,
             "api": "csp_MiTuApp",
             "searchable": 1,
