@@ -3270,13 +3270,13 @@
         {
             "name": "judy_zh",
             "type": 0,
-            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=298688230065203",
+            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=298688230090412",
             "ua": "judy/5.2.1"
         },
         {
             "name": "judy_ty",
             "type": 0,
-            "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=298688230065203",
+            "url": "https://video.mytvsuper.xyz/playlist/ti-yu-ding-yue.m3u?token=298688230090412",
             "ua": "judy/5.2.1"
         },
         {
