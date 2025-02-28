@@ -65,7 +65,7 @@
     "scVodNode": "//div[@class='col-4 col-md-3 col-lg-2']/div/a",
     "scVodName": "/@title",
     "scVodId": "/@href",
-    "scVodIdR": "",
+    "scVodIdR": "/detail/(\\w+)",
     "scVodImg": "/img/@data-original",
     "scVodMark": "/span[@class='pic-text text-end text-secondary']/text()"
 }
