@@ -30,7 +30,7 @@
     "cateVodImg": "/img/@data-original",
     "cateVodImgR": "\\S+(http\\S+)",
     "cateVodMark": "/span[@class='pic-text text-end text-secondary']/text()",
-    "dtUrl": "https://www.gj5.tv{vid}",
+    "dtUrl": "https://www.gj5.tv/detail/{vid}",
     "dtNode": "//div[@class='vod-detail']",
     "dtName": "/h1/text()",
     "dtNameR": "",
