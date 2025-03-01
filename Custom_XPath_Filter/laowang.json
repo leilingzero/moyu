@@ -67,7 +67,7 @@
     "scVodNode": "//div[@class='video-info-header']",
     "scVodName": "/a/@title",
     "scVodId": "/a/@href",
-    "scVodIdR": "",
+    "scVodIdR": "/(\\w+).html",
     "scVodImg": "/../..//img/@data-src",
     "scVodMark": "/a/text()",
     "filter": {
