@@ -1,8 +1,8 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250228.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250228.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
-//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250228.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
-//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250228.jar;md5;ef40bb1ca5748055513a7a7cdebc2c24",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250301.jar;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250301.jar;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
+//  "spider": "https://gh.xxooo.cf/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250301.jar;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
+//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250301.jar;md5;22109ed61cf9f1b5ded4a1e9112fcdff",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -590,29 +590,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
-            "key": "csp_AppNG",
-            "name": "南瓜(SP)",
-            "type": 3,
-            "api": "csp_AppNG",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
-            "key": "csp_AppRZ",
-            "name": "忍者影视(SP)",
-            "type": 3,
-            "api": "csp_AppRZ",
-            "ext": "http://rzys.xyz",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
-            "key": "csp_Jiaozi",
-            "name": "饺子影视(SP)",
-            "type": 3,
-            "api": "csp_Jiaozi",
-            "playerType": 2,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
             "key": "csp_LaoBaiBook",
             "name": "老白听书(SP)",
             "type": 3,
@@ -676,8 +653,8 @@
             "name": "游戏直播(py)",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nmlive.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "csp_腾讯py",
@@ -766,7 +743,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/gjyak.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/yueak.json",
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -2585,7 +2562,7 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto",
-                "pturl": "http://mo.muouso.fun/|http://149.88.87.72:5666/|http://54271.fun/"
+                "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
             }
         },
         {
