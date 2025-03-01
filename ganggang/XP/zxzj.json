@@ -60,7 +60,7 @@
   "scVodNode": "json:list",
   "scVodName": "name",
   "scVodId": "id",
-  "scVodIdR": "",
+  "scVodIdR": "/detail/(\\w+).html",
   "scVodImg": "pic",
   "scVodMark": "",
   "filter": {
