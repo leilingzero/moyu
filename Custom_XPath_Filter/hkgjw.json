@@ -62,7 +62,7 @@
   "scVodNode":"json:list",
   "scVodName":"name",
   "scVodId":"id",
-  "scVodIdR":"",
+  "scVodIdR":"/gjw/xiangqing/(\\d+).html",
   "scVodImg":"pic",
   "scVodMark":"",
   "filter": {
