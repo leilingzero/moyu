@@ -60,7 +60,7 @@
   "scVodNode":"//div[@class='index-tj mb clearfix']/ul/li/a",
   "scVodName":"/@title",
   "scVodId":"/@href",
-  "scVodIdR":"",
+  "scVodIdR":"/(\\W+).html",
   "scVodImg":"/div[@class='img']/img/@data-original",
   "scVodMark":"/div[@class='img']/p[@class='bz']/text()"
 }
