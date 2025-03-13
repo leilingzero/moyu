@@ -602,14 +602,6 @@
             "jar": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "每日港剧",
-            "name": "每日港剧(xml)",
-            "type": 1,
-            "api": "https://www.mrgj.cc/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "csp_xpath_gjyak",
             "name": "粤爱看网(XPF)",
             "type": 3,
@@ -2210,6 +2202,14 @@
             "quickSearch": 1
         },
         {
+            "key": "每日港剧",
+            "name": "每日港剧(xml)",
+            "type": 1,
+            "api": "https://www.mrgj.cc/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_Kuaikan",
             "name": "快看(SP)",
             "type": 3,
@@ -2791,26 +2791,6 @@
             "name": "钓鱼4k",
             "type": 1,
             "url": "http://8.129.30.117:8117/diaoyu.php?url="
-        },
-        {
-            "name": "风云4k",
-            "type": 1,
-            "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
-        },
-        {
-            "name": "东成4k",
-            "type": 1,
-            "url": "http://103.143.81.37:8011/api/tvbox/?key=Q9Mz4BOpLBKTtanZhz&url="
-        },
-        {
-            "name": "牛马",
-            "type": 1,
-            "url": "http://niiuma.qi-simple.top/jiexi.php?data=d02e8acaf815b3cf091ddae9fc7ead8d&url="
-        },
-        {
-            "name": "巧计",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/gouzi.php?url="
         },
         {
             "name": "剧下饭",
