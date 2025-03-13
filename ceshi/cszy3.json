@@ -1,8 +1,9 @@
 {
     "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
 //  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
 //  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
-//  "spider": "https://ghfast.top/raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -108,6 +109,15 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
+        },
+        {
+            "key": "港迷",
+            "name": "港迷影视(SP)",
+            "type": 3,
+            "api": "csp_AppSKGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
         },
         {
             "key": "csp_LibVio",
@@ -216,16 +226,6 @@
             "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
         },
         {
-            "key": "可可",
-            "name": "可可影视(SP)",
-            "type": 3,
-            "api": "csp_KekysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "Auete影院(SP)",
             "type": 3,
@@ -307,6 +307,103 @@
             }
         },
         {
+            "key": "天天",
+            "name": "天天(SP)",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "热热",
+            "name": "热热(SP)",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "追剧",
+            "name": "追剧(SP)",
+            "type": 3,
+            "api": "csp_AppRJGuard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "光速",
+            "name": "光速(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2Guard",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_良人",
+            "name": "良人影视(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "电影",
+            "name": "电影影视(SP)",
+            "type": 3,
+            "api": "csp_AppGetV2Guard",
+            "quickSearch": 0,
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9pXqDDJVVS6pwdk2S4nTvU6TUFngKGexyvHMXSXO57AN6M4LsBHwZ1tcHnPZ2gPH1m7qu7r1zc7CkawgqunMPxZznGnqtbiv5NVOliQUr2NK4Pee7PFE2+BCvbGUPd3IR9Hiub1wBkbrfqjptJFLEpVXeR1pgeGp6pPUjADtyQPuXHj4azaFzDrobUCcdcn7KM6ZC4rjkupd5HlbdqhOJTRBv917h5RUlXs1sgRU1+EWkMXuNopX+18VjWwSrFYPw==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "︎酷云",
+            "name": "酷云(SP)",
+            "type": 3,
+            "quickSearch": 0,
+            "api": "csp_AppGetV2Guard",
+            "ext": "sHR2rlsfjI4L3t4RXQMknwIID6HUaZ7fMpUHnejxryN5hsS4yit06Lnf2r+dC+sQvVkljL9jiPtd8pMWr4fNfWKjGEfNt1bpDmN5e2aBCPjIZR4UXJCYTrfMnVcmHKgKoreMTaxuE5/5bSRuOI00lrntzq3KElTThhfQG1pBRYlruaU55rzaVwdDETvkWDgAa/b2wNbZqTrjcVemPpod4zhBsMUGnTLFIVIA01378wI=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_Wwys",
+            "name": "旺旺影视(SP)",
+            "type": 3,
+            "api": "csp_WwysGuard",
+            "ext": "https://www.wwgz.cn",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_Lkdy",
+            "name": "来看影视(SP)",
+            "type": 3,
+            "api": "csp_LkdyGuard",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_XlysGuard",
+            "name": "哔嘀影视(SP)",
+            "type": 3,
+            "api": "csp_XlysGuard",
+            "ext": "https://v.xlys.ltd.ua",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_瓜子",
+            "name": "瓜子影视(SP)",
+            "type": 3,
+            "api": "csp_Gz360Guard",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
+            "key": "csp_AppXY",
+            "name": "星芽短剧(SP)",
+            "type": 3,
+            "api": "csp_AppXYGuard",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740980537081/03033.jar;md5;44f03af024f80966242625196374fc07"
+        },
+        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
@@ -377,15 +474,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
-            "key": "csp_饭团",
-            "name": "饭团影院(SP)",
-            "type": 3,
-            "api": "csp_Fantuan",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://www.fantuan.vip",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
             "key": "csp_Nongm",
             "name": "农民影视2(SP)",
             "type": 3,
@@ -424,14 +512,6 @@
             "name": "界影视(py)",
             "type": 3,
             "api": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "csp_九龙影视",
-            "name": "九龙影视(py)",
-            "type": 3,
-            "api": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/九龙影视.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -1181,6 +1261,19 @@
             "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "人人影视cc",
+            "name": "人人影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "简介": "剧情介绍:+module-info-introduction-content\">&&</div>",
+                "分类url": "https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电视剧$21#电影$20#动漫$22#综艺$23#短剧$24"
+            },
+            "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "csp_XBPQ_金牌影视",
             "name": "金牌影视(XBPQ)",
             "type": 3,
@@ -1263,35 +1356,11 @@
             "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "短剧001",
-            "name": "短剧001(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧001.json",
-            "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "短剧吧",
             "name": "短剧吧(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/短剧吧.json",
-            "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "吉吉短剧",
-            "name": "吉吉短剧(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/JJDJ.json",
-            "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "爱我短剧",
-            "name": "爱我短剧(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/AWDJ.json",
             "jar": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -1761,6 +1830,13 @@
             "type": 3,
             "api": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝莓短剧.js"
+        },
+        {
+            "key": "红果短剧(js)",
+            "name": "红果短剧(js)",
+            "type": 3,
+            "api": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/红果短剧.js"
         },
         {
             "key": "金牌影视(js)",
@@ -2712,19 +2788,34 @@
             "url": "https://app.wki8.com/ipa/?url="
         },
         {
+            "name": "剧下饭",
+            "type": 1,
+            "url": "http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+        },
+        {
+            "name": "钓鱼4k",
+            "type": 1,
+            "url": "http://8.129.30.117:8117/diaoyu.php?url="
+        },
+        {
+            "name": "风云4k",
+            "type": 1,
+            "url": "http://jxyun.yunqiji.vip/api/?key=DR6KVJNPjkIQpkiyNH&url="
+        },
+        {
             "name": "东成4k",
             "type": 1,
             "url": "http://103.143.81.37:8011/api/tvbox/?key=Q9Mz4BOpLBKTtanZhz&url="
         },
         {
-            "name": "虎斑4k",
-            "type": 1,
-            "url": "http://60.211.124.23:10101/tvbox/json/json.php/?key=36925817322&url="
-        },
-        {
             "name": "夏夜",
             "type": 1,
             "url": "http://121.41.93.205/xiaye.php?url="
+        },
+        {
+            "name": "1080",
+            "type": 1,
+            "url": "http://isp.wki8.com/jx.php?url="
         },
         {
             "name": "火花",
