@@ -111,15 +111,6 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuSzrWqbloq80ygmO9WjCB9RMwhf/nZ7r/EzcL5d1Nw67mKKK4Je"
         },
         {
-            "key": "港迷",
-            "name": "港迷影视(SP)",
-            "type": 3,
-            "api": "csp_AppSKGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
-        },
-        {
             "key": "csp_LibVio",
             "name": "LibVio(SP)",
             "type": 3,
@@ -317,6 +308,16 @@
             }
         },
         {
+            "key": "港迷",
+            "name": "港迷影视(SP)",
+            "type": 3,
+            "api": "csp_AppSKGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
+            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0"
+        },
+        {
             "key": "天天",
             "name": "天天(SP)",
             "type": 3,
@@ -390,6 +391,13 @@
             "type": 3,
             "api": "csp_WwysGuard",
             "ext": "https://www.wwgz.cn",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5"
+        },
+        {
+            "key": "csp_FreeOkGuard",
+            "name": "FreeOk影视(SP)",
+            "type": 3,
+            "api": "csp_FreeOkGuard",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5"
         },
         {
