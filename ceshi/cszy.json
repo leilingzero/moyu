@@ -2,7 +2,7 @@
     "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
 //  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
 //  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
+//  "spider": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
 //  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250315.jar;md5;92a4933113be29d94549f5bd3f03cd6b",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
@@ -358,16 +358,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5"
         },
         {
-            "key": "csp_良人",
-            "name": "良人影视(SP)",
-            "type": 3,
-            "api": "csp_AppGetGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYgh1d6T+lyAGWYDDt/yJr/VNQuyK2VSIuevNakK2GvE1EQejlklHv7etmkohoSdYeXfClYcFjVBjQD/3ueLIRu5mRtC17xwZEKgga5OKghvkNOKFHeBC8zljBC+o7LY640uwI3xUCS6H6I1Xn+MXnhLIdXvzJq3jAPBvKIxWrDUVfkCH94kY9cJ8WJisUFWHbs",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741939517828/0314.jar;md5;3cd52899a2d7be9a2699ad88ba7e05f5"
-        },
-        {
             "key": "电影",
             "name": "电影影视(SP)",
             "type": 3,
@@ -439,14 +429,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
-            "key": "csp_SuBaiBai",
-            "name": "素白白(SP)",
-            "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "https://www.subaibai.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
             "key": "csp_Xlys",
             "name": "修罗影视(SP)",
             "type": 3,
@@ -475,14 +457,6 @@
             "name": "奇优影视(SP)",
             "type": 3,
             "api": "csp_Qiyou",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
-            "key": "csp_Quanwk",
-            "name": "全看影视(SP)",
-            "type": 3,
-            "api": "csp_Quanwk",
-            "ext": "https://www.qkw1.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
@@ -515,6 +489,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
+            "key": "csp_SuBaiBai",
+            "name": "素白白(SP)",
+            "type": 3,
+            "api": "csp_SuBaiBai",
+            "ext": "https://www.subaibai.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+        },
+        {
             "key": "csp_LaoBaiBook",
             "name": "老白听书(SP)",
             "type": 3,
@@ -542,26 +524,10 @@
             "quickSearch": 1
         },
         {
-            "key": "csp_酷云",
-            "name": "酷云(py)",
-            "type": 3,
-            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/酷云.py",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "csp_猎手",
             "name": "猎手(py)",
             "type": 3,
             "api": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "csp_西瓜",
-            "name": "西瓜(py)",
-            "type": 3,
-            "api": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_xigua.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -636,17 +602,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/yueak.json",
-            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_xpath_yueyz",
-            "name": "粤语站网(XPF)",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath_Filter/yueyz.json",
             "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -905,16 +860,6 @@
             "ext": "https://www.ppxys.cc/api.php/app/"
         },
         {
-            "key": "优优兔",
-            "name": "优优兔(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cmstv.ttxgzs.cn/api.php/app/"
-        },
-        {
             "key": "空城",
             "name": "空城影视(V2)",
             "type": 3,
@@ -923,6 +868,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://itv.zwzs.fun/api.php/app/"
+        },
+        {
+            "key": "优优兔",
+            "name": "优优兔(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://cmstv.ttxgzs.cn/api.php/app/"
         },
         {
             "key": "小枫影视",
@@ -1169,14 +1124,6 @@
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/qiyou.json",
-            "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "星辰影视(XBPQ)",
-            "name": "星辰影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/xcys.json",
             "jar": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
@@ -3228,6 +3175,11 @@
             "name": "PizazzGY",
             "type": 0,
             "url": "https://github.tbedu.top/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"
+        },
+        {
+            "name": "suxuang",
+            "type": 0,
+            "url": "https://github.tbedu.top/https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv4.m3u"
         },
         {
             "name": "haitang",
