@@ -7,6 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 sys.path.append('..')
 from base.spider import Spider
 
+
 class Spider(Spider):
 
     def init(self, extend=""):
