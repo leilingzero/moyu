@@ -2090,7 +2090,7 @@
             "name": "非凡资源(xml)",
             "type": 0,
             "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-            "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
+ //         "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
@@ -2196,7 +2196,7 @@
             "name": "文才资源(xml)",
             "type": 1,
             "api": "https://api.zeqaht.com/api.php/provide/vod/?ac=list",
-            "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
+//          "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
