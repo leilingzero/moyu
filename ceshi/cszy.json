@@ -249,6 +249,16 @@
             "changeable": 0
         },
         {
+            "key": "csp_SixV",
+            "name": "新6V磁力(慎用)",
+            "type": 3,
+            "api": "csp_SixVGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "https://www.xb6v.com/"
+        },
+        {
             "key": "csp_Dm84",
             "name": "动漫巴士(SP)",
             "type": 3,
@@ -307,16 +317,6 @@
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "key": "港迷",
-            "name": "港迷影视(SP)",
-            "type": 3,
-            "api": "csp_AppSKGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0"
         },
         {
             "key": "天天",
@@ -438,13 +438,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
         },
         {
-            "key": "csp_LaoBaiBook",
-            "name": "老白听书(SP)",
+            "key": "港迷",
+            "name": "港迷影视(SP)",
             "type": 3,
-            "api": "csp_LaoBaiBookGuard",
-            "playerType": 2,
+            "api": "csp_AppSKGuard",
             "searchable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1742350342316/0319.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
+            "quickSearch": 1,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
+            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250304.jar;md5;d7422c79ea5b4479c056b168cdaf95b0"
         },
         {
             "key": "csp_Tvyb",
@@ -501,14 +502,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
-            "key": "csp_Nongm",
-            "name": "农民影视2(SP)",
-            "type": 3,
-            "api": "csp_Nongm",
-            "ext": "https://wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
-        },
-        {
             "key": "csp_SP360",
             "name": "360影视(SP)",
             "type": 3,
@@ -516,11 +509,10 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
-            "key": "csp_SuBaiBai",
-            "name": "素白白(SP)",
+            "key": "csp_Jiaozi",
+            "name": "饺子影视(SP)",
             "type": 3,
-            "api": "csp_SuBaiBai",
-            "ext": "https://www.subaibai.com",
+            "api": "csp_Jiaozi",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
@@ -550,10 +542,50 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_光速影视",
+            "name": "光速(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_火车影视",
+            "name": "火车(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/火车影视.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_美帕影视",
+            "name": "美帕(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/美帕影视.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_嗨皮影视",
+            "name": "嗨皮(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/嗨皮影视.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_剧多短剧",
             "name": "剧多短剧(py)",
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/剧多短剧.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_爱看短剧",
+            "name": "爱看短剧(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/爱看短剧.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -798,36 +830,6 @@
             "ext": "http://kkwk123.top/api.php/app/"
         },
         {
-            "key": "csp_V2_鸭奈菲",
-            "name": "鸭奈菲(V2)",
-            "api": "csp_AppYsV2Guard",
-            "type": 3,
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 1,
-            "ext": "https://yanaifei.tv/api.php/app/"
-        },
-        {
-            "key": "csp_V2_鸭奈飞",
-            "name": "鸭奈飞(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://yanetflix.me/api.php/app/"
-        },
-        {
-            "key": "csp_V2_沐沐",
-            "name": "沐沐(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://nnystv.cn/api.php/app/"
-        },
-        {
             "key": "csp_V2_HG影视",
             "name": "HG影视(V2)",
             "type": 3,
@@ -888,16 +890,6 @@
             "ext": "http://itv.zwzs.fun/api.php/app/"
         },
         {
-            "key": "优优兔",
-            "name": "优优兔(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cmstv.ttxgzs.cn/api.php/app/"
-        },
-        {
             "key": "小枫影视",
             "name": "小枫影视(V2)",
             "type": 3,
@@ -918,16 +910,6 @@
             "ext": "http://zytv.eztv.video/api.php/app/"
         },
         {
-            "key": "影探",
-            "name": "影探(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms147.lyyytv.cn/api.php/app/"
-        },
-        {
             "key": "csp_V2_大米",
             "name": "大米(V2)",
             "type": 3,
@@ -936,16 +918,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.dami2vl.shop/api.php/app/"
-        },
-        {
-            "key": "csp_V2_腐剧",
-            "name": "腐剧(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://www.fuju2024.cc:8013/ruifenglb_api.php/v1.vod"
         },
         {
             "key": "老王影视",
@@ -983,7 +955,7 @@
             "ext": {
                 "线路数组": "<div class=\"module-tab-item tab-item&&</div>",
                 "线路标题": "<span>&&</small>+集",
-                "分类url": "https://www.naifei1.org/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类url": "https://www.naifei2.org/vodshow/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dy#剧集$juji#综艺$zongyi#动漫$dongman#短剧$dj#记录$jilupian"
             },
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
@@ -1088,17 +1060,6 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "sdsrty",
-            "name": "影视大全(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/影视大全.json",
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "美柏影视",
             "name": "美柏影视(XBPQ)",
             "type": 3,
@@ -1122,7 +1083,7 @@
         },
         {
             "key": "大师兄",
-            "name": "大师兄影视(XBPQ)",
+            "name": "大师兄(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/大师兄影视2.json",
@@ -1169,22 +1130,6 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "8号影院",
-            "name": "8号影院(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/8号影院.json",
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "麦田影视",
-            "name": "麦田影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/麦田影视.json",
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "NUU影视",
             "name": "NUU影视(XBPQ)",
             "type": 3,
@@ -1217,14 +1162,6 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "流光影视",
-            "name": "流光影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/LGYS.json",
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "樱花影视",
             "name": "樱花影视(XBPQ)",
             "type": 3,
@@ -1233,8 +1170,8 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "红狐狸影视",
-            "name": "红狐狸影视(XBPQ)",
+            "key": "红狐狸",
+            "name": "红狐狸(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
             "ext": {
@@ -1253,19 +1190,6 @@
                 "简介": "剧情介绍:+module-info-introduction-content\">&&</div>",
                 "分类url": "https://svip1.fun/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$21#电影$20#动漫$22#综艺$23#短剧$24"
-            },
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
-            "key": "全网看",
-            "name": "全网看(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "手机",
-                "简介": "剧情介绍:+stui-content__desc col-pd clearfix\">&&</div>",
-                "分类url": "https://www.qkw1.com/qkwshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
-                "分类": "短剧$duanju#电视剧$tv#电影$dy#动漫$dm#综艺$zy"
             },
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
@@ -1322,19 +1246,6 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "叮叮动漫",
-            "name": "叮叮动漫(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "线路数组": "<a class=\"hl-tabs-btn hl-slide-swiper\"&&</a>",
-                "线路标题": "</i>&nbsp;&&</a>",
-                "分类url": "https://dingsdm.com/list/{cateId}-{catePg}.html",
-                "分类": "动漫电影$1#国产动漫$3#日本动漫$2#欧美动漫$4#短剧$20"
-            },
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
-        },
-        {
             "key": "NyaFun动漫",
             "name": "NyaFun动漫(XBPQ)",
             "type": 3,
@@ -1382,13 +1293,6 @@
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
-            "key": "追剧(js)",
-            "name": "追剧(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gitee.com/smallmi1007/mimi/raw/master/wencai.js"
-        },
-        {
             "key": "追剧迷(js)",
             "name": "追剧迷(js)",
             "type": 3,
@@ -1427,22 +1331,11 @@
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/厂长资源.js"
         },
         {
-            "key": "xiongmao2",
-            "name": "熊猫(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/xiongmao.js"
-        },
-        {
             "key": "drpy_粤爱看",
             "name": "粤爱看(js)",
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/粤爱看.json"
+            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/粤爱看.js"
         },
         {
             "key": "drpy_voflix",
@@ -1452,27 +1345,6 @@
             "searchable": 1,
             "changeable": 1,
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/voflix.json"
-        },
-        {
-            "key": "素白白(js)",
-            "name": "素白白(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/素白白.js"
-        },
-        {
-            "key": "素白白2(js)",
-            "name": "素白白2(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/素白白2.js"
-        },
-        {
-            "key": "七新电影(js)",
-            "name": "七新电影(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/七新电影网.js"
         },
         {
             "key": "HBOTV(js)",
@@ -1494,13 +1366,6 @@
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/可可影视.js"
-        },
-        {
-            "key": "星辰影视(js)",
-            "name": "星辰影视(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/星辰.js"
         },
         {
             "key": "星空影院(js)",
@@ -1529,20 +1394,6 @@
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/努努影院.js"
-        },
-        {
-            "key": "牌牌影院(js)",
-            "name": "牌牌影院(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/牌牌影院.js"
-        },
-        {
-            "key": "蓝光影视(js)",
-            "name": "蓝光影视(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/蓝光影视.js"
         },
         {
             "key": "茶杯狐(js)",
@@ -1628,7 +1479,7 @@
             "name": "磁力熊(js)",
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.json",
+            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/磁力熊.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1764,36 +1615,6 @@
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/去看吧.js"
         },
         {
-            "key": "drpy_米兔",
-            "name": "米兔(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/米兔弹幕.js"
-        },
-        {
-            "key": "drpy_小熊",
-            "name": "小熊(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/XXDM.js"
-        },
-        {
-            "key": "drpy_巨人",
-            "name": "巨人(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/JRDM.js"
-        },
-        {
             "key": "drpy_4K影院",
             "name": "4K影院(js)",
             "type": 3,
@@ -1802,26 +1623,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4K影院.js"
-        },
-        {
-            "key": "drpy_火车太堵",
-            "name": "火车太堵(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/火车太堵.js"
-        },
-        {
-            "key": "drpy_梦米",
-            "name": "梦米(js)",
-            "type": 3,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/梦米.js"
         },
         {
             "key": "星芽短剧(js)",
@@ -1874,84 +1675,12 @@
             "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
         },
         {
-            "key": "php_统一影视",
-            "name": "统一影视(T4)",
-            "type": 4,
-            "api": "http://8.129.30.117:5757/api/统一影视?pwd=drpys2025",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "php_麻花视频",
-            "name": "麻花视频(T4)",
-            "type": 4,
-            "api": "http://8.129.30.117:5757/api/麻花视频(DS)?pwd=drpys2025",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "php_专享影视",
-            "name": "专享影视(T4)",
-            "type": 4,
-            "api": "http://45.204.193.33:9097/api/专享影视?pwd=dzyyds",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "drpyS_Nyafun",
             "name": "Nyafun(T4)",
             "type": 4,
             "api": "http://drpy.mxlgsl.cn/api/Nyafun[漫]",
             "searchable": 1,
             "quickSearch": 1
-        },
-        {
-            "key": "py_HeiMuEr",
-            "name": "木耳(T4)",
-            "type": 4,
-            "api": "https://spider.doube.eu.org/spider?site=HeiMuEr",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "php_huaweiba",
-            "name": "华为吧(T4)",
-            "type": 4,
-            "api": "https://spider.doube.eu.org/spider?site=HuaWeiBa",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "py_AiGuaTV",
-            "name": "爱瓜TV(T4)",
-            "type": 4,
-            "api": "https://spider.doube.eu.org/spider?site=AiGuaTV",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "py_UpFuHn",
-            "name": "Hi视频(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=UpFuHn",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "php_Dm84",
-            "name": "动漫巴士(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=Dm84",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-        {
-            "key": "py_BaHaoTV",
-            "name": "八号影院(T4)",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=BaHaoTV",
-            "searchable": 1,
-            "quickSearch": 0
         },
         {
             "key": "csp_xml_墨白",
@@ -2041,16 +1770,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_xml_华人",
-            "name": "华人资源(xml)",
-            "type": 1,
-            "api": "https://huaren.live/api.php/tvbox",
-            "playUrl": "json:https://parse.huaren.live/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "360资源",
             "name": "360资源(xml)",
             "type": 1,
@@ -2083,43 +1802,6 @@
                 "家庭篇",
                 "记录片",
                 "动画片"
-            ]
-        },
-        {
-            "key": "非凡资源",
-            "name": "非凡资源(xml)",
-            "type": 0,
-            "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
- //         "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "categories": [
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "日本剧",
-                "台湾剧",
-                "泰国剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台综艺",
-                "国产动漫",
-                "欧美动漫",
-                "日韩动漫",
-                "港台动漫",
-                "海外动漫"
             ]
         },
         {
@@ -2184,24 +1866,6 @@
             "changeable": 0
         },
         {
-            "key": "七七看片",
-            "name": "七七看片(xml)",
-            "type": 1,
-            "api": "https://www.77kkpp.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "文才资源",
-            "name": "文才资源(xml)",
-            "type": 1,
-            "api": "https://api.zeqaht.com/api.php/provide/vod/?ac=list",
-//          "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "金鹰资源",
             "name": "金鹰资源(xml)",
             "type": 1,
@@ -2228,14 +1892,6 @@
             "quickSearch": 1
         },
         {
-            "key": "每日港剧",
-            "name": "每日港剧(xml)",
-            "type": 1,
-            "api": "https://www.mrgj.cc/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "csp_Kuaikan",
             "name": "快看(SP)",
             "type": 3,
@@ -2244,17 +1900,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
-        },
-        {
-            "key": "csp_XYQHiker_素白白",
-            "name": "️素白白(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/素白白.json",
             "jar": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -2565,36 +2210,6 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
-        {
-            "key": "csp_SixV",
-            "name": "新6V磁力(慎用)",
-            "type": 3,
-            "api": "csp_SixVGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "https://www.xb6v.com/"
-        },
-        {
-            "key": "4KHDR",
-            "name": "世界磁力(慎用)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/4khdr.json"
-        },
-        {
-            "key": "mp4us",
-            "name": "Mp4磁力(慎用)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/mp4us.json"
         },
         {
             "key": "dr_兔小贝",
@@ -3146,11 +2761,6 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "liTV",
-            "type": 0,
-            "url": "https://o0ous.o0o0o0o0o0o.top/hiiinet/002PVHTX5.txt"
-        },
-        {
             "name": "judy_zh",
             "type": 0,
             "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=298688230021463",
@@ -3221,20 +2831,6 @@
             "logo": "https://epg.iill.top/logo/{name}.png"
         },
         {
-            "name": "4GTV",
-            "type": 0,
-            "url": "https://tvv.wqwqwq.sbs/iptv.m3u",
-            "playerType": 1,
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
-            "name": "央卫",
-            "type": 0,
-            "url": "https://livetv.wqwqwq.sbs/tv.m3u",
-            "playerType": 1,
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
             "name": "广东银河频道",
             "type": 0,
             "ua": "okhttp/3.15",
@@ -3269,13 +2865,6 @@
             "url": "https://github.7boe.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
-        },
-        {
-            "name": "IPV4",
-            "type": 0,
-            "url": "https://github.7boe.top/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
-            "playerType": 1,
-            "logo": "https://github.7boe.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
         },
         {
             "name": "IPV6",
