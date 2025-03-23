@@ -621,6 +621,30 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_lreeok",
+            "name": "lreeok(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/lreeok.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_边缘",
+            "name": "边缘(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_py_jianpian",
+            "name": "py_jianpian(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_xpath_tvyun",
             "name": "tvyun(XPF)",
             "type": 3,
@@ -1442,6 +1466,20 @@
             "type": 3,
             "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/博看听书.js"
+        },
+        {
+            "key": "书音FM(js)",
+            "name": "书音FM(js)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/书音FM.js"
+        },
+        {
+            "key": "溏心次元(js)",
+            "name": "溏心次元(js)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/溏心次元.js"
         },
         {
             "key": "贝乐虎(js)",
