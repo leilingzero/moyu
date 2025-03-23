@@ -574,6 +574,30 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_lreeok",
+            "name": "lreeok(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/lreeok.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_边缘",
+            "name": "边缘(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "csp_py_荐片",
+            "name": "荐片(py)",
+            "type": 3,
+            "api": "https://github.7boe.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
             "key": "csp_剧多短剧",
             "name": "剧多短剧(py)",
             "type": 3,
