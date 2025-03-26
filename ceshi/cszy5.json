@@ -20,6 +20,19 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py"
         },
         {
+            "key": "csp_爱瓜",
+            "name": "爱瓜TV(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_aigua.py"
+        },
+        {
+            "key": "悠悠(js)",
+            "name": "悠悠(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/youyou.js"
+        },
+        {
             "key": "csp_爱瓜TVAPP",
             "name": "爱瓜TVAPP(py)",
             "type": 3,
