@@ -117,13 +117,13 @@
         },
         {
             "key": "csp_绝对影视",
-            "name": "LIVES(py)",
+            "name": "绝对影视(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/绝对影视.py"
         },
         {
             "key": "csp_甜圈短剧",
-            "name": "LIVES(py)",
+            "name": "甜圈短剧(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
         },
@@ -205,6 +205,7 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/浴火社APP.py"
         },
+
         {
             "key": "csp_DouDou",
             "name": "豆瓣(SP)",
