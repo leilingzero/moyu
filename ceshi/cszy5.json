@@ -7,7 +7,7 @@
 //  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
-                {
+        {
             "key": "csp_APPV2",
             "name": "APPV2(py)",
             "type": 3,
@@ -150,6 +150,60 @@
             "name": "优(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/优.py"
+        },
+        {
+            "key": "csp_51吸瓜",
+            "name": "51吸瓜(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/51吸瓜.py"
+        },
+        {
+            "key": "csp_lavAPP",
+            "name": "lavAPP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/lavAPP.py"
+        },
+        {
+            "key": "csp_Phb",
+            "name": "Phb(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/Phb.py"
+        },
+        {
+            "key": "csp_Xhm",
+            "name": "Xhm(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/Xhm.py"
+        },
+        {
+            "key": "csp_Xvd",
+            "name": "Xvd(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/Xvd.py"
+        },
+        {
+            "key": "csp_推特APP",
+            "name": "推特APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/推特APP.py"
+        },
+        {
+            "key": "csp_香蕉APP",
+            "name": "香蕉APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/香蕉APP.py"
+        },
+        {
+            "key": "csp_小红薯APP",
+            "name": "小红薯APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/小红薯APP.py"
+        },
+        {
+            "key": "csp_浴火社APP",
+            "name": "浴火社APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/adult/浴火社APP.py"
         },
         {
             "key": "csp_DouDou",
