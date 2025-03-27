@@ -1,9 +1,1 @@
-var rule = {
-    模板: 'mxpro',
-    title: '星空影院',
-    host: 'https://xkyy10.com',
-    url: '/vodshow/fyclass--------fypage---.html',
-    searchUrl: '/vodsearch/**----------fypage---.html',
-    class_parse: '.navbar-items li;a&&Text;a&&href;/(\\d+).html',
-    tab_exclude: '排序',
-}
+H4sIAAAAAAAAAytLLFIoKs1JVbBVqOZSAIJnKxY+m7vfSkE9t6KgKF9dByxYklmSkwoUezZj/vOVu57u3fhy5iKoVEZ+cQlQJqOkpKDYSl+/Iruy0tBALzk/FypfWpQDlNYvy08pzsgv10+rTM5JLC7WhYK0yoLE9FQgQy+jJDcHqqU4NbEoOSMUoRHM19fS0tXFqw9scnxBYlExyK16eYllSYlFupklqbnFCjmZ1olqaiGpFSUgOqMoNc1aXyMmJkVbE9mEksSk+NSK5JzSFLBv+yY93dUPlKoFAHU2hfImAQAA
