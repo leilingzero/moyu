@@ -500,7 +500,6 @@
             "name": "看客影视(SP)",
             "type": 3,
             "api": "csp_Kanke",
-            "ext": "http://www.guaziys.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
         },
         {
