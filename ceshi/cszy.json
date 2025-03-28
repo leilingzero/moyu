@@ -974,7 +974,7 @@
             "ext": "http://itv.zwzs.fun/api.php/app/"
         },
         {
-            "key": "小枫影视",
+            "key": "小枫",
             "name": "小枫影视(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
