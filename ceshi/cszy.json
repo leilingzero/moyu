@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250328.jar;md5;cac8507a83aabbe8def930b8d0113085",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250329.jar;md5;6bbccb95ef9afb1efdfae22f52ca54ca",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -472,7 +472,7 @@
             "type": 3,
             "api": "csp_TingBookGuard",
             "searchable": 1,
-            "ext":"http://www.6yueting.com",
+            "ext": "http://www.6yueting.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743043850096/0327.jar;md5;6411fd495912c546a91ea10c03a76e99"
         },
         {
@@ -2503,6 +2503,11 @@
             "name": "小鱼",
             "type": 1,
             "url": "http://json.84jia.top/home/api?type=ys&uid=145147&key=djmrxyAGJORVW14569&url="
+        },
+        {
+            "name": "羊羊",
+            "type": 1,
+            "url": "http://117.50.184.199:94/api.php/?key=1&url="
         },
         {
             "name": "虾米",
