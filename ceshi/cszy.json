@@ -660,6 +660,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/皮皮虾APP.py"
         },
         {
+            "key": "csp_云端",
+            "name": "云端(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云端APP.py"
+        },
+        {
             "key": "csp_三号动漫",
             "name": "三号动漫(py)",
             "type": 3,
