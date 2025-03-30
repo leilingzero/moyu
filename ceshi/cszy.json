@@ -43,7 +43,7 @@
         },
         {
             "key": "alllive",
-            "name": "一LIVE(SP)",
+            "name": "一直播LIVE(SP)",
             "type": 3,
             "api": "csp_AllliveGuard",
             "playerType": 2,
@@ -309,7 +309,7 @@
         },
         {
             "key": "看球",
-            "name": "看球(SP)",
+            "name": "看球直播(SP)",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "searchable": 0,
@@ -712,8 +712,8 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
         },
         {
-            "key": "csp_游戏",
-            "name": "游戏(py)",
+            "key": "csp_游戏直播",
+            "name": "游戏直播(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nmlive.py",
             "searchable": 0,
@@ -2001,11 +2001,11 @@
             "changeable": 0
         },
         {
-            "key": "csp_js_310",
+            "key": "csp_js_310直播",
             "name": "310看球(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js",
             "style": {
                 "type": "list"
             },
@@ -2081,8 +2081,8 @@
             }
         },
         {
-            "key": "csp_js_虎牙",
-            "name": "虎牙(js)",
+            "key": "csp_js_虎牙直播",
+            "name": "虎牙直播(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js",
@@ -2096,22 +2096,22 @@
             "changeable": 0
         },
         {
-            "key": "csp_XYQHiker_虎牙",
-            "name": "虎牙(XYQH)",
+            "key": "csp_XYQHiker_虎牙直播",
+            "name": "虎牙直播(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/虎牙.json",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/虎牙直播.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
-            "key": "csp_js_斗鱼",
-            "name": "斗鱼(js)",
+            "key": "csp_js_斗鱼直播",
+            "name": "斗鱼直播(js)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -2423,15 +2423,15 @@
             }
         },
         {
-            "key": "",
-            "name": "电视",
+            "key": "直播",
+            "name": "电视直播",
             "type": 3,
             "playerType": 1,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/转点播.js",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
             "ext": "看电视$http://8.138.7.223/live.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
         },
         {
-            "key": "转点播",
+            "key": "直播转点播",
             "name": "电视直播仓",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播2.js",
