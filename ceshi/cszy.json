@@ -666,6 +666,18 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云端APP.py"
         },
         {
+            "key": "csp_皮皮虾",
+            "name": "皮皮虾(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/皮皮虾APP.py"
+        },
+        {
+            "key": "csp_魔方",
+            "name": "魔方(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/魔方影视APP.py"
+        },
+        {
             "key": "csp_三号动漫",
             "name": "三号动漫(py)",
             "type": 3,
