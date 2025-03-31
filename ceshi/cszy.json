@@ -672,6 +672,24 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/魔方影视APP.py"
         },
         {
+            "key": "csp_恋鱼",
+            "name": "恋鱼(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/恋鱼影视APP.py"
+        },
+        {
+            "key": "csp_云速",
+            "name": "云速(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云速影视APP.py"
+        },
+        {
+            "key": "csp_MiFun",
+            "name": "MiFun(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/MiFunAPP.py"
+        },
+        {
             "key": "csp_皮皮虾",
             "name": "皮皮虾(py)",
             "type": 3,
@@ -682,6 +700,12 @@
             "name": "三号动漫(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/三号动漫APP.py"
+        },
+        {
+            "key": "csp_CliCli",
+            "name": "CliCli(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/CliCli动漫APP.py"
         },
         {
             "key": "csp_剧多短剧",
