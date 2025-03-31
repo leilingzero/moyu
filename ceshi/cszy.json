@@ -2898,6 +2898,16 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "nctv",
+            "type": 0,
+            "url": "http://live.nctv.top/x.txt"
+        },
+        {
+            "name": "zb",
+            "type": 0,
+            "url": "http://47.96.82.41:5188/zb.txt"
+        },
+        {
             "name": "wwb521",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
