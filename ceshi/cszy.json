@@ -555,13 +555,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743444559935/feimao0401.jar;md5;956a6e085fc044e03bceac84c92d77fe"
         },
         {
-            "key": "csp_AppFerr",
-            "name": "AppFerr(SP)",
-            "type": 3,
-            "api": "csp_AppFerr",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743444559935/feimao0401.jar;md5;956a6e085fc044e03bceac84c92d77fe"
-        },
-        {
             "key": "csp_BookTing",
             "name": "275听书(SP)",
             "type": 3,
