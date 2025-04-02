@@ -701,12 +701,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/恋鱼影视APP.py"
         }, 
         {
-            "key": "csp_皮皮虾",
-            "name": "皮皮虾(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/皮皮虾APP.py"
-        },
-        {
             "key": "csp_MiFun",
             "name": "MiFun(py)",
             "type": 3,
