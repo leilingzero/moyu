@@ -276,7 +276,8 @@
             "api": "csp_Dm84Guard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://dm84.vip/"
         },
         {
             "key": "csp_Ysj",
