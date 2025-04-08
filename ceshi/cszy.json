@@ -773,6 +773,30 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
         },
         {
+            "key": "csp_iptv345",
+            "name": "iptv345(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/iptv345.py",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "csp_SMT直播",
+            "name": "SMT直播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "csp_LITV直播",
+            "name": "LITV直播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
             "key": "csp_游戏直播",
             "name": "游戏直播(py)",
             "type": 3,
