@@ -2962,9 +2962,9 @@
             "url": "http://live.nctv.top/x.txt"
         },
         {
-            "name": "zb",
+            "name": "wuliao",
             "type": 0,
-            "url": "http://47.96.82.41:5188/zb.txt"
+            "url": "https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/live.m3u"
         },
         {
             "name": "vUBde",
@@ -2972,22 +2972,24 @@
             "url": "https://qu.ax/vUBde.txt"
         },
         {
-            "key": "csp_iptv345",
-            "name": "iptv345(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/iptv345.py"
+            "name": "tmxk2021",
+            "type": 0,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/tmxk2021/CF-IPTV/refs/heads/main/mytv.m3u"
         },
         {
-            "key": "csp_SMT直播",
-            "name": "SMT直播(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py"
+            "name": "rad168",
+            "type": 0,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
         },
         {
-            "key": "csp_LITV直播",
-            "name": "LITV直播(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py"
+            "name": "SMT",
+            "type": 0,
+            "url": "http://php.jdshipin.com:8880/smt.php"
+        },
+        {
+            "name": "fdphp",
+            "type": 0,
+            "api": "http://api.7749.org/fdphp.m3u"
         },
         {
             "name": "wwb521",
