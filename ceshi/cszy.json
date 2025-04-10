@@ -383,6 +383,14 @@
             "ext": "rpb8IjZTuzYSqZNn/sGvG+nmDP6c5rlJM5DTXdn6d/OdwIl8hAgvoCnQmL7YkzCXHe+hpViArom3TFB7ORHGx8Gsyk/NiHE7VuNzVMP/C+/r78ogd9EF54Pi+n6PkOaxl7jEppsqJjozMoCPS929dwPWfx4NGsZnpVFvANeZUOzlo4RKfmAaN35kAo+7amKcqawPF/jPPsCEXambLeH+PqICmlcdkCN+3k+Dft4Z8iA=",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743563721956/0402.jar;md5;bb5b6235948920d74911e12f70b947cd"
         },
+                {
+            "key": "优秀2",
+            "name": "优秀2(SP)",
+            "type": 3,
+            "api": "csp_AppGetGuard",
+            "ext": {"url": "http://ai.xiaoyun.ink"},
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743783729422/0405.jar;md5;0de2c57f282d4204b236d3432348fee6"
+        },
         {
             "key": "云端2",
             "name": "云端2(SP)",
