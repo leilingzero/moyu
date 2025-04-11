@@ -736,6 +736,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/小红影视.py"
         },
         {
+            "key": "csp_国外剧",
+            "name": "国外剧(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/国外剧APP.py"
+        },
+        {
             "key": "csp_MiFun",
             "name": "MiFun(py)",
             "type": 3,
@@ -1613,13 +1619,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/MLGQ.js"
-        },
-        {
-            "key": "樱花影视(js)",
-            "name": "樱花影视(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/樱花影视.js"
         },
         {
             "key": "壹影视(js)",
