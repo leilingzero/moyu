@@ -889,7 +889,7 @@
             "key": "每日港剧",
             "name": "每日港剧(xml)",
             "type": 1,
-            "api": "https://www.mrgj.cc/api.php/provide/vod/"
+            "api": "http://mrgj.cc/api.php/provide/vod/"
         },
         {
             "key": "csp_xpath_100hktv",
