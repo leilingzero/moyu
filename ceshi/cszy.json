@@ -765,7 +765,7 @@
             "key": "嗷呜动漫",
             "name": "嗷呜动漫(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/嗷呜动漫.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/嗷呜动漫.py"
         },
         {
             "key": "csp_剧多短剧",
@@ -796,18 +796,10 @@
             "quickSearch": 0
         },
         {
-            "key": "csp_优酷py",
-            "name": "优酷(py)",
+            "key": "优酷py",
+            "name": "优(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/优.py"
-        },
-        {
-            "key": "csp_腾讯py",
-            "name": "腾讯(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_腾.py",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "腾讯py",
@@ -816,26 +808,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/腾.py"
         },
         {
-            "key": "csp_芒果py",
-            "name": "芒果(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_芒.py",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
             "key": "芒果py",
             "name": "芒(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/芒.py"
-        },
-        {
-            "key": "csp_爱奇艺py",
-            "name": "爱奇艺(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_爱.py",
-            "searchable": 1,
-            "quickSearch": 1
         },
         {
             "key": "爱奇艺py",
