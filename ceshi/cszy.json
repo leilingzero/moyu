@@ -776,6 +776,12 @@
             "quickSearch": 1
         },
         {
+            "key": "剧多",
+            "name": "剧多(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/剧多短剧APP.py"
+        },
+        {
             "key": "csp_红果",
             "name": "红果(py)",
             "type": 3,
