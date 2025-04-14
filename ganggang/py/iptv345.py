@@ -40,7 +40,6 @@ class Spider(Spider):
         pass
 
     def liveContent(self, url):
-    #def liveContent(self, url=None):  # 明确标记未使用的参数
         channel_list = ["#EXTM3U"]
         try:
             base_url = "https://iptv345.com/"
@@ -55,9 +54,8 @@ class Spider(Spider):
                     group_name, group_id = group.split(",")
                     api_url = f"{base_url.rstrip('/')}/?tid={group_id}"
                     
-                    # 添加超时和重试逻辑
                     response = requests.get(api_url, headers=headers, timeout=10)
-                    response.raise_for_status()  # 自动处理4xx/5xx错误
+                    response.raise_for_status()  
 
                     soup = BeautifulSoup(response.text, 'html.parser')
                     ul_tag = soup.find('ul', {
@@ -75,7 +73,6 @@ class Spider(Spider):
                         if not a_tag:
                             continue
 
-                        # 使用urljoin处理相对路径
                         channel_path = a_tag.get('href', '').strip()
                         if not channel_path:
                             continue
@@ -83,7 +80,6 @@ class Spider(Spider):
                         full_url = requests.compat.urljoin(base_url, channel_path)
                         name = a_tag.text.strip()
                         
-                        # 规范M3U条目格式
                         m3u_entry = (
                             f'#EXTINF:-1 tvg-id="{name}" '
                             f'tvg-name="{name}" '
