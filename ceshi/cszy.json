@@ -2985,9 +2985,24 @@
             "url": "http://205.185.123.236:50089/?type=m3u"
         },
         {
-            "name": "zozo",
+            "name": "2025",
             "type": 0,
-            "url": "http://zozo.vmhost.cc/zx/1/1744604472.txt"
+            "url": "http://211.154.28.50:5898/2025.txt"
+        },
+        {
+            "name": "港",
+            "type": 0,
+            "url": "http://l.gmbbk.com/upload/35143514.txt"
+        },
+        {
+            "name": "大视界",
+            "type": 0,
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ywg228/dsjtv/main/live.txt"
+        },
+        {
+            "name": "a000",
+            "type": 0,
+            "url": "https://pan.baidu.re/down.php/a000e4282aff237d88e7dc2b7adf620f.txt"
         },
         {
             "name": "catvodTV",
@@ -3021,6 +3036,11 @@
             "name": "fdphp",
             "type": 0,
             "url": "http://api.7749.org/fdphp.m3u"
+        },
+        {
+            "name": "666aaa",
+            "type": 0,
+            "url": "https://it.bkpcp.top/bjyd/666aaa.php"
         },
         {
             "name": "wwb521",
