@@ -590,6 +590,11 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
         },
         {
+            "name": "iptv807(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/iptv807.py"
+        },
+        {
             "key": "csp_界影视",
             "name": "界影视(py)",
             "type": 3,
@@ -609,7 +614,7 @@
             "key": "csp_光速",
             "name": "光速(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -617,7 +622,7 @@
             "key": "csp_火车",
             "name": "火车(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/火车太顺APP.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/火车太顺APP",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -2978,39 +2983,6 @@
             "name": "diyp",
             "type": 0,
             "url": "http://iptv.diyp.site/diyp.php"
-        },
-        {
-            "name": "SMT直播(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
-            "ext": {
-                "proxy": {
-                    "http": "http://127.0.0.1:10809",
-                    "https": "http://127.0.0.1:10809"
-                }
-            }
-        },
-        {
-            "name": "LITV直播(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
-            "ext": {
-                "proxy": {
-                    "http": "http://127.0.0.1:10809",
-                    "https": "http://127.0.0.1:10809"
-                }
-            }
-        },
-        {
-            "name": "iptv807(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/iptv807.py",
-            "ext": {
-                "proxy": {
-                    "http": "http://127.0.0.1:10809",
-                    "https": "http://127.0.0.1:10809"
-                }
-            }
         },
         {
             "name": "绿影",
