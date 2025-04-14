@@ -1633,6 +1633,13 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/博看听书.js"
         },
         {
+            "key": "书音FM(js)",
+            "name": "书音FM(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/书音FM.js"
+        },
+        {
             "key": "贝乐虎(js)",
             "name": "贝乐虎(js)",
             "type": 3,
