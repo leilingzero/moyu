@@ -2980,6 +2980,39 @@
             "url": "http://iptv.diyp.site/diyp.php"
         },
         {
+            "name": "SMT直播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_smt_proxy_001.py",
+            "ext": {
+                "proxy": {
+                    "http": "http://127.0.0.1:10809",
+                    "https": "http://127.0.0.1:10809"
+                }
+            }
+        },
+        {
+            "name": "LITV直播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/doube-ba/Sub/refs/heads/main/live/live_litv.py",
+            "ext": {
+                "proxy": {
+                    "http": "http://127.0.0.1:10809",
+                    "https": "http://127.0.0.1:10809"
+                }
+            }
+        },
+        {
+            "name": "iptv807(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/iptv807.py",
+            "ext": {
+                "proxy": {
+                    "http": "http://127.0.0.1:10809",
+                    "https": "http://127.0.0.1:10809"
+                }
+            }
+        },
+        {
             "name": "绿影",
             "type": 0,
             "url": "https://codeberg.org/liuniantv/liunianTV/raw/branch/main/4月2日更新直播源.txt"
