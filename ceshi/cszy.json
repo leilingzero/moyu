@@ -95,7 +95,7 @@
             "key": "文采",
             "name": "文采影视(SP)",
             "type": 3,
-            "api": "csp_JpysGuard",
+            "api": "csp_JsGuard",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -593,73 +593,55 @@
             "key": "csp_界影视",
             "name": "界影视(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py"
         },
         {
             "key": "csp_猎手",
             "name": "猎手(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py"
         },
         {
             "key": "csp_光速",
             "name": "光速(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py"
         },
         {
             "key": "csp_火车",
             "name": "火车(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/火车太顺APP.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/火车太顺APP.py"
         },
         {
             "key": "csp_美帕",
             "name": "美帕(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/美帕APP.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/美帕APP.py"
         },
         {
             "key": "csp_hitv",
             "name": "hitv(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py"
         },
         {
             "key": "csp_lreeok",
             "name": "lreeok(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/LREEOK.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/LREEOK.py"
         },
         {
             "key": "csp_边缘",
             "name": "边缘(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py"
         },
         {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py"
         },
         {
             "key": "csp_若惜",
@@ -773,9 +755,7 @@
             "key": "csp_游戏直播",
             "name": "游戏直播(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nmlive.py",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nmlive.py"
         },
         {
             "key": "优酷py",
