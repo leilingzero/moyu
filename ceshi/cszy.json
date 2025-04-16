@@ -855,6 +855,12 @@
             "api": "http://mrgj.cc/api.php/provide/vod/"
         },
         {
+            "key": "csp_xml_tvyun",
+            "name": "tvyun(xml)",
+            "type": 1,
+            "api": "http://www.tvyun08.com/api.php/provide/vod/"
+        },
+        {
             "key": "csp_xpath_100hktv",
             "name": "100hktv(XP)",
             "type": 3,
