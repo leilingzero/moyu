@@ -500,9 +500,6 @@
             "name": "TVB云播(SP)",
             "type": 3,
             "api": "csp_Tvyb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "timeout": 15,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
         },
         {
@@ -585,8 +582,6 @@
             "name": "275听书(SP)",
             "type": 3,
             "api": "csp_BookTing",
-            "playerType": 2,
-            "searchable": 1,
             "ext": "https://m.ting275.com",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd"
         },
@@ -705,6 +700,24 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/小红影视.py"
         },
         {
+            "key": "csp_剧粑粑",
+            "name": "剧粑粑(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/剧粑粑.py"
+        },
+        {
+            "key": "csp_零度",
+            "name": "零度(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/零度影视APP.py"
+        },
+        {
+            "key": "csp_奇迹",
+            "name": "奇迹(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/奇迹APP.py"
+        },
+        {
             "key": "csp_国外剧",
             "name": "国外剧(py)",
             "type": 3,
@@ -741,6 +754,24 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/剧多短剧.py"
         },
         {
+            "key": "剧多2",
+            "name": "剧多2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/剧多短剧APP.py"
+        },
+        {
+            "key": "爱看",
+            "name": "爱看(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/爱看短剧.py"
+        },
+        {
+            "key": "河马",
+            "name": "河马(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/河马短剧.py"
+        },
+        {
             "key": "csp_红果",
             "name": "红果(py)",
             "type": 3,
@@ -751,6 +782,12 @@
             "name": "甜圈短剧(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
+        },
+        {
+            "key": "csp_偷乐",
+            "name": "偷乐(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/偷乐短剧.py"
         },
         {
             "key": "csp_游戏直播",
@@ -853,13 +890,6 @@
             "name": "每日港剧(xml)",
             "type": 1,
             "api": "http://mrgj.cc/api.php/provide/vod/"
-        },
-        {
-            "key": "csp_xml_tvyun",
-            "name": "tvyun(xml)",
-            "type": 1,
-            "timeout": 10,
-            "api": "http://www.tvyun08.com/api.php/provide/vod/"
         },
         {
             "key": "csp_xpath_100hktv",
@@ -1084,8 +1114,8 @@
             "ext": "http://csyt.lyyytv.cn/api.php/app/"
         },
         {
-            "key": "csp_V2_DP4K",
-            "name": "DP4K(V2)",
+            "key": "csp_V2_乐享",
+            "name": "乐享(V2)",
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "searchable": 1,
@@ -2674,6 +2704,11 @@
             "name": "羊羊",
             "type": 1,
             "url": "http://117.50.184.199:94/api.php/?key=1&url="
+        },
+        {
+            "name": "无上",
+            "type": 1,
+            "url": "https://mfjx.iwsyy.xyz/?url="
         },
         {
             "name": "巧技",
