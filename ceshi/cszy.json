@@ -767,16 +767,16 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/剧多短剧APP.py"
         },
         {
-            "key": "河马",
-            "name": "河马(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/河马短剧.py"
-        },
-        {
             "key": "csp_红果",
             "name": "红果(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/红果网页.py"
+        },
+        {
+            "key": "csp_偷乐",
+            "name": "偷乐(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/偷乐短剧.py"
         },
         {
             "key": "csp_甜圈短剧",
@@ -785,10 +785,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
         },
         {
-            "key": "csp_偷乐",
-            "name": "偷乐(py)",
+            "key": "河马",
+            "name": "河马(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/偷乐短剧.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/河马短剧.py"
         },
         {
             "key": "csp_游戏直播",
