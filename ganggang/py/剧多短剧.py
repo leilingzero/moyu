@@ -214,7 +214,7 @@ class Spider(Spider):
                 vods.append({
                     'vod_id': f'{i.get("id")}@',
                     'vod_name': i.get('name'),
-                    'vod_pic': f"{self.getProxyUrl()}&path={i.get('avatar')}"
+                    'vod_pic': f'{self.getProxyUrl()}&path={i.get("avatar")}',
                     'vod_tag': 'folder',
                     'vod_remarks': f'作品{i.get("movieNum")}',
                     'style': {"type": "oval"}
