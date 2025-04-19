@@ -136,17 +136,6 @@
             "changeable": 1
         },
         {
-            "key": "流光",
-            "name": "流光(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+T/f19e82TUvZMviAElDfhsS/jcju7U0fe1MnN1h63CTaYIPjmEw9C0qVsgBO8um85+eGlSkG/r2q6m0DA=="
-        },
-        {
             "key": "csp_Bttwo",
             "name": "Bttwo(SP)",
             "type": 3,
@@ -196,17 +185,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "rfOb1uAWbkRHp7hdxprG9un3+SLP183q3ik3cJDiAwlFdF8L6SIvrvc9LrpTyIg76T7QJZdEkWNj43wiSaA0TJyQpu2IF2jsSLWFx7WkAmG40hFxJ1tI+Jf+EVG8DtoDRcNi+TtVGULnWrSz3EWnVcxR3EJhXnrwYWe1kJtNW5txuHAO"
-        },
-        {
-            "key": "小熊",
-            "name": "小熊(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS8oz/VnNfnxigtaMviCwldcRBVvSwnsuM5MM4OgfA64zPRJJ0UnjpsuU0yDQ=="
         },
         {
             "key": "溢彩",
@@ -783,12 +761,6 @@
             "name": "甜圈短剧(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
-        },
-        {
-            "key": "河马",
-            "name": "河马(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/河马短剧.py"
         },
         {
             "key": "csp_游戏直播",
@@ -1904,6 +1876,30 @@
             "api": "https://zhxy.eu.org/api/抖短剧APP[短]"
         },
         {
+            "key": "河马短剧",
+            "name": "河马短剧",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/河马短剧[短]"
+        },
+        {
+            "key": "南风短剧",
+            "name": "南风短剧",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/南风短剧[短]"
+        },
+        {
+            "key": "聚合短剧",
+            "name": "聚合短剧",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/聚合短剧[短]"
+        },
+        {
+            "key": "蓝莓短剧",
+            "name": "蓝莓短剧",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/蓝莓短剧[短]"
+        },
+        {
             "key": "csp_xml_墨白",
             "name": "墨白影视(xml)",
             "type": 1,
@@ -2712,6 +2708,11 @@
             "url": "https://mfjx.iwsyy.xyz/?url="
         },
         {
+            "name": "摸鱼",
+            "type": 1,
+            "url": "http://59.153.167.185:3359/api/?key=ExtDznP4bcl3SJwMxu&url="
+        },
+        {
             "name": "巧技",
             "type": 1,
             "url": "https://zy.qiaoji8.com/xiafan.php?url="
@@ -2998,22 +2999,9 @@
         {
             "name": "看电视呗",
             "type": 0,
-            "url": "http://8.138.7.223/live.txt",
+            "url": "http://8.138.7.223/2025.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
-            "name": "肥猫",
-            "type": 0,
-            "url": "https://6296.kstore.vip/25.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
-        },
-        {
-            "name": "日后",
-            "type": 0,
-            "url": "http://rihou.cc:55/lib/kx2024.txt",
-            "ua": "okhttp/4.12.0"
         },
         {
             "name": "百宝箱",
@@ -3066,9 +3054,40 @@
             "url": "http://211.154.28.50:5898/2025.txt"
         },
         {
+            "name": "livetv",
+            "type": 0,
+            "url": "https://livetv.gungfu2012.tk/"
+        },
+        {
             "name": "港",
             "type": 0,
             "url": "http://l.gmbbk.com/upload/35143514.txt"
+        },
+        {
+            "name": "港澳",
+            "type": 0,
+            "url": "http://vv.vmhost.cc/zx1/9/港澳.txt"
+        },
+        {
+            "name": "zozo",
+            "type": 0,
+            "url": "http://zozo.vmhost.cc/zx/1/1744795662.txt"
+        },
+        {
+            "name": "mytv666",
+            "type": 0,
+            "url": "http://api.mytv666.top/lives/free.php?type=txt"
+        },
+        {
+            "name": "星海",
+            "type": 0,
+            "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
+            "ua": "デジモンアドベンチャー/last"
+        },
+        {
+            "name": "晓峰",
+            "type": 0,
+            "url": "http://xn--elt51t.azip.dpdns.org:5008/?type=txt"
         },
         {
             "name": "大视界",
@@ -3079,6 +3098,11 @@
             "name": "a000",
             "type": 0,
             "url": "https://pan.baidu.re/down.php/a000e4282aff237d88e7dc2b7adf620f.txt"
+        },
+        {
+            "name": "a001",
+            "type": 0,
+            "url": "https://pan.baidu.re/down.php/64e50b5dfd5a15dd0ca8a8ae63be0ea4.txt"
         },
         {
             "name": "catvodTV",
@@ -3107,16 +3131,6 @@
             "name": "rad168",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u"
-        },
-        {
-            "name": "fdphp",
-            "type": 0,
-            "url": "http://api.7749.org/fdphp.m3u"
-        },
-        {
-            "name": "666aaa",
-            "type": 0,
-            "url": "https://it.bkpcp.top/bjyd/666aaa.php"
         },
         {
             "name": "wwb521",
