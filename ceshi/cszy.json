@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250418.jar;md5;d1de7877e6bf56b31ada46c6a9f0f16c",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250419.jar;md5;ec3afd8dd9fce6c22718672546dc00a8",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -647,6 +647,12 @@
             "name": "小苹果(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/小苹果APP.py"
+        },
+        {
+            "key": "csp_骚火",
+            "name": "骚火(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/骚火电影.py"
         },
         {
             "key": "csp_云端",
@@ -3012,14 +3018,12 @@
         {
             "name": "suxuang",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv4.m3u"
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/suxuang/myIPTV/master/ipv6.m3u"
         },
         {
             "name": "yuanzl77",
             "type": 0,
-            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+            "url": "http://175.178.251.183:6689/live.m3u"
         },
         {
             "name": "Guovin",
@@ -3034,22 +3038,13 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"
         },
         {
-            "name": "AKTV",
-            "type": 0,
-            "url": "http://aktv.space/live.m3u"
-        },
-        {
             "name": "diyp",
             "type": 0,
-            "url": "http://iptv.diyp.site/diyp.php"
+            "url": "http://iptv.diyp.site/diyp.php",
+            "ua": "okhttp/3.15"
         },
         {
-            "name": "205",
-            "type": 0,
-            "url": "http://205.185.123.236:50089/?type=m3u"
-        },
-        {
-            "name": "2025",
+            "name": "趣看",
             "type": 0,
             "url": "http://211.154.28.50:5898/2025.txt"
         },
@@ -3059,21 +3054,6 @@
             "url": "https://livetv.gungfu2012.tk/"
         },
         {
-            "name": "港",
-            "type": 0,
-            "url": "http://l.gmbbk.com/upload/35143514.txt"
-        },
-        {
-            "name": "港澳",
-            "type": 0,
-            "url": "http://vv.vmhost.cc/zx1/9/港澳.txt"
-        },
-        {
-            "name": "zozo",
-            "type": 0,
-            "url": "http://zozo.vmhost.cc/zx/1/1744795662.txt"
-        },
-        {
             "name": "mytv666",
             "type": 0,
             "url": "http://api.mytv666.top/lives/free.php?type=txt"
@@ -3081,8 +3061,7 @@
         {
             "name": "星海",
             "type": 0,
-            "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt",
-            "ua": "デジモンアドベンチャー/last"
+            "url": "http://iptv.herissmon.dpdns.org/jiekou/live.txt"
         },
         {
             "name": "晓峰",
@@ -3098,19 +3077,6 @@
             "name": "a000",
             "type": 0,
             "url": "https://pan.baidu.re/down.php/a000e4282aff237d88e7dc2b7adf620f.txt"
-        },
-        {
-            "name": "a001",
-            "type": 0,
-            "url": "https://pan.baidu.re/down.php/64e50b5dfd5a15dd0ca8a8ae63be0ea4.txt"
-        },
-        {
-            "name": "catvodTV",
-            "type": 0,
-            "url": "http://iptv.catvod.com/tv.m3u",
-            "ua": "okhttp/5.0.0-alpha.14",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
             "name": "nctv",
@@ -3161,6 +3127,14 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/whpsky/IPTV/main/CHINATV.m3u",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
+        },
+        {
+            "name": "catvodTV",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okhttp/5.0.0-alpha.14",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
             "name": "Gather",
