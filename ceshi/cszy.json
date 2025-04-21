@@ -536,24 +536,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
-            "key": "csp_猎手",
-            "name": "猎手(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py"
-        },
-        {
-            "key": "csp_光速",
-            "name": "光速(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py"
-        },
-        {
-            "key": "csp_边缘",
-            "name": "边缘(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py"
-        },
-        {
             "key": "csp_魔方",
             "name": "魔方(py)",
             "type": 3,
@@ -600,6 +582,24 @@
             "name": "云速(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云速影视APP.py"
+        },
+        {
+            "key": "csp_光速",
+            "name": "光速(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py"
+        },
+        {
+            "key": "csp_边缘",
+            "name": "边缘(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py"
+        },
+        {
+            "key": "csp_猎手",
+            "name": "猎手(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py"
         },
         {
             "key": "csp_恋鱼",
