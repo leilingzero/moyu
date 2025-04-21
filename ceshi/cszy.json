@@ -536,12 +536,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
-            "key": "csp_界影视",
-            "name": "界影视(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py"
-        },
-        {
             "key": "csp_猎手",
             "name": "猎手(py)",
             "type": 3,
@@ -554,16 +548,40 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/光速影视.py"
         },
         {
+            "key": "csp_光速2",
+            "name": "光速2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/光速APP.py"
+        },
+        {
             "key": "csp_边缘",
             "name": "边缘(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/边缘.py"
         },
         {
+            "key": "csp_边缘2",
+            "name": "边缘2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/边缘影视APP.py"
+        },
+        {
+            "key": "csp_界影视",
+            "name": "界影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py"
+        },
+        {
             "key": "csp_py_荐片",
             "name": "荐片(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py"
+        },
+        {
+            "key": "csp_魔方",
+            "name": "魔方(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/魔方影视APP.py"
         },
         {
             "key": "csp_火车",
@@ -578,12 +596,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/美帕APP.py"
         },
         {
-            "key": "csp_hitv",
-            "name": "hitv(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py"
-        },
-        {
             "key": "csp_若惜",
             "name": "若惜(py)",
             "type": 3,
@@ -594,12 +606,6 @@
             "name": "悠悠(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/悠悠APP.py"
-        },
-        {
-            "key": "csp_哇哇",
-            "name": "哇哇(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/哇哇APP.py"
         },
         {
             "key": "csp_py_小苹果",
@@ -620,12 +626,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云速影视APP.py"
         },
         {
-            "key": "csp_魔方",
-            "name": "魔方(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/魔方影视APP.py"
-        },
-        {
             "key": "csp_恋鱼",
             "name": "恋鱼(py)",
             "type": 3,
@@ -644,6 +644,24 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/零度影视APP.py"
         },
         {
+            "key": "csp_国外剧",
+            "name": "国外剧(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/国外剧APP.py"
+        },
+        {
+            "key": "csp_hitv",
+            "name": "hitv(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py"
+        },
+        {
+            "key": "csp_哇哇",
+            "name": "哇哇(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/哇哇APP.py"
+        },
+        {
             "key": "csp_绝影",
             "name": "绝影(py)",
             "type": 3,
@@ -656,28 +674,22 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/骚火电影.py"
         },
         {
-            "key": "csp_lreeok",
-            "name": "lreeok(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/LREEOK.py"
-        },
-        {
             "key": "csp_小红",
             "name": "小红(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/小红影视.py"
         },
         {
+            "key": "csp_lreeok",
+            "name": "lreeok(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/LREEOK.py"
+        },
+        {
             "key": "csp_剧粑粑",
             "name": "剧粑粑(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/剧粑粑.py"
-        },
-        {
-            "key": "csp_国外剧",
-            "name": "国外剧(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/国外剧APP.py"
         },
         {
             "key": "csp_MiFun",
@@ -1602,6 +1614,13 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/壹影视1.js"
+        },
+        {
+            "key": "悠悠(js)",
+            "name": "悠悠(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/youyou.js"
         },
         {
             "key": "步步(js)",
