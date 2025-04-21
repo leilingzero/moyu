@@ -571,6 +571,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
+            "key": "csp_TingBook2",
+            "name": "六月听书2(SP)",
+            "type": 3,
+            "api": "csp_TingBook",
+            "ext": "http://www.6yueting.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
+        },
+        {
             "key": "csp_界影视",
             "name": "界影视(py)",
             "type": 3,
