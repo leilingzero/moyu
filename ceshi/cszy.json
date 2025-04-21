@@ -380,7 +380,7 @@
         },
         {
             "key": "csp_FreeOkGuard",
-            "name": "FreeOk影视(SP)",
+            "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOkGuard",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745207317358/0421.jar;md5;1c80e3fd1d023a3882a164c5f5fbca20"
@@ -492,13 +492,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
-            "key": "csp_KmeiJu",
-            "name": "鸭梨影视(SP)",
-            "type": 3,
-            "api": "csp_KmeiJu",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
-        },
-        {
             "key": "csp_AppFerr",
             "name": "菲儿影视(SP)",
             "type": 3,
@@ -518,6 +511,13 @@
             "name": "攻阁影视(SP)",
             "type": 3,
             "api": "csp_Lggys",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
+        },
+        {
+            "key": "csp_KmeiJu",
+            "name": "鸭梨影视(SP)",
+            "type": 3,
+            "api": "csp_KmeiJu",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
