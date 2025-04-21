@@ -386,14 +386,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745207317358/0421.jar;md5;1c80e3fd1d023a3882a164c5f5fbca20"
         },
         {
-            "key": "csp_AppFerr2",
-            "name": "菲儿影视2(SP)",
-            "type": 3,
-            "api": "csp_AppFerrGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/M3t4AXAKTrZj3tfhm1t/gMT3dOrHqIzUNqLUEOIDMvllTbX6e1hMhB2mfpOaCmHNOL1yBB3SmxNyqXlai90EIpdnwOOgCR9Z+YwCTj6ySjzJ2VBiH3eXeOGcavcNeVRA==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745207317358/0421.jar;md5;1c80e3fd1d023a3882a164c5f5fbca20"
-        },
-        {
             "key": "csp_Lkdy",
             "name": "来看影视(SP)",
             "type": 3,
@@ -519,13 +511,6 @@
             "name": "嗨皮影视(SP)",
             "type": 3,
             "api": "csp_Apphip",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
-        },
-        {
-            "key": "csp_FourK",
-            "name": "FourK(SP)",
-            "type": 3,
-            "api": "csp_FourK",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745087784165/feimao0420v1.txt;md5;e853983962fe330f0aa8e242e7ac6c1c"
         },
         {
