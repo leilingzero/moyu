@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250421.jar;md5;7a54b9eee0f90d49ce5f34573203cf0a",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1855,6 +1855,12 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/Appapi.js",
             "ext": "aHR0cDovL2dldC5vcGVuLm1pZnVuLm9yZy9hcGkucGhwfEdFVE1JRlVOR0VJTUlGVU58R0VUTUlGVU5HRUlNSUZVTg=="
+        },
+        {
+            "key": "剧探",
+            "name": "剧探",
+            "type": 4,
+            "api": "https://zhxy.eu.org/api/剧探[V2]"
         },
         {
             "key": "河马短剧",
