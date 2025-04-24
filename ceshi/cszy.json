@@ -681,6 +681,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jianpian.py"
         },
         {
+            "key": "csp_华数",
+            "name": "华数TV(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/华数TV.py"
+        },
+        {
             "key": "csp_MiFun",
             "name": "MiFun(py)",
             "type": 3,
