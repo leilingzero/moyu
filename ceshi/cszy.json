@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250422.jar;md5;1bb33ee4c8daff7288171baf65178027",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250423.jar;md5;d67e776740fc297d90f0310f701d8b83",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1057,6 +1057,16 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://csyt.lyyytv.cn/api.php/app/"
+        },
+        {
+            "key": "csp_V2_剧下饭",
+            "name": "剧下饭(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
         },
         {
             "key": "csp_V2_乐享",
@@ -2703,6 +2713,11 @@
             "name": "巧技",
             "type": 1,
             "url": "https://zy.qiaoji8.com/xiafan.php?url="
+        },
+        {
+            "name": "高速",
+            "type": 1,
+            "url": "https://json.wki8.com/api/?key=JRDnGvC68gPO1wSWjM&url="
         },
         {
             "name": "虾米",
