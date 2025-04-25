@@ -3012,6 +3012,13 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "肥猫",
+            "type": 0,
+            "url": "https://6296.kstore.vip/25.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.v1.mk/logo/{name}.png"
+        },
+        {
             "name": "百宝箱",
             "type": 0,
             "url": "https://live.iptv365.org/live.m3u",
