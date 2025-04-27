@@ -209,8 +209,8 @@
             "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
         },
         {
-            "key": "溢彩2",
-            "name": "溢彩2(SP)",
+            "key": "装甲",
+            "name": "装甲(SP)",
             "type": 3,
             "api": "csp_AppSxGuard",
             "searchable": 1,
@@ -401,10 +401,11 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b"
         },
         {
-            "key": "二三",
-            "name": "二三(SP)",
+            "key": "牛牛",
+            "name": "牛牛(SP)",
             "type": 3,
-            "api": "https://13826.kstore.space/mito.py"
+            "api": "https://13826.kstore.space/mito.py",
+            "ext": "http://172.83.156.150:1010"
         },
         {
             "key": "csp_Wwys",
