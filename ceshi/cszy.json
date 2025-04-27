@@ -393,6 +393,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745158140514/0420.jar;md5;1d9605ec68bb2319857f46fac02ad136"
         },
         {
+            "key": "︎星光",
+            "name": "星光(SP)",
+            "type": 3,
+            "api": "csp_AppMiToGuard",
+            "ext": "or8dey6pioFw+XxkF2wS/RAzk3DzRGdI670hdzQc+Mikgjqjk9TLUbAA9F0iudN1/EXY443m7GHk8GjSrx5HqSIJwhkFw/xSNAD7EWUrLDF6HohBg/KuqjTeaDuMIXz7cBXwt1KPJLptozlzoIMYeWIXu6G0zPvUHi/rxqkaq6IWp1t9tTKX7JnqKU/XhyNt",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745158140514/0420.jar;md5;1d9605ec68bb2319857f46fac02ad136"
+        },
+        {
             "key": "咕咕",
             "name": "咕咕(SP)",
             "type": 3,
@@ -406,6 +414,12 @@
             "type": 3,
             "api": "https://13826.kstore.space/mito.py",
             "ext": "http://172.83.156.150:1010"
+        },
+        {
+            "key": "奇妙",
+            "name": "奇妙(SP)",
+            "type": 3,
+            "api": "https://13826.kstore.space/mioaying.py"
         },
         {
             "key": "csp_Wwys",
