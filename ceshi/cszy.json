@@ -2791,6 +2791,11 @@
             "url": "http://59.153.167.185:3359/api/?key=ExtDznP4bcl3SJwMxu&url="
         },
         {
+            "name": "绿豆",
+            "type": 1,
+            "url": "http://156.225.30.142:1001/api/index?parsesId=9&appid=10000&videoUrl="
+        },
+        {
             "name": "巧技",
             "type": 1,
             "url": "https://zy.qiaoji8.com/xiafan.php?url="
@@ -3094,6 +3099,11 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
+            "name": "judy",
+            "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
+            "ua": "judy/5.2.1"
+        },
+        {
             "name": "百宝箱",
             "type": 0,
             "url": "https://live.iptv365.org/live.m3u",
@@ -3141,6 +3151,11 @@
             "name": "mytv666",
             "type": 0,
             "url": "http://api.mytv666.top/lives/free.php?type=txt"
+        },
+        {
+            "name": "tongxunlu",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/tongxunlu/super/master/mytvsuper.m3u"
         },
         {
             "name": "huohuoaa",
