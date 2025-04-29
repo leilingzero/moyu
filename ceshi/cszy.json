@@ -724,6 +724,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/剧粑粑.py"
         },
         {
+            "key": "csp_4KAV",
+            "name": "4K影视(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/4KAV.py"
+        },
+        {
             "key": "csp_哇哇",
             "name": "哇哇(py)",
             "type": 3,
