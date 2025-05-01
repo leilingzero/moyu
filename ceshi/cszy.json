@@ -1,10 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250425.jar;md5;5451e3dec4d06a33b04962d8dde7f842",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250430.jar;md5;948a482e3bad5bd090a87a6a85d38903",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -433,19 +434,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b"
         },
         {
-            "key": "牛牛",
-            "name": "牛牛(py)",
-            "type": 3,
-            "api": "https://13826.kstore.space/mito.py",
-            "ext": "http://172.83.156.150:1010"
-        },
-        {
-            "key": "奇妙",
-            "name": "奇妙(py)",
-            "type": 3,
-            "api": "https://13826.kstore.space/mioaying.py"
-        },
-        {
             "key": "csp_Wwys",
             "name": "旺旺影视(SP)",
             "type": 3,
@@ -612,6 +600,19 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
+            "key": "牛牛",
+            "name": "牛牛(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/mito.py",
+            "ext": "http://172.83.156.150:1010"
+        },
+        {
+            "key": "奇妙",
+            "name": "奇妙(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/mioaying.py"
+        },
+        {
             "key": "csp_魔方",
             "name": "魔方(py)",
             "type": 3,
@@ -732,28 +733,10 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/哇哇APP.py"
         },
         {
-            "key": "csp_lreeok",
-            "name": "lreeok(py)",
+            "key": "csp_柯南",
+            "name": "柯南(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/LREEOK.py"
-        },
-        {
-            "key": "csp_剧粑粑",
-            "name": "剧粑粑(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/剧粑粑.py"
-        },
-        {
-            "key": "csp_hitv",
-            "name": "hitv(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/hitvAPP.py"
-        },
-        {
-            "key": "csp_界影视",
-            "name": "界影视(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_jieyingshi.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/柯南影视.py"
         },
         {
             "key": "csp_py_荐片",
@@ -790,6 +773,12 @@
             "name": "嗷呜动漫(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/嗷呜动漫.py"
+        },
+        {
+            "key": "蓝莓",
+            "name": "蓝莓(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_蓝莓短剧.py"
         },
         {
             "key": "剧多",
