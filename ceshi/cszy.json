@@ -1075,6 +1075,26 @@
             "ext": "http://110.40.40.242:992/api.php/app/"
         },
         {
+            "key": "紫金草",
+            "name": "紫金草(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.zjc.app/api.php/app/"
+        },
+        {
+            "key": "聚德",
+            "name": "聚德(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://m51.gotto.top/api.php/v1.vod"
+        },
+        {
             "key": "146影视",
             "name": "146影视(V2)",
             "type": 3,
@@ -1989,6 +2009,12 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_xml_瓜子",
+            "name": "瓜子采集(xml)",
+            "type": 1,
+            "api": "https://json.wushang.xyz/gz/wsgzcj.php/provide/vod/"
+        },
+        {
             "key": "csp_xml_如意",
             "name": "如意资源(xml)",
             "type": 1,
@@ -2719,9 +2745,19 @@
             "url": "Web"
         },
         {
-            "name": "皮皮box",
+            "name": "羊羊",
             "type": 1,
-            "url": "https://app.wki8.com/ipa/?url="
+            "url": "http://117.50.184.199:94/api.php/?key=1&url="
+        },
+        {
+            "name": "高速",
+            "type": 1,
+            "url": "https://json.wki8.com/api/?key=JRDnGvC68gPO1wSWjM&url="
+        },
+        {
+            "name": "牛马4k",
+            "type": 1,
+            "url": "http://niiuma.qi-simple.top/nn.php?url="
         },
         {
             "name": "钓鱼4k",
@@ -2734,19 +2770,9 @@
             "url": "http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
         },
         {
-            "name": "QD4K",
-            "type": 1,
-            "url": "http://59.153.167.185:3359/api/?key=ExtDznP4bcl3SJwMxu&url="
-        },
-        {
             "name": "腾讯",
             "type": 1,
             "url": "http://110.40.40.242:7920/qq1080.php?url="
-        },
-        {
-            "name": "夏夜",
-            "type": 1,
-            "url": "http://8.155.50.80/xiaye.php?url="
         },
         {
             "name": "辞4k",
@@ -2754,34 +2780,9 @@
             "url": "http://222.186.57.24:7600/jx.php?url="
         },
         {
-            "name": "1080",
-            "type": 1,
-            "url": "http://isp.wki8.com/jx.php?url="
-        },
-        {
-            "name": "火花",
-            "type": 1,
-            "url": "https://api.huohua.live/api/?key=m5CK267ypabEU1jBNS&url="
-        },
-        {
             "name": "江湖",
             "type": 1,
             "url": "http://52.163.202.210:8808/jhjson/daoyongsiquanjia.php?url="
-        },
-        {
-            "name": "小枫",
-            "type": 1,
-            "url": "https://jx.xiaofengtv.com/home/api?type=ys&uid=54810&key=fhjlmrtyAEHNUV1456&url="
-        },
-        {
-            "name": "小鱼",
-            "type": 1,
-            "url": "http://json.84jia.top/home/api?type=ys&uid=145147&key=djmrxyAGJORVW14569&url="
-        },
-        {
-            "name": "羊羊",
-            "type": 1,
-            "url": "http://117.50.184.199:94/api.php/?key=1&url="
         },
         {
             "name": "无上",
@@ -2789,24 +2790,29 @@
             "url": "https://mfjx.iwsyy.xyz/?url="
         },
         {
-            "name": "摸鱼",
+            "name": "紫金草",
             "type": 1,
-            "url": "http://59.153.167.185:3359/api/?key=ExtDznP4bcl3SJwMxu&url="
+            "url": "http://jx1.zijincao.cc/json/?url="
         },
         {
-            "name": "绿豆",
+            "name": "南瓜189",
             "type": 1,
-            "url": "http://156.225.30.142:1001/api/index?parsesId=9&appid=10000&videoUrl="
+            "url": "http://47.94.240.226:9911/analysis/api/189q.php?version=1.0.1&url="
+        },
+        {
+            "name": "摸鱼",
+            "type": 1,
+            "url": "http://zhuimi.xn--v4q818bf34b.com/moyu/zhuimi?token=uY3QU65x&url="
         },
         {
             "name": "巧技",
             "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url="
+            "url": "https://zy.qiaoji8.com/gouzi.php?url="
         },
         {
-            "name": "高速",
+            "name": "巧技2",
             "type": 1,
-            "url": "https://json.wki8.com/api/?key=JRDnGvC68gPO1wSWjM&url="
+            "url": "https://zy.qiaoji8.com/xiafan.php?url="
         },
         {
             "name": "虾米",
@@ -2819,11 +2825,6 @@
             "url": "https://www.playm3u8.cn/jiexi.php?url="
         },
         {
-            "name": "A6",
-            "type": 0,
-            "url": "https://pl.a6club.com/player/analysis.php?v="
-        },
-        {
             "name": "ckplayer",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
@@ -2834,11 +2835,6 @@
             "url": "https://bd.jx.cn/?url="
         },
         {
-            "name": "m3u8tv高清",
-            "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
-        },
-        {
             "name": "盘古",
             "type": 0,
             "url": "https://www.pangujiexi.com/pangu/?url="
@@ -2847,11 +2843,6 @@
             "name": "8090g",
             "type": 0,
             "url": "https://www.8090g.cn/?url="
-        },
-        {
-            "name": "XY",
-            "type": 0,
-            "url": "https://jx.xymp4.cc/?url="
         },
         {
             "name": "夜幕",
@@ -2880,9 +2871,9 @@
             "url": "https://jx.hls.one/?url="
         },
         {
-            "name": "红狐",
+            "name": "m3u8tv高清",
             "type": 0,
-            "url": "https://rdfplayer.mrgaocloud.com/player/?url="
+            "url": "https://jx.m3u8.tv/jiexi/?url="
         }
     ],
     "rules": [
