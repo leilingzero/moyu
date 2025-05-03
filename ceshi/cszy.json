@@ -1075,26 +1075,6 @@
             "ext": "http://110.40.40.242:992/api.php/app/"
         },
         {
-            "key": "紫金草",
-            "name": "紫金草(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.zjc.app/api.php/app/"
-        },
-        {
-            "key": "聚德",
-            "name": "聚德(V2)",
-            "type": 3,
-            "api": "csp_AppYsV2Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://m51.gotto.top/api.php/v1.vod"
-        },
-        {
             "key": "146影视",
             "name": "146影视(V2)",
             "type": 3,
@@ -2009,12 +1989,6 @@
             "quickSearch": 1
         },
         {
-            "key": "csp_xml_瓜子",
-            "name": "瓜子采集(xml)",
-            "type": 1,
-            "api": "https://json.wushang.xyz/gz/wsgzcj.php/provide/vod/"
-        },
-        {
             "key": "csp_xml_如意",
             "name": "如意资源(xml)",
             "type": 1,
@@ -2787,28 +2761,12 @@
         {
             "name": "无上",
             "type": 1,
-            "url": "https://mfjx.iwsyy.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "WSGZ"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
+            "url": "https://mfjx.iwsyy.xyz/?url="
         },
         {
             "name": "紫金草",
             "type": 1,
-            "url": "http://jx1.zijincao.cc/json/?url=",
-            "ext": {
-                "flag": [
-                    "vwnet"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
+            "url": "http://jx1.zijincao.cc/json/?url="
         },
         {
             "name": "南瓜189",
@@ -3097,7 +3055,7 @@
         {
             "name": "看电视呗",
             "type": 0,
-            "url": "http://8.138.7.223/2025.txt",
+            "url": "http://8.138.7.223/51.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
@@ -3203,11 +3161,6 @@
             "name": "nctv",
             "type": 0,
             "url": "http://nctv.top/x.txt"
-        },
-        {
-            "name": "wuliao",
-            "type": 0,
-            "url": "https://hao-wu-liao-a.o0o0o0o0o0o.top/epg/live.m3u"
         },
         {
             "name": "vUBde",
