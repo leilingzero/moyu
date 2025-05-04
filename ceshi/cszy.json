@@ -585,6 +585,15 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
+            "key": "csp_饭团",
+            "name": "饭团影院(SP)",
+            "type": 3,
+            "api": "csp_Fantuan",
+            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+            "ext": "https://www.fantuan.vip",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311"
+        },
+        {
             "key": "csp_BookTing",
             "name": "275听书(SP)",
             "type": 3,
@@ -2683,7 +2692,7 @@
             "type": 3,
             "playerType": 1,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
-            "ext": "看电视$http://8.138.7.223/live.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
+            "ext": "看电视$http://8.138.7.223/51.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
         },
         {
             "key": "直播转点播",
@@ -2851,6 +2860,16 @@
             "name": "HLS解析",
             "type": 0,
             "url": "https://jx.hls.one/?url="
+        },
+        {
+            "name": "77",
+            "type": 0,
+            "url": "https://jx.77flv.cc/?url="
+        },
+        {
+            "name": "咸鱼",
+            "type": 0,
+            "url": "https://jx.xymp4.cc/?url="
         },
         {
             "name": "m3u8tv高清",
