@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250504.jar;md5;42ef09340295f4070cedad37bf759ef3",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -210,16 +210,6 @@
             "ext": "rfOX1voDIQhH8epBwtCFsub1+2maloq8lmJuL821WUsZJAZft2UtrrwhKK5Zxt1toWyFctBUmThhuDAjVuU="
         },
         {
-            "key": "装甲",
-            "name": "装甲(SP)",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZ0NTplTombcqjS1xHcE9fpWUjrfFiL+kMh4cw4jGBLJBFjnM="
-        },
-        {
             "key": "欢视",
             "name": "欢视影视(SP)",
             "type": 3,
@@ -351,14 +341,6 @@
             "type": 3,
             "api": "csp_AppGetGuard",
             "ext": "sHR2rlsfjI4L3t4RXQMknxZ67tu9z+phb0aSTvZQgyA6q0xr5CADU+Ci4NlKxGdylKHER46Cs4iIIIx6DdbWw0Sng/Z0F+jfaucg9epO4FUb/E7RG8NezsS+R4Dvsb4o50UjQG9bvlSBY9p/s5XD9KtJNMrH5tj1EbC6eEwZ4KOT7oCjM7uBxZRVhTmijQCvcoza/h46Fz6BrnGO68PxIg==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b"
-        },
-        {
-            "key": "悠悠",
-            "name": "悠悠(SP)",
-            "type": 3,
-            "api": "csp_AppGetGuard",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKyisRVD3dX3O6Gp6eI50QK/b1ljvOYBDl+JqRwVQfcUQSM8vrh+mlBcTrvwF+gVaAWsvNW8jQQZf0K3/I/qJXQPUWmGE4fM0JKlDhFBVtEDYzfWMzOu40lTr/+guo8bJ6smivOCC7uQ2MArjDOj/vOScvoWqmIM2eesFSyClC/Qp9bCMZd4OOyCoe9MTI3RaBZE/IObZ0dMZZ6JgS5S5yal",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745650876757/0426.jar;md5;469b6d2c3b78d1cfa899704f650a916b"
         },
         {
