@@ -414,22 +414,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
-            "key": "csp_TingBook",
-            "name": "六月听书(SP)",
-            "type": 3,
-            "api": "csp_TingBook",
-            "ext": "https://www.ting8.cc",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
-            "key": "csp_LaoBaiBook",
-            "name": "老白听书(SP)",
-            "type": 3,
-            "api": "csp_LaoBaiBook",
-            "searchable": 1,
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
             "key": "港迷",
             "name": "港迷影视(SP)",
             "type": 3,
