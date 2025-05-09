@@ -312,27 +312,18 @@
             }
         },
         {
-            "key": "天天",
-            "name": "天天(SP)",
+            "key": "csp_FreeOk",
+            "name": "FreeOk(SP)",
             "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+            "api": "csp_FreeOk",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
-            "key": "热热",
-            "name": "热热(SP)",
+            "key": "csp_Wwys",
+            "name": "旺旺影视(SP)",
             "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
-            "key": "追剧",
-            "name": "追剧(SP)",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+            "api": "csp_Wwys",
+            "ext": "https://www.wwgz.cn",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
@@ -416,36 +407,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
-            "key": "csp_Wwys",
-            "name": "旺旺影视(SP)",
-            "type": 3,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
-            "key": "csp_FreeOk",
-            "name": "FreeOk(SP)",
-            "type": 3,
-            "api": "csp_FreeOk",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
-            "key": "csp_Lkdy",
-            "name": "来看影视(SP)",
-            "type": 3,
-            "api": "csp_Lkdy",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
-            "key": "csp_哔嘀",
-            "name": "哔嘀影视(SP)",
-            "type": 3,
-            "api": "csp_Xlys",
-            "ext": "https://v.xlys.ltd.ua",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
-        },
-        {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
@@ -453,10 +414,19 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
-            "key": "csp_AppXY",
-            "name": "星芽短剧(SP)",
+            "key": "csp_TingBook",
+            "name": "六月听书(SP)",
             "type": 3,
-            "api": "csp_AppXY",
+            "api": "csp_TingBook",
+            "ext": "https://www.ting8.cc",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
+        },
+        {
+            "key": "csp_LaoBaiBook",
+            "name": "老白听书(SP)",
+            "type": 3,
+            "api": "csp_LaoBaiBook",
+            "searchable": 1,
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1746696855220/mi0508.txt;md5;a9dc1bef9aa294ab1f13bfbf1029c82b"
         },
         {
@@ -477,11 +447,10 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
-            "key": "csp_Xlys",
-            "name": "修罗影视(SP)",
+            "key": "csp_Lkdy",
+            "name": "来看影视(SP)",
             "type": 3,
-            "api": "csp_Xlys",
-            "ext": "https://www.xlys02.com",
+            "api": "csp_Lkdy",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
@@ -507,6 +476,30 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
+            "key": "热热",
+            "name": "热热(SP)",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
+        },
+        {
+            "key": "追剧",
+            "name": "追剧(SP)",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
+        },
+        {
+            "key": "天天",
+            "name": "天天(SP)",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
+        },
+        {
             "key": "csp_AppFerr",
             "name": "菲儿影视(SP)",
             "type": 3,
@@ -515,7 +508,7 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
-            "key": "csp_Apphip",
+            "key": "csp_FourK",
             "name": "绝对影视(SP)",
             "type": 3,
             "api": "csp_FourK",
@@ -531,17 +524,18 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
+            "key": "csp_Xlys",
+            "name": "修罗影视(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "ext": "https://www.xlys02.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
+        },
+        {
             "key": "csp_Jiaozi",
             "name": "饺子影视(SP)",
             "type": 3,
             "api": "csp_Jiaozi",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
-        },
-        {
-            "key": "csp_Lggys",
-            "name": "攻阁影视(SP)",
-            "type": 3,
-            "api": "csp_Lggys",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
@@ -567,12 +561,10 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
-            "key": "csp_饭团",
-            "name": "饭团影院(SP)",
+            "key": "csp_AppXY",
+            "name": "星芽短剧(SP)",
             "type": 3,
-            "api": "csp_Fantuan",
-            "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-            "ext": "https://www.fantuan.vip",
+            "api": "csp_AppXY",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
@@ -581,14 +573,6 @@
             "type": 3,
             "api": "csp_BookTing",
             "ext": "https://m.ting275.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
-        },
-        {
-            "key": "csp_TingBook",
-            "name": "六月听书(SP)",
-            "type": 3,
-            "api": "csp_TingBook",
-            "ext": "https://www.ting8.cc",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1745288510700/feimao0422.jar;md5;b40f328ddc5becefbfca81db7bdca250"
         },
         {
