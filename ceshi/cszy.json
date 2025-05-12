@@ -612,7 +612,7 @@
             "key": "csp_猎手",
             "name": "猎手(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_电影猎手.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/电影猎手.py"
         },
         {
             "key": "csp_恋鱼",
@@ -631,6 +631,12 @@
             "name": "零度(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/零度影视APP.py"
+        },
+        {
+            "key": "csp_海马",
+            "name": "海马(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/海马影视APP.py"
         },
         {
             "key": "csp_国外剧",
