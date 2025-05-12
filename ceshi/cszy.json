@@ -3033,19 +3033,28 @@
         },
         {
             "name": "judy",
+            "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/MytvSuper.m3u",
             "ua": "judy/5.2.1"
         },
         {
             "name": "robyang",
+            "type": 0,
             "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa"
         },
         {
+            "name": "雷蒙",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
+        },
+        {
             "name": "smart",
+            "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
         },
         {
             "name": "喵TV",
+            "type": 0,
             "url": "https://tang.hz.cz/so/xiaoyun.m3u"
         },
         {
