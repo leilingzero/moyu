@@ -44,10 +44,10 @@
             "changeable": 0
         },
         {
-            "key": "all",
-            "name": "一直播(SP)",
+            "key": "alllive",
+            "name": "一直播LIVE(SP)",
             "type": 3,
-            "api": "csp_AllGuard",
+            "api": "csp_AllliveGuard",
             "playerType": 2,
             "searchable": 0,
             "quickSearch": 0,
@@ -756,7 +756,7 @@
             "key": "csp_游戏直播",
             "name": "游戏直播(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nm.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/nmlive.py"
         },
         {
             "key": "优酷py",
@@ -2625,7 +2625,7 @@
             "type": 3,
             "playerType": 1,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/ftyjs/直播转点播.js",
-            "ext": "看电视$http://8.138.7.223/51.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://.iptv365.org/.m3u&&&https://api.likepoems.com/img/mc"
+            "ext": "看电视$http://8.138.7.223/51.txt#肥猫$https://6296.kstore.vip/25.txt#百宝箱$https://live.iptv365.org/live.m3u&&&https://api.likepoems.com/img/mc"
         },
         {
             "key": "直播转点播",
@@ -3016,7 +3016,7 @@
         }
     ],
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
-    "s": [
+    "lives": [
         {
             "name": "看电视呗",
             "type": 0,
@@ -3052,7 +3052,7 @@
         {
             "name": "百宝箱",
             "type": 0,
-            "url": "https://.iptv365.org/live.m3u",
+            "url": "https://live.iptv365.org/live.m3u",
             "ua": "AptvPlayer/1.3.3"
         },
         {
