@@ -3105,6 +3105,11 @@
             "url": "http://211.154.28.50:5898/2025.txt"
         },
         {
+            "name": "蓝影",
+            "type": 0,
+            "url": "https://dimaston.github.io/live.m3u"
+        },
+        {
             "name": "livetv",
             "type": 0,
             "url": "https://livetv.gungfu2012.tk/"
