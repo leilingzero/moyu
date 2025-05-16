@@ -3064,6 +3064,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/n3rddd/CTVLive/main/live.txt"
         },
         {
+            "name": "雄健",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
+        },
+        {
             "name": "smart",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
