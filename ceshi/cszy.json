@@ -871,6 +871,12 @@
             "api": "http://mrgj.cc/api.php/provide/vod/"
         },
         {
+            "key": "每日港剧2",
+            "name": "每日港剧2(xml)",
+            "type": 0,
+            "api": "https://mrgj.cc/api.php/provide/vod/at/xml"
+        },
+        {
             "key": "csp_xpath_100hktv",
             "name": "100hktv(XP)",
             "type": 3,
