@@ -3069,6 +3069,11 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiongjian83/TvBox/main/live.txt"
         },
         {
+            "name": "xiyou",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
+        },
+        {
             "name": "smart",
             "type": 0,
             "url": "https://smart.pendy.dpdns.org/m3u/Smart.m3u"
