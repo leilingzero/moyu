@@ -663,6 +663,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/海马影视APP.py"
         },
         {
+            "key": "csp_热播",
+            "name": "热播(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/热播APP.py"
+        },
+        {
             "key": "csp_国外剧",
             "name": "国外剧(py)",
             "type": 3,
