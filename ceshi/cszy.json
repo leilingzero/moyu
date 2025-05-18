@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250508.jar;md5;fe5929df64eb2358effeb032359732e5",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250518.jar;md5;363b678342a43763ffbc6c3ec6c5fc0b",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -1969,6 +1969,13 @@
             "quickSearch": 1
         },
         {
+            "key": "csp_xml_小慧",
+            "name": "小慧(xml)",
+            "type": 1,
+            "api": "http://cms.xiaohui.cyou:1002/api.php/provide/vod/?ac=list",
+            "playUrl": "json:http://xiaohui.cyou:1000/api/?key=7ee73e22b404453adc116a403a32e9c8&url="
+        },
+        {
             "key": "csp_xml_如意",
             "name": "如意资源(xml)",
             "type": 1,
@@ -3086,7 +3093,7 @@
             "name": "fulei",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/zhibo1.txt"
-        }, 
+        },
         {
             "name": "xiyou",
             "type": 0,
