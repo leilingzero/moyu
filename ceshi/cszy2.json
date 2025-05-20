@@ -386,14 +386,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
-            "key": "csp_Xlys",
-            "name": "修罗影视(SP)",
-            "type": 3,
-            "api": "csp_Xlys",
-            "ext": "https://www.xlys02.com",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
-        },
-        {
             "key": "csp_Jiaozi",
             "name": "饺子影视(SP)",
             "type": 3,
@@ -433,22 +425,22 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
-            "key": "浪酷",
-            "name": "浪酷(SP)",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "ext": {
-                "url": "http://v.lkuys.cn"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
-        },
-        {
             "key": "天天",
             "name": "天天(SP)",
             "type": 3,
             "api": "csp_AppRJ",
             "ext": {
                 "url": "http://tt.ysdqjs.cn"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "浪酷",
+            "name": "浪酷(SP)",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "ext": {
+                "url": "http://v.lkuys.cn"
             },
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
@@ -472,7 +464,7 @@
             "name": "FreeOk(SP)",
             "type": 3,
             "api": "csp_FreeOk",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "csp_Wwys",
@@ -480,7 +472,35 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://www.wwgz.cn",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "再看",
+            "name": "再看(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://149.88.64.161:9525",
+                "dataKey": "123456789ABCDEFG",
+                "dataIv": "123456789ABCDEFG",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "仓鼠",
+            "name": "仓鼠(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.cs4k.top",
+                "dataKey": "Hui6595253......",
+                "dataIv": "Hui6595253......",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "集多",
@@ -494,7 +514,21 @@
                 "deviceId": "",
                 "version": "200"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "牛马",
+            "name": "牛马(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://nm.xxxc137.top",
+                "dataKey": "a006661b01bdebbd",
+                "dataIv": "a006661b01bdebbd",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "橘子",
@@ -508,7 +542,21 @@
                 "deviceId": "",
                 "version": "300"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "彼岸",
+            "name": "彼岸(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://172.247.44.217:30012",
+                "dataKey": "JLa1oRdL6+eK7@M)",
+                "dataIv": "JLa1oRdL6+eK7@M)",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "雨滴",
@@ -522,7 +570,7 @@
                 "deviceId": "",
                 "version": "100"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "玉米",
@@ -537,35 +585,7 @@
                 "deviceId": "",
                 "version": "442"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "晴天",
-            "name": "晴天(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.sun4k.top",
-                "dataKey": "b025dcd9c289cbb3",
-                "dataIv": "b025dcd9c289cbb3",
-                "deviceId": "",
-                "version": ""
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "彼岸",
-            "name": "彼岸(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://172.247.44.217:30012",
-                "dataKey": "JLa1oRdL6+eK7@M)",
-                "dataIv": "JLa1oRdL6+eK7@M)",
-                "deviceId": "",
-                "version": ""
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "米兔",
@@ -579,130 +599,7 @@
                 "deviceId": "",
                 "version": "442"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "悠悠",
-            "name": "悠悠(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://156.225.30.65:5566",
-                "dataKey": "DxwIstrdWbYpblwn",
-                "dataIv": "DxwIstrdWbYpblwn",
-                "deviceId": "",
-                "version": "119"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "星河",
-            "name": "星河(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://121.62.22.204:9876",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "若惜",
-            "name": "若惜(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://110.40.59.188:9527",
-                "dataKey": "ebad3f1a58b13933",
-                "dataIv": "ebad3f1a58b13933",
-                "deviceId": "",
-                "version": ""
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "外剧",
-            "name": "外剧(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://guowaiju.com",
-                "dataKey": "7xv16h7qgkrs9b1p",
-                "dataIv": "7xv16h7qgkrs9b1p",
-                "deviceId": "",
-                "version": ""
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "鲨鱼",
-            "name": "鲨鱼(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://cms.wlbbq.xyz",
-                "dataKey": "sdev15rwsa96fsde",
-                "dataIv": "sdev15rwsa96fsde",
-                "deviceId": "",
-                "version": "102"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "驿站",
-            "name": "驿站(SP)",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://110.42.107.216:56677",
-                "dataKey": "d7378557d1d9c924",
-                "dataIv": "fb4594f622f34fea",
-                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "永夜",
-            "name": "永夜(SP)",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://cms.neyym.cn",
-                "dataKey": "66247d82fcfaeda9",
-                "dataIv": "70691065ee3c4c54",
-                "jxurl": "http://app.neyym.cn"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "二三",
-            "name": "二三(SP)",
-            "type": 3,
-            "api": "csp_AppMuou",
-            "ext": {
-                "url": "http://cs4.123ysw.com",
-                "dataKey": "d3238930e3ae0724",
-                "dataIv": "d3238930e3ae0724",
-                "jxurl": "https://123ysw.com"
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "再看",
-            "name": "再看(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://149.88.64.161:9525",
-                "dataKey": "123456789ABCDEFG",
-                "dataIv": "123456789ABCDEFG",
-                "deviceId": "",
-                "version": ""
-            },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "人人",
@@ -710,13 +607,13 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "https://svip1.fun",
-                "dataKey": "laodiesdawsswasd",
-                "dataIv": "laodiesdawsswasd",
+                "url": "https://www.xiaohys.com",
+                "dataKey": "ENonBHeVBoYZhVUV",
+                "dataIv": "ENonBHeVBoYZhVUV",
                 "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
-                "version": "105"
+                "version": "166"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "电影",
@@ -730,7 +627,144 @@
                 "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
                 "version": "701"
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "悠悠",
+            "name": "悠悠(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://156.225.30.65:5566",
+                "dataKey": "DxwIstrdWbYpblwn",
+                "dataIv": "DxwIstrdWbYpblwn",
+                "deviceId": "",
+                "version": "119"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "晴天",
+            "name": "晴天(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.sun4k.top",
+                "dataKey": "b025dcd9c289cbb3",
+                "dataIv": "b025dcd9c289cbb3",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "在看",
+            "name": "在看(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://149.88.64.161:9525",
+                "dataKey": "123456789ABCDEFG",
+                "dataIv": "123456789ABCDEFG",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "星河",
+            "name": "星河(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://121.62.22.204:9876",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "若惜",
+            "name": "若惜(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://110.40.59.188:9527",
+                "dataKey": "ebad3f1a58b13933",
+                "dataIv": "ebad3f1a58b13933",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "外剧",
+            "name": "外剧(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://guowaiju.com",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
+                "deviceId": "",
+                "version": ""
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "鲨鱼",
+            "name": "鲨鱼(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://cms.wlbbq.xyz",
+                "dataKey": "sdev15rwsa96fsde",
+                "dataIv": "sdev15rwsa96fsde",
+                "deviceId": "",
+                "version": "102"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "驿站",
+            "name": "驿站(SP)",
+            "type": 3,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://110.42.107.216:56677",
+                "dataKey": "d7378557d1d9c924",
+                "dataIv": "fb4594f622f34fea",
+                "jxurl": "https://qqiqiyiyoukumgtvapiappdyyztvjsoni8n2o0z1ws2n7b6v3x8.68.gy:56789"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "永夜",
+            "name": "永夜(SP)",
+            "type": 3,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cms.neyym.cn",
+                "dataKey": "66247d82fcfaeda9",
+                "dataIv": "70691065ee3c4c54",
+                "jxurl": "http://app.neyym.cn"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
+        },
+        {
+            "key": "二三",
+            "name": "二三(SP)",
+            "type": 3,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://cs4.123ysw.com",
+                "dataKey": "d3238930e3ae0724",
+                "dataIv": "d3238930e3ae0724",
+                "jxurl": "https://123ysw.com"
+            },
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "曼波动漫",
@@ -744,7 +778,7 @@
                 "deviceId": "",
                 "version": ""
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "稀饭动漫",
@@ -758,7 +792,7 @@
                 "deviceId": "",
                 "version": ""
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "咕咕动漫",
@@ -772,7 +806,7 @@
                 "deviceId": "",
                 "version": ""
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "米饭动漫",
@@ -786,7 +820,7 @@
                 "deviceId": "",
                 "version": ""
             },
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "耐看影视",
@@ -794,21 +828,21 @@
             "type": 3,
             "api": "csp_WebNK",
             "ext": "w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "真心影视",
             "name": "真心(SP)",
             "type": 3,
             "api": "csp_WebGZ",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "csp_瓜子",
             "name": "瓜子影视(SP)",
             "type": 3,
             "api": "csp_Gz360",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "光速",
@@ -816,23 +850,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "大梦",
-            "name": "大梦(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9QhUgBx3GxtTiVGKW2EUdoznFA44qgk+2UMgFRBsVPTy5Vuu99xqFetKxAP1cesStoS652zBvk45bfssFJss98/ortS2qhr2lA1mE/gUFVzB1F/NCkbvR04HM6/elu1JXMu1pzEwvZMFtqUQNyun+OtDwbiiVo1zTHngiWb/vgE",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
-            "key": "仓鼠",
-            "name": "仓鼠(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn97DqO5wP33F1y10iaPo6JFu7Gir00j3R0d6YiQaenvx6EGiBJ/LlFQxikHgxre5aUQs2IWp/rVBIYH9Z5N2lw6Wr6XNDhBuprneT4IeVDEibuFC81JN91ioyOFhZ0Eay51Y9BbamMP6wCWeW6UKiIOLLKTzVCa8r7ptIZGmX6oDimujZatCIppyCf81QNmW2g==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
         },
         {
             "key": "云端",
@@ -840,7 +858,15 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
+        },
+        {
+            "key": "csp_Xlys",
+            "name": "修罗影视(SP)",
+            "type": 3,
+            "api": "csp_Xlys",
+            "ext": "https://www.xlys02.com",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
         },
         {
             "key": "牛牛",
@@ -2476,7 +2502,7 @@
             "name": "快看(SP)",
             "type": 3,
             "api": "csp_Kuaikan",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "csp_XYQHiker_农民影视",
@@ -2487,7 +2513,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/农民影视.json",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "mtv_pc_yinfans",
@@ -2617,7 +2643,7 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/虎牙直播.json",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;bcb27d2740df8d21bfc49c507432663a"
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
             "key": "csp_js_斗鱼直播",
