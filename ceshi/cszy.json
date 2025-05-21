@@ -505,8 +505,16 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
         },
         {
-            "key": "光速",
-            "name": "光速(SP)",
+            "key": "享趣",
+            "name": "享趣(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn0eYZTuILswGwxMlX75frrEL8QJjjQDTq1hGIbLmL7k8+QY3d6Nh+B6yvptgD1Wj1c4gikVOerYCKY8jbrFo1M1dpW4vCAPm3gz2utYgdUV6PiwSu4Dg4Vdz4W9lHK0ThV3A8bE9P58UtGOkVHrc+I6/lskCKXkPbgijKyCSyG8YSe9IDiOOCl7qn6z/Q93cKg==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
+        },
+        {
+            "key": "云端",
+            "name": "云端(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE=",
@@ -545,8 +553,8 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
         },
         {
-            "key": "云端",
-            "name": "云端(SP)",
+            "key": "光速",
+            "name": "光速(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "sHR2rlsfjI4L3t4RXQMkn97hxHYaEbu5lFfPUXOxEzpAZL11z+ayZEbLSb3vs/v8ZS0i6U3Oh/aCVpUdIeZzRgc5TQyB2k7aC0UwqxoW281lBnRyLoSPb+ejqJ92E4RYuH9BABywIr8NA9Bn0Ndnl5c+AJCGNVdUwDUcd6fmGzQoQ+VuzRpX5xfgCbnpjcTp56dL50nhDb7IIe7CtKv7pA==",
