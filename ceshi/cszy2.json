@@ -517,14 +517,14 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747496649378/spider.jar;md5;4beda75032cb6b0ba91d1ba0ae3a9658"
         },
         {
-            "key": "牛马",
-            "name": "牛马(SP)",
+            "key": "诺雪",
+            "name": "诺雪(SP)",
             "type": 3,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://nm.xxxc137.top",
-                "dataKey": "a006661b01bdebbd",
-                "dataIv": "a006661b01bdebbd",
+                "url": "https://appcms.rx4k.top",
+                "dataKey": "LiGFzV6csf21zsu6",
+                "dataIv": "LiGFzV6csf21zsu6",
                 "deviceId": "",
                 "version": ""
             },
