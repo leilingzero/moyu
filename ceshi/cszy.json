@@ -600,49 +600,49 @@
             "key": "csp_魔方",
             "name": "魔方(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/魔方影视APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/魔方影视APP.py"
         },
         {
             "key": "csp_火车",
             "name": "火车(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/火车太顺APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/火车太顺APP.py"
         },
         {
             "key": "csp_美帕",
             "name": "美帕(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/美帕APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/美帕APP.py"
         },
         {
             "key": "csp_若惜",
             "name": "若惜(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/若惜追剧APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/若惜追剧APP.py"
         },
         {
             "key": "csp_py_悠悠",
             "name": "悠悠(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/悠悠APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/悠悠APP.py"
         },
         {
             "key": "csp_py_小苹果",
             "name": "小苹果(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/小苹果APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/小苹果APP.py"
         },
         {
             "key": "csp_云端",
             "name": "云端(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云端APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/云端APP.py"
         },
         {
             "key": "csp_云速",
             "name": "云速(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/云速影视APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/云速影视APP.py"
         },
         {
             "key": "csp_光速",
@@ -666,73 +666,73 @@
             "key": "csp_恋鱼",
             "name": "恋鱼(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/恋鱼影视APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/恋鱼影视APP.py"
         },
         {
             "key": "csp_奇迹",
             "name": "奇迹(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/奇迹APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/奇迹APP.py"
         },
         {
             "key": "csp_零度",
             "name": "零度(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/零度影视APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/零度影视APP.py"
         },
         {
             "key": "csp_海马",
             "name": "海马(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/海马影视APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/海马影视APP.py"
         },
         {
             "key": "csp_热播",
             "name": "热播(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/热播APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/热播APP.py"
         },
         {
             "key": "csp_国外剧",
             "name": "国外剧(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/国外剧APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/国外剧APP.py"
         },
         {
             "key": "csp_绝影",
             "name": "绝影(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/绝对影视.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/绝对影视.py"
         },
         {
             "key": "csp_骚火",
             "name": "骚火(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/骚火电影.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/骚火电影.py"
         },
         {
             "key": "csp_小红",
             "name": "小红(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/小红影视.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/小红影视.py"
         },
         {
             "key": "csp_4KAV",
             "name": "4K影视(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/4KAV.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/4KAV.py"
         },
         {
             "key": "csp_哇哇",
             "name": "哇哇(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/哇哇APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/哇哇APP.py"
         },
         {
             "key": "csp_柯南",
             "name": "柯南(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/柯南影视.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/柯南影视.py"
         },
         {
             "key": "csp_py_荐片",
@@ -750,25 +750,25 @@
             "key": "csp_MiFun",
             "name": "MiFun(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/MiFunAPP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/MiFunAPP.py"
         },
         {
             "key": "csp_三号动漫",
             "name": "三号动漫(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/三号动漫APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/三号动漫APP.py"
         },
         {
             "key": "csp_CliCli",
             "name": "CliCli(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/CliCli动漫APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/CliCli动漫APP.py"
         },
         {
             "key": "嗷呜动漫",
             "name": "嗷呜动漫(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/嗷呜动漫.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/嗷呜动漫.py"
         },
         {
             "key": "蓝莓",
@@ -786,25 +786,25 @@
             "key": "剧多2",
             "name": "剧多2(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/app/剧多短剧APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/剧多短剧APP.py"
         },
         {
             "key": "csp_红果",
             "name": "红果(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/红果网页.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/红果网页.py"
         },
         {
             "key": "csp_偷乐",
             "name": "偷乐(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/偷乐短剧.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/偷乐短剧.py"
         },
         {
             "key": "csp_甜圈短剧",
             "name": "甜圈短剧(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/html/甜圈短剧.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/甜圈短剧.py"
         },
         {
             "key": "csp_游戏直播",
@@ -816,25 +816,25 @@
             "key": "优酷py",
             "name": "优(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/优.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/优.py"
         },
         {
             "key": "腾讯py",
             "name": "腾(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/腾.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/腾.py"
         },
         {
             "key": "芒果py",
             "name": "芒(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/芒.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/芒.py"
         },
         {
             "key": "爱奇艺py",
             "name": "爱(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/JJBJJ/PyramidStore/main/plugin/official/爱.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
         {
             "key": "csp_xpath_tvyun",
