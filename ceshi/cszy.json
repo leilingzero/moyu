@@ -312,16 +312,6 @@
             }
         },
         {
-            "key": "港迷",
-            "name": "港迷影视(SP)",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
-        },
-        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
@@ -601,18 +591,6 @@
             "name": "魔方(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/魔方影视APP.py"
-        },
-        {
-            "key": "csp_火车",
-            "name": "火车(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/火车太顺APP.py"
-        },
-        {
-            "key": "csp_美帕",
-            "name": "美帕(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/美帕APP.py"
         },
         {
             "key": "csp_若惜",
@@ -3183,9 +3161,24 @@
             "url": "https://livetv.gungfu2012.tk/"
         },
         {
+            "name": "MyTvSuper",
+            "type": 0,
+            "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/"
+        },
+        {
             "name": "mytv666",
             "type": 0,
             "url": "http://api.mytv666.top/lives/free.php?type=txt"
+        },
+        {
+            "name": "Gather",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather"
+        },
+        {
+            "name": "MyTV",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/MyTV"
         },
         {
             "name": "tongxunlu",
@@ -3278,7 +3271,7 @@
             "logo": "https://epg.v1.mk/logo/{name}.png"
         },
         {
-            "name": "Gather",
+            "name": "YanG-1989",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
             "playerType": 1
