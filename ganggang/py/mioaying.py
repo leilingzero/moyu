@@ -1,21 +1,23 @@
-import re
-import sys
-from Crypto.Hash import MD5
-sys.path.append("..")
-from Crypto.Cipher import AES
-from Crypto.Util.Padding import pad, unpad
-from urllib.parse import quote, urlparse
-from base64 import b64encode, b64decode
+# -*- coding: utf-8 -*-
+# by @嗷呜
 import json
-import time
+import random
+import sys
+from base64 import b64encode, b64decode
+from concurrent.futures import ThreadPoolExecutor
+sys.path.append('..')
 from base.spider import Spider
-
 
 class Spider(Spider):
 
-    def init(self, extend="http://121.204.251.70:12000"):
-        self.host = ''
-        self.did=self.getdid()
+    def init(self, extend=""):
+        did=self.getdid()
+        self.headers.update({'deviceId': did})
+        token=self.gettk()
+        self.headers.update({'token': token})
+        pass
+
+    def getName(self):
         pass
 
     def isVideoFormat(self, url):
@@ -24,172 +26,184 @@ class Spider(Spider):
     def manualVideoCheck(self):
         pass
 
-    def action(self, action):
-        pass
-
     def destroy(self):
         pass
 
+    host='http://zero.mitotv.com'
+
+    headers = {
+        'User-Agent': 'okhttp/4.12.0',
+        'client': 'app',
+        'deviceType': 'Android'
+    }
+
     def homeContent(self, filter):
-        data = self.getdata("/api.php/getappapi.index/initV119")
-        dy = {"class": "类型", "area": "地区", "lang": "语言", "year": "年份", "letter": "字母", "by": "排序",
-              "sort": "排序"}
-        filters = {}
-        classes = []
-        json_data = data["type_list"]
-        homedata = data["banner_list"][8:]
-        for item in json_data:
-            if item["type_name"] == "全部":
-                continue
-            has_non_empty_field = False
-            jsontype_extend = json.loads(item["type_extend"])
-            homedata.extend(item["recommend_list"])
-            jsontype_extend["sort"] = "最新,最热,最赞"
-            classes.append({"type_name": item["type_name"], "type_id": item["type_id"]})
-            for key in dy:
-                if key in jsontype_extend and jsontype_extend[key].strip() != "":
-                    has_non_empty_field = True
-                    break
-            if has_non_empty_field:
-                filters[str(item["type_id"])] = []
-                for dkey in jsontype_extend:
-                    if dkey in dy and jsontype_extend[dkey].strip() != "":
-                        values = jsontype_extend[dkey].split(",")
-                        value_array = [{"n": value.strip(), "v": value.strip()} for value in values if
-                                       value.strip() != ""]
-                        filters[str(item["type_id"])].append({"key": dkey, "name": dy[dkey], "value": value_array})
+        data=self.post(f"{self.host}/api/v1/app/screen/screenType", headers=self.headers).json()
         result = {}
-        result["class"] = classes
-        result["filters"] = filters
-        result["list"] = homedata[1:]
+        cate = {
+            "类型": "classify",
+            "地区": "region",
+            "年份": "year"
+        }
+        sort={
+            'key':'sreecnTypeEnum',
+            'name': '排序',
+            'value':[{'n':'人气','v':'POPULARITY'},{'n':'评分','v':'COLLECT'},{'n':'热搜','v':'HOT'}]
+        }
+        classes = []
+        filters = {}
+        for k in data['data']:
+            classes.append({
+                'type_name': k['name'],
+                'type_id': k['id']
+            })
+            filters[k['id']] = [
+                {
+                    'name': v['name'],
+                    'key': cate[v['name']],
+                    'value': [
+                        {'n': i['name'], 'v': i['name']}
+                        for i in v['children']
+                    ]
+                }
+                for v in k['children']
+            ]
+            filters[k['id']].append(sort)
+        result['class'] = classes
+        result['filters'] = filters
         return result
 
     def homeVideoContent(self):
-        pass
+        jdata={"condition":64,"pageNum":1,"pageSize":40}
+        data=self.post(f"{self.host}/api/v1/app/recommend/recommendSubList", headers=self.headers, json=jdata).json()
+        return {'list':self.getlist(data['data']['records'])}
 
     def categoryContent(self, tid, pg, filter, extend):
-        body = {"area": extend.get('area', '全部'), "year": extend.get('year', '全部'), "type_id": tid, "page": pg,
-                "sort": extend.get('sort', '最新'), "lang": extend.get('lang', '全部'),
-                "class": extend.get('class', '全部')}
+        jdata = {
+            'condition': {
+                'sreecnTypeEnum': 'NEWEST',
+                'typeId': tid,
+            },
+            'pageNum': int(pg),
+            'pageSize': 40,
+        }
+        jdata['condition'].update(extend)
+        data = self.post(f"{self.host}/api/v1/app/screen/screenMovie", headers=self.headers, json=jdata).json()
         result = {}
-        data = self.getdata("/api.php/getappapi.index/typeFilterVodList", body)
-        result["list"] = data["recommend_list"]
-        result["page"] = pg
-        result["pagecount"] = 9999
-        result["limit"] = 90
-        result["total"] = 999999
+        result['list'] = self.getlist(data['data']['records'])
+        result['page'] = pg
+        result['pagecount'] = 9999
+        result['limit'] = 90
+        result['total'] = 999999
         return result
 
     def detailContent(self, ids):
-        body = f"vod_id={ids[0]}"
-        data = self.getdata("/api.php/getappapi.index/vodDetail", body)
-        vod = data["vod"]
-        play = []
-        names = []
-        for itt in reversed(data["vod_play_list"]):
-            a = []
-            names.append(itt["player_info"]["show"])
-            for it in itt['urls']:
-                it['user_agent'] = itt["player_info"].get("user_agent")
-                it["parse"] = itt["player_info"].get("parse")
-                a.append(f"{it['name']}${self.e64(json.dumps(it))}")
-            play.append("#".join(a))
-        vod["vod_play_from"] = "$$$".join(names)
-        vod["vod_play_url"] = "$$$".join(play)
-        result = {"list": [vod]}
-        return result
+        ids = ids[0].split('@@')
+        jdata = {"id": int(ids[0]), "typeId": ids[-1]}
+        v = self.post(f"{self.host}/api/v1/app/play/movieDesc", headers=self.headers, json=jdata).json()
+        v = v['data']
+        vod = {
+            'type_name': v.get('classify'),
+            'vod_year': v.get('year'),
+            'vod_area': v.get('area'),
+            'vod_actor': v.get('star'),
+            'vod_director': v.get('director'),
+            'vod_content': v.get('introduce'),
+            'vod_play_from': '',
+            'vod_play_url': ''
+        }
+        c = self.post(f"{self.host}/api/v1/app/play/movieDetails", headers=self.headers, json=jdata).json()
+        l = c['data']['moviePlayerList']
+        n = {str(i['id']): i['moviePlayerName'] for i in l}
+        m = jdata.copy()
+        m.update({'playerId': str(l[0]['id'])})
+        pd = self.getv(m, c['data']['episodeList'])
+        if len(l)-1:
+            with ThreadPoolExecutor(max_workers=len(l)-1) as executor:
+                future_to_player = {executor.submit(self.getd, jdata, player): player for player in l[1:]}
+                for future in future_to_player:
+                    try:
+                        o,p = future.result()
+                        pd.update(self.getv(o,p))
+                    except Exception as e:
+                        print(f"请求失败: {e}")
+        w, e = [],[]
+        for i, x in pd.items():
+            if x:
+                w.append(n[i])
+                e.append(x)
+        vod['vod_play_from'] = '$$$'.join(w)
+        vod['vod_play_url'] = '$$$'.join(e)
+        return {'list': [vod]}
 
     def searchContent(self, key, quick, pg="1"):
-        body = f"keywords={key}&type_id=0&page={pg}"
-        data = self.getdata("/api.php/getappapi.index/searchList", body)
-        result = {"list": data["search_list"], "page": pg}
-        return result
+        jdata={
+          "condition": {
+            "value": key
+          },
+          "pageNum": int(pg),
+          "pageSize": 40
+        }
+        data=self.post(f"{self.host}/api/v1/app/search/searchMovie", headers=self.headers, json=jdata).json()
+        return {'list':self.getlist(data['data']['records']),'page':pg}
 
     def playerContent(self, flag, id, vipFlags):
-        ids = json.loads(self.d64(id))
-        h = {"User-Agent": (ids['user_agent'] or "okhttp/3.14.9")}
+        jdata=json.loads(self.d64(id))
+        data = self.post(f"{self.host}/api/v1/app/play/movieDetails", headers=self.headers, json=jdata).json()
         try:
-            if re.search(r'url=', ids['parse_api_url']):
-                data = self.fetch(ids['parse_api_url'], headers=h, timeout=10).json()
-                url = data.get('url') or data['data'].get('url')
-            else:
-                body = f"parse_api={ids.get('parse') or ids['parse_api_url'].replace(ids['url'], '')}&url={quote(self.aes(ids['url'], True))}&token={ids.get('token')}"
-                b = self.getdata("/api.php/getappapi.index/vodParse", body)['json']
-                url = json.loads(b)['url']
-                if 'error' in url: raise ValueError(f"解析失败: {url}")
-            p = 0
+            params={'playerUrl':data['data']['url'],'playerId':jdata['playerId']}
+            pd=self.fetch(f"{self.host}/api/v1/app/play/analysisMovieUrl", headers=self.headers, params=params).json()
+            url,p=pd['data'],0
         except Exception as e:
-            print('错误信息：', e)
-            url, p = ids['url'], 1
-
-        if re.search(r'\.jpg|\.png|\.jpeg', url):
-            url = self.Mproxy(url)
-        result = {}
-        result["parse"] = p
-        result["url"] = url
-        result["header"] = h
-        return result
+            print(f"请求失败: {e}")
+            url,p=data['data']['url'],0
+        return  {'parse': p, 'url': url, 'header': {'User-Agent': 'okhttp/4.12.0'}}
 
     def localProxy(self, param):
-        headers = {"User-Agent": "okhttp/3.14.9"}
-        url = self.d64(param['url'])
-        ydata = self.fetch(url, headers=headers, allow_redirects=False)
-        data = ydata.content.decode('utf-8')
-        if ydata.headers.get('Location'):
-            url = ydata.headers['Location']
-            data = self.fetch(url, headers=headers).content.decode('utf-8')
-        lines = data.strip().split('\n')
-        last_r = url[:url.rfind('/')]
-        parsed_url = urlparse(url)
-        durl = parsed_url.scheme + "://" + parsed_url.netloc
-        for index, string in enumerate(lines):
-            if '#EXT' not in string:
-                if 'http' not in string:
-                    domain = last_r if string.count('/') < 2 else durl
-                    string = domain + ('' if string.startswith('/') else '/') + string
-                if string.split('.')[-1].split('?')[0] == 'm3u8':
-                    string = self.Mproxy(string)
-                lines[index] = string
-        data = '\n'.join(lines)
-        return [200, "application/vnd.apple.mpegur", data]
+        pass
+
+    def liveContent(self, url):
+        pass
+
+    def gettk(self):
+        data=self.fetch(f"{self.host}/api/v1/app/user/visitorInfo", headers=self.headers).json()
+        return data['data']['token']
 
     def getdid(self):
-        did=self.getCache('did')
+        did=self.getCache('ldid')
         if not did:
-            t = str(int(time.time()))
-            did = self.md5(t)
-            self.setCache('did', did)
+            hex_chars = '0123456789abcdef'
+            did =''.join(random.choice(hex_chars) for _ in range(16))
+            self.setCache('ldid',did)
         return did
 
-    def aes(self, text, b=None):
-        key = b"F51F5D52D23C5181"
-        cipher = AES.new(key, AES.MODE_CBC, key)
-        if b:
-            ct_bytes = cipher.encrypt(pad(text.encode("utf-8"), AES.block_size))
-            ct = b64encode(ct_bytes).decode("utf-8")
-            return ct
-        else:
-            pt = unpad(cipher.decrypt(b64decode(text)), AES.block_size)
-            return pt.decode("utf-8")
+    def getd(self,jdata,player):
+        x = jdata.copy()
+        x.update({'playerId': str(player['id'])})
+        response = self.post(f"{self.host}/api/v1/app/play/movieDetails", headers=self.headers, json=x).json()
+        return x, response['data']['episodeList']
 
-    def header(self):
-        t = str(int(time.time()))
-        header = {
-          "User-Agent": "okhttp/3.14.9", "app-version-code": "110", "app-ui-mode": "light",
-          "app-api-verify-time": t, "app-user-device-id": self.did,
-          "app-api-verify-sign": self.aes(t, True),
-          "app-user-token":"fa3fa8badd0d3618adacac3978ffc8a2997a0e5b44f934cde43ee10b5a626cb5",
-          "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
-        }
-        return header
+    def getv(self,d,c):
+        f={d['playerId']:''}
+        g=[]
+        for i in c:
+            j=d.copy()
+            j.update({'episodeId':str(i['id'])})
+            g.append(f"{i['episode']}${self.e64(json.dumps(j))}")
+        f[d['playerId']]='#'.join(g)
+        return f
 
-    def getdata(self, path, data=None):
-        vdata = self.post(f"{self.host}{path}", headers=self.header(), data=data, timeout=10).json()['data']
-        data1 = self.aes(vdata)
-        return json.loads(data1)
-
-    def Mproxy(self, url):
-        return f"{self.getProxyUrl()}&url={self.e64(url)}&type=m3u8"
+    def getlist(self,data):
+        videos = []
+        for i in data:
+            videos.append({
+                'vod_id': f"{i['id']}@@{i['typeId']}",
+                'vod_name': i.get('name'),
+                'vod_pic': i.get('cover'),
+                'vod_year': i.get('year'),
+                'vod_remarks': i.get('totalEpisode')
+            })
+        return videos
 
     def e64(self, text):
         try:
@@ -200,7 +214,7 @@ class Spider(Spider):
             print(f"Base64编码错误: {str(e)}")
             return ""
 
-    def d64(self, encoded_text):
+    def d64(self,encoded_text):
         try:
             encoded_bytes = encoded_text.encode('utf-8')
             decoded_bytes = b64decode(encoded_bytes)
@@ -208,8 +222,3 @@ class Spider(Spider):
         except Exception as e:
             print(f"Base64解码错误: {str(e)}")
             return ""
-
-    def md5(self, text):
-        h = MD5.new()
-        h.update(text.encode('utf-8'))
-        return h.hexdigest()
