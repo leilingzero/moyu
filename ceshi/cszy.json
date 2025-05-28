@@ -471,14 +471,6 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
         },
         {
-            "key": "仓鼠",
-            "name": "仓鼠(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn97DqO5wP33F1y10iaPo6JFu7Gir00j3R0d6YiQaenvx6EGiBJ/LlFQxikHgxre5aUQs2IWp/rVBIYH9Z5N2lw6Wr6XNDhBuprneT4IeVDEibuFC81JN91ioyOFhZ0Eay51Y9BbamMP6wCWeW6UKiIOLLKTzVCa8r7ptIZGmX6oDimujZatCIppyCf81QNmW2g==",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
-        },
-        {
             "key": "彼岸",
             "name": "彼岸(SP)",
             "type": 3,
@@ -572,6 +564,12 @@
             "type": 3,
             "api": "csp_Gz360",
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a"
+        },
+        {
+            "key": "仓鼠",
+            "name": "仓鼠(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/cangshu.py"
         },
         {
             "key": "牛牛",
@@ -3173,12 +3171,14 @@
         {
             "name": "Gather",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather"
+            "url": "https://tv.iill.top/m3u/Gather",
+            "ua": "xieanqishiwoerzi/0.0.1"
         },
         {
             "name": "MyTV",
             "type": 0,
-            "url": "https://tv.iill.top/m3u/MyTV"
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "ua": "xieanqishiwoerzi/0.0.1"
         },
         {
             "name": "tongxunlu",
