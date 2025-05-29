@@ -1713,6 +1713,20 @@
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/毒蛇.js"
         },
         {
+            "key": "剧圈圈(js)",
+            "name": "剧圈圈(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/剧圈圈2.js"
+        },
+        {
+            "key": "看了么(js)",
+            "name": "看了么(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/看了么3.js"
+        },
+        {
             "key": "六月听书(js)",
             "name": "六月听书(js)",
             "type": 3,
