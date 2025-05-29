@@ -572,6 +572,18 @@
             "api": "https://13826.kstore.space/cangshu.py"
         },
         {
+            "key": "水滴",
+            "name": "水滴(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/SHUIDI.py"
+        },
+        {
+            "key": "剧霸",
+            "name": "剧霸(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/jubaba.py"
+        },
+        {
             "key": "牛牛",
             "name": "牛牛(py)",
             "type": 3,
