@@ -1051,6 +1051,20 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
+            "key": "py_appV2",
+            "name": "appV2(py)",
+            "type": 3,
+            "api": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/App.py",
+            "ext": "http://cms.lygdyy.cn/"
+        },
+        {
+            "key": "csp_臻彩",
+            "name": "臻彩(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://cms.lygdyy.cn/api.php/app/"
+        },
+        {
             "key": "csp_V2_快看",
             "name": "快看(V2)",
             "type": 3,
