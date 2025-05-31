@@ -601,19 +601,19 @@
             "key": "仓鼠",
             "name": "仓鼠(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/cangshu.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/cangshu.py"
         },
         {
             "key": "水滴",
             "name": "水滴(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/SHUIDI.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/SHUIDI.py"
         },
         {
             "key": "在看",
             "name": "在看(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/zaikan.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/zaikan.py"
         },
         {
             "key": "剧霸",
@@ -625,7 +625,7 @@
             "key": "牛牛",
             "name": "牛牛(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/mito.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mito.py",
             "ext": "http://172.83.156.150:1010"
         },
         {
@@ -1070,7 +1070,7 @@
             "key": "py_appV2",
             "name": "appV2(py)",
             "type": 3,
-            "api": "https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/App.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/App.py",
             "ext": "http://cms.lygdyy.cn/"
         },
         {
