@@ -582,6 +582,22 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748584216508/0530-1.jar;md5;e95605abf174b6c0fc155c7247aa0bdb"
         },
         {
+            "key": "csp_仓鼠",
+            "name": "仓鼠(SP)",
+            "type": 3,
+            "api": "csp_AppGet2",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ==",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748584216508/0530-1.jar;md5;e95605abf174b6c0fc155c7247aa0bdb"
+        },
+        {
+            "key": "csp_水滴",
+            "name": "水滴(SP)",
+            "type": 3,
+            "api": "csp_AppGet2",
+            "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1748584216508/0530-1.jar;md5;e95605abf174b6c0fc155c7247aa0bdb"
+        },
+        {
             "key": "仓鼠",
             "name": "仓鼠(py)",
             "type": 3,
