@@ -629,12 +629,6 @@
             "ext": "http://172.83.156.150:1010"
         },
         {
-            "key": "MiFun",
-            "name": "MiFun(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mifun.py"
-        },
-        {
             "key": "奇妙",
             "name": "奇妙(py)",
             "type": 3,
@@ -783,6 +777,12 @@
             "name": "MiFun(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/MiFunAPP.py"
+        },
+        {
+            "key": "MiFun",
+            "name": "MiFun2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mifun.py"
         },
         {
             "key": "csp_三号动漫",
