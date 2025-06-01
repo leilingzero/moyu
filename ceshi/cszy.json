@@ -622,6 +622,12 @@
             "api": "https://13826.kstore.space/jubaba.py"
         },
         {
+            "key": "剧爸爸",
+            "name": "剧爸爸(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/jubaba2.py"
+        },
+        {
             "key": "牛牛",
             "name": "牛牛(py)",
             "type": 3,
@@ -773,14 +779,8 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/华数TV.py"
         },
         {
-            "key": "csp_MiFun",
-            "name": "MiFun(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/MiFunAPP.py"
-        },
-        {
             "key": "MiFun",
-            "name": "MiFun2(py)",
+            "name": "MiFun(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mifun.py"
         },
