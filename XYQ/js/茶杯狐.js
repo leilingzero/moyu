@@ -7,7 +7,8 @@
 
 var rule = {
     title: "新茶杯狐",
-    host: "https://www.cbhfox.com/",
+    host: "https://www.cbhtvtv.com/",
+//  host: "https://www.cbhfox.com/",
     url: "/chbys/fyfilter.html",
     searchable: 2,
     quickSearch: 0,
