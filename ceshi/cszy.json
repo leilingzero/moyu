@@ -625,8 +625,14 @@
             "key": "牛牛",
             "name": "牛牛(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mito.py",
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mito2.py",
             "ext": "http://172.83.156.150:1010"
+        },
+        {
+            "key": "MiFun",
+            "name": "MiFun(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/mito.py"
         },
         {
             "key": "奇妙",
