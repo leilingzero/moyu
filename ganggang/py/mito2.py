@@ -89,7 +89,7 @@ class Spider(Spider):
         return {'list':videos,'page':pg}
 
     def playerContent(self, flag, id, vipFlags):
-        return  {'jx':1,'playUrl':'','parse': 0, 'url': id, 'header': self.headers}
+        return  {'jx':0,'playUrl':'','parse': 0, 'url': id, 'header': self.headers}
 #       return  {'jx':1,'playUrl':'','parse': 1, 'url': id, 'header': self.headers}
 
     def localProxy(self, param):
