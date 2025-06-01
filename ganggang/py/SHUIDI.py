@@ -137,6 +137,7 @@ class Spider(Spider):
             'User-Agent': 'okhttp/3.14.9'
         }
         response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/ext/shudi.txt',headers=headers).text
+//      response = self.fetch('https://cnb.cool/xiaomideyun/xiaomideyun/-/git/raw/main/shudi.txt',headers=headers).text
         return response.strip()
 
     def aes(self, text, b=None):
