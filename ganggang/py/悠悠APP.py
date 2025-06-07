@@ -141,7 +141,7 @@ class Spider(Spider):
         headers = {
             'User-Agent': 'okhttp/3.14.9'
         }
-        host = self.fetch('http://46.203.125.54:7070', headers=headers).text
+        host = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/ext/youyou.txt', headers=headers).text
         return host.strip()
 
     phend = {
