@@ -585,7 +585,7 @@
             "key": "旺旺",
             "name": "旺旺(py)",
             "type": 3,
-            "api": "https://13826.kstore.space/wwys.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/wwys.py"
         },
         {
             "key": "剧霸",
@@ -634,13 +634,13 @@
             "key": "csp_py_悠悠",
             "name": "悠悠(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/悠悠APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/悠悠APP.py"
         },
         {
             "key": "csp_py_小苹果",
             "name": "小苹果(py)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/小苹果APP.py"
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/小苹果APP.py"
         },
         {
             "key": "csp_云端",
