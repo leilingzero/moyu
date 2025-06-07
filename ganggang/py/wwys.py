@@ -146,7 +146,8 @@ class Spider(Spider):
         pass
 
     def gethost(self):
-        data = pq(self.fetch('https://www.wwgz.cn', headers=self.headers).text)
+        data = pq(self.fetch('https://m.wwgz.cn', headers=self.headers).text)
+#       data = pq(self.fetch('https://www.wwgz.cn', headers=self.headers).text)
         hlist = data('a[rel="nofollow"] b').text().split(' ')
         return self.host_late(hlist)
 
