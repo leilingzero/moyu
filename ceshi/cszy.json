@@ -1886,12 +1886,19 @@
             "api": "https://zhxy.eu.org/api/蓝莓短剧[短]"
         },
         {
+            "key": "csp_xml_黑木",
+            "name": "黑木影视(xml)",
+            "type": 1,
+            "api": "https://heimuer.ggff.net/api.php/tvbox",
+            "header":{
+                "User-Agent":"Lavf/58.12.100"
+            }
+        },
+        {
             "key": "csp_xml_墨白",
             "name": "墨白影视(xml)",
             "type": 1,
-            "api": "https://nm.xxxc137.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://nm.xxxc137.top/api.php/provide/vod/"
         },
         {
             "key": "csp_xml_小慧",
@@ -1974,10 +1981,7 @@
             "key": "csp_xml_火狐",
             "name": "火狐资源(xml)",
             "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list"
         },
         {
             "key": "360资源",
@@ -2063,7 +2067,7 @@
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 0,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "changeable": 1
         },
         {
@@ -2079,19 +2083,13 @@
             "key": "金鹰资源",
             "name": "金鹰资源(xml)",
             "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
+            "api": "https://jyzyapi.com/provide/vod/"
         },
         {
             "key": "影图",
             "name": "影图(xml)",
             "type": 1,
-            "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
+            "api": "https://cj.vodimg.top/api.php/provide/vod/"
         },
         {
             "key": "魔爪",
@@ -2109,9 +2107,7 @@
             "key": "旺旺短剧",
             "name": "旺旺短剧(xml)",
             "type": 1,
-            "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1
+            "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list"
         },
         {
             "key": "csp_Kuaikan",
@@ -2120,8 +2116,6 @@
             "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
         {
@@ -2131,7 +2125,6 @@
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQHiker/农民影视.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
         },
