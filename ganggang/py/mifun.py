@@ -139,8 +139,7 @@ class Spider(Spider):
         headers = {
             'User-Agent': 'okhttp/3.14.9'
         }
-        response = self.fetch('http://45.43.29.111:9527',headers=headers).text
-#       response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/ext/mifun.txt',headers=headers).text
+        response = self.fetch('https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/ext/mifun.txt',headers=headers).text
 #       response = self.fetch('https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt',headers=headers).text
         return self.host_late(response.split('\n'))
 
