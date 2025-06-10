@@ -35,21 +35,6 @@
             "searchable": 1
         },
         {
-            "key": "dadi",
-            "name": "大地资源",
-            "type": 0,
-            "api": "http://dadiapi.com/api.php",
-            "searchable": 1
-        },
-        {
-            "key": "大地",
-            "name": "大地采集",
-            "type": 0,
-            "api": "https://dadiapi.com/apple_m3u8.php",
-            "playUrl": "https://play.dadiapi.com/watch?url=",
-            "searchable": 1
-        },
-        {
             "key": "f2dcj6.com",
             "name": "成人11",
             "type": 0,
@@ -59,8 +44,8 @@
         {
             "key": "lbapiby.com",
             "name": "成人24",
-            "type": 0,
-            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "type": 1,
+            "api": "http://lbapiby.com/api.php/provide/vod/",
             "searchable": 1
         },
         {
@@ -156,17 +141,10 @@
             "searchable": 1
         },
         {
-            "key": "caoliu1",
-            "name": "草榴1",
-            "type": 0,
-            "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
-            "searchable": 1
-        },
-        {
-            "key": "caoliu2",
-            "name": "草榴2",
+            "key": "caoliu",
+            "name": "草榴",
             "type": 1,
-            "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
+            "api": "https://www.caoliuzyw.com/api.php/provide/vod/",
             "searchable": 1
         },
         {
@@ -275,6 +253,21 @@
             "name": "番号采集(飞)",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "dadi",
+            "name": "大地资源(飞)",
+            "type": 0,
+            "api": "http://dadiapi.com/api.php",
+            "searchable": 1
+        },
+        {
+            "key": "大地",
+            "name": "大地采集(飞)",
+            "type": 0,
+            "api": "https://dadiapi.com/apple_m3u8.php",
+            "playUrl": "https://play.dadiapi.com/watch?url=",
             "searchable": 1
         },
         {
