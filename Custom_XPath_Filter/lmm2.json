@@ -63,14 +63,14 @@
  "dtUrlNameR": "",
  "playUrl": "https://dm.g916.com/play/{playUrl}.html",
  "playUa": "",
- "searchUrl": "https://dm.g916.com/ajax/suggest?mid=1&wd={wd}",
- "scVodNode": "json:list",
- "scVodName": "name",
- "scVodId": "id",
- "scVodIdR": "",
- "scVodImg": "pic",
- "scVodImgR": "",
- "scVodMark": "",
+ "searchUrl": "https://dm.g916.com/vod/search.html?wd={wd}",
+ "scVodNode": "//div[@class='col-6 col-sm-4 col-lg-3']",
+ "scVodName": "//div[@class='detail']/h6/a/text()",
+ "scVodId": "//div[@class='detail']/h6/a/@href",
+ "scVodIdR": "/detail/(\\w+).html",
+ "scVodImg": "//div[@class='img-box cover-md']/a/img/@data-src",
+ "scVodImgR": "\\S+(http\\S+)",
+ "scVodMark": "//div[@class='img-box cover-md']/a/div/span/text()",
  "filter": {
     "1": [
       {
