@@ -7,9 +7,7 @@
             "key": "量子",
             "name": "量子",
             "type": 0,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml",
             "categories": [
                 "伦理片"
             ]
@@ -18,12 +16,16 @@
             "key": "非凡",
             "name": "非凡",
             "type": 0,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
-            "searchable": 1,
-            "changeable": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
             "categories": [
                 "伦理片"
             ]
+        },
+        {
+            "key": "Zuise",
+            "name": "最色",
+            "type": 3,
+            "api": "csp_Zuise"
         },
         {
             "key": "bttcj.com",
@@ -36,7 +38,7 @@
             "key": "dadi",
             "name": "大地资源",
             "type": 0,
-            "api": "https://dadiapi.com/api.php",
+            "api": "http://dadiapi.com/api.php",
             "searchable": 1
         },
         {
@@ -111,80 +113,10 @@
             "searchable": 1
         },
         {
-            "key": "森林",
-            "name": "森林资源",
-            "type": 1,
-            "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
-        {
             "key": "155api",
             "name": "155资源",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
-        {
-            "key": "apilyzy",
-            "name": "花椒采集",
-            "type": 0,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-            "searchable": 1
-        },
-        {
-            "key": "番号",
-            "name": "番号采集",
-            "type": 1,
-            "api": "http://fhapi9.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "鲨鱼",
-            "name": "鲨鱼采集",
-            "type": 1,
-            "api": "https://shayuapi.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "易看",
-            "name": "易看采集",
-            "type": 1,
-            "api": "https://api.yikanapi.com/api.php/provide/vod/",
-            "searchable": 0
-        },
-        {
-            "key": "小湿妹",
-            "name": "湿妹采集",
-            "type": 0,
-            "api": "http://www.afasu.com/api/xml.php",
-            "searchable": 1
-        },
-        {
-            "key": "奶茶",
-            "name": "奶茶采集",
-            "type": 0,
-            "api": "https://caiji.naichaapi.com/inc/api.php",
-            "searchable": 1
-        },
-        {
-            "key": "辣椒",
-            "name": "辣椒采集",
-            "type": 1,
-            "api": "https://apilj.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "奶香香",
-            "name": "奶香采集",
-            "type": 1,
-            "api": "https://naixxzy.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "naixiang",
-            "name": "奶香资源",
-            "type": 1,
-            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         },
         {
@@ -202,39 +134,11 @@
             "searchable": 1
         },
         {
-            "key": "探探",
-            "name": "探探采集",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/",
-            "searchable": 0
-        },
-        {
             "key": "玉兔",
             "name": "玉兔采集",
             "type": 1,
             "api": "https://apiyutu.com/api.php/provide/vod/",
             "playUrl": "https://yutujx.com/?url=",
-            "searchable": 1
-        },
-        {
-            "key": "森林专场",
-            "name": "森林采集",
-            "type": 1,
-            "api": "https://slapibf.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "芒果专场",
-            "name": "芒果采集",
-            "type": 1,
-            "api": "https://mgzyz1.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "523专场",
-            "name": "523采集",
-            "type": 1,
-            "api": "https://523zyw.me/inc/apijson_vod.php",
             "searchable": 1
         },
         {
@@ -253,14 +157,14 @@
         },
         {
             "key": "caoliu1",
-            "name": "草榴资源1",
+            "name": "草榴1",
             "type": 0,
             "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/xml/",
             "searchable": 1
         },
         {
             "key": "caoliu2",
-            "name": "草榴资源2",
+            "name": "草榴2",
             "type": 1,
             "api": "https://www.caoliuzyw.com/api.php/provide/vod/at/json/",
             "searchable": 1
@@ -280,123 +184,11 @@
             "searchable": 1
         },
         {
-            "key": "ckzy",
-            "name": "韩国伦理",
-            "type": 1,
-            "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
-        {
-            "key": "精品资源",
-            "name": "精品资源",
-            "type": 1,
-            "api": "https://www.jingpinx.com/api.php/provide/vod/"
-        },
-        {
-            "key": "性爱",
-            "name": "性爱采集",
-            "type": 1,
-            "api": "https://api.sexnguon.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "抖阴视频",
-            "name": "抖阴视频",
-            "type": 1,
-            "api": "https://www.888dav.com/api.php/provide/vod/"
-        },
-        {
-            "key": "麻豆视频",
-            "name": "麻豆视频",
-            "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
-            "key": "奥斯卡",
-            "name": "奥斯卡资源",
-            "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/",
-            "searchable": 1
-        },
-        {
             "key": "php_MaDou",
             "name": "麻豆(T4)",
             "type": 4,
             "api": "https://json.doube.eu.org/app/index.php?site=dbmadou",
             "searchable": 1
-        },
-        {
-            "key": "玩偶",
-            "name": "玩偶姐姐",
-            "type": 3,
-            "api": "csp_Doll",
-            "style": {
-                "type": "rect",
-                "ratio": 1.309
-            }
-        },
-        {
-            "key": "Zuise",
-            "name": "最色",
-            "type": 3,
-            "api": "csp_Zuise"
-        },
-        {
-            "key": "MissAV",
-            "name": "MissAV",
-            "type": 3,
-            "api": "csp_Miss",
-            "style": {
-                "type": "rect",
-                "ratio": 1.78
-            }
-        },
-        {
-            "key": "Hanime",
-            "name": "Hanime",
-            "type": 3,
-            "api": "csp_Hanime",
-            "style": {
-                "type": "rect",
-                "ratio": 0.68
-            }
-        },
-        {
-            "key": "18AV",
-            "name": "18AV",
-            "type": 3,
-            "api": "csp_Eighteen",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
-        {
-            "key": "Jable",
-            "name": "Jable",
-            "type": 3,
-            "api": "csp_Jable",
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-        {
-            "key": "csp_JavBus",
-            "name": "JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "ext": "null$$$https://www.javbus.com$$$proxy"
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "ext": "null$$$https://www.javdb.com$$$proxy"
         },
         {
             "key": "XMVideo",
@@ -424,45 +216,15 @@
             "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/百万.json"
         },
         {
-            "key": "kissav",
-            "name": "kissav",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/kisd.json"
-        },
-        {
-            "key": "pronlulu",
-            "name": "pronlulu",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/pronlulu.json"
-        },
-        {
-            "key": "csp_xBPQ_香蕉",
-            "name": "香蕉超清",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\",\"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\":\"href=\\\"/cq/Kplay&&.html\\\"\",\"链接前缀\":\"https://avhh.vip/cq/Kplay\",\"链接后缀\":\".html\",\"直接播放\":\"1\"}",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar"
-        },
-        {
-            "key": "csp_pornhub",
-            "name": "Pornhub",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XYQ.jar",
-            "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6,
-                "proxy": "proxy"
-            }
+            "key": "ckzy",
+            "name": "韩国伦理",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+            "searchable": 1
         },
         {
             "key": "py_51吸瓜",
-            "name": "51吸瓜(T3)",
+            "name": "51吸瓜(py)",
             "type": 3,
             "api": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/51吸瓜.py"
         },
@@ -481,27 +243,6 @@
             "searchable": 1
         },
         {
-            "key": "xhm",
-            "name": "xhm",
-            "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Xhm.py",
-            "searchable": 1
-        },
-        {
-            "key": "py_Phb",
-            "name": "py_Phb",
-            "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_Phb.py",
-            "searchable": 1
-        },
-        {
-            "key": "色播",
-            "name": "色播",
-            "type": 3,
-            "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/js/dr_py/js/sebo.js",
-            "searchable": 1
-        },
-        {
             "key": "直播转点播",
             "name": "电视直播",
             "type": 3,
@@ -510,8 +251,146 @@
             "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/feimaolive.json"
         },
         {
+            "key": "精品资源",
+            "name": "精品资源(飞)",
+            "type": 1,
+            "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "森林1",
+            "name": "森林资源(飞)",
+            "type": 1,
+            "api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
+        {
+            "key": "森林2",
+            "name": "森林采集(飞)",
+            "type": 1,
+            "api": "https://slapibf.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "番号",
+            "name": "番号采集(飞)",
+            "type": 1,
+            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "鲨鱼",
+            "name": "鲨鱼采集(飞)",
+            "type": 1,
+            "api": "https://shayuapi.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "小湿妹",
+            "name": "湿妹采集(飞)",
+            "type": 0,
+            "api": "http://www.afasu.com/api/xml.php",
+            "searchable": 1
+        },
+        {
+            "key": "辣椒",
+            "name": "辣椒采集(飞)",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "naixiang",
+            "name": "奶香资源(飞)",
+            "type": 1,
+            "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
+        {
+            "key": "性爱",
+            "name": "性爱采集(飞)",
+            "type": 1,
+            "api": "https://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 1
+        },
+        {
+            "key": "麻豆视频",
+            "name": "麻豆视频(飞)",
+            "type": 1,
+            "api": "https://91md.me/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
+        {
+            "key": "玩偶",
+            "name": "玩偶姐姐(飞)",
+            "type": 3,
+            "api": "csp_Doll",
+            "style": {
+                "type": "rect",
+                "ratio": 1.309
+            }
+        },
+        {
+            "key": "18AV",
+            "name": "18AV(飞)",
+            "type": 3,
+            "api": "csp_Eighteen",
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+        {
+            "key": "Jable",
+            "name": "Jable(飞)",
+            "type": 3,
+            "api": "csp_Jable",
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "Hanime",
+            "name": "Hanime(飞)",
+            "type": 3,
+            "api": "csp_Hanime",
+            "style": {
+                "type": "rect",
+                "ratio": 0.68
+            }
+        },
+        {
+            "key": "kissav",
+            "name": "kissav(飞)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/kisd.json"
+        },
+        {
+            "key": "pronlulu",
+            "name": "pronlulu(飞)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XBPQ.jar",
+            "ext": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ/pronlulu.json"
+        },
+        {
+            "key": "csp_pornhub",
+            "name": "Pornhub(飞)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/XYQ.jar",
+            "ext": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/json/pornhub.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6,
+                "proxy": "proxy"
+            }
+        },
+        {
             "key": "csp_Netflav",
-            "name": "Netflav",
+            "name": "Netflav(飞)",
             "type": 3,
             "api": "csp_Netflav",
             "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
