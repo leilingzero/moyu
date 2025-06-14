@@ -702,12 +702,6 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/小苹果APP.py"
         },
         {
-            "key": "csp_py_小苹果2",
-            "name": "小苹果2(py)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_apple.py"
-        },
-        {
             "key": "csp_骚火",
             "name": "骚火(py)",
             "type": 3,
@@ -2096,8 +2090,14 @@
         {
             "key": "电影天堂",
             "name": "电影天堂(xml)",
-            "type": 0,
-            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/"
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list"
+        },
+        {
+            "key": "无限采集",
+            "name": "无限采集(xml)",
+            "type": 1,
+            "api": "https://api.wuxianzy.net/api.php/provide/vod/"
         },
         {
             "key": "旺旺短剧",
@@ -3012,6 +3012,11 @@
             "name": "xiyou",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
+        },
+        {
+            "name": "yiyifafa",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
         {
             "name": "smart",
