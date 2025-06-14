@@ -702,6 +702,12 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/小苹果APP.py"
         },
         {
+            "key": "csp_py_小苹果2",
+            "name": "小苹果2(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/py_apple.py"
+        },
+        {
             "key": "csp_骚火",
             "name": "骚火(py)",
             "type": 3,
@@ -784,6 +790,36 @@
             "name": "哇哇(py)",
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/哇哇APP.py"
+        },
+        {
+            "key": "csp_统一",
+            "name": "统一(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/统一影视.py"
+        },
+        {
+            "key": "csp_播剧网",
+            "name": "播剧网(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/播剧网.py"
+        },
+        {
+            "key": "csp_厂长",
+            "name": "厂长(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/厂长资源.py"
+        },
+        {
+            "key": "csp_茶杯狐",
+            "name": "茶杯狐(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/茶杯狐影视.py"
+        },
+        {
+            "key": "csp_py_bttwoo",
+            "name": "bttwoo(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/bttwoo.py"
         },
         {
             "key": "csp_py_悠悠",
