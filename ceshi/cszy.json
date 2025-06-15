@@ -1,11 +1,11 @@
 {
-    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
-//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0605.jpg;md5;677399a8a27a64506b814ed92ee7acbe",
+    "spider": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://ghproxy.cfd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://github.tbedu.top/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://gitproxy.click/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
+//  "spider": "https://slink.ltd/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/f0614.jpg;md5;44f446a8a641a4e0c34e9a9657f3b7e2",
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
@@ -312,14 +312,6 @@
             }
         },
         {
-            "key": "港迷",
-            "name": "港迷影视(SP)",
-            "type": 3,
-            "api": "csp_AppSK",
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
-        },
-        {
             "key": "csp_Tvyb",
             "name": "TVB云播(SP)",
             "type": 3,
@@ -331,14 +323,6 @@
             "name": "来看影视(SP)",
             "type": 3,
             "api": "csp_Lkdy",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/PandaQ250604.jpg;md5;d4723dd9544a35b67c09ae2c096cb24e"
-        },
-        {
-            "key": "csp_SaoHuo",
-            "name": "火火影视(SP)",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "ext": "https://shdy5.us",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/PandaQ250604.jpg;md5;d4723dd9544a35b67c09ae2c096cb24e"
         },
         {
@@ -402,13 +386,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/PandaQ250604.jpg;md5;d4723dd9544a35b67c09ae2c096cb24e"
         },
         {
-            "key": "csp_Siren",
-            "name": "诗人影视(SP)",
-            "type": 3,
-            "api": "csp_Siren",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/PandaQ250604.jpg;md5;d4723dd9544a35b67c09ae2c096cb24e"
-        },
-        {
             "key": "csp_AppXY",
             "name": "星芽短剧(SP)",
             "type": 3,
@@ -467,7 +444,7 @@
             "name": "咖啡(SP)",
             "type": 3,
             "api": "csp_AppGet2",
-            "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrnchbMLbbfPL19q8ovW5h2m+h6Vc2ZfvuHR8URxTWX9fgAm0kDDPtgJttitzPQi4xPbaH/BOVSMXdJGDbrzM3VAoJEcX+yxPdaXkrxvaZdq0lCjldlb9yAWC8ZiHssSH+9EKI//ESHDquz0m1V5Bhe/W7UmkE2CRveFiiN2uJABZy1DE1fmdV0B+V+gwiUMKelPBhYA29qkB/0/MY0gVsENky2zTdTFCl4qaFGUz8+G6j6ze5mYO4KfuQ9soedmY0yeXNzPeMZ6rquyAGtngEkw",
+            "ext": "N/01JeZBCBEQ0wOXNuAI/q97iGf3Y/QaLBH0kIoVdrmTkhIhx+6EMtUU6wfrlju+QX7XN4M9gXGJVIEMZgKYUCwM6KgbMpNxhhOH6nYmXoVYHv0cP5lhbLBYo7DCAkhAxkPrCjHFRgvXwPF5q5UdW7GGTBi7lkRvSimUHIl5hfbk1xA7FNs0GOoDzzqt9FLCO3PvhWaR6QVKFPLiVPct9x99q0yUl4JgaDFKPzQGL1BvGbCqIFyRrSAKGPiFlpiCuv2NjLFRQvx6umXk3/1A4EytR+ZHfPNuCguBgkOFqHg=",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
         },
         {
@@ -535,6 +512,30 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
         },
         {
+            "key": "海豚",
+            "name": "海豚(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "sHR2rlsfjI4L3t4RXQMknx77uAkBngyVCOo9nRhjtYEYVZhfCVy1trqBss1N9z/rDj66qnYWTA57CvnxJsOMbb1R0y0vBLYBpNMTyfbz36dsqgawYeyyXpTwdiQYs9rb4CFK1aW6bX+LcZiFVV4uzNbizESdy9tdeYkjDnNiCbfRD1K5N84R+TKB+U4Im7pOR8gnvFFwwx6KSDahektkXrxVKpbBw/neJaeyX3K+BkxPEzxo40Ecg3vBNUzl7RZs",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
+        },
+        {
+            "key": "晓晓",
+            "name": "晓晓(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "0YM2rlqPCLd5eMAslwMf/mBbJX8M/CJVJCQyX2zM7tGdJikFHnx0KfXl4Mi9ORXxU3BxW+JS6MfS0whs911q3EwpaHe1R3A52b2fgxNOgvG5WXvTuLPxtCV9bQCcdRk/XVIoWdYLfkopEVDcAB5LPdzjO7/5FuJbIsGxUWtLsNdGr0PMMzIxq80pHqFeiqAk1uiMRyrtr+YjnEpwFqNZxDCdrdw7WXIAnI0cXjOQOV5WmFUb/3kvXMnEetzMn9tC",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
+        },
+        {
+            "key": "云端",
+            "name": "云端(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE=",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749207154185/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
+        },
+        {
             "key": "光速",
             "name": "光速(SP)",
             "type": 3,
@@ -580,12 +581,6 @@
             "api": "csp_AppGet2",
             "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0606.jpg;md5;1e7f7177310a216ed9b2bf806b6debd1"
-        },
-        {
-            "key": "剧霸",
-            "name": "剧霸(py)",
-            "type": 3,
-            "api": "https://13826.kstore.space/jubaba.py"
         },
         {
             "key": "csp_xpath_tvyun",
@@ -663,6 +658,36 @@
             "filterable": 1,
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/Custom_XPath/gj5.json",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XYQ.jar;md5;09673f985fe32ec7b045eaaa4d99bc20"
+        },
+        {
+            "key": "追忆",
+            "name": "追忆(SP)",
+            "type": 3,
+            "api": "csp_Shark",
+            "ext": "7lj763gg402i794247239g9jk10kjl82l3g6845ki2i66j7906194lg6g8460h5k548i51l8824hjj902309g182l7kl0hk3l4776346lihki7kl3kj425kl3jk31j0kggkhj0g7l5632376984k395496k449626gh0k66l26k7j6h49j9331h9701k106i",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+        },
+        {
+            "key": "火猫",
+            "name": "火猫(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "ext": "7lj763gg0939790i413gi484k8058896highi4414h68l7g6hk8qiaojig9k2k289l9ik807i213k5j602",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+        },
+        {
+            "key": "聚搜",
+            "name": "聚搜(SP)",
+            "type": 3,
+            "api": "csp_qiao2",
+            "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662"
+        },
+        {
+            "key": "剧霸",
+            "name": "剧霸(py)",
+            "type": 3,
+            "api": "https://13826.kstore.space/jubaba.py"
         },
         {
             "key": "仓鼠",
@@ -888,6 +913,14 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/html/甜圈短剧.py"
         },
         {
+            "key": "港迷",
+            "name": "港迷影视(SP)",
+            "type": 3,
+            "api": "csp_AppSK",
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/jar_fty250223.jar;md5;9a4e27dc8671d07587f5cb752ea80fd3"
+        },
+        {
             "key": "每日港剧",
             "name": "每日港剧(xml)",
             "type": 1,
@@ -1023,6 +1056,13 @@
             "type": 3,
             "api": "csp_AppYsV2Guard",
             "ext": "http://111.173.115.215:9118/icciu_api.php/v1.vod"
+        },
+        {
+            "key": "csp_顾我",
+            "name": "顾我(V2)",
+            "type": 3,
+            "api": "csp_AppYsV2Guard",
+            "ext": "http://121.62.21.14:520/api.php/app/"
         },
         {
             "key": "csp_V2_HG影视",
