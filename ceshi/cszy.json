@@ -1505,6 +1505,20 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/official/爱.py"
         },
+        {  
+            "key": "彼岸(js)",
+            "name": "彼岸(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/AppGet.js?type=url&params=https://mfsp33.top$1234567887654321$1234567887654321"
+        },
+        {  
+            "key": "榴莲(js)",
+            "name": "榴莲(js)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
+            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/AppGet.js?type=url&params=https://appcms.ll4k.xyz$NiDGaKiVnkO3QX1Q$NiDGaKiVnkO3QX1Q"
+        },
         {
             "key": "追剧迷(js)",
             "name": "追剧迷(js)",
@@ -3029,6 +3043,11 @@
             "ua": "judy/5.2.1"
         },
         {
+            "name": "judy-gotv",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/judy-gotv/iptv/main/smart2025.txt"
+        },
+        {
             "name": "robyang",
             "type": 0,
             "url": "http://www1.RobYang.ggff.net/VodLive/lb8ffa"
@@ -3054,7 +3073,7 @@
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fuleishu/ceshi/main/xiyou12.txt"
         },
         {
-            "name": "yiyifafa",
+            "name": "易发",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
         },
@@ -3085,6 +3104,11 @@
             "url": "http://175.178.251.183:6689/live.m3u"
         },
         {
+            "name": "txtzztv",
+            "type": 0,
+            "url": "http://file.91kds.cn/tvlist/txtzztv2025060610/txtzztv/kds_all_ahyd_31ec52911453778c945aac17d6d85a53.txt"
+        },
+        {
             "name": "Guovin",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
@@ -3095,6 +3119,21 @@
             "name": "PizazzGY",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt"
+        },
+        {
+            "name": "mai761",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mai761/iptv-subscription/master/My.m3u"
+        },
+        {
+            "name": "gdyd",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mai761/iptv-subscription/master/gdyd.m3u"
+        },
+        {
+            "name": "MytvSuper",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/mai761/iptv-subscription/master/MytvSuper.m3u"
         },
         {
             "name": "diyp",
@@ -3118,7 +3157,7 @@
             "url": "https://livetv.gungfu2012.tk/"
         },
         {
-            "name": "MyTvSuper",
+            "name": "MyTvSuper2",
             "type": 0,
             "url": "https://json.doube.eu.org/Doubebly/MyTvSuper/"
         },
@@ -3175,6 +3214,16 @@
             "name": "a000",
             "type": 0,
             "url": "https://pan.baidu.re/down.php/a000e4282aff237d88e7dc2b7adf620f.txt"
+        },
+        {
+            "name": "iiptv",
+            "type": 0,
+            "url": "http://iiptv.xyz/tv/ZB"
+        },
+        {
+            "name": "nptv",
+            "type": 0,
+            "url": "https://nptv.freetv.top/juhe.m3u"
         },
         {
             "name": "nctv",
