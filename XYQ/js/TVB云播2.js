@@ -1,7 +1,7 @@
 var rule = {
     title: 'TVB云播',
     //模板:'mxpro',
-    host: 'http://www.tvyb09.com', //http://www.hktvyb.vip/发布页
+    host: 'http://www.tvyun10.com', //http://www.hktvyb.vip/发布页
     url: 'vod/show/id/fyfilter.html',
     filterable: 1, //是否启用分类筛选,
     filter_url: '{{fl.cateId}}{{fl.area}}{{fl.by}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
@@ -34,7 +34,7 @@ var rule = {
             cateId: '16'
         }
     },
-    searchUrl: '/vod/search/wd/**.html',//http://www.tvyb09.com/vod/search/wd/%E5%AD%A4%E8%88%9F%E4%B9%8B%E5%9F%8E1994.html
+    searchUrl: '/vod/search/wd/**.html',//http://www.tvyun10.com/vod/search/wd/%E5%AD%A4%E8%88%9F%E4%B9%8B%E5%9F%8E1994.html
     searchable: 2, //是否启用全局搜索,
     quickSearch: 0, //是否启用快速搜索,
     play_parse: true,
