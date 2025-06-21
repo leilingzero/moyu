@@ -488,14 +488,6 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
-            "key": "小红",
-            "name": "小红(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
             "key": "电影",
             "name": "电影(SP)",
             "type": 3,
@@ -510,22 +502,6 @@
             "api": "csp_AppGet",
             "ext": "sHR2rlsfjI4L3t4RXQMknx77uAkBngyVCOo9nRhjtYEYVZhfCVy1trqBss1N9z/rDj66qnYWTA57CvnxJsOMbb1R0y0vBLYBpNMTyfbz36dsqgawYeyyXpTwdiQYs9rb4CFK1aW6bX+LcZiFVV4uzNbizESdy9tdeYkjDnNiCbfRD1K5N84R+TKB+U4Im7pOR8gnvFFwwx6KSDahektkXrxVKpbBw/neJaeyX3K+BkxPEzxo40Ecg3vBNUzl7RZs",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "晓晓",
-            "name": "晓晓(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "0YM2rlqPCLd5eMAslwMf/mBbJX8M/CJVJCQyX2zM7tGdJikFHnx0KfXl4Mi9ORXxU3BxW+JS6MfS0whs911q3EwpaHe1R3A52b2fgxNOgvG5WXvTuLPxtCV9bQCcdRk/XVIoWdYLfkopEVDcAB5LPdzjO7/5FuJbIsGxUWtLsNdGr0PMMzIxq80pHqFeiqAk1uiMRyrtr+YjnEpwFqNZxDCdrdw7WXIAnI0cXjOQOV5WmFUb/3kvXMnEetzMn9tC",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "云端",
-            "name": "云端(SP)",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "sHR2rlsfjI4L3t4RXQMknxNA7c6hcC3VanmE12u0Xu3CTtFtxRELPpvYrBPoXSST9rM4/zqxtg1ZlYdAfbBcu8j2ixF3Zl35t0r1NRL4FKDRtJIzUE6I7MVJAA2Q7brwZK+MVlV3Ya12XCFMmiAzIuP0q31Q3cWJWeBlJ/HkevUD3YrCzVx/d7ctov8ddn/OUS1xjTCIpJ+asEfpCWB+DTxkjbl8kfze+MSaichpJzQDMK2bWUphsOPryk49lVX7Gnm5A77V9sipi2ia5fPcYACDcbL9VXi31e2BvqNcvmE=",
-            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749207154185/0606.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
             "key": "光速",
@@ -564,14 +540,6 @@
             "type": 3,
             "api": "csp_AppGet2",
             "ext": "sHR2rlsfjI4L3t4RXQMkn85YdqME5ZFXdHXyEUNrexXmXuKOZHlPhQJvT6ZKEMODJQuGTLg+gpKS+XoOxUH8DdjcutGqV/lfrY9l/Ww/J/LYA0AH34KTXsOeg1p5p+KSYaG5at+IT/dqPugeQjLLpkECHqWJpIs4B2evdM7dDIOBuPmMrT5lbU1yNZHMNkr8tConVxhS1qlq57WIByuNTQ==",
-            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
-        },
-        {
-            "key": "csp_水滴",
-            "name": "水滴(SP)",
-            "type": 3,
-            "api": "csp_AppGet2",
-            "ext": "sHR2rlsfjI4L3t4RXQMkn9964m8oyAP5Q1pq67Vyh7V8ESTgG/jVLrcHt3eKCMbyNGbDyZFu9n7Zd6zMxZJXTkhGtT9DNgJA5YOi9roHwbrmlgGw3de3X42kvYAYCcSnIqa9zR24cDQyq4GwTX7H3QnCkd4xZNrHiLxgPc6nD8L96MLxkLnsYlMQbDTPCOQW",
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
@@ -1163,6 +1131,18 @@
             "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
         },
         {
+            "key": "西瓜",
+            "name": "西瓜(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "手机",
+                "分类url": "https://www.df211.com/vod-list-id-{cateId}-year-{year}-area-{area}-pg-{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$25"
+            },
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/XBPQ240905.jar;md5;84a917ee083f9159823f80c51c81f71e"
+        },
+        {
             "key": "奈飞中文",
             "name": "奈飞中文(XBPQ)",
             "type": 3,
@@ -1525,13 +1505,6 @@
             "type": 3,
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
             "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/AppGet.js?type=url&params=https://get.xiaoqi0.cn$jukayingshi66666$jukayingshi66666"
-        },
-        {
-            "key": "TVB云播(js)",
-            "name": "TVB云播(js)",
-            "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/lib3/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/XYQ/js/TVB云播2.js"
         },
         {
             "key": "追剧迷(js)",
@@ -2166,6 +2139,12 @@
             "name": "无限采集(xml)",
             "type": 1,
             "api": "https://api.wuxianzy.net/api.php/provide/vod/"
+        },
+        {
+            "key": "天涯采集",
+            "name": "天涯采集(xml)",
+            "type": 1,
+            "api": "http://tyyszy.com/api.php/provide/vod/"
         },
         {
             "key": "旺旺短剧",
@@ -3090,6 +3069,16 @@
             "name": "易发",
             "type": 0,
             "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/fafa002/yf2025/main/yiyifafa.txt"
+        },
+        {
+            "name": "xiaotan8",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/mytvsuper.m3u"
+        },
+        {
+            "name": "xiaotan8_gd",
+            "type": 0,
+            "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/xiaotan8/xiaotan8.github.io/main/gdiptv.m3u"
         },
         {
             "name": "smart",
