@@ -162,6 +162,20 @@
             "searchable": 1
         },
         {
+            "key": "av资源",
+            "name": "av资源",
+            "type": 1,
+            "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
+            "searchable": 1
+        },
+        {
+            "key": "大奶子资源",
+            "name": "大奶子资源",
+            "type": 1,
+            "api": "https://apidanaizi.com/api.php/provide/vod",
+            "searchable": 1
+        },
+        {
             "key": "php_MaDou",
             "name": "麻豆(T4)",
             "type": 4,
