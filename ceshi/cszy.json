@@ -707,6 +707,24 @@
             "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/JJBJJ_PyramidStore/main/plugin/app/热播APP.py"
         },
         {
+            "key": "csp_py_天天",
+            "name": "天天APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/天天APP.py"
+        },
+        {
+            "key": "csp_py_浪酷",
+            "name": "浪酷APP(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/浪酷APP.py"
+        },
+        {
+            "key": "csp_py_桃子",
+            "name": "桃子(py)",
+            "type": 3,
+            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/py/桃子.py"
+        },
+        {
             "key": "csp_边缘",
             "name": "边缘(py)",
             "type": 3,
