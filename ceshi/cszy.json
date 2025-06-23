@@ -488,6 +488,14 @@
             "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
         },
         {
+            "key": "开心",
+            "name": "开心(SP)",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "sHR2rlsfjI4L3t4RXQMknwLb+pplEIC+wdpO7p1FXlVxu/4/lgFTBTqK2PELmPAwfVSnMzsviWAL5eVFeiQ0JSGBExirA/KcXHk4dMKuYsempv7Rf+ybRNg2nVTlfYeOPdPjSLhUQ+6w4z9Rc/oR3krCOo37zalPV36PNBD9rWDQVeaVRQTovbLpuTLS0Aspeatl+bvo/hCXG6m7QW/yww==",
+            "jar": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/moyu/master/ganggang/0618.jpg;md5;9b8e295927dccaf6f96cd9008174fe11"
+        },
+        {
             "key": "电影",
             "name": "电影(SP)",
             "type": 3,
